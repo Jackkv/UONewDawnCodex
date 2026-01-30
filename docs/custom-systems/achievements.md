@@ -41,6 +41,7 @@ Access the achievement system:
 ## Achievement Categories
 
 ### Discovery Achievements
+
 Explore Britannia and discover its secrets:
 
 - Visit all towns
@@ -50,6 +51,7 @@ Explore Britannia and discover its secrets:
 - Discover all moongate locations
 
 ### Hunting Achievements
+
 Defeat monsters and bosses:
 
 - Kill specific creature types
@@ -59,6 +61,7 @@ Defeat monsters and bosses:
 - Kill rare creatures
 
 ### Crafting Achievements
+
 Master the artisan trades:
 
 - Craft specific numbers of items
@@ -68,6 +71,7 @@ Master the artisan trades:
 - Create legendary items
 
 ### PvP Achievements
+
 Prove yourself in combat:
 
 - Player kills milestones
@@ -77,6 +81,7 @@ Prove yourself in combat:
 - Bounty hunting
 
 ### Skill Achievements
+
 Develop your character:
 
 - Reach GM in specific skills
@@ -85,6 +90,7 @@ Develop your character:
 - Complete skill-specific challenges
 
 ### System Achievements
+
 Engage with New Dawn's custom systems:
 
 - Complete Codex Rifts
@@ -94,6 +100,7 @@ Engage with New Dawn's custom systems:
 - Spirit Summoner achievements
 
 ### Event Achievements
+
 Participate in seasonal and special events:
 
 - Holiday event participation

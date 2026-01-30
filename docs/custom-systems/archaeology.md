@@ -167,7 +167,9 @@ Each clue will direct you to a specific location. Some areas may have better art
 - **80+ Item Identification:** Required for Stage 3 (bonus to artifact quality)
 
 ### Optimal Build
+
 An ideal archaeologist has:
+
 - **100 Mining** - Maximum excavation success
 - **100 Cartography** - Best map deciphering and artifact bonus
 - **100 Item Identification** - Best artifact quality chance

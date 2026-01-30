@@ -83,12 +83,12 @@ You begin with **80 stat points** to distribute:
 **Common Starting Distributions:**
 
 | Build Type | STR | DEX | INT |
-|------------|-----|-----|-----|
-| Warrior | 50 | 20 | 10 |
-| Archer | 45 | 25 | 10 |
-| Mage | 10 | 10 | 60 |
-| Tamer | 10 | 10 | 60 |
-| Crafter | 50 | 20 | 10 |
+| ---------- | --- | --- | --- |
+| Warrior    | 50  | 20  | 10  |
+| Archer     | 45  | 25  | 10  |
+| Mage       | 10  | 10  | 60  |
+| Tamer      | 10  | 10  | 60  |
+| Crafter    | 50  | 20  | 10  |
 
 ### Stat Caps
 
@@ -96,7 +96,7 @@ You begin with **80 stat points** to distribute:
 **Total Stat Cap:** 225
 
 !!! info "Stat Growth"
-    As you play, your stats will naturally increase toward the 225 cap. You can influence which stats grow by "locking" stats.
+As you play, your stats will naturally increase toward the 225 cap. You can influence which stats grow by "locking" stats.
 
 ## Stat Locks
 
@@ -107,6 +107,7 @@ Control which stats can increase or decrease:
 - **Lock (→)** - Stat is frozen
 
 **Strategy:**
+
 1. Set your primary stats to "up"
 2. Set unwanted stats to "down"
 3. Lock when you reach desired values
@@ -128,11 +129,7 @@ Stats gain through skill usage:
 - Approaching cap = very slow gains
 - Random chance on successful actions
 
-!!! tip "Efficient Stat Training"
-    - Focus on 2 stats initially
-    - Lock stats at desired levels
-    - Use stat-gaining skills actively
-    - Be patient near stat cap
+!!! tip "Efficient Stat Training" - Focus on 2 stats initially - Lock stats at desired levels - Use stat-gaining skills actively - Be patient near stat cap
 
 ## Secondary Stats
 
@@ -281,7 +278,7 @@ Equipment can provide:
 - Maximum: Varies by item/server
 
 !!! warning "Stat Requirements"
-    If you don't meet stat requirements, you can't use the item effectively or at all.
+If you don't meet stat requirements, you can't use the item effectively or at all.
 
 ## Advanced Stat Management
 
@@ -315,13 +312,7 @@ Equipment can provide:
 
 ## Stat Planning Tips
 
-!!! success "Best Practices"
-    1. **Know your build** - Plan stat distribution early
-    2. **Lock strategically** - Use stat locks wisely
-    3. **Balance survivability** - Don't neglect HP
-    4. **Consider equipment** - Factor in stat bonuses
-    5. **Leave room to grow** - Don't max all stats immediately
-    6. **Test and adjust** - Rebalance as needed
+!!! success "Best Practices" 1. **Know your build** - Plan stat distribution early 2. **Lock strategically** - Use stat locks wisely 3. **Balance survivability** - Don't neglect HP 4. **Consider equipment** - Factor in stat bonuses 5. **Leave room to grow** - Don't max all stats immediately 6. **Test and adjust** - Rebalance as needed
 
 ## Common Mistakes
 

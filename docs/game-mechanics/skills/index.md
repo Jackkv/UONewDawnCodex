@@ -159,7 +159,6 @@ Gains are slow:
 - Champion spawns
 - Difficult monsters
 - Master crafting
-- Power scrolls (if available)
 
 ## Skill Management
 
@@ -181,17 +180,6 @@ Some servers offer items to:
 - Transfer between characters
 
 Check with staff about availability!
-
-## Power Scrolls
-
-Power scrolls (if enabled) can raise skill caps:
-
-- 105 skill cap
-- 110 skill cap
-- 115 skill cap
-- 120 skill cap
-
-These are typically rare rewards from challenging content.
 
 ## Skill Effects Summary
 

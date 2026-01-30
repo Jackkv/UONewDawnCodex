@@ -1,5 +1,8 @@
 # Conquest of the Virtues
 
+!!! tip
+This system is currently not available in-game.
+
 Engage in guild-based territorial warfare across four ruined locations in Britannia. The Conquest of the Virtues system allows guilds to claim and control strategic points, establishing dominance and earning benefits through coordinated warfare.
 
 ## Overview
@@ -11,6 +14,7 @@ The Conquest of the Virtues is a guild-focused PvP system that rewards coordinat
 ## The Four Ruins
 
 ### Ruins of Britain
+
 **Location:** East of Britain
 
 Once the shining capital of Britannia, Britain fell during the Codex War. Its ruins now serve as a strategic location for guilds seeking to establish dominance in the heartland.
@@ -23,6 +27,7 @@ Once the shining capital of Britannia, Britain fell during the Codex War. Its ru
 - Strategic chokepoints
 
 ### Ruins of Trinsic
+
 **Location:** Northwest of Trinsic
 
 The proud city of honor was not spared from the Codex War's devastation. Its ruined streets and shattered walls now host guild conflicts.
@@ -34,6 +39,7 @@ The proud city of honor was not spared from the Codex War's devastation. Its rui
 - Multiple levels for tactical advantage
 
 ### Ruins of the Shadowlords
+
 **Location:** West of Yew
 
 A dark and foreboding location where the Shadowlords once held power. These ruins carry an ominous atmosphere and challenging terrain.
@@ -45,6 +51,7 @@ A dark and foreboding location where the Shadowlords once held power. These ruin
 - Environmental hazards
 
 ### Ruins of Moonglow
+
 **Location:** Original Moonglow island location
 
 Where the magical city of Moonglow once stood, only ruins remain. The lingering magical energy makes this a coveted location.

@@ -4,7 +4,10 @@ Comprehensive guide to items, equipment, and gear in New Dawn.
 
 ## Overview
 
-Items and equipment are essential for survival and success in Britannia. Understanding equipment types, properties, and uses will help you optimize your character.
+Items and equipment are essential for survival and success in Britannia. New Dawn uses a traditional Pre-Age of Shadows item system, focusing on straightforward equipment properties without modern complexities.
+
+!!! info "Traditional Item System"
+    Equipment in New Dawn features classic Pre-AoS mechanics with traditional damage, armor rating, and durability. Items don't have modern properties like elemental resistances, skill bonuses, or luck.
 
 ## Equipment Categories
 
@@ -37,6 +40,7 @@ Unique and magical items:
 ### Regular Items
 
 Standard quality equipment:
+
 - Basic stats
 - Common drops
 - Affordable
@@ -44,6 +48,7 @@ Standard quality equipment:
 ### Exceptional Items
 
 Higher quality crafted goods:
+
 - Better stats
 - Crafted by skilled artisans
 - More expensive
@@ -51,26 +56,31 @@ Higher quality crafted goods:
 ### Magic Items
 
 Items with special properties:
+
 - Magical bonuses
 - Various effects
 - Found as loot or crafted
 
 ## Item Properties
 
-Common magical properties:
+Traditional magical properties found in New Dawn:
 
-- **+Stat Bonus:** Increase STR/DEX/INT
-- **+Skill Bonus:** Boost specific skills
-- **Regeneration:** HP/Mana/Stamina regen
-- **Resistances:** Elemental protections
-- **Slayer:** Bonus vs. creature types
-- **Luck:** Better loot drops
+- **Enhanced Damage:** Increased weapon damage
+- **Increased AR:** Better armor protection
+- **Durability:** Longer lasting equipment
+- **Material Quality:** Higher tier materials provide better performance
+- **Craftsmanship:** Exceptional quality items have superior stats
+- **Slayer Weapons:** Bonus damage vs. specific creature types (demons, undead, etc.)
+
+!!! note "Simple & Effective"
+    The Pre-AoS system keeps items straightforward - focus on damage, protection, and material quality rather than juggling multiple stat bonuses.
 
 ## Storage & Organization
 
 ### Backpack
 
 Your main inventory:
+
 - Limited capacity
 - Organize with bags
 - Keep essentials accessible
@@ -78,6 +88,7 @@ Your main inventory:
 ### Bank
 
 Secure storage:
+
 - Safe from death
 - Accessible in any bank
 - Organize carefully
@@ -85,6 +96,7 @@ Secure storage:
 ### House Storage
 
 For property owners:
+
 - Containers and chests
 - Secure storage
 - Display items
@@ -94,6 +106,7 @@ For property owners:
 ### Selling Items
 
 Options for selling:
+
 - Player vendors (need house)
 - Direct player trades
 - NPC vendors (lower prices)
@@ -101,6 +114,7 @@ Options for selling:
 ### Buying Items
 
 Where to shop:
+
 - Player vendors (best selection)
 - NPC shops (basics)
 - Other players (negotiate)

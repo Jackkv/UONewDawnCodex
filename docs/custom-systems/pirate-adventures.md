@@ -5,6 +5,7 @@ Venture into dangerous pirate-controlled waters through special treasure maps th
 ## How to Start
 
 ### Obtaining Pirate Maps
+
 Pirate maps are special treasure maps that randomly drop from monsters throughout Britannia:
 
 - Drop similar to regular treasure maps
@@ -13,6 +14,7 @@ Pirate maps are special treasure maps that randomly drop from monsters throughou
 - Can be traded or sold to other players
 
 ### Activating a Map
+
 To begin a pirate adventure:
 
 1. Double-click the pirate map in your inventory
@@ -55,6 +57,7 @@ Pirate maps come in different tiers, each with increasing difficulty and better 
 ## The Pirate Instance
 
 ### Environment
+
 Once inside a pirate instance:
 
 - You're transported to a pirate haven or ship
@@ -95,6 +98,7 @@ Once inside a pirate instance:
 ### Boss Encounters
 
 #### Ancient Drowner (Blue Maps)
+
 The Ancient Drowner is a powerful undead pirate captain:
 
 - Significantly buffed stats and skills
@@ -104,6 +108,7 @@ The Ancient Drowner is a powerful undead pirate captain:
 - Drops valuable loot and pirate currency
 
 #### Captain Grimjaw (Purple Maps)
+
 The most feared pirate boss:
 
 - Massive hit point pool
@@ -115,6 +120,7 @@ The most feared pirate boss:
 ## Instance Mechanics
 
 ### Healers and Vendors
+
 After entering the instance, friendly NPCs appear:
 
 - Healers to resurrect fallen players
@@ -123,6 +129,7 @@ After entering the instance, friendly NPCs appear:
 - Disappear when instance resets
 
 ### Ship Cannons
+
 Some pirate instances feature ship combat:
 
 - Cannons deal significant damage
@@ -138,6 +145,7 @@ Some pirate instances feature ship combat:
 - **Failure conditions:** None - take your time
 
 ### Pirate Instance Clock
+
 A special clock item displays:
 
 - Remaining enemies in the instance
@@ -148,6 +156,7 @@ A special clock item displays:
 ## Rewards
 
 ### Pirate Currency
+
 Complete pirate instances to earn pirate-specific currency:
 
 - Amount scales with map tier
@@ -156,6 +165,7 @@ Complete pirate instances to earn pirate-specific currency:
 - Saved across all characters on your account
 
 ### Loot
+
 Pirates and bosses drop valuable items:
 
 - Weapons and armor
@@ -165,6 +175,7 @@ Pirates and bosses drop valuable items:
 - Rare decorative items
 
 ### Unique Items
+
 Special items only found in pirate instances:
 
 - Shipwrecked goods (decorative)
@@ -175,6 +186,7 @@ Special items only found in pirate instances:
 ## The Smuggler's Market
 
 ### What is it?
+
 Shady merchants have set up trading posts throughout the world, selling resources and supplies at premium prices. These "seafaring entrepreneurs" only conduct business at night.
 
 **Features:**

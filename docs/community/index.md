@@ -2,6 +2,9 @@
 
 Connect with fellow players and contribute to the New Dawn community.
 
+!!! info "Where to Find the Community"
+    The New Dawn community is primarily found on **Discord**, where players gather for discussion, trading, support, and events. In-game, most players congregate in **Ocllo**, the most popular starting town and social hub.
+
 ## Join Our Community
 
 ### Discord Server
@@ -20,18 +23,21 @@ Our primary communication hub:
 
 ### In-Game Community
 
+**Social Hub:**
+
+- **Ocllo** - The main gathering spot for the community
+- Most players start here and stay active in the area
+- Great place to meet other players, trade, and find groups
+
 **Chat Channels:**
 
-- General chat (global)
+- General chat (global communication)
 - Help channel (assistance)
-- Trade channel (commerce)
+- Trade channel (buying/selling)
 - Guild channels (guild members)
 
-**Social Hubs:**
-
-- Britain bank (most popular)
-- Town banks (regional hubs)
-- Guild houses (member gathering)
+!!! tip "Finding Players"
+    Head to Ocllo to find the most active player community in-game. It's the best place to socialize, trade, and find adventure groups.
 
 ## Contributing
 
@@ -74,6 +80,7 @@ Help make the Codex better!
 ### Guides & Tutorials
 
 Check the Codex for:
+
 - [Getting Started](../getting-started/index.md)
 - [Skills Guide](../game-mechanics/skills/index.md)
 - [World Exploration](../world/index.md)
@@ -84,6 +91,7 @@ Check the Codex for:
 ### Server Events
 
 Regular events may include:
+
 - PvP tournaments
 - Treasure hunts
 - Boss spawns
@@ -93,6 +101,7 @@ Regular events may include:
 ### Player-Run Events
 
 Community organized:
+
 - Guild wars
 - Trading fairs
 - Skill competitions
@@ -125,9 +134,9 @@ Community organized:
 
 ### Finding a Guild
 
-- Check Discord recruitment
-- Ask at Britain bank
-- Watch for guild ads
+- Check Discord recruitment channels
+- Ask players in Ocllo
+- Watch for guild ads in chat
 - Attend social events
 
 ### Starting a Guild
@@ -143,6 +152,7 @@ Community organized:
 ### Bug Reports
 
 If you find bugs:
+
 1. Note exact steps to reproduce
 2. Take screenshots if possible
 3. Report to staff
@@ -151,6 +161,7 @@ If you find bugs:
 ### Player Reports
 
 For player issues:
+
 - Contact staff privately
 - Provide evidence
 - Be factual and calm
@@ -161,6 +172,7 @@ For player issues:
 ### Patch Notes
 
 Check for updates:
+
 - Discord announcements
 - Server website
 - In-game messages
@@ -169,6 +181,7 @@ Check for updates:
 ### Server Status
 
 Monitor server:
+
 - Discord status channel
 - Website status page
 - Ask in Discord

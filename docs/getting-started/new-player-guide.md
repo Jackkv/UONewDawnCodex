@@ -2,52 +2,51 @@
 
 Welcome to New Dawn! This guide will walk you through everything you need to know as a new player.
 
-## Installation & Setup
+## How to Start Playing New Dawn
 
-### Step 1: Download the Client
+### Step 1: Create Your Account
 
-You'll need an Ultima Online client to play. We recommend using:
+1. Go to [https://portal.uonewdawn.com/](https://portal.uonewdawn.com/) and log in with your Discord account to create a new New Dawn account
+2. Review the [Getting Started guide](https://portal.uonewdawn.com/getting-started) on the portal
+3. Review the server rules to learn what New Dawn is all about
 
-- **ClassicUO** - Modern, open-source client (Recommended)
-- **Razor** with original UO client - Classic experience
+### Step 2: Download The Launcher
 
-!!! info "Client Version"
-    New Dawn uses the T2A (The Second Age) era client. Make sure you have the correct version.
+1. Download & install the launcher from [https://portal.uonewdawn.com/getting-started](https://portal.uonewdawn.com/getting-started)
+2. Let the launcher download game files (approximately 1.5GB)
 
-### Step 2: Configure Connection
+!!! info "Download Time"
+    The initial download is about 1.5GB and may take some time depending on your connection speed.
 
-Configure your client to connect to New Dawn:
+### Step 3: Authenticate Your Launcher
 
-- **Server Address:** `play.uonewdawn.com`
-- **Port:** `2593` (default)
+1. Click "Enter Britannia"
+2. Log in with your Discord account if you haven't already
+3. Click "Authenticate New Dawn Launcher"
 
-### Step 3: Create Your Account
+### Step 4: Enter the Game
 
-You can create an account:
-
-1. In-game during first connection
-2. Through our website (if available)
-
-Choose a secure username and password!
+1. Click "Enter Britannia" again
+2. Select one of your three accounts & create/select a character
+3. Welcome to New Dawn!
 
 ## Your First Steps in Britannia
 
 ### Starting Location
 
-New characters begin in one of several starting locations:
+You can choose to start in any major town in Britannia. Each town offers unique opportunities:
 
-- **Britain** - The capital city, great for new players
-- **Moonglow** - Magic-focused starting area
-- **Trinsic** - Honor and paladins
-- **Other locations** - Each offers unique opportunities
+- **Ocllo** - The most common starting location and recommended for new players
+- **Britain** - The ruins of its former self, the castle walls now the town walls
+- **Other towns** - Each has its own character and resources
 
 ### Essential Commands
 
-Learn these basic commands:
+Learn these important commands:
 
-- `/stuck` - Use if you get trapped
-- `/help` - Access help menu
-- `/who` - See who's online
+- `[ach` - View and track your achievements
+- `[profile` - Access your character profile
+- `[emote` - Use emotes to express yourself
 
 ### Banking
 
@@ -89,7 +88,7 @@ As a new player, here are ways to earn gold:
 
 - **Hunt animals** - Sell hides and meat
 - **Collect resources** - Mining, lumberjacking
-- **Complete quests** - NPCs may offer tasks
+- **Kill monsters** - Collect gold, sell off items to NPC vendors
 
 ### Mid Game
 
@@ -101,16 +100,16 @@ As a new player, here are ways to earn gold:
 
 ### Finding Groups
 
-- Use global chat to find hunting partners
+- Use Discord to find hunting partners
 - Join a guild for community support
-- Visit popular gathering spots (Britain bank)
+- Visit popular gathering spots (Ocllo bank)
 
 ### Player Housing
 
 Once you've earned enough gold, you can:
 
-- Purchase a house plot
-- Customize your home
+- Purchase a house placement tool
+- Customize the interior of your house
 - Set up vendors to sell goods
 
 ## Tips for Success
@@ -120,11 +119,10 @@ Once you've earned enough gold, you can:
     - **Join a guild** - Experienced players can help you
     - **Start small** - Don't fight challenging monsters too early
     - **Use Discord** - Our community is helpful and active
-    - **Learn macros** - Make repetitive tasks easier
+    - **Learn scripts & macros** - Make repetitive tasks easier
 
 ## Common Mistakes to Avoid
 
-- Attacking monsters that are too strong
 - Not banking valuable items
 - Spending all your gold immediately
 - Going AFK in dangerous areas

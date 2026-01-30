@@ -11,6 +11,7 @@ Many adventurers have tempted fate and entered a rift gate, hoping to change the
 ## How Rift Gates Spawn
 
 ### Rift Spawns
+
 Throughout Britannia, creatures can randomly spawn as **Rift Spawns** - twisted versions of normal creatures empowered by temporal magic. These creatures are visually distinct and more dangerous than their normal counterparts.
 
 - Rift spawns can appear anywhere in the world
@@ -18,6 +19,7 @@ Throughout Britannia, creatures can randomly spawn as **Rift Spawns** - twisted 
 - They retain the characteristics of their base creature type but are significantly stronger
 
 ### Gate Formation
+
 When a rift spawn is killed, there's a chance it will create a rift gate:
 
 - **Gate spawn chance:** 1% to 50% based on the creature's fame level
@@ -32,6 +34,7 @@ When a rift spawn is killed, there's a chance it will create a rift gate:
 ## The Rift Instance
 
 ### Environment
+
 Once you enter a rift gate, you're transported to an instanced version of Britannia during the Codex War:
 
 - **Duration:** 60 minutes per instance
@@ -40,6 +43,7 @@ Once you enter a rift gate, you're transported to an instanced version of Britan
 - **Exit:** You can leave at any time, but cannot re-enter the same instance
 
 ### Rift Champions
+
 Inside the rift, you'll encounter powerful champions fighting in the war:
 
 - **8 unique rift champions** exist, but only **3 are active** at any given time
@@ -48,6 +52,7 @@ Inside the rift, you'll encounter powerful champions fighting in the war:
 - Defeating a champion yields significant rewards
 
 ### Rift Masters
+
 After defeating a rift champion, a **Rift Master** may appear:
 
 - Extremely powerful enemies that require coordination to defeat
@@ -58,6 +63,7 @@ After defeating a rift champion, a **Rift Master** may appear:
 ## Rewards
 
 ### Rift Shards and Codex Shards
+
 The primary currency earned from Codex Rifts:
 
 - **Rift Shards:** Awarded when killing rift masters (1-5 based on damage contribution)
@@ -65,6 +71,7 @@ The primary currency earned from Codex Rifts:
 - Both currencies can be spent at reward vendors in Dawn (Event Center)
 
 ### Monster Statues
+
 Rift masters have a chance to drop rare monster statues with unique "rift" hues:
 
 - Decorative statues of various creatures

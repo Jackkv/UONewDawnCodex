@@ -2,6 +2,9 @@
 
 Protect yourself with various armor types in New Dawn.
 
+!!! info "Pre-Age of Shadows System"
+    New Dawn uses a traditional Pre-AoS armor system. Armor provides straightforward physical protection (AR) without modern properties like elemental resistances, skill bonuses, or luck. Focus on armor rating, weight, and whether it allows meditation.
+
 ## Armor Types
 
 ### Plate Armor
@@ -141,28 +144,40 @@ Affects movement and stamina:
 
 ### Leather Types
 
-- **Regular:** Standard protection
-- **Spined:** Physical resist
-- **Horned:** Fire resist
-- **Barbed:** Poison resist
+Higher quality leather provides better durability and AR:
+
+- **Regular Leather:** Standard protection
+- **Spined Leather:** Enhanced durability and AR
+- **Horned Leather:** Superior quality
+- **Barbed Leather:** Exceptional quality
 
 ### Metal Types
 
-Same as weapons:
+Higher tier metals increase durability and AR:
 
-- Iron through Valorite
-- Each provides different bonuses
+- **Iron:** Standard material
+- **Dull Copper:** Enhanced durability
+- **Shadow Iron:** Improved protection
+- **Copper:** Better quality
+- **Bronze:** Enhanced properties
+- **Gold:** Increased AR
+- **Agapite:** Superior quality
+- **Verite:** Exceptional quality
+- **Valorite:** Legendary quality
 
-## Magical Armor
+!!! note "Traditional Crafting"
+    Blacksmiths and tailors can craft armor from these materials, with higher tier materials producing more durable and protective armor.
 
-Properties commonly found:
+## Magic Armor
 
-- **+AR:** Additional protection
-- **+Resistances:** Elemental protection
-- **+Stats:** STR/DEX/INT bonuses
-- **+Skills:** Skill bonuses
-- **Luck:** Better loot
-- **Mage Armor:** Meditation in metal
+Traditional magic armor provides:
+
+- **Increased AR:** Better physical protection beyond normal values
+- **Enhanced Durability:** Lasts longer than normal armor
+- **Quality Bonuses:** Better craftsmanship provides superior protection
+
+!!! tip "Magic Armor"
+    Magic armor is rare and valuable. Look for items with exceptional quality or enhanced AR values.
 
 ## Shields
 
@@ -182,17 +197,17 @@ Additional defense:
 
 Consider:
 
-1. **Your Build:** Mage vs. Warrior
-2. **Meditation:** Need mana regen?
-3. **Protection:** How much do you need?
+1. **Your Build:** Mage needs meditation, warrior needs maximum AR
+2. **Meditation:** Metal armor prevents mana regeneration
+3. **Protection vs. Mobility:** Heavy armor slows you down
 4. **Budget:** What can you afford?
-5. **Resistances:** What damage type?
+5. **Material Quality:** Higher tier materials provide better protection
 
 !!! tip "Armor Tips"
-    - Mages: Stick to leather/studded
-    - Warriors: Plate for maximum defense
-    - Archers: Studded for balance
-    - Mix materials for resistance coverage
+    - **Mages:** Stick to leather/studded to allow meditation
+    - **Warriors:** Plate for maximum physical defense
+    - **Archers:** Studded for balance between protection and mobility
+    - **Dexterity builds:** Lighter armor to avoid DEX penalties
 
 ---
 

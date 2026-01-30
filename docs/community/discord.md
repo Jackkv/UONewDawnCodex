@@ -10,6 +10,38 @@ Our Discord server is the heart of the community:
 
 ## Discord Channels
 
+### Information Channels
+
+**#welcome:**
+
+- Welcome message for new members
+- Server introduction
+- Getting started information
+
+**#getting-started:**
+
+- New player resources
+- Setup guides
+- First steps
+
+**#announcements:**
+
+- Server updates
+- Important news
+- Official announcements
+
+**#patch-notes:**
+
+- Game updates
+- Bug fixes
+- New features
+
+**#rules:**
+
+- Server rules
+- Community guidelines
+- Code of conduct
+
 ### General Channels
 
 **#general:**
@@ -18,57 +50,39 @@ Our Discord server is the heart of the community:
 - Casual chat
 - Community interaction
 
-**#announcements:**
-
-- Server updates
-- Important news
-- Event notifications
-
-**#help:**
+**#support:**
 
 - Ask questions
 - Get assistance
-- New player support
+- Technical help
 
-### Game Channels
+### Trading Channels
 
-**#in-game-chat:**
+**#buy:**
 
-- Connected to game chat
-- Real-time communication
-- Stay connected while offline
+- Post what you want to buy
+- Request items
+- Find sellers
 
-**#trading:**
+**#sell:**
 
-- Buy and sell items
-- Price checks
-- Trade negotiations
+- Post what you're selling
+- List your items
+- Find buyers
 
-**#guild-recruitment:**
+### Feedback & Discussion
 
-- Find guilds
-- Recruit members
-- Guild advertisements
+**#discussion:**
 
-### Community Channels
+- Game discussions
+- Feature suggestions
+- Community feedback
 
-**#events:**
+**#bug-reports:**
 
-- Server events
-- Player-organized events
-- Event coordination
-
-**#screenshots:**
-
-- Share your adventures
-- Show off achievements
-- Cool moments
-
-**#suggestions:**
-
-- Server suggestions
-- Feature requests
-- Constructive feedback
+- Report bugs
+- Track known issues
+- Help improve the game
 
 ## Discord Rules
 
@@ -87,24 +101,11 @@ Our Discord server is the heart of the community:
 - Complete trades fairly
 - Report scammers to staff
 
-## Discord Bots
-
-### Useful Commands
-
-Check available bot commands:
-- Server information
-- Player lookups
-- Item databases
-- Event reminders
-
 ## Voice Channels
 
 ### Available Rooms
 
 - General voice chat
-- Guild channels
-- Event coordination
-- Private rooms
 
 ### Voice Etiquette
 
@@ -132,6 +133,7 @@ Check available bot commands:
 ## Community Events
 
 Discord hosts:
+
 - Voice events
 - Giveaways
 - Contests
@@ -140,6 +142,7 @@ Discord hosts:
 ## Mobile Access
 
 Discord is available on:
+
 - iOS (App Store)
 - Android (Play Store)
 - Web browser

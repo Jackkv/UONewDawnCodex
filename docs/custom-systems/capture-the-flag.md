@@ -9,6 +9,7 @@ Capture the Flag (CTF) brings structured, team-based PvP to New Dawn with rules 
 ## How to Join
 
 ### Sign-Up Process
+
 1. When a CTF match is starting, type `[ctf` to join
 2. **Sign-up period:** 5 minutes before the match begins
 3. You'll be assigned to a team (Red or Blue)
@@ -34,9 +35,11 @@ Capture the Flag (CTF) brings structured, team-based PvP to New Dawn with rules 
 ## Game Rules
 
 ### Objective
+
 Capture the enemy's flag and return it to your base **3 times** to win, or have the most captures after 20 minutes.
 
 ### Win Conditions
+
 1. **First team to 3 captures** wins immediately
 2. **After 20 minutes:** Team with most captures wins
 3. **If tied on captures:** Team with most points wins
@@ -108,6 +111,7 @@ Capture the enemy's flag and return it to your base **3 times** to win, or have 
 ## Scoring System
 
 ### Team Points
+
 Teams earn points for objectives and kills:
 
 - **5 points:** Capturing the flag
@@ -117,6 +121,7 @@ Teams earn points for objectives and kills:
 - **1 point:** Killing a player
 
 ### Individual Stats
+
 Your performance is tracked throughout the match:
 
 - **Total Points:** Individual contribution

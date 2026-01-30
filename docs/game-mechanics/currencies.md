@@ -21,7 +21,6 @@ Champion Tokens are earned by participating in and completing champion spawns th
 
 - Purchase rewards at Champion Token vendor in Dawn
 - Exclusive decorative items
-- Power scrolls
 - Special equipment
 - Rare dyes and customization items
 
@@ -129,7 +128,6 @@ All currency-based reward vendors are located in **Dawn**, the Event Center:
 **Champion Token Vendor:**
 
 - Accepts Champion Tokens
-- Power scrolls available
 - Decorative items
 - Champion-themed rewards
 
@@ -232,13 +230,6 @@ All currency-based reward vendors are located in **Dawn**, the Event Center:
 
 ### Power Items
 
-**Power Scrolls:**
-
-- Available from Champion Tokens
-- Available from Harrower Shards
-- Also available from BODs (tailoring 650 points)
-- +5 to skills
-
 **Clothing Bless Deed:**
 
 - BOD reward (550 points)
@@ -254,7 +245,6 @@ Tailoring BODs award points that can be spent on rewards overlapping with curren
 - Ore mask dyes (tiers 1-3)
 - Special mask dyes (tiers 1-2)
 - Clothing bless deed
-- Tailoring power scroll +5
 - Various decoratives
 
 See [Crafting](crafting.md) for complete BOD details.
@@ -321,10 +311,9 @@ All currencies are account-wide:
 
 **Priority Items:**
 
-1. Power scrolls (if needed for build)
-2. Unique decoratives you want
-3. Dyes for customization
-4. Cosmetic items
+1. Unique decoratives you want
+2. Dyes for customization
+3. Cosmetic items
 
 **Saving Strategy:**
 

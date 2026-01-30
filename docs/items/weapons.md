@@ -2,6 +2,9 @@
 
 Guide to weapons and their properties in New Dawn.
 
+!!! info "Pre-Age of Shadows System"
+    New Dawn uses a traditional Pre-AoS weapon system. Weapons have straightforward damage ranges and speed without modern properties like resistances, skill bonuses, or luck. Focus on base damage, speed, and material quality.
+
 ## Weapon Types
 
 ### Swords
@@ -84,45 +87,49 @@ Strength needed to wield:
 - Medium: 40-60 STR
 - Heavy: 70-100 STR
 
-## Special Moves
+## Weapon Qualities
 
-Many weapons have special abilities:
+Weapons in New Dawn have traditional qualities:
 
-- **Armor Ignore:** Bypass all armor
-- **Disarm:** Remove opponent's weapon
-- **Double Strike:** Hit twice quickly
-- **Concussion:** Drain mana
-- **Paralyzing Blow:** Freeze target
+- **Damage Range:** Each weapon has a base damage range
+- **Speed:** How quickly the weapon swings
+- **Accuracy:** Weapon type affects hit chance
+- **Material Bonus:** Better materials increase durability and damage
 
 ## Weapon Materials
 
 ### Metals
 
-- **Iron:** Standard
-- **Dull Copper:** +10% Durability
-- **Shadow Iron:** Physical resist
-- **Copper:** Energy resist
-- **Bronze:** Poison resist
-- **Gold:** Luck bonus
-- **Agapite:** Cold resist
-- **Verite:** Fire resist
-- **Valorite:** Multiple bonuses
+Higher tier metals provide increased durability and damage:
+
+- **Iron:** Standard material
+- **Dull Copper:** Enhanced durability
+- **Shadow Iron:** Improved damage
+- **Copper:** Better quality
+- **Bronze:** Enhanced properties
+- **Gold:** Increased damage
+- **Agapite:** Superior quality
+- **Verite:** Exceptional quality
+- **Valorite:** Legendary quality
+
+!!! note "Traditional Crafting"
+    Blacksmiths can craft weapons from these materials, with higher tier metals producing more durable and damaging weapons.
 
 ## Choosing a Weapon
 
 Consider:
 
-1. **Your Skill:** Match weapon to skill
-2. **Speed vs. Damage:** Personal preference
-3. **Special Move:** What ability helps you
-4. **Requirements:** Can you use it?
-5. **Situation:** PvP vs. PvM
+1. **Your Skill:** Match weapon to your combat skill (Swords, Fencing, Maces)
+2. **Speed vs. Damage:** Fast weapons for more hits, slow weapons for bigger hits
+3. **Requirements:** Ensure you have enough STR to wield it
+4. **Material Quality:** Higher tier materials last longer and hit harder
+5. **Situation:** Different weapons excel in PvP vs. PvM
 
 !!! tip "Weapon Selection"
-    - Try different weapons
-    - Match to your playstyle
-    - Keep a variety in bank
-    - Specialize once you find favorites
+    - Try different weapons to find your preferred attack speed
+    - Match to your playstyle and stat build
+    - Keep backup weapons in your bank
+    - Invest in quality materials for your main weapon
 
 ---
 

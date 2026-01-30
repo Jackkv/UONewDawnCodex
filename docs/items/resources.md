@@ -28,11 +28,13 @@ Essential materials and resources for crafting and survival.
 ### Wood & Lumber
 
 **Regular Logs**
+
 - Common wood
 - All basic carpentry
 - Found at any tree
 
 **Colored Woods** (if available)
+
 - Oak
 - Ash
 - Yew
@@ -47,11 +49,13 @@ Essential materials and resources for crafting and survival.
 ### Leather & Hides
 
 **Regular Leather**
+
 - From most animals
 - Basic tailoring
 - Common resource
 
 **Colored Leather**
+
 - Spined (medium creatures)
 - Horned (tough creatures)
 - Barbed (powerful creatures)
@@ -63,11 +67,13 @@ Essential materials and resources for crafting and survival.
 ### Cloth & Fabric
 
 **Cotton/Cloth**
+
 - Purchase from vendors
 - Craft into items
 - Make bandages
 
 **Thread**
+
 - Made from cotton
 - Tailoring requirement
 
@@ -115,6 +121,7 @@ Essential materials and resources for crafting and survival.
 ### Food
 
 Keep fed for stat regeneration:
+
 - Bread, cheese, meat
 - Fish
 - Cooked meals
@@ -138,6 +145,7 @@ Keep fed for stat regeneration:
 ### Bandages
 
 Essential healing supply:
+
 - Made from cloth (tailoring)
 - Stack of 50-100 recommended
 - Required for Healing skill

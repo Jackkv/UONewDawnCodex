@@ -9,6 +9,7 @@ While New Dawn preserves the core UO experience players know and love, it introd
 ## Custom Content
 
 ### [Codex Rifts](codex-rifts.md)
+
 Step through portals in time to experience pivotal moments from Britannia's history during the Codex War. Defeat rift spawns that appear throughout the world to create gates leading to instanced battles with unique champions and valuable rewards.
 
 **Key Features:**
@@ -20,6 +21,7 @@ Step through portals in time to experience pivotal moments from Britannia's hist
 - Rare statue drops from rift masters
 
 ### [Pirate Adventures](pirate-adventures.md)
+
 Discover hidden pirate havens through special treasure maps that lead to instanced encounters filled with dangerous pirates, cunning bosses, and valuable loot. Different map tiers offer progressively challenging content.
 
 **Key Features:**
@@ -31,6 +33,7 @@ Discover hidden pirate havens through special treasure maps that lead to instanc
 - Smuggler merchants with rare goods
 
 ### [Capture the Flag](capture-the-flag.md)
+
 Engage in classic team-based PvP battles in this 10v10 structured combat system. Coordinate with your team to capture the enemy flag while defending your own in intense 20-minute matches.
 
 **Key Features:**
@@ -42,6 +45,7 @@ Engage in classic team-based PvP battles in this 10v10 structured combat system.
 - Point-based scoring system
 
 ### [Archaeology System](archaeology.md)
+
 Uncover artifacts and treasures from Britannia's past by following clues found throughout the world. Use specialized tools and skills to excavate dig sites and discover rare items.
 
 **Key Features:**
@@ -53,6 +57,7 @@ Uncover artifacts and treasures from Britannia's past by following clues found t
 - Requires Mining, Cartography, Inscription, and Item Identification
 
 ### [Conquest of the Virtues](conquest-of-virtues.md)
+
 Claim territory in four ruined locations across Britannia through guild-based warfare. Control these strategic points to gain benefits for your guild and establish dominance.
 
 **Key Features:**
@@ -63,6 +68,7 @@ Claim territory in four ruined locations across Britannia through guild-based wa
 - Guild progression and benefits
 
 ### [Spirit Summoner](spirit-summoner.md)
+
 Master the art of necromantic summoning by developing Spirit Speak alongside Magery. This powerful build creates unique summons and enhances traditional summoning spells in ways unavailable to standard mages.
 
 **Key Features:**
@@ -74,6 +80,7 @@ Master the art of necromantic summoning by developing Spirit Speak alongside Mag
 - Command control at GM Spirit Speak
 
 ### [Gardening System](gardening.md)
+
 Cultivate plants and manage livestock through a comprehensive farming system. Grow crops, maintain sheep for wool production, and harvest special resources.
 
 **Key Features:**
@@ -85,6 +92,7 @@ Cultivate plants and manage livestock through a comprehensive farming system. Gr
 - Resource cultivation
 
 ### [Achievement System](achievements.md)
+
 Track your accomplishments and earn rewards through a comprehensive achievement system covering various gameplay aspects from combat to exploration to crafting.
 
 **Key Features:**

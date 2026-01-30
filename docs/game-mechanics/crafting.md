@@ -246,7 +246,6 @@ New Dawn features a **points-based reward system** for BODs:
 - Runic tools (add magic properties)
 - Colored anvils/forges
 - Special materials
-- Power scrolls (rare)
 
 ## Resource Gathering
 

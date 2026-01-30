@@ -29,6 +29,7 @@ When a Spirit Summoner casts 5th circle summoning spells, they summon entirely d
 **Spirit Summoner:** Summons special spirit creatures with unique appearances and abilities
 
 These spirit creatures are:
+
 - Visually distinct from normal summons
 - More powerful than standard 5th circle summons
 - Have unique abilities appropriate to their spirit nature
@@ -75,6 +76,7 @@ Spirit Speak dramatically changes how BS and EV work:
 - Normal stats
 
 #### With Spirit Speak (Spirit Summoner)
+
 Spirit Speak provides escalating benefits:
 
 **At 50+ Spirit Speak:**
@@ -98,21 +100,25 @@ Spirit Speak provides escalating benefits:
 
 ### Spirit Speak and Animal Lore Synergy (Patch 1.0)
 
-Recent updates have added Animal Lore synergy:
+Recent updates have made Animal Lore a crucial part of the Spirit Summoner build:
 
 **Animal Lore Benefits:**
 
-- Affects the base strength of your summons
-- Works in conjunction with Spirit Speak
-- Creates even more powerful summons at high levels
+- **Directly affects the base strength of your summons** - This is a major boost!
+- Works in conjunction with Spirit Speak for multiplicative benefits
+- Creates significantly more powerful summons at high levels
+- **Essential for maximizing your Spirit Summoner's potential**
 
 **Spirit Speak Focus:**
 
 - Affects summon healing
-- Affects dispel resistance
+- Affects dispel resistance  
 - Affects summon duration (except BS/EV)
 
-This creates build variety - you can focus heavily on Spirit Speak, include Animal Lore, or balance both for maximum effect.
+!!! warning "Don't Skip Animal Lore"
+    While you can technically be a Spirit Summoner without Animal Lore, you'll be operating at significantly reduced effectiveness. The base strength bonus from Animal Lore is substantial and should be considered a core skill for any serious Spirit Summoner build.
+
+This creates powerful synergy - Spirit Speak affects how your summons perform in combat (healing, dispel resistance, duration), while Animal Lore makes them fundamentally stronger from the moment they're summoned.
 
 ## Summon Healing
 
@@ -153,12 +159,15 @@ Your summons are harder to dispel:
 - **Spirit Speak:** 100 - Maximum summoning benefits
 - **Evaluating Intelligence:** 100 - Spell damage
 - **Meditation:** 100 - Mana regeneration
+- **Animal Lore:** 100 - **Highly Recommended** - Significantly boosts summon base strength
 
-### Optional Skills
+!!! tip "Animal Lore is Critical"
+    While not technically required, **Animal Lore is extremely important** for Spirit Summoners. It directly affects the base strength of all your summons, making them substantially more powerful. Without it, you're missing a major component of the build's potential.
 
-- **Animal Lore:** Boosts summon base strength (Patch 1.0 synergy)
-- **Resisting Spells:** PvP survival
-- **Wrestling:** Defensive capability
+### Additional Recommended Skills
+
+- **Resisting Spells:** PvP survival and spell defense
+- **Wrestling:** Defensive capability and avoiding disruption
 - **Inscription:** Spell damage boost
 
 ### Stat Distribution
@@ -172,6 +181,7 @@ Your summons are harder to dispel:
 ### PvM (Player vs Monster)
 
 **Summon Rotation:**
+
 1. Cast 8th circle summon (Daemon preferred)
 2. Cast Blade Spirits in front line
 3. Cast Energy Vortex for additional DPS
@@ -203,16 +213,16 @@ Your summons are harder to dispel:
 
 ## Comparison: Spirit Summoner vs Standard Mage
 
-| Aspect | Standard Mage | Spirit Summoner |
-|--------|---------------|-----------------|
-| 5th Circle Summons | Regular creatures | Unique spirit creatures |
-| 8th Circle Summons | Standard stats | Greatly enhanced stats |
-| BS/EV Control | None (they attack you) | Full command control at GM |
-| BS/EV Poison | No | 10-40% chance based on SS |
-| Dispel Resistance | Standard | 50-80% vs player/NPC dispel |
-| Follow Speed | Standard | Significantly enhanced |
-| Summon Healing | Standard | Enhanced with SS |
-| Build Requirement | Magery only | Magery + Spirit Speak |
+| Aspect             | Standard Mage          | Spirit Summoner             |
+| ------------------ | ---------------------- | --------------------------- |
+| 5th Circle Summons | Regular creatures      | Unique spirit creatures     |
+| 8th Circle Summons | Standard stats         | Greatly enhanced stats      |
+| BS/EV Control      | None (they attack you) | Full command control at GM  |
+| BS/EV Poison       | No                     | 10-40% chance based on SS   |
+| Dispel Resistance  | Standard               | 50-80% vs player/NPC dispel |
+| Follow Speed       | Standard               | Significantly enhanced      |
+| Summon Healing     | Standard               | Enhanced with SS            |
+| Build Requirement  | Magery only            | Magery + Spirit Speak       |
 
 ## Advanced Tips
 
@@ -246,9 +256,9 @@ Your summons are harder to dispel:
 
 ## Common Mistakes
 
+- **Not taking Animal Lore (biggest mistake!)** - Missing substantial base summon strength
 - Not keeping Spirit Speak higher than Magery (loses Spirit Summoner status)
 - Forgetting to command BS/EV (they're controllable!)
-- Neglecting Animal Lore (misses synergy bonus in Patch 1.0+)
 - Oversummoning without managing reagent costs
 - Standing still while casting (easy PvP target)
 

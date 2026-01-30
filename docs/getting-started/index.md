@@ -8,24 +8,25 @@ This section covers everything you need to know to begin playing New Dawn:
 
 - **[New Player Guide](new-player-guide.md)** - Essential information for newcomers
 - **[Character Creation](character-creation.md)** - Building your character
-- **[Controls & Interface](controls-interface.md)** - Navigating the game world
 
 ## Prerequisites
 
 To play New Dawn, you'll need:
 
-1. **Ultima Online Client** - The game client compatible with our server
-2. **Razor/ClassicUO** - Recommended client assistants
-3. **Account** - Register on our website or in-game
+1. **Discord Account** - Used to authenticate your New Dawn account
+2. **New Dawn Launcher** - Downloads the game client and manages authentication
+3. **1.5GB of disk space** - For the game files
+
+All of these are acquired through the [New Dawn Portal](https://portal.uonewdawn.com/).
 
 ## Quick Start
 
-!!! example "Get Playing in 5 Minutes"
-    1. Download and install the UO client
-    2. Configure your client to connect to `play.uonewdawn.com`
-    3. Create your account
-    4. Design your character
-    5. Start your adventure!
+!!! example "Get Playing in Minutes"
+    1. Go to [https://portal.uonewdawn.com/](https://portal.uonewdawn.com/) and log in with Discord
+    2. Download and install the New Dawn Launcher
+    3. Let the launcher download game files (~1.5GB)
+    4. Click "Enter Britannia" and authenticate
+    5. Create your character and start your adventure!
 
 ## Need Help?
 

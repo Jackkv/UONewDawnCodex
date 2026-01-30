@@ -37,12 +37,6 @@ Unique, rare, and special items in New Dawn.
 
 ### Deeds
 
-**House Deeds:**
-
-- Place new houses
-- Various sizes
-- Valuable items
-
 **Commodity Deeds:**
 
 - Store bulk resources
@@ -129,6 +123,7 @@ Unique named items:
 ### Event Items
 
 Special server events may provide:
+
 - Unique decorations
 - Special wearables
 - Commemorative items
@@ -146,6 +141,7 @@ Special server events may provide:
 ### Holiday Items
 
 Seasonal content:
+
 - Halloween items
 - Christmas decorations
 - Special event rewards
@@ -155,9 +151,9 @@ Seasonal content:
 ### Special Potions
 
 Beyond standard potions:
+
 - Stat increase potions
 - Skill increase scrolls
-- Power scrolls (if available)
 - Special effect potions
 
 ### Scrolls
@@ -168,16 +164,12 @@ Beyond standard potions:
 - All circles available
 - Emergency casting
 
-**Power Scrolls:** (if available)
-- Increase skill caps
-- 105/110/115/120
-- Rare drops
-
 ## Collecting & Display
 
 ### Decorative Items
 
 For house decoration:
+
 - Furniture
 - Paintings
 - Statues
@@ -186,6 +178,7 @@ For house decoration:
 ### Rare Collectibles
 
 Things players collect:
+
 - Complete armor sets
 - All weapon types
 - Full dye collection
@@ -196,6 +189,7 @@ Things players collect:
 ### Determining Worth
 
 Consider:
+
 - Rarity
 - Usefulness
 - Properties/bonuses

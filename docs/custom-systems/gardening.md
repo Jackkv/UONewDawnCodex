@@ -41,7 +41,7 @@ To plant seeds, you need fertile dirt:
 5. Harvest when mature
 
 !!! tip "Location Matters"
-    Indoor plants may have different growth rates and requirements than outdoor plants. Experiment with placement.
+Indoor plants may have different growth rates and requirements than outdoor plants. Experiment with placement.
 
 ## Cotton and Flax Farming
 
@@ -96,12 +96,12 @@ Sheep produce wool over time, but their production is affected by their environm
 Indoor sheep wool production scales with hunger:
 
 | Hunger Level | Food Points | Production Time |
-|--------------|-------------|-----------------|
-| Well-Fed | 18-20 | 1.5 hours |
-| Satisfied | 10+ | 2 hours |
-| Peckish | 5+ | 6 hours |
-| Hungry | 2 | 8 hours |
-| Starving | <2 | 12 hours |
+| ------------ | ----------- | --------------- |
+| Well-Fed     | 18-20       | 1.5 hours       |
+| Satisfied    | 10+         | 2 hours         |
+| Peckish      | 5+          | 6 hours         |
+| Hungry       | 2           | 8 hours         |
+| Starving     | <2          | 12 hours        |
 
 ### Feeding Your Sheep
 
@@ -113,7 +113,7 @@ To maintain wool production:
 - Don't overcrowd (stacked sheep don't produce wool)
 
 !!! warning "Sheep Farms"
-    Simply stacking sheep in your house like "cordwood" won't work. You need to provide proper space and feeding to maintain wool production.
+Simply stacking sheep in your house like "cordwood" won't work. You need to provide proper space and feeding to maintain wool production.
 
 ### Optimal Sheep Management
 
