@@ -133,7 +133,6 @@ Once you've earned enough gold, you can:
 Ready to dive deeper? Check out:
 
 - [Character Creation](character-creation.md) - Optimize your build
-- [Controls & Interface](controls-interface.md) - Master the controls
 - [Skills](../game-mechanics/skills/index.md) - Learn about all skills
 - [Towns](../world/towns/index.md) - Explore Britannia
 

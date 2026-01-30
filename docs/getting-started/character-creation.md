@@ -174,9 +174,8 @@ Consider creating multiple characters for different roles:
 Once you've created your character:
 
 1. Complete the [New Player Guide](new-player-guide.md) tutorial
-2. Learn the [Controls & Interface](controls-interface.md)
-3. Study specific [Skills](../game-mechanics/skills/index.md)
-4. Explore the [World](../world/index.md)
+2. Study specific [Skills](../game-mechanics/skills/index.md)
+3. Explore the [World](../world/index.md)
 
 ---
 
