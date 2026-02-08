@@ -101,4 +101,4 @@ Use Discordance on:
 - [Musicianship](musicianship.md)
 - [Peacemaking](peacemaking.md)
 - [Provocation](provocation.md)
-- [Skills Overview](index.md)
+- [Skills Overview](../index.md)
