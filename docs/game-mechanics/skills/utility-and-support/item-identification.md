@@ -1,4 +1,4 @@
-![Item Identification](../../assets/Flag_item_identification.gif){ align=right }
+![Item Identification](../../../assets/Flag_item_identification.gif){ align=right }
 
 # Item Identification
 
@@ -48,7 +48,7 @@ Use Item Identification on:
 
 - Combat skills - Generate loot to identify
 - [Arms Lore](arms-lore.md) - Additional item information
-- [Magery](magery.md) - Alternative identification method
+- [Magery](../magic/magery.md) - Alternative identification method
 
 ## Uses
 
@@ -82,6 +82,6 @@ Use Item Identification on:
 **Related Pages:**
 
 - [Arms Lore](arms-lore.md)
-- [Magery](magery.md)
+- [Magery](../magic/magery.md)
 - [Items](../../items/index.md)
-- [Special Items](../../items/special-items.md)
+- [Special Items](../../../items/special-items.md)

@@ -1,4 +1,4 @@
-![Stealth](../../assets/Flag_stealth.gif){ align=right }
+![Stealth](../../../assets/Flag_stealth.gif){ align=right }
 
 # Stealth
 
@@ -82,9 +82,9 @@ Use Stealth while hidden:
 - Stealth: 100 ⭐
 - [Stealing](stealing.md): 100 (for thieves)
 - [Snooping](snooping.md): 100 (for thieves)
-- [Wrestling](wrestling.md): 100
-- [Magery](magery.md): 80
-- [Resisting Spells](resisting-spells.md): 100
+- [Wrestling](../combat/wrestling.md): 100
+- [Magery](../magic/magery.md): 80
+- [Resisting Spells](../combat/resisting-spells.md): 100
 
 ## Uses
 
@@ -142,7 +142,7 @@ Use Stealth while hidden:
 - [Hiding](hiding.md): 100
 - Stealth: 100
 - [Detecting Hidden](detecting-hidden.md): 100
-- [Tracking](tracking.md): 100
+- [Tracking](../utility-and-support/tracking.md): 100
 - Combat skills
 
 ### Thief
@@ -151,7 +151,7 @@ Use Stealth while hidden:
 - Stealth: 100
 - [Stealing](stealing.md): 100
 - [Snooping](snooping.md): 100
-- [Wrestling](wrestling.md): 100
+- [Wrestling](../combat/wrestling.md): 100
 - Support skills
 
 ### Stealth Assassin (PvP)
@@ -159,10 +159,10 @@ Use Stealth while hidden:
 - [Hiding](hiding.md): 100
 - Stealth: 100
 - Weapon skill: 100
-- [Tactics](tactics.md): 100
-- [Anatomy](anatomy.md): 100
-- [Poisoning](poisoning.md): 100
-- [Healing](healing.md): 100
+- [Tactics](../combat/tactics.md): 100
+- [Anatomy](../combat/anatomy.md): 100
+- [Poisoning](../combat/poisoning.md): 100
+- [Healing](../combat/healing.md): 100
 
 ## Importance
 

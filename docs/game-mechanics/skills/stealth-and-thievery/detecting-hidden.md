@@ -1,4 +1,4 @@
-![Detecting Hidden](../../assets/Flag_detecting_hidden.gif){ align=right }
+![Detecting Hidden](../../../assets/Flag_detecting_hidden.gif){ align=right }
 
 # Detecting Hidden
 
@@ -52,16 +52,16 @@ Use Detecting Hidden:
 
 **Synergy With:**
 
-- [Tracking](tracking.md) - Find then reveal
-- [Remove Trap](remove-trap.md) - Find traps
+- [Tracking](../utility-and-support/tracking.md) - Find then reveal
+- [Remove Trap](../utility-and-support/remove-trap.md) - Find traps
 
 **Anti-Stealth Template:**
 
 - Combat skills
 - **Detecting Hidden: 100** ⭐
-- [Tracking](tracking.md): 100
-- [Magery](magery.md): 100
-- [Resisting Spells](resisting-spells.md): 100
+- [Tracking](../utility-and-support/tracking.md): 100
+- [Magery](../magic/magery.md): 100
+- [Resisting Spells](../combat/resisting-spells.md): 100
 
 ## PvP Applications
 
@@ -95,5 +95,5 @@ Use Detecting Hidden:
 
 - [Hiding](hiding.md)
 - [Stealth](stealth.md)
-- [Tracking](tracking.md)
+- [Tracking](../utility-and-support/tracking.md)
 - [PvP Guide](../pvp/index.md)

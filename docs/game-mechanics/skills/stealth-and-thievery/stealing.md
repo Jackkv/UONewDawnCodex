@@ -1,4 +1,4 @@
-![Stealing](../../assets/Flag_stealing.gif){ align=right }
+![Stealing](../../../assets/Flag_stealing.gif){ align=right }
 
 # Stealing
 
@@ -72,9 +72,9 @@ Success based on:
 - [Snooping](snooping.md): 100
 - [Hiding](hiding.md): 100
 - [Stealth](stealth.md): 100
-- [Wrestling](wrestling.md): 100
-- [Magery](magery.md): 80
-- [Resisting Spells](resisting-spells.md): 100
+- [Wrestling](../combat/wrestling.md): 100
+- [Magery](../magic/magery.md): 80
+- [Resisting Spells](../combat/resisting-spells.md): 100
 
 ## Uses
 
@@ -167,4 +167,4 @@ Success based on:
 - [Hiding](hiding.md)
 - [Stealth](stealth.md)
 - [PvP Guide](../pvp/index.md)
-- [Murder System](../pvp/murder-system.md)
+- [Murder System](../../pvp/murder-system.md)

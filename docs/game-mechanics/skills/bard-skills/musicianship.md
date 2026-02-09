@@ -1,4 +1,4 @@
-![Musicianship](../../assets/Flag_musicianship.gif){ align=right }
+![Musicianship](../../../assets/Flag_musicianship.gif){ align=right }
 
 # Musicianship
 
@@ -56,7 +56,7 @@ Any instrument works:
 - Lap harp
 - Standing harp
 
-Crafted by [Carpentry](carpentry.md)
+Crafted by [Carpentry](../crafting/carpentry.md)
 
 ## Related Skills
 
@@ -71,10 +71,10 @@ Crafted by [Carpentry](carpentry.md)
 - Musicianship: 100 ⭐
 - [Provocation](provocation.md): 100
 - [Peacemaking](peacemaking.md): 100
-- [Magery](magery.md): 100
-- [Meditation](meditation.md): 100
-- [Resisting Spells](resisting-spells.md): 100
-- [Wrestling](wrestling.md) or [Evaluating Intelligence](evaluating-intelligence.md): 100
+- [Magery](../magic/magery.md): 100
+- [Meditation](../magic/meditation.md): 100
+- [Resisting Spells](../combat/resisting-spells.md): 100
+- [Wrestling](../combat/wrestling.md) or [Evaluating Intelligence](../magic/evaluating-intelligence.md): 100
 
 ## Character Templates
 
@@ -86,10 +86,10 @@ Crafted by [Carpentry](carpentry.md)
 - Musicianship: 100
 - [Provocation](provocation.md): 100
 - [Peacemaking](peacemaking.md): 100
-- [Magery](magery.md): 100
-- [Meditation](meditation.md): 100
-- [Resisting Spells](resisting-spells.md): 100
-- [Evaluating Intelligence](evaluating-intelligence.md): 100
+- [Magery](../magic/magery.md): 100
+- [Meditation](../magic/meditation.md): 100
+- [Resisting Spells](../combat/resisting-spells.md): 100
+- [Evaluating Intelligence](../magic/evaluating-intelligence.md): 100
 
 ### Peace Bard (Support)
 
@@ -110,4 +110,4 @@ Crafted by [Carpentry](carpentry.md)
 - [Peacemaking](peacemaking.md)
 - [Provocation](provocation.md)
 - [Discordance](discordance.md)
-- [Carpentry](carpentry.md)
+- [Carpentry](../crafting/carpentry.md)

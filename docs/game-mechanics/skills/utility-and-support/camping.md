@@ -1,4 +1,4 @@
-![Camping](../../assets/Flag_camping.gif){ align=right }
+![Camping](../../../assets/Flag_camping.gif){ align=right }
 
 # Camping
 
@@ -40,7 +40,7 @@ Camping allows you to set up a campfire in the wilderness, providing a safe rest
 
 **Support Skills:**
 
-- [Bowcraft/Fletching](bowcraft-fletching.md) - Create kindling
+- [Bowcraft/Fletching](../crafting/bowcraft-fletching.md) - Create kindling
 - Other wilderness survival skills
 
 ## Uses
@@ -65,5 +65,5 @@ Camping allows you to set up a campfire in the wilderness, providing a safe rest
 
 **Related Pages:**
 
-- [Bowcraft/Fletching](bowcraft-fletching.md)
+- [Bowcraft/Fletching](../crafting/bowcraft-fletching.md)
 - [Skills Overview](index.md)

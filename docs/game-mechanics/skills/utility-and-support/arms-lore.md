@@ -1,4 +1,4 @@
-![Arms Lore](../../assets/Flag_arms_lore.gif){ align=right }
+![Arms Lore](../../../assets/Flag_arms_lore.gif){ align=right }
 
 # Arms Lore
 
@@ -57,7 +57,7 @@ Use Arms Lore on:
 
 **Related Pages:**
 
-- [Blacksmithy](blacksmithy.md)
+- [Blacksmithy](../crafting/blacksmithy.md)
 - [Crafting Skills](crafting.md)
-- [Weapons](../../items/weapons.md)
-- [Armor](../../items/armor.md)
+- [Weapons](../../../items/weapons.md)
+- [Armor](../../../items/armor.md)

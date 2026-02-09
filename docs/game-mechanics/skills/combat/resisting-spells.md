@@ -1,4 +1,4 @@
-![Resisting Spells](../../assets/Flag_resisting_spells.gif){ align=right }
+![Resisting Spells](../../../assets/Flag_resisting_spells.gif){ align=right }
 
 # Resisting Spells
 
@@ -66,7 +66,7 @@ The only way to train is being targeted by hostile magic:
 
 **Common Pairs:**
 
-- [Magery](magery.md) - Mage builds
+- [Magery](../magic/magery.md) - Mage builds
 - [Healing](healing.md) - Warriors
 - [Parrying](parrying.md) - Tanks
 
@@ -212,4 +212,4 @@ Train it early because:
 - [Combat Skills Overview](index.md#combat-skills)
 - [Magic Skills](index.md#magic-skills)
 - [Combat System](../combat.md)
-- [Magic System](../magic.md)
+- [Magic System](../../magic.md)

@@ -1,4 +1,4 @@
-![Provocation](../../assets/Flag_provocation.gif){ align=right }
+![Provocation](../../../assets/Flag_provocation.gif){ align=right }
 
 # Provocation
 
@@ -68,10 +68,10 @@ Provocation is a bard skill that causes one creature to attack another. One of t
 - [Musicianship](musicianship.md): 100
 - Provocation: 100 ⭐
 - [Peacemaking](peacemaking.md): 100
-- [Magery](magery.md): 100
-- [Meditation](meditation.md): 100
-- [Resisting Spells](resisting-spells.md): 100
-- [Evaluating Intelligence](evaluating-intelligence.md): 100
+- [Magery](../magic/magery.md): 100
+- [Meditation](../magic/meditation.md): 100
+- [Resisting Spells](../combat/resisting-spells.md): 100
+- [Evaluating Intelligence](../magic/evaluating-intelligence.md): 100
 
 ## Uses
 

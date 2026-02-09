@@ -1,4 +1,4 @@
-![Hiding](../../assets/Flag_hiding.gif){ align=right }
+![Hiding](../../../assets/Flag_hiding.gif){ align=right }
 
 # Hiding
 
@@ -63,9 +63,9 @@ Use Hiding skill:
 - [Stealth](stealth.md): 100
 - [Stealing](stealing.md): 100
 - [Snooping](snooping.md): 100
-- [Wrestling](wrestling.md): 100
-- [Magery](magery.md): 80
-- [Resisting Spells](resisting-spells.md): 100
+- [Wrestling](../combat/wrestling.md): 100
+- [Magery](../magic/magery.md): 80
+- [Resisting Spells](../combat/resisting-spells.md): 100
 
 ## Uses
 
@@ -108,7 +108,7 @@ Use Hiding skill:
 - Hiding: 100
 - [Stealth](stealth.md): 100
 - [Detecting Hidden](detecting-hidden.md): 100
-- [Tracking](tracking.md): 100
+- [Tracking](../utility-and-support/tracking.md): 100
 - Combat skills
 
 ### Thief
@@ -117,7 +117,7 @@ Use Hiding skill:
 - [Stealth](stealth.md): 100
 - [Stealing](stealing.md): 100
 - [Snooping](snooping.md): 100
-- [Wrestling](wrestling.md): 100
+- [Wrestling](../combat/wrestling.md): 100
 
 ## Importance
 

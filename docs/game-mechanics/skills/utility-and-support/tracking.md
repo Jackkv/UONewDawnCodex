@@ -1,4 +1,4 @@
-![Tracking](../../assets/Flag_tracking.gif){ align=right }
+![Tracking](../../../assets/Flag_tracking.gif){ align=right }
 
 # Tracking
 
@@ -61,26 +61,26 @@ Use Tracking skill:
 
 **Synergy With:**
 
-- [Detecting Hidden](detecting-hidden.md) - Find then reveal ⭐⭐⭐⭐
-- [Archery](archery.md) - Find and shoot
+- [Detecting Hidden](../stealth-and-thievery/detecting-hidden.md) - Find then reveal ⭐⭐⭐⭐
+- [Archery](../combat/archery.md) - Find and shoot
 - Combat skills - Locate targets
 
 **Hunter Template:**
 
 - Tracking: 100 ⭐
-- [Archery](archery.md): 100
-- [Tactics](tactics.md): 100
-- [Anatomy](anatomy.md): 100
-- [Healing](healing.md): 100
-- [Hiding](hiding.md): 100
-- [Resisting Spells](resisting-spells.md): 100
+- [Archery](../combat/archery.md): 100
+- [Tactics](../combat/tactics.md): 100
+- [Anatomy](../combat/anatomy.md): 100
+- [Healing](../combat/healing.md): 100
+- [Hiding](../stealth-and-thievery/hiding.md): 100
+- [Resisting Spells](../combat/resisting-spells.md): 100
 
 **Scout Template:**
 
 - Tracking: 100
-- [Detecting Hidden](detecting-hidden.md): 100
-- [Hiding](hiding.md): 100
-- [Stealth](stealth.md): 100
+- [Detecting Hidden](../stealth-and-thievery/detecting-hidden.md): 100
+- [Hiding](../stealth-and-thievery/hiding.md): 100
+- [Stealth](../stealth-and-thievery/stealth.md): 100
 - Awareness focus
 
 ## Uses
@@ -128,7 +128,7 @@ Use Tracking skill:
 
 - Tracking finds general location
 - Doesn't reveal hidden players
-- Need [Detecting Hidden](detecting-hidden.md) to reveal
+- Need [Detecting Hidden](../stealth-and-thievery/detecting-hidden.md) to reveal
 
 ### Range Limited
 
@@ -148,7 +148,7 @@ Use Tracking skill:
 
 **Related Pages:**
 
-- [Detecting Hidden](detecting-hidden.md)
-- [Hiding](hiding.md)
-- [Stealth](stealth.md)
+- [Detecting Hidden](../stealth-and-thievery/detecting-hidden.md)
+- [Hiding](../stealth-and-thievery/hiding.md)
+- [Stealth](../stealth-and-thievery/stealth.md)
 - [PvP Guide](../pvp/index.md)

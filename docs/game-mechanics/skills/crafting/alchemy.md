@@ -1,4 +1,4 @@
-![Alchemy](../../assets/Flag_alchemy.gif){ align=right }
+![Alchemy](../../../assets/Flag_alchemy.gif){ align=right }
 
 # Alchemy
 
@@ -49,7 +49,7 @@ Alchemy allows you to craft a variety of potions including healing, poison, expl
 
 **Synergy With:**
 
-- [Magery](magery.md) - Share some reagents
+- [Magery](../magic/magery.md) - Share some reagents
 
 ## Uses
 
@@ -73,5 +73,5 @@ Alchemy allows you to craft a variety of potions including healing, poison, expl
 **Related Pages:**
 
 - [Crafting Skills Overview](crafting.md)
-- [Poisoning](poisoning.md)
-- [Resources](../../items/resources.md)
+- [Poisoning](../combat/poisoning.md)
+- [Resources](../../../items/resources.md)

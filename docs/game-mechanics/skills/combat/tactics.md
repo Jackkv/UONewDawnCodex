@@ -1,4 +1,4 @@
-![Tactics](../../assets/Flag_tactics.gif){ align=right }
+![Tactics](../../../assets/Flag_tactics.gif){ align=right }
 
 # Tactics
 
@@ -118,4 +118,4 @@ With 100 Tactics:
 - [Combat Skills Overview](index.md#combat-skills)
 - [Anatomy](anatomy.md)
 - [Combat System](../combat.md)
-- [Stats](../stats.md)
+- [Stats](../../stats.md)

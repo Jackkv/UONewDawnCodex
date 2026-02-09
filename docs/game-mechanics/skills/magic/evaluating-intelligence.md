@@ -1,4 +1,4 @@
-![Evaluating Intelligence](../../assets/Flag_evaluate_intelligence.gif){ align=right }
+![Evaluating Intelligence](../../../assets/Flag_evaluate_intelligence.gif){ align=right }
 
 # Evaluating Intelligence
 
@@ -57,7 +57,7 @@ Gains during spell combat:
 
 - [Magery](magery.md) - Primary spellcasting
 - [Meditation](meditation.md) - Mana regeneration
-- [Resisting Spells](resisting-spells.md) - Magic defense
+- [Resisting Spells](../combat/resisting-spells.md) - Magic defense
 
 **Full Mage Package:**
 
@@ -164,4 +164,4 @@ Some niche uses:
 - [Magic Skills Overview](index.md#magic-skills)
 - [Magery](magery.md)
 - [Meditation](meditation.md)
-- [Magic System](../magic.md)
+- [Magic System](../../magic.md)

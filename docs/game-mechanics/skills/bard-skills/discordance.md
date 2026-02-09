@@ -1,4 +1,4 @@
-![Discordance](../../assets/Flag_enticement.gif){ align=right }
+![Discordance](../../../assets/Flag_enticement.gif){ align=right }
 
 # Discordance
 
@@ -57,9 +57,9 @@ Use Discordance on:
 - **Discordance: 100** ⭐
 - [Provocation](provocation.md): 100
 - [Peacemaking](peacemaking.md): 100
-- [Magery](magery.md): 100
-- [Meditation](meditation.md): 100
-- [Resisting Spells](resisting-spells.md): 100
+- [Magery](../magic/magery.md): 100
+- [Meditation](../magic/meditation.md): 100
+- [Resisting Spells](../combat/resisting-spells.md): 100
 
 ## Uses
 

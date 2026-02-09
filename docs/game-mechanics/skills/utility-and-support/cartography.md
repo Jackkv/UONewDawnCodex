@@ -1,4 +1,4 @@
-![Cartography](../../assets/Flag_cartography.gif){ align=right }
+![Cartography](../../../assets/Flag_cartography.gif){ align=right }
 
 # Cartography
 
@@ -63,7 +63,7 @@ Cartography allows you to draw maps of various regions and decode treasure maps.
 
 **Synergy With:**
 
-- [Lockpicking](lockpicking.md) - Open treasure chests
+- [Lockpicking](../stealth-and-thievery/lockpicking.md) - Open treasure chests
 - [Remove Trap](remove-trap.md) - Disarm chest traps
 
 **Treasure Hunter Template:**
@@ -113,7 +113,7 @@ Cartography allows you to draw maps of various regions and decode treasure maps.
 
 **Related Pages:**
 
-- [Lockpicking](lockpicking.md)
-- [Mining](mining.md)
+- [Lockpicking](../stealth-and-thievery/lockpicking.md)
+- [Mining](../resource-gathering/mining.md)
 - [Remove Trap](remove-trap.md)
-- [Special Items](../../items/special-items.md)
+- [Special Items](../../../items/special-items.md)

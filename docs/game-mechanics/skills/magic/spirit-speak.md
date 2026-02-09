@@ -1,4 +1,4 @@
-![Spirit Speak](../../assets/Flag_spirit_speak.gif){ align=right }
+![Spirit Speak](../../../assets/Flag_spirit_speak.gif){ align=right }
 
 # Spirit Speak
 
@@ -28,10 +28,10 @@ When used with the **Spirit Summoner** system:
 - **Summon Duration** - Higher Spirit Speak increases how long summons last
 - **Dispel Resistance** - Harder for enemies to dispel your spirit summons
 - **Healing Bonus** - Active Spirit Speak boosts healing on spirit summons
-- **Synergy with Animal Lore** - Summon strength scales with [Animal Lore](animal-lore.md)
+- **Synergy with Animal Lore** - Summon strength scales with [Animal Lore](../taming-and-animals/animal-lore.md)
 
 !!! info "Spirit Summoner Scaling"
-    The power of your spirit summons (stats, skills, armor) scales based on **[Animal Lore](animal-lore.md)** skill, while **Spirit Speak** determines duration, dispel resistance, and healing effectiveness when active.
+    The power of your spirit summons (stats, skills, armor) scales based on **[Animal Lore](../taming-and-animals/animal-lore.md)** skill, while **Spirit Speak** determines duration, dispel resistance, and healing effectiveness when active.
 
 ## How It Works
 
@@ -78,7 +78,7 @@ When healing your spirit summons:
 
 ### Scaling Mechanics
 
-**[Animal Lore](animal-lore.md)** determines:
+**[Animal Lore](../taming-and-animals/animal-lore.md)** determines:
 
 - ✅ Base stats scaling
 - ✅ Skills scaling  
@@ -92,22 +92,22 @@ When healing your spirit summons:
 - ✅ Healing bonus (when active)
 
 !!! tip "Balanced Build"
-    For optimal Spirit Summoner performance, invest in both Spirit Speak and [Animal Lore](animal-lore.md) to maximize both summon strength and utility!
+    For optimal Spirit Summoner performance, invest in both Spirit Speak and [Animal Lore](../taming-and-animals/animal-lore.md) to maximize both summon strength and utility!
 
 ## Related Skills
 
 **For Spirit Summoners:**
 
 - **Spirit Speak** - Duration, dispel resistance, healing
-- [Animal Lore](animal-lore.md) - Summon power scaling
+- [Animal Lore](../taming-and-animals/animal-lore.md) - Summon power scaling
 - [Magery](magery.md) - Summoning and healing spells
-- [Veterinary](veterinary.md) - Additional healing option
+- [Veterinary](../taming-and-animals/veterinary.md) - Additional healing option
 
 **For Battle Mages:**
 
 - [Magery](magery.md) - Spell casting
 - Weapon Skill - Melee combat
-- [Tactics](tactics.md) - Damage
+- [Tactics](../combat/tactics.md) - Damage
 - **Spirit Speak** - Mana regen in armor
 
 ## Character Templates
@@ -119,10 +119,10 @@ When healing your spirit summons:
 
 - [Magery](magery.md): 100
 - **Spirit Speak: 100** ⭐
-- [Animal Lore](animal-lore.md): 100 ⭐
-- [Veterinary](veterinary.md): 100
+- [Animal Lore](../taming-and-animals/animal-lore.md): 100 ⭐
+- [Veterinary](../taming-and-animals/veterinary.md): 100
 - [Meditation](meditation.md): 100
-- [Resisting Spells](resisting-spells.md): 100
+- [Resisting Spells](../combat/resisting-spells.md): 100
 - [Evaluating Intelligence](evaluating-intelligence.md): 100
 
 ### Battle Mage with Spirit Speak
@@ -130,10 +130,10 @@ When healing your spirit summons:
 - [Magery](magery.md): 100
 - [Evaluating Intelligence](evaluating-intelligence.md): 100
 - Weapon Skill: 100
-- [Tactics](tactics.md): 100
+- [Tactics](../combat/tactics.md): 100
 - **Spirit Speak: 100** ⭐
-- [Resisting Spells](resisting-spells.md): 100
-- [Anatomy](anatomy.md): 100
+- [Resisting Spells](../combat/resisting-spells.md): 100
+- [Anatomy](../combat/anatomy.md): 100
 
 ## Use Cases
 
@@ -143,7 +143,7 @@ When healing your spirit summons:
 - Battle mages in plate armor
 - Hybrid warrior/mage builds
 - Players who need mobile mana regen
-- Summoner playstyles with [Animal Lore](animal-lore.md)
+- Summoner playstyles with [Animal Lore](../taming-and-animals/animal-lore.md)
 
 ### Not Ideal For
 
@@ -173,10 +173,10 @@ For hunting:
 
 **Related Pages:**
 
-- [Spirit Summoner System](../../custom-systems/spirit-summoner.md)
-- [Animal Lore](animal-lore.md)
+- [Spirit Summoner System](../../../custom-systems/spirit-summoner.md)
+- [Animal Lore](../taming-and-animals/animal-lore.md)
 - [Magic Skills Overview](index.md#magic-skills)
 - [Meditation](meditation.md)
 - [Magery](magery.md)
-- [Veterinary](veterinary.md)
+- [Veterinary](../taming-and-animals/veterinary.md)
 - [Combat System](../combat.md)

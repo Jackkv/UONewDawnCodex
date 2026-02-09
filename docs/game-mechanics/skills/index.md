@@ -90,19 +90,19 @@ Weapon skills and combat support abilities for warriors and fighters.
 
 #### Weapon Skills
 
-- **[Swordsmanship](swordsmanship.md)** - Master bladed weapons
-- **[Fencing](fencing.md)** - Excel with piercing weapons
-- **[Mace Fighting](mace-fighting.md)** - Wield blunt weapons effectively
-- **[Archery](archery.md)** - Ranged combat with bows and crossbows
-- **[Wrestling](wrestling.md)** - Unarmed combat and mage defense
+- **[Swordsmanship](combat/swordsmanship.md)** - Master bladed weapons
+- **[Fencing](combat/fencing.md)** - Excel with piercing weapons
+- **[Mace Fighting](combat/mace-fighting.md)** - Wield blunt weapons effectively
+- **[Archery](combat/archery.md)** - Ranged combat with bows and crossbows
+- **[Wrestling](combat/wrestling.md)** - Unarmed combat and mage defense
 
 #### Support Skills
 
-- **[Tactics](tactics.md)** ⭐ - Essential damage multiplier
-- **[Anatomy](anatomy.md)** ⭐ - Critical hits and healing bonus
-- **[Healing](healing.md)** ⭐ - Bandage yourself and others
-- **[Parrying](parrying.md)** - Shield-based defense
-- **[Resisting Spells](resisting-spells.md)** ⭐ - Defense against magic
+- **[Tactics](combat/tactics.md)** ⭐ - Essential damage multiplier
+- **[Anatomy](combat/anatomy.md)** ⭐ - Critical hits and healing bonus
+- **[Healing](combat/healing.md)** ⭐ - Bandage yourself and others
+- **[Parrying](combat/parrying.md)** - Shield-based defense
+- **[Resisting Spells](combat/resisting-spells.md)** ⭐ - Defense against magic
 
 [:octicons-arrow-right-24: View All Combat Skills](combat.md)
 
@@ -112,15 +112,15 @@ Spellcasting and magical abilities for mages and spellcasters.
 
 #### Core Mage Skills
 
-- **[Magery](magery.md)** ⭐ - Primary spellcasting skill
-- **[Evaluating Intelligence](evaluating-intelligence.md)** ⭐ - Magic damage boost
-- **[Meditation](meditation.md)** ⭐ - Mana regeneration
-- **[Resisting Spells](resisting-spells.md)** ⭐ - Magic resistance (universal)
+- **[Magery](magic/magery.md)** ⭐ - Primary spellcasting skill
+- **[Evaluating Intelligence](magic/evaluating-intelligence.md)** ⭐ - Magic damage boost
+- **[Meditation](magic/meditation.md)** ⭐ - Mana regeneration
+- **[Resisting Spells](combat/resisting-spells.md)** ⭐ - Magic resistance (universal)
 
 #### Support & Alternative
 
-- **[Inscription](inscription.md)** - Scribe scrolls, increase damage
-- **[Spirit Speak](spirit-speak.md)** - Alternative mana regeneration
+- **[Inscription](magic/inscription.md)** - Scribe scrolls, increase damage
+- **[Spirit Speak](magic/spirit-speak.md)** - Alternative mana regeneration
 
 ### Crafting Skills
 

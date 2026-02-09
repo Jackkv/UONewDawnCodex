@@ -1,4 +1,4 @@
-![Snooping](../../assets/Flag_snooping.gif){ align=right }
+![Snooping](../../../assets/Flag_snooping.gif){ align=right }
 
 # Snooping
 
@@ -58,9 +58,9 @@ Use Snooping on:
 - Snooping: 100 ⭐
 - [Hiding](hiding.md): 100
 - [Stealth](stealth.md): 100
-- [Wrestling](wrestling.md): 100
-- [Magery](magery.md): 80
-- [Resisting Spells](resisting-spells.md): 100
+- [Wrestling](../combat/wrestling.md): 100
+- [Magery](../magic/magery.md): 80
+- [Resisting Spells](../combat/resisting-spells.md): 100
 
 ## Uses
 

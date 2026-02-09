@@ -1,4 +1,4 @@
-![Mining](../../assets/Flag_mining.gif){ align=right }
+![Mining](../../../assets/Flag_mining.gif){ align=right }
 
 # Mining
 
@@ -81,20 +81,20 @@ Mining allows you to extract ore from mountainsides and rocky areas. Essential f
 
 **Essential For:**
 
-- [Blacksmithy](blacksmithy.md) - Needs ingots ⭐⭐⭐⭐⭐
+- [Blacksmithy](../crafting/blacksmithy.md) - Needs ingots ⭐⭐⭐⭐⭐
 
 **Support Skills:**
 
-- [Cartography](cartography.md) - Treasure hunting (dig up chests)
-- [Magery](magery.md) - Travel to mining spots
+- [Cartography](../utility-and-support/cartography.md) - Treasure hunting (dig up chests)
+- [Magery](../magic/magery.md) - Travel to mining spots
 
 **Miner Smith Template:**
 
 - Mining: 100
-- [Blacksmithy](blacksmithy.md): 100
-- [Arms Lore](arms-lore.md): 100
-- [Tinkering](tinkering.md): 50
-- [Magery](magery.md): 100
+- [Blacksmithy](../crafting/blacksmithy.md): 100
+- [Arms Lore](../utility-and-support/arms-lore.md): 100
+- [Tinkering](../crafting/tinkering.md): 50
+- [Magery](../magic/magery.md): 100
 - Other utility
 
 ## Ore Quality
@@ -160,7 +160,7 @@ Mining allows you to extract ore from mountainsides and rocky areas. Essential f
 
 **Related Pages:**
 
-- [Blacksmithy](blacksmithy.md)
-- [Cartography](cartography.md)
-- [Resources](../../items/resources.md)
+- [Blacksmithy](../crafting/blacksmithy.md)
+- [Cartography](../utility-and-support/cartography.md)
+- [Resources](../../../items/resources.md)
 - [Crafting Skills](crafting.md)

@@ -1,4 +1,4 @@
-![Wrestling](../../assets/Flag_wrestling.gif){ align=right }
+![Wrestling](../../../assets/Flag_wrestling.gif){ align=right }
 
 # Wrestling
 
@@ -58,9 +58,9 @@ Wrestling is the unarmed combat skill. While rarely used for actual fighting, it
 
 **For Mages:**
 
-- [Magery](magery.md) - Primary combat method
-- [Evaluating Intelligence](evaluating-intelligence.md) - Magic damage
-- [Meditation](meditation.md) - Mana regeneration
+- [Magery](../magic/magery.md) - Primary combat method
+- [Evaluating Intelligence](../magic/evaluating-intelligence.md) - Magic damage
+- [Meditation](../magic/meditation.md) - Mana regeneration
 - [Resisting Spells](resisting-spells.md) - Defense
 
 **For Wrestlers:**
@@ -131,5 +131,5 @@ In PvP, wrestling:
 **Related Pages:**
 
 - [Combat Skills Overview](index.md#combat-skills)
-- [Magery](magery.md)
+- [Magery](../magic/magery.md)
 - [Combat System](../combat.md)

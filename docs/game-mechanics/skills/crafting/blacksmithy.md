@@ -1,4 +1,4 @@
-![Blacksmithy](../../assets/Flag_blacksmithy.gif){ align=right }
+![Blacksmithy](../../../assets/Flag_blacksmithy.gif){ align=right }
 
 # Blacksmithy
 
@@ -75,12 +75,12 @@ Forge metal armor:
 
 **Essential:**
 
-- [Mining](mining.md) - Gather ore and ingots ⭐⭐⭐⭐⭐
+- [Mining](../resource-gathering/mining.md) - Gather ore and ingots ⭐⭐⭐⭐⭐
 
 **Recommended:**
 
 - [Tinkering](tinkering.md) - Make smith hammers
-- [Magery](magery.md) - Travel to mining spots
+- [Magery](../magic/magery.md) - Travel to mining spots
 
 **Smith Template:**
 
@@ -143,8 +143,8 @@ Forge metal armor:
 
 **Related Pages:**
 
-- [Mining](mining.md)
-- [Arms Lore](arms-lore.md)
+- [Mining](../resource-gathering/mining.md)
+- [Arms Lore](../utility-and-support/arms-lore.md)
 - [Crafting Skills](crafting.md)
-- [Weapons](../../items/weapons.md)
-- [Armor](../../items/armor.md)
+- [Weapons](../../../items/weapons.md)
+- [Armor](../../../items/armor.md)

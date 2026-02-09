@@ -1,4 +1,4 @@
-![Tinkering](../../assets/Flag_tinkering.gif){ align=right }
+![Tinkering](../../../assets/Flag_tinkering.gif){ align=right }
 
 # Tinkering
 
@@ -14,7 +14,7 @@ Tinkering allows you to create various tools and mechanical items including lock
 
 Create tools for other skills:
 
-- Lockpicks (for [Lockpicking](lockpicking.md))
+- Lockpicks (for [Lockpicking](../stealth-and-thievery/lockpicking.md))
 - Sewing kits (for [Tailoring](tailoring.md))
 - Tinker tools (self-replicating)
 - Various specialty tools
@@ -80,7 +80,7 @@ Create mechanical traps:
 
 **Supports:**
 
-- [Lockpicking](lockpicking.md) - Make lockpicks ⭐⭐⭐⭐
+- [Lockpicking](../stealth-and-thievery/lockpicking.md) - Make lockpicks ⭐⭐⭐⭐
 - [Tailoring](tailoring.md) - Make sewing kits ⭐⭐⭐⭐
 - [Blacksmithy](blacksmithy.md) - Share ingots
 - [Carpentry](carpentry.md) - Make nails
@@ -90,7 +90,7 @@ Create mechanical traps:
 - Primary craft skill: 100
 - Tinkering: 50-100
 - Resource gathering: 100
-- [Magery](magery.md): 100
+- [Magery](../magic/magery.md): 100
 
 ## Economic Value
 
@@ -111,7 +111,7 @@ Create mechanical traps:
 
 ### Lockpicks
 
-- Essential for [Lockpicking](lockpicking.md)
+- Essential for [Lockpicking](../stealth-and-thievery/lockpicking.md)
 - Consumed on failure
 - High demand item
 - Easy to craft in bulk
@@ -138,7 +138,7 @@ Create mechanical traps:
 
 **Related Pages:**
 
-- [Lockpicking](lockpicking.md)
+- [Lockpicking](../stealth-and-thievery/lockpicking.md)
 - [Tailoring](tailoring.md)
 - [Blacksmithy](blacksmithy.md)
 - [Crafting Skills](crafting.md)

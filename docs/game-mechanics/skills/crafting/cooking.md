@@ -1,4 +1,4 @@
-![Cooking](../../assets/Flag_cooking.gif){ align=right }
+![Cooking](../../../assets/Flag_cooking.gif){ align=right }
 
 # Cooking
 
@@ -45,8 +45,8 @@ Cooking allows you to prepare various foods from raw ingredients. While basic fo
 ## Related Skills
 
 **Synergy With:**
-- [Fishing](fishing.md) - Catch fish to cook
-- [Animal Taming](animal-taming.md) - Get milk and eggs
+- [Fishing](../resource-gathering/fishing.md) - Catch fish to cook
+- [Animal Taming](../taming-and-animals/animal-taming.md) - Get milk and eggs
 
 ## Uses
 
@@ -72,6 +72,6 @@ Cooking allows you to prepare various foods from raw ingredients. While basic fo
 
 **Related Pages:**
 
-- [Fishing](fishing.md)
+- [Fishing](../resource-gathering/fishing.md)
 - [Crafting Skills](crafting.md)
 - [Skills Overview](index.md)

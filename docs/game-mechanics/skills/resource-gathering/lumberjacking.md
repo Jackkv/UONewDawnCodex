@@ -1,4 +1,4 @@
-![Lumberjacking](../../assets/Flag_lumberjacking.gif){ align=right }
+![Lumberjacking](../../../assets/Flag_lumberjacking.gif){ align=right }
 
 # Lumberjacking
 
@@ -71,20 +71,20 @@ When using axe weapons:
 
 **Essential For:**
 
-- [Bowcraft/Fletching](bowcraft-fletching.md) - Needs logs ⭐⭐⭐⭐⭐
-- [Carpentry](carpentry.md) - Needs boards ⭐⭐⭐⭐⭐
+- [Bowcraft/Fletching](../crafting/bowcraft-fletching.md) - Needs logs ⭐⭐⭐⭐⭐
+- [Carpentry](../crafting/carpentry.md) - Needs boards ⭐⭐⭐⭐⭐
 
 **Combat Synergy:**
 
-- [Swordsmanship](swordsmanship.md) - If using axes
-- [Tactics](tactics.md) - Damage multiplier
-- [Anatomy](anatomy.md) - More damage
+- [Swordsmanship](../combat/swordsmanship.md) - If using axes
+- [Tactics](../combat/tactics.md) - Damage multiplier
+- [Anatomy](../combat/anatomy.md) - More damage
 
 **Lumberjack Crafter:**
 
 - Lumberjacking: 100
-- [Carpentry](carpentry.md): 100 or [Bowcraft/Fletching](bowcraft-fletching.md): 100
-- [Magery](magery.md): 100
+- [Carpentry](../crafting/carpentry.md): 100 or [Bowcraft/Fletching](../crafting/bowcraft-fletching.md): 100
+- [Magery](../magic/magery.md): 100
 - Other utility skills
 
 ## Wood Types
@@ -121,13 +121,13 @@ When using axe weapons:
 
 ### Lumberjack Warrior
 
-- [Swordsmanship](swordsmanship.md): 100 (for axes)
+- [Swordsmanship](../combat/swordsmanship.md): 100 (for axes)
 - Lumberjacking: 100
-- [Tactics](tactics.md): 100
-- [Anatomy](anatomy.md): 100
-- [Healing](healing.md): 100
-- [Resisting Spells](resisting-spells.md): 100
-- [Parrying](parrying.md): 100
+- [Tactics](../combat/tactics.md): 100
+- [Anatomy](../combat/anatomy.md): 100
+- [Healing](../combat/healing.md): 100
+- [Resisting Spells](../combat/resisting-spells.md): 100
+- [Parrying](../combat/parrying.md): 100
 
 ## Importance
 
@@ -138,7 +138,7 @@ When using axe weapons:
 
 **Related Pages:**
 
-- [Carpentry](carpentry.md)
-- [Bowcraft/Fletching](bowcraft-fletching.md)
-- [Swordsmanship](swordsmanship.md)
-- [Resources](../../items/resources.md)
+- [Carpentry](../crafting/carpentry.md)
+- [Bowcraft/Fletching](../crafting/bowcraft-fletching.md)
+- [Swordsmanship](../combat/swordsmanship.md)
+- [Resources](../../../items/resources.md)

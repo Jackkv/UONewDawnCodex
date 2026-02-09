@@ -1,4 +1,4 @@
-![Parrying](../../assets/Flag_parrying.gif){ align=right }
+![Parrying](../../../assets/Flag_parrying.gif){ align=right }
 
 # Parrying
 
@@ -167,4 +167,4 @@ In PvP, Parrying:
 - [Combat Skills Overview](index.md#combat-skills)
 - [Combat System](../combat.md)
 - [Healing](healing.md)
-- [Equipment Guide](../../items/armor.md)
+- [Equipment Guide](../../../items/armor.md)

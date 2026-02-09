@@ -1,4 +1,4 @@
-![Fishing](../../assets/Flag_fishing.gif){ align=right }
+![Fishing](../../../assets/Flag_fishing.gif){ align=right }
 
 # Fishing
 
@@ -63,7 +63,7 @@ At higher skills:
 
 **Synergy With:**
 
-- [Cooking](cooking.md) - Prepare your catches
+- [Cooking](../crafting/cooking.md) - Prepare your catches
 
 ## Uses
 
@@ -115,6 +115,6 @@ At higher skills:
 
 **Related Pages:**
 
-- [Cooking](cooking.md)
-- [Lockpicking](lockpicking.md)
+- [Cooking](../crafting/cooking.md)
+- [Lockpicking](../stealth-and-thievery/lockpicking.md)
 - [Skills Overview](index.md)

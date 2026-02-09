@@ -1,4 +1,4 @@
-![Bowcraft/Fletching](../../assets/Flag_bowcraft.gif){ align=right }
+![Bowcraft/Fletching](../../../assets/Flag_bowcraft.gif){ align=right }
 
 # Bowcraft/Fletching
 
@@ -68,11 +68,11 @@ Produce arrows and bolts:
 
 **Essential:**
 
-- [Lumberjacking](lumberjacking.md) - Gather wood ⭐⭐⭐⭐
+- [Lumberjacking](../resource-gathering/lumberjacking.md) - Gather wood ⭐⭐⭐⭐
 
 **Recommended:**
 
-- [Archery](archery.md) - Test your creations
+- [Archery](../combat/archery.md) - Test your creations
 - [Tinkering](tinkering.md) - Make fletcher's tools
 
 **Fletcher Template:**
@@ -134,7 +134,7 @@ Produce arrows and bolts:
 
 **Related Pages:**
 
-- [Lumberjacking](lumberjacking.md)
-- [Archery](archery.md)
+- [Lumberjacking](../resource-gathering/lumberjacking.md)
+- [Archery](../combat/archery.md)
 - [Crafting Skills](crafting.md)
-- [Weapons](../../items/weapons.md)
+- [Weapons](../../../items/weapons.md)

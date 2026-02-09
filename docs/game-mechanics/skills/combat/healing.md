@@ -1,4 +1,4 @@
-![Healing](../../assets/Flag_healing.gif){ align=right }
+![Healing](../../../assets/Flag_healing.gif){ align=right }
 
 # Healing
 
@@ -187,9 +187,9 @@ In PvP, Healing is critical:
 
 Mages use spells instead:
 
-- [Heal](magery.md) spell - Fast HP restore
-- [Greater Heal](magery.md) spell - More HP
-- [Close Wounds](magery.md) - Instant heal
+- [Heal](../magic/magery.md) spell - Fast HP restore
+- [Greater Heal](../magic/magery.md) spell - More HP
+- [Close Wounds](../magic/magery.md) - Instant heal
 
 ### Comparison
 

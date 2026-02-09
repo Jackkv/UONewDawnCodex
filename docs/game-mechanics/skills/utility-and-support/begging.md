@@ -1,4 +1,4 @@
-![Begging](../../assets/Flag_begging.gif){ align=right }
+![Begging](../../../assets/Flag_begging.gif){ align=right }
 
 # Begging
 
@@ -46,9 +46,9 @@ Use Begging on:
 
 **Roleplay Skills:**
 
-- [Hiding](hiding.md) - Escape after begging
-- [Stealing](stealing.md) - Alternative income
-- [Snooping](snooping.md) - Check targets first
+- [Hiding](../stealth-and-thievery/hiding.md) - Escape after begging
+- [Stealing](../stealth-and-thievery/stealing.md) - Alternative income
+- [Snooping](../stealth-and-thievery/snooping.md) - Check targets first
 
 ## Uses
 
@@ -73,4 +73,4 @@ Use Begging on:
 **Related Pages:**
 
 - [Skills Overview](index.md)
-- [Currencies](../currencies.md)
+- [Currencies](../../currencies.md)

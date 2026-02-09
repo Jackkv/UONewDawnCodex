@@ -1,4 +1,4 @@
-![Veterinary](../../assets/Flag_veterinary.gif){ align=right }
+![Veterinary](../../../assets/Flag_veterinary.gif){ align=right }
 
 # Veterinary
 
@@ -55,8 +55,8 @@ Veterinary is the pet equivalent of Healing. It allows you to heal and resurrect
 
 ### Bandages
 
-- Created via [Tailoring](tailoring.md)
-- Same bandages as [Healing](healing.md) skill
+- Created via [Tailoring](../crafting/tailoring.md)
+- Same bandages as [Healing](../combat/healing.md) skill
 - Stock up before hunting
 
 ## Related Skills
@@ -71,10 +71,10 @@ Veterinary is the pet equivalent of Healing. It allows you to heal and resurrect
 - [Animal Taming](animal-taming.md): 100
 - [Animal Lore](animal-lore.md): 100
 - Veterinary: 100 ⭐
-- [Magery](magery.md): 100
-- [Meditation](meditation.md): 100
-- [Resisting Spells](resisting-spells.md): 100
-- [Wrestling](wrestling.md): 100
+- [Magery](../magic/magery.md): 100
+- [Meditation](../magic/meditation.md): 100
+- [Resisting Spells](../combat/resisting-spells.md): 100
+- [Wrestling](../combat/wrestling.md): 100
 
 ## Healing Synergy
 
@@ -120,10 +120,10 @@ Requirements for pet resurrection:
 - [Animal Taming](animal-taming.md): 100
 - [Animal Lore](animal-lore.md): 100
 - Veterinary: 100
-- [Magery](magery.md): 100
-- [Meditation](meditation.md): 100
-- [Resisting Spells](resisting-spells.md): 100
-- [Wrestling](wrestling.md): 100
+- [Magery](../magic/magery.md): 100
+- [Meditation](../magic/meditation.md): 100
+- [Resisting Spells](../combat/resisting-spells.md): 100
+- [Wrestling](../combat/wrestling.md): 100
 
 ## Pet Bonding
 
@@ -155,5 +155,5 @@ Requirements for pet resurrection:
 
 - [Animal Taming](animal-taming.md)
 - [Animal Lore](animal-lore.md)
-- [Healing](healing.md)
-- [Tailoring](tailoring.md)
+- [Healing](../combat/healing.md)
+- [Tailoring](../crafting/tailoring.md)

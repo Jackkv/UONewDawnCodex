@@ -1,4 +1,4 @@
-![Poisoning](../../assets/Flag_poisoning.gif){ align=right }
+![Poisoning](../../../assets/Flag_poisoning.gif){ align=right }
 
 # Poisoning
 
@@ -18,7 +18,7 @@ Poisoning allows you to apply various levels of poison to weapons or enhance the
 
 ### Spell Enhancement
 
-If using poison spells ([Magery](magery.md)):
+If using poison spells ([Magery](../magic/magery.md)):
 
 - Increased poison level
 - Longer poison duration
@@ -72,7 +72,7 @@ If using poison spells ([Magery](magery.md)):
 
 - [Fencing](fencing.md) - Fast weapons = more poison applications
 - [Archery](archery.md) - Poison from safe distance
-- [Magery](magery.md) - Poison spell enhancement
+- [Magery](../magic/magery.md) - Poison spell enhancement
 
 **Support Skills:**
 
@@ -108,17 +108,17 @@ If using poison spells ([Magery](magery.md)):
 - [Anatomy](anatomy.md): 100
 - [Healing](healing.md): 100
 - [Resisting Spells](resisting-spells.md): 100
-- [Magery](magery.md): 100
+- [Magery](../magic/magery.md): 100
 
 ### Poison Mage
 
-- [Magery](magery.md): 100
-- [Evaluating Intelligence](evaluating-intelligence.md): 100
+- [Magery](../magic/magery.md): 100
+- [Evaluating Intelligence](../magic/evaluating-intelligence.md): 100
 - **Poisoning: 100** ⭐
-- [Meditation](meditation.md): 100
+- [Meditation](../magic/meditation.md): 100
 - [Resisting Spells](resisting-spells.md): 100
 - [Wrestling](wrestling.md): 100
-- [Inscription](inscription.md): 100
+- [Inscription](../magic/inscription.md): 100
 
 ## PvP Effectiveness
 

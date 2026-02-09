@@ -1,4 +1,4 @@
-![Archery](../../assets/Flag_archery.gif){ align=right }
+![Archery](../../../assets/Flag_archery.gif){ align=right }
 
 # Archery
 
@@ -66,13 +66,13 @@ Archery allows you to fight from a distance using bows and crossbows. This skill
 
 - [Tactics](tactics.md) - Damage boost
 - [Anatomy](anatomy.md) - Critical hits
-- [Hiding](hiding.md) - Hit and hide tactics
-- [Tracking](tracking.md) - Find targets
+- [Hiding](../stealth-and-thievery/hiding.md) - Hit and hide tactics
+- [Tracking](../utility-and-support/tracking.md) - Find targets
 
 **Recommended:**
 
 - [Healing](healing.md) - Emergency recovery
-- [Magery](magery.md) - Utility spells
+- [Magery](../magic/magery.md) - Utility spells
 
 ## Combat Advantages
 
@@ -131,8 +131,8 @@ After a successful snare:
 - Tactics: 100
 - Anatomy: 100
 - Healing: 100
-- [Hiding](hiding.md): 100
-- [Tracking](tracking.md): 100
+- [Hiding](../stealth-and-thievery/hiding.md): 100
+- [Tracking](../utility-and-support/tracking.md): 100
 - Resisting Spells: 100
 
 ### Stealth Archer
@@ -173,5 +173,5 @@ Light armor recommended:
 
 - [Combat Skills Overview](index.md#combat-skills)
 - [Combat System](../combat.md)
-- [Hiding](hiding.md)
-- [Tracking](tracking.md)
+- [Hiding](../stealth-and-thievery/hiding.md)
+- [Tracking](../utility-and-support/tracking.md)

@@ -1,4 +1,4 @@
-![Remove Trap](../../assets/Flag_remove_trap.gif){ align=right }
+![Remove Trap](../../../assets/Flag_remove_trap.gif){ align=right }
 
 # Remove Trap
 
@@ -66,15 +66,15 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 **Essential For:**
 
 - [Cartography](cartography.md) - Treasure hunting ⭐⭐⭐⭐⭐
-- [Lockpicking](lockpicking.md) - Open after disarming ⭐⭐⭐⭐⭐
+- [Lockpicking](../stealth-and-thievery/lockpicking.md) - Open after disarming ⭐⭐⭐⭐⭐
 
 **Treasure Hunter Template:**
 
 - [Cartography](cartography.md): 100
-- [Lockpicking](lockpicking.md): 100
-- [Mining](mining.md): 100
+- [Lockpicking](../stealth-and-thievery/lockpicking.md): 100
+- [Mining](../resource-gathering/mining.md): 100
 - Remove Trap: 80
-- [Magery](magery.md): 100
+- [Magery](../magic/magery.md): 100
 - Combat skills
 
 ## Uses
@@ -104,10 +104,10 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 
 1. Decode treasure map ([Cartography](cartography.md))
 2. Travel to location
-3. Dig up chest ([Mining](mining.md))
+3. Dig up chest ([Mining](../resource-gathering/mining.md))
 4. Kill guardian monsters
 5. **Disarm trap (Remove Trap)** ⭐
-6. Pick lock ([Lockpicking](lockpicking.md))
+6. Pick lock ([Lockpicking](../stealth-and-thievery/lockpicking.md))
 7. Claim treasure
 
 ## Failure Consequences
@@ -133,6 +133,6 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 **Related Pages:**
 
 - [Cartography](cartography.md)
-- [Lockpicking](lockpicking.md)
-- [Mining](mining.md)
-- [Special Items](../../items/special-items.md)
+- [Lockpicking](../stealth-and-thievery/lockpicking.md)
+- [Mining](../resource-gathering/mining.md)
+- [Special Items](../../../items/special-items.md)

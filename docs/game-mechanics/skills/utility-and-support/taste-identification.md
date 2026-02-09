@@ -1,4 +1,4 @@
-![Taste Identification](../../assets/Flag_taste_identification.gif){ align=right }
+![Taste Identification](../../../assets/Flag_taste_identification.gif){ align=right }
 
 # Taste Identification
 
@@ -38,9 +38,9 @@ Use Taste Identification on:
 
 **Poison Skills:**
 
-- [Poisoning](poisoning.md) - Create poisons
-- [Resisting Spells](resisting-spells.md) - Resist effects
-- [Alchemy](alchemy.md) - Make potions
+- [Poisoning](../combat/poisoning.md) - Create poisons
+- [Resisting Spells](../combat/resisting-spells.md) - Resist effects
+- [Alchemy](../crafting/alchemy.md) - Make potions
 
 ## Uses
 
@@ -69,6 +69,6 @@ Use Taste Identification on:
 
 **Related Pages:**
 
-- [Poisoning](poisoning.md)
-- [Alchemy](alchemy.md)
-- [Resisting Spells](resisting-spells.md)
+- [Poisoning](../combat/poisoning.md)
+- [Alchemy](../crafting/alchemy.md)
+- [Resisting Spells](../combat/resisting-spells.md)

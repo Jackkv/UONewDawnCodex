@@ -1,4 +1,4 @@
-![Swordsmanship](../../assets/Flag_swordsmanship.gif){ align=right }
+![Swordsmanship](../../../assets/Flag_swordsmanship.gif){ align=right }
 
 # Swordsmanship
 
@@ -121,4 +121,4 @@ Balance protection with mobility:
 
 - [Combat Skills Overview](index.md#combat-skills)
 - [Combat System](../combat.md)
-- [Character Creation](../../getting-started/character-creation.md)
+- [Character Creation](../../../getting-started/character-creation.md)

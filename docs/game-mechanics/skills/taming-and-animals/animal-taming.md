@@ -1,4 +1,4 @@
-![Animal Taming](../../assets/Flag_animal_taming.gif){ align=right }
+![Animal Taming](../../../assets/Flag_animal_taming.gif){ align=right }
 
 # Animal Taming
 
@@ -90,9 +90,9 @@ Each creature requires a certain number of control slots. Your maximum follower 
 
 **Recommended:**
 
-- [Magery](magery.md) - Utility and travel
-- [Meditation](meditation.md) - Mana regeneration
-- [Resisting Spells](resisting-spells.md) - Survival
+- [Magery](../magic/magery.md) - Utility and travel
+- [Meditation](../magic/meditation.md) - Mana regeneration
+- [Resisting Spells](../combat/resisting-spells.md) - Survival
 
 ## Pet Commands
 

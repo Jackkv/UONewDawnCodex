@@ -1,4 +1,4 @@
-![Anatomy](../../assets/Flag_anatomy.gif){ align=right }
+![Anatomy](../../../assets/Flag_anatomy.gif){ align=right }
 
 # Anatomy
 

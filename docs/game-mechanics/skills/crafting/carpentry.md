@@ -1,4 +1,4 @@
-![Carpentry](../../assets/Flag_carpentry.gif){ align=right }
+![Carpentry](../../../assets/Flag_carpentry.gif){ align=right }
 
 # Carpentry
 
@@ -75,12 +75,12 @@ Make musical instruments:
 
 **Essential:**
 
-- [Lumberjacking](lumberjacking.md) - Gather wood ⭐⭐⭐⭐
+- [Lumberjacking](../resource-gathering/lumberjacking.md) - Gather wood ⭐⭐⭐⭐
 
 **Recommended:**
 
 - [Tinkering](tinkering.md) - Make tools and nails
-- [Musicianship](musicianship.md) - Use instruments you craft
+- [Musicianship](../bard-skills/musicianship.md) - Use instruments you craft
 
 **Carpenter Template:**
 
@@ -128,7 +128,7 @@ Make musical instruments:
 
 **Related Pages:**
 
-- [Lumberjacking](lumberjacking.md)
-- [Musicianship](musicianship.md)
+- [Lumberjacking](../resource-gathering/lumberjacking.md)
+- [Musicianship](../bard-skills/musicianship.md)
 - [Crafting Skills](crafting.md)
 - [Items](../../items/index.md)

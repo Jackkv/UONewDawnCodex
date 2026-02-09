@@ -1,4 +1,4 @@
-![Inscription](../../assets/Flag_inscription.gif){ align=right }
+![Inscription](../../../assets/Flag_inscription.gif){ align=right }
 
 # Inscription
 

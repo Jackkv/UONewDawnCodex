@@ -1,4 +1,4 @@
-![Forensic Evaluation](../../assets/Flag_forensic_evaluation.gif){ align=right }
+![Forensic Evaluation](../../../assets/Flag_forensic_evaluation.gif){ align=right }
 
 # Forensic Evaluation
 
@@ -45,13 +45,13 @@ Use Forensic Evaluation on:
 **Synergy With:**
 
 - [Tracking](tracking.md) - Follow killers
-- [Detecting Hidden](detecting-hidden.md) - Find hidden killers
+- [Detecting Hidden](../stealth-and-thievery/detecting-hidden.md) - Find hidden killers
 
 **Detective Template (Roleplay):**
 
 - Forensic Evaluation: 100
 - [Tracking](tracking.md): 100
-- [Detecting Hidden](detecting-hidden.md): 100
+- [Detecting Hidden](../stealth-and-thievery/detecting-hidden.md): 100
 - Combat skills
 - Investigation focus
 
@@ -102,4 +102,4 @@ Use Forensic Evaluation on:
 
 - [Tracking](tracking.md)
 - [PvP Guide](../pvp/index.md)
-- [Murder System](../pvp/murder-system.md)
+- [Murder System](../../pvp/murder-system.md)

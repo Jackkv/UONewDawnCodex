@@ -1,4 +1,4 @@
-![Animal Lore](../../assets/Flag_animal_lore.gif){ align=right }
+![Animal Lore](../../../assets/Flag_animal_lore.gif){ align=right }
 
 # Animal Lore
 
@@ -139,4 +139,3 @@ Use Animal Lore skill on:
 - [Animal Taming](animal-taming.md)
 - [Veterinary](veterinary.md)
 - [Skills Overview](index.md)
-

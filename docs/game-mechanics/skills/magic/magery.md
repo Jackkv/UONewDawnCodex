@@ -1,4 +1,4 @@
-![Magery](../../assets/Flag_magery.gif){ align=right }
+![Magery](../../../assets/Flag_magery.gif){ align=right }
 
 # Magery
 
@@ -113,13 +113,13 @@ Legendary magic:
 
 - [Evaluating Intelligence](evaluating-intelligence.md) - Magic damage
 - [Meditation](meditation.md) - Mana regeneration
-- [Wrestling](wrestling.md) - Defense without weapon
-- [Resisting Spells](resisting-spells.md) - Magic defense
+- [Wrestling](../combat/wrestling.md) - Defense without weapon
+- [Resisting Spells](../combat/resisting-spells.md) - Magic defense
 
 **Advanced Combinations:**
 
 - [Inscription](inscription.md) - Increased spell damage
-- [Poisoning](poisoning.md) - Enhanced poison spells
+- [Poisoning](../combat/poisoning.md) - Enhanced poison spells
 
 ## Spell Categories
 
@@ -234,4 +234,4 @@ Magery is incredibly versatile and useful for almost every template!
 - [Magic Skills Overview](index.md#magic-skills)
 - [Evaluating Intelligence](evaluating-intelligence.md)
 - [Meditation](meditation.md)
-- [Magic System](../magic.md)
+- [Magic System](../../magic.md)

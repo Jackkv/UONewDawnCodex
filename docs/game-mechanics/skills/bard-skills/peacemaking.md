@@ -1,4 +1,4 @@
-![Peacemaking](../../assets/Flag_peacemaking.gif){ align=right }
+![Peacemaking](../../../assets/Flag_peacemaking.gif){ align=right }
 
 # Peacemaking
 
@@ -60,10 +60,10 @@ Use Peacemaking:
 - [Musicianship](musicianship.md): 100
 - Peacemaking: 100 ⭐
 - [Provocation](provocation.md): 100
-- [Magery](magery.md): 100
-- [Meditation](meditation.md): 100
-- [Resisting Spells](resisting-spells.md): 100
-- [Evaluating Intelligence](evaluating-intelligence.md): 100
+- [Magery](../magic/magery.md): 100
+- [Meditation](../magic/meditation.md): 100
+- [Resisting Spells](../combat/resisting-spells.md): 100
+- [Evaluating Intelligence](../magic/evaluating-intelligence.md): 100
 
 ## Uses
 

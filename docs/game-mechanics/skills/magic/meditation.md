@@ -1,4 +1,4 @@
-![Meditation](../../assets/Flag_meditation.gif){ align=right }
+![Meditation](../../../assets/Flag_meditation.gif){ align=right }
 
 # Meditation
 
@@ -196,4 +196,4 @@ Warriors who use magic for utility:
 - [Magic Skills Overview](index.md#magic-skills)
 - [Magery](magery.md)
 - [Evaluating Intelligence](evaluating-intelligence.md)
-- [Equipment Guide](../../items/armor.md)
+- [Equipment Guide](../../../items/armor.md)

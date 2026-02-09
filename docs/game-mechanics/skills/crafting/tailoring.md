@@ -1,4 +1,4 @@
-![Tailoring](../../assets/Flag_tailoring.gif){ align=right }
+![Tailoring](../../../assets/Flag_tailoring.gif){ align=right }
 
 # Tailoring
 
@@ -32,7 +32,7 @@ Make leather armor:
 
 - **Bandages** - Essential healing supply
 - Made from cloth
-- Used with [Healing](healing.md) skill
+- Used with [Healing](../combat/healing.md) skill
 - Always in demand
 
 ### Special Dye Crafting
@@ -80,7 +80,7 @@ Master tailors can create unique dungeon dyes:
 **Resource Gathering:**
 
 - Combat skills - Kill animals for hides
-- [Animal Taming](animal-taming.md) - Source of leather
+- [Animal Taming](../taming-and-animals/animal-taming.md) - Source of leather
 
 **Related Crafts:**
 
@@ -89,7 +89,7 @@ Master tailors can create unique dungeon dyes:
 **Tailor Template:**
 
 - Tailoring: 100
-- [Magery](magery.md): 100
+- [Magery](../magic/magery.md): 100
 - Other utility skills
 
 ## Crafting Quality
@@ -130,7 +130,7 @@ Master tailors can create unique dungeon dyes:
 
 - Every character needs bandages
 - Made from cloth
-- Essential for [Healing](healing.md)
+- Essential for [Healing](../combat/healing.md)
 - Constant market demand
 
 ### Bandage Crafting
@@ -174,7 +174,7 @@ Master tailors can create unique dungeon dyes:
 
 **Related Pages:**
 
-- [Healing](healing.md)
+- [Healing](../combat/healing.md)
 - [Crafting Skills](crafting.md)
-- [Armor](../../items/armor.md)
-- [Resources](../../items/resources.md)
+- [Armor](../../../items/armor.md)
+- [Resources](../../../items/resources.md)

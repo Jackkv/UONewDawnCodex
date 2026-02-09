@@ -1,4 +1,4 @@
-![Lockpicking](../../assets/Flag_lockpicking.gif){ align=right }
+![Lockpicking](../../../assets/Flag_lockpicking.gif){ align=right }
 
 # Lockpicking
 
@@ -60,23 +60,23 @@ Different locks require different skill:
 ### Tools
 
 - **Lockpicks** - Required for picking locks
-- Created by [Tinkering](tinkering.md)
+- Created by [Tinkering](../crafting/tinkering.md)
 - Consumed on failure
 
 ## Related Skills
 
 **Essential For:**
 
-- [Cartography](cartography.md) - Treasure hunting ⭐⭐⭐⭐⭐
-- [Remove Trap](remove-trap.md) - Disarm before opening
+- [Cartography](../utility-and-support/cartography.md) - Treasure hunting ⭐⭐⭐⭐⭐
+- [Remove Trap](../utility-and-support/remove-trap.md) - Disarm before opening
 
 **Treasure Hunter Template:**
 
-- [Cartography](cartography.md): 100
+- [Cartography](../utility-and-support/cartography.md): 100
 - Lockpicking: 100
-- [Mining](mining.md): 100
-- [Remove Trap](remove-trap.md): 80
-- [Magery](magery.md): 100
+- [Mining](../resource-gathering/mining.md): 100
+- [Remove Trap](../utility-and-support/remove-trap.md): 80
+- [Magery](../magic/magery.md): 100
 - Combat skills
 
 **Thief Template:**
@@ -112,7 +112,7 @@ Different locks require different skill:
 
 ### Creating Lockpicks
 
-- Requires [Tinkering](tinkering.md) skill
+- Requires [Tinkering](../crafting/tinkering.md) skill
 - Made from iron ingots
 - Cheap to produce
 
@@ -126,7 +126,7 @@ Different locks require different skill:
 
 **Related Pages:**
 
-- [Cartography](cartography.md)
-- [Remove Trap](remove-trap.md)
-- [Tinkering](tinkering.md)
+- [Cartography](../utility-and-support/cartography.md)
+- [Remove Trap](../utility-and-support/remove-trap.md)
+- [Tinkering](../crafting/tinkering.md)
 - [Stealing](stealing.md)
