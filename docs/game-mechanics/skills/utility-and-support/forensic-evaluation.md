@@ -101,5 +101,5 @@ Use Forensic Evaluation on:
 **Related Pages:**
 
 - [Tracking](tracking.md)
-- [PvP Guide](../pvp/index.md)
+- [PvP Guide](../../pvp/index.md)
 - [Murder System](../../pvp/murder-system.md)

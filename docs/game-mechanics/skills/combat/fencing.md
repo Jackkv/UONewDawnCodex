@@ -113,6 +113,6 @@ Fencing weapons are ideal for poisoning:
 
 **Related Pages:**
 
-- [Combat Skills Overview](index.md#combat-skills)
+- [Combat Skills Overview](../index.md#combat-skills)
 - [Poisoning](poisoning.md)
-- [Combat System](../combat.md)
+- [Combat System](../../combat.md)

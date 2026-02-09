@@ -62,7 +62,7 @@ If using poison spells ([Magery](../magic/magery.md)):
 
 ### Materials
 
-- **Poison Potions** - From [Alchemy](crafting.md#alchemy) or vendors
+- **Poison Potions** - From [Alchemy](../../crafting.md#alchemy) or vendors
 - **Weapons** - To apply poison to
 - **Empty Bottles** - For creating poisons (if crafting)
 
@@ -76,7 +76,7 @@ If using poison spells ([Magery](../magic/magery.md)):
 
 **Support Skills:**
 
-- [Alchemy](crafting.md#alchemy) - Create poison potions
+- [Alchemy](../../crafting.md#alchemy) - Create poison potions
 - [Tactics](tactics.md) - Damage
 - [Anatomy](anatomy.md) - Critical hits
 
@@ -142,7 +142,7 @@ For monster hunting:
 
 ### Poison Potions
 
-- Buy from [Alchemy](crafting.md#alchemy) vendors
+- Buy from [Alchemy](../../crafting.md#alchemy) vendors
 - Create with Alchemy skill
 - Stock up for adventures
 - Costs add up at high levels
@@ -156,7 +156,7 @@ For monster hunting:
 
 **Related Pages:**
 
-- [Combat Skills](index.md#combat-skills)
+- [Combat Skills](../index.md#combat-skills)
 - [Fencing](fencing.md)
 - [Archery](archery.md)
-- [Alchemy](crafting.md#alchemy)
+- [Alchemy](../../crafting.md#alchemy)

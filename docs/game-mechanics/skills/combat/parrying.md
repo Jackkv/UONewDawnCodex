@@ -164,7 +164,7 @@ In PvP, Parrying:
 
 **Related Pages:**
 
-- [Combat Skills Overview](index.md#combat-skills)
-- [Combat System](../combat.md)
+- [Combat Skills Overview](../index.md#combat-skills)
+- [Combat System](../../combat.md)
 - [Healing](healing.md)
 - [Equipment Guide](../../../items/armor.md)

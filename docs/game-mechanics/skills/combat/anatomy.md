@@ -114,7 +114,7 @@ In PvP, Anatomy is crucial:
 
 **Related Pages:**
 
-- [Combat Skills Overview](index.md#combat-skills)
+- [Combat Skills Overview](../../index.md#combat-skills)
 - [Tactics](tactics.md)
 - [Healing](healing.md)
-- [Combat System](../combat.md)
+- [Combat System](../../combat.md)

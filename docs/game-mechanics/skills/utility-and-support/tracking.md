@@ -151,4 +151,4 @@ Use Tracking skill:
 - [Detecting Hidden](../stealth-and-thievery/detecting-hidden.md)
 - [Hiding](../stealth-and-thievery/hiding.md)
 - [Stealth](../stealth-and-thievery/stealth.md)
-- [PvP Guide](../pvp/index.md)
+- [PvP Guide](../../pvp/index.md)

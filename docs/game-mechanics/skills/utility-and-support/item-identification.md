@@ -83,5 +83,5 @@ Use Item Identification on:
 
 - [Arms Lore](arms-lore.md)
 - [Magery](../magic/magery.md)
-- [Items](../../items/index.md)
+- [Items](../../../items/index.md)
 - [Special Items](../../../items/special-items.md)

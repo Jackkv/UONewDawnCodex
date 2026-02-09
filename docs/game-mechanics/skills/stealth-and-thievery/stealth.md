@@ -177,4 +177,4 @@ Use Stealth while hidden:
 - [Detecting Hidden](detecting-hidden.md)
 - [Stealing](stealing.md)
 - [Snooping](snooping.md)
-- [PvP Guide](../pvp/index.md)
+- [PvP Guide](../../pvp/index.md)

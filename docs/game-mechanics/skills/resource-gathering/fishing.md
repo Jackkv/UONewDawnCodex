@@ -117,4 +117,4 @@ At higher skills:
 
 - [Cooking](../crafting/cooking.md)
 - [Lockpicking](../stealth-and-thievery/lockpicking.md)
-- [Skills Overview](index.md)
+- [Skills Overview](../index.md)

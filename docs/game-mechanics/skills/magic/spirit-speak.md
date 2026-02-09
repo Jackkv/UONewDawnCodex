@@ -175,8 +175,8 @@ For hunting:
 
 - [Spirit Summoner System](../../../custom-systems/spirit-summoner.md)
 - [Animal Lore](../taming-and-animals/animal-lore.md)
-- [Magic Skills Overview](index.md#magic-skills)
+- [Magic Skills Overview](../index.md#magic-skills)
 - [Meditation](meditation.md)
 - [Magery](magery.md)
 - [Veterinary](../taming-and-animals/veterinary.md)
-- [Combat System](../combat.md)
+- [Combat System](../../combat.md)

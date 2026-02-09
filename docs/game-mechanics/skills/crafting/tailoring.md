@@ -175,6 +175,6 @@ Master tailors can create unique dungeon dyes:
 **Related Pages:**
 
 - [Healing](../combat/healing.md)
-- [Crafting Skills](crafting.md)
+- [Crafting Skills](../../crafting.md)
 - [Armor](../../../items/armor.md)
 - [Resources](../../../items/resources.md)

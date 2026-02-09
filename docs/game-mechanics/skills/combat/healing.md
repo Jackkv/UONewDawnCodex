@@ -58,7 +58,7 @@ HP restored depends on:
 
 ### Bandages
 
-- Created via [Tailoring](crafting.md#tailoring)
+- Created via [Tailoring](../../crafting.md#tailoring)
 - Made from cloth
 - Stack up to 60,000
 - Lightweight and portable
@@ -217,7 +217,7 @@ Every non-mage combat build should have 100 Healing!
 
 **Related Pages:**
 
-- [Combat Skills Overview](index.md#combat-skills)
+- [Combat Skills Overview](../index.md#combat-skills)
 - [Anatomy](anatomy.md)
-- [Tailoring](crafting.md#tailoring)
-- [Combat System](../combat.md)
+- [Tailoring](../../crafting.md#tailoring)
+- [Combat System](../../combat.md)

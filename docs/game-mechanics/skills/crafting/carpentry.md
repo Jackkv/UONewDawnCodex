@@ -130,5 +130,5 @@ Make musical instruments:
 
 - [Lumberjacking](../resource-gathering/lumberjacking.md)
 - [Musicianship](../bard-skills/musicianship.md)
-- [Crafting Skills](crafting.md)
-- [Items](../../items/index.md)
+- [Crafting Skills](../../crafting.md)
+- [Items](../../../items/index.md)

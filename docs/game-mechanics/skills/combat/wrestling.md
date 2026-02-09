@@ -130,6 +130,6 @@ In PvP, wrestling:
 
 **Related Pages:**
 
-- [Combat Skills Overview](index.md#combat-skills)
+- [Combat Skills Overview](../index.md#combat-skills)
 - [Magery](../magic/magery.md)
-- [Combat System](../combat.md)
+- [Combat System](../../combat.md)

@@ -193,7 +193,7 @@ Warriors who use magic for utility:
 
 **Related Pages:**
 
-- [Magic Skills Overview](index.md#magic-skills)
+- [Magic Skills Overview](../index.md#magic-skills)
 - [Magery](magery.md)
 - [Evaluating Intelligence](evaluating-intelligence.md)
 - [Equipment Guide](../../../items/armor.md)

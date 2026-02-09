@@ -136,5 +136,5 @@ Produce arrows and bolts:
 
 - [Lumberjacking](../resource-gathering/lumberjacking.md)
 - [Archery](../combat/archery.md)
-- [Crafting Skills](crafting.md)
+- [Crafting Skills](../../crafting.md)
 - [Weapons](../../../items/weapons.md)

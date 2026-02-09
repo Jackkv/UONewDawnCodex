@@ -66,4 +66,4 @@ Camping allows you to set up a campfire in the wilderness, providing a safe rest
 **Related Pages:**
 
 - [Bowcraft/Fletching](../crafting/bowcraft-fletching.md)
-- [Skills Overview](index.md)
+- [Skills Overview](../index.md)

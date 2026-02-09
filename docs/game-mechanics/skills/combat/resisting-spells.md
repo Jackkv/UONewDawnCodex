@@ -209,7 +209,7 @@ Train it early because:
 
 **Related Pages:**
 
-- [Combat Skills Overview](index.md#combat-skills)
-- [Magic Skills](index.md#magic-skills)
-- [Combat System](../combat.md)
+- [Combat Skills Overview](../index.md#combat-skills)
+- [Magic Skills](../index.md#magic-skills)
+- [Combat System](../../combat.md)
 - [Magic System](../../magic.md)

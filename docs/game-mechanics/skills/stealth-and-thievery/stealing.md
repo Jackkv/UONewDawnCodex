@@ -166,5 +166,5 @@ Success based on:
 - [Snooping](snooping.md)
 - [Hiding](hiding.md)
 - [Stealth](stealth.md)
-- [PvP Guide](../pvp/index.md)
+- [PvP Guide](../../pvp/index.md)
 - [Murder System](../../pvp/murder-system.md)

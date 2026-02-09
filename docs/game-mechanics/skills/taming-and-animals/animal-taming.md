@@ -149,4 +149,4 @@ Pets have loyalty levels that must be maintained:
 
 - [Animal Lore](animal-lore.md)
 - [Veterinary](veterinary.md)
-- [Skills Overview](index.md)
+- [Skills Overview](../index.md)

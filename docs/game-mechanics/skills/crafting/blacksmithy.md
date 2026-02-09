@@ -145,6 +145,6 @@ Forge metal armor:
 
 - [Mining](../resource-gathering/mining.md)
 - [Arms Lore](../utility-and-support/arms-lore.md)
-- [Crafting Skills](crafting.md)
+- [Crafting Skills](../../crafting.md)
 - [Weapons](../../../items/weapons.md)
 - [Armor](../../../items/armor.md)

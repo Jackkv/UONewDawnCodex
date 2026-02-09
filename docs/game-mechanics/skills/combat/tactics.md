@@ -115,7 +115,7 @@ With 100 Tactics:
 
 **Related Pages:**
 
-- [Combat Skills Overview](index.md#combat-skills)
+- [Combat Skills Overview](../index.md#combat-skills)
 - [Anatomy](anatomy.md)
-- [Combat System](../combat.md)
+- [Combat System](../../combat.md)
 - [Stats](../../stats.md)

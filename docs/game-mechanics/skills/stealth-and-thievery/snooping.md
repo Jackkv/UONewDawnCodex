@@ -113,4 +113,4 @@ Use Snooping on:
 - [Stealing](stealing.md)
 - [Hiding](hiding.md)
 - [Stealth](stealth.md)
-- [PvP Guide](../pvp/index.md)
+- [PvP Guide](../../pvp/index.md)

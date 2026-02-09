@@ -231,7 +231,7 @@ Magery is incredibly versatile and useful for almost every template!
 
 **Related Pages:**
 
-- [Magic Skills Overview](index.md#magic-skills)
+- [Magic Skills Overview](../index.md#magic-skills)
 - [Evaluating Intelligence](evaluating-intelligence.md)
 - [Meditation](meditation.md)
 - [Magic System](../../magic.md)

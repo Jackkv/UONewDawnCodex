@@ -131,4 +131,4 @@ Use Hiding skill:
 - [Stealth](stealth.md)
 - [Detecting Hidden](detecting-hidden.md)
 - [Stealing](stealing.md)
-- [PvP Guide](../pvp/index.md)
+- [PvP Guide](../../pvp/index.md)

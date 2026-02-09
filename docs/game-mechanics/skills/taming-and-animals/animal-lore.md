@@ -138,4 +138,4 @@ Use Animal Lore skill on:
 
 - [Animal Taming](animal-taming.md)
 - [Veterinary](veterinary.md)
-- [Skills Overview](index.md)
+- [Skills Overview](../index.md)

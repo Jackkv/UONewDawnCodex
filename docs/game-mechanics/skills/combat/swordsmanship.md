@@ -119,6 +119,6 @@ Balance protection with mobility:
 
 **Related Pages:**
 
-- [Combat Skills Overview](index.md#combat-skills)
-- [Combat System](../combat.md)
+- [Combat Skills Overview](../index.md#combat-skills)
+- [Combat System](../../combat.md)
 - [Character Creation](../../../getting-started/character-creation.md)

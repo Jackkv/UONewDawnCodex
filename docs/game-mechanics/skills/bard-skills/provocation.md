@@ -158,5 +158,5 @@ Provocation is a bard skill that causes one creature to attack another. One of t
 
 - [Musicianship](musicianship.md)
 - [Peacemaking](peacemaking.md)
-- [Combat System](../combat.md)
-- [Skills Overview](index.md)
+- [Combat System](../../combat.md)
+- [Skills Overview](../index.md)

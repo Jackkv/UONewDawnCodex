@@ -138,4 +138,4 @@ Use Peacemaking:
 - [Musicianship](musicianship.md)
 - [Provocation](provocation.md)
 - [Discordance](discordance.md)
-- [Combat System](../combat.md)
+- [Combat System](../../combat.md)

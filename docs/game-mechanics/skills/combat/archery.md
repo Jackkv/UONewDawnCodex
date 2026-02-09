@@ -171,7 +171,7 @@ Light armor recommended:
 
 **Related Pages:**
 
-- [Combat Skills Overview](index.md#combat-skills)
-- [Combat System](../combat.md)
+- [Combat Skills Overview](../index.md#combat-skills)
+- [Combat System](../../combat.md)
 - [Hiding](../stealth-and-thievery/hiding.md)
 - [Tracking](../utility-and-support/tracking.md)

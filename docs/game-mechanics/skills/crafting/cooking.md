@@ -73,5 +73,5 @@ Cooking allows you to prepare various foods from raw ingredients. While basic fo
 **Related Pages:**
 
 - [Fishing](../resource-gathering/fishing.md)
-- [Crafting Skills](crafting.md)
-- [Skills Overview](index.md)
+- [Crafting Skills](../../crafting.md)
+- [Skills Overview](../index.md)

@@ -92,6 +92,6 @@ Mace Fighting is the skill for wielding blunt weapons. Some maces have special b
 
 **Related Pages:**
 
-- [Combat Skills Overview](index.md#combat-skills)
-- [Combat System](../combat.md)
-- [World Dungeons](../../world/dungeons/index.md)
+- [Combat Skills Overview](../index.md#combat-skills)
+- [Combat System](../../combat.md)
+- [World Dungeons](../../../world/dungeons/index.md)

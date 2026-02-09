@@ -161,7 +161,7 @@ Some niche uses:
 
 **Related Pages:**
 
-- [Magic Skills Overview](index.md#magic-skills)
+- [Magic Skills Overview](../index.md#magic-skills)
 - [Magery](magery.md)
 - [Meditation](meditation.md)
 - [Magic System](../../magic.md)

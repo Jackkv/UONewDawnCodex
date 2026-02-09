@@ -83,7 +83,7 @@ Scribe scrolls for all spell circles:
 **Perfect Pairs:**
 
 - [Magery](magery.md) - Cast the spells you scribe
-- [Alchemy](crafting.md#alchemy) - Another crafting skill
+- [Alchemy](../../crafting.md#alchemy) - Another crafting skill
 
 **Mage Build:**
 
@@ -180,7 +180,7 @@ If BODs are enabled:
 
 **Related Pages:**
 
-- [Magic Skills Overview](index.md#magic-skills)
+- [Magic Skills Overview](../index.md#magic-skills)
 - [Magery](magery.md)
-- [Crafting Skills](index.md#crafting-skills)
-- [Alchemy](crafting.md#alchemy)
+- [Crafting Skills](../index.md#crafting-skills)
+- [Alchemy](../../crafting.md#alchemy)

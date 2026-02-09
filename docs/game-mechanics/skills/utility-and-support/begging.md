@@ -72,5 +72,5 @@ Use Begging on:
 
 **Related Pages:**
 
-- [Skills Overview](index.md)
+- [Skills Overview](../index.md)
 - [Currencies](../../currencies.md)

@@ -96,4 +96,4 @@ Use Detecting Hidden:
 - [Hiding](hiding.md)
 - [Stealth](stealth.md)
 - [Tracking](../utility-and-support/tracking.md)
-- [PvP Guide](../pvp/index.md)
+- [PvP Guide](../../pvp/index.md)

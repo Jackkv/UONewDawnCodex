@@ -141,4 +141,4 @@ Create mechanical traps:
 - [Lockpicking](../stealth-and-thievery/lockpicking.md)
 - [Tailoring](tailoring.md)
 - [Blacksmithy](blacksmithy.md)
-- [Crafting Skills](crafting.md)
+- [Crafting Skills](../../crafting.md)

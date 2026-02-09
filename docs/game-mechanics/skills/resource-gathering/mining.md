@@ -163,4 +163,4 @@ Mining allows you to extract ore from mountainsides and rocky areas. Essential f
 - [Blacksmithy](../crafting/blacksmithy.md)
 - [Cartography](../utility-and-support/cartography.md)
 - [Resources](../../../items/resources.md)
-- [Crafting Skills](crafting.md)
+- [Crafting Skills](../../crafting.md)
