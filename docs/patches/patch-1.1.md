@@ -1,6 +1,8 @@
 # SERVER PATCH 1.1
 
-Thanks to everyone who logged in and started to etch out a little place in New Dawn! This first patch addresses some go-live bugs that people experienced. No big features or content—right now the focus is just trying to keep things going smooth while I iron out the remaining issues.
+Thanks to everyone who logged in and started to etch out a little place in New Dawn! This first patch addresses some go-live bugs that people experienced. No big features or content -- right now the focus is just trying to keep things going smooth while I iron out the remaining issues.
+
+If you don't see a bug you reported on this list, I have been trying to prioritize everything that comes my way but at some point, need to cut myself off and save those for future patches, or it just becomes too difficult test everything.
 
 ❗**This patch contains some very small client patches. Be sure to close out of the client, restart the launcher, and let it update.**❗
 
@@ -9,7 +11,7 @@ Thanks to everyone who logged in and started to etch out a little place in New D
 - Made a slight adjustment to the range check provo uses to determine if range is broken
 - You can't talk to the pirate smuggler above ground anymore
 - Level 8 scrolls now have a chance to drop on Balrons, Shadow Wyrms, Ancient Wyrms, and a lower chance on dragons
-- Fixed the formatting issue with the `[ach` leaderboard tab—you can actually read it now!
+- Fixed the formatting issue with the `[ach` leaderboard tab -- you can actually read it now!
 - Removed the invisible walls around where Minax, Shadowlords, and True Britannians factions once were
 - Fixed the broken clilocs that were preventing bankers from responding to your "bank" request
 - The server will send a request to close the resurrection gump before sending a request to give you one
@@ -22,10 +24,11 @@ Thanks to everyone who logged in and started to etch out a little place in New D
 ## Night Sight Improvements 🌙
 
 - Increased the light level of night sight potions; greater night sight potions have a higher light level and last longer
-- Fixed a bug when casting night sight on someone else—it would use their magery level instead of the caster's, resulting in a weaker effect
+- Fixed a bug when casting night sight on someone else -- it would use their magery level instead of the caster's, resulting in a weaker effect
 - The night sight spell has a larger duration
 - Regular night sight potions have had their light and duration increased to 15-25 min, and greater night sight potions increased to 35-45 min
 - You will get some messages above your head when night sight is getting close to fading
+- Added two larger light radius options to light sources
 
 ## Quality of Life 🏡
 
@@ -42,7 +45,7 @@ Thanks to everyone who logged in and started to etch out a little place in New D
 
 ## Skills & Achievements 🏆
 
-- Added missing skill achievements along with titles that get rewarded when you GM (still need to build a solution retroactively let those who completed those get the achievement)
+- Added missing skill achievements along with titles that get rewarded when you GM (still need to build a solution retroactively let those who completed those get the achievement & title)
 - If your magery skill is within 10 points of your spirit speak, you will get messages when summoning to inform you that you aren't quite a spirit summoner yet when you cast a summon spell
 - You can now craft 3 types of counters
 
@@ -55,6 +58,7 @@ Thanks to everyone who logged in and started to etch out a little place in New D
 - On the low chance they give you an artifact clue, it will just be 1 instead of 2
 - Adjusted statue drops on Rift Masters
 - When champs are killed, it's announced in the Discord channel 📢
+- All bows have seen a slight increase in their speed. This will continue to be adjusted until archery seems viable.
 
 ## Housing & Player Interaction 🏠
 
