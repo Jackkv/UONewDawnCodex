@@ -2,140 +2,18 @@
 
 # Peacemaking
 
-Pacify an area, calming aggressive creatures.
-
 ## Overview
 
-Peacemaking is a bard skill that creates a zone of peace, making all creatures in the area non-aggressive temporarily. Excellent for crowd control and escape situations.
+Peacemaking, if successful, will stop all nearby creatures in place and prevent them from fighting for a very short period.
 
-## Effects
-
-### Area Pacification
-
-- All creatures in range become peaceful
-- Stops combat temporarily
-- Affects all nearby monsters
-- Duration based on skill level
-
-### Requirements
-
-- Musical instrument equipped
-- [Musicianship](musicianship.md) skill
-- Affects area around you
+To use Peacemaking, you need instruments and Musicianship to play them.
 
 ## Training
 
-### Active Training
+Peacemaking can be used on a 10 seconds cooldown, it doesn't have any difficulty checks. Just use it until you reach 100.
 
-Use Peacemaking:
+To be more efficient, you can gain Peacemaking and Musicianship at the same time.
 
-- In dungeons with monsters
-- Near aggressive creatures
-- Repeatedly activate skill
-- Trains alongside Musicianship
-
-### Training Tips
-
-- Practice in safe dungeons
-- Use near groups of monsters
-- Train while hunting
-- Combine with combat training
-
-## Related Skills
-
-**Required:**
-
-- [Musicianship](musicianship.md) - Bard foundation ⭐⭐⭐⭐⭐
-
-**Bard Skills:**
-
-- [Provocation](provocation.md) - Offensive alternative
-- [Discordance](discordance.md) - Debuff targets
-
-**Bard Template:**
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-- [Musicianship](musicianship.md): 100
-- Peacemaking: 100 ⭐
-- [Provocation](provocation.md): 100
-- [Magery](../magic/magery.md): 100
-- [Meditation](../magic/meditation.md): 100
-- [Resisting Spells](../combat/resisting-spells.md): 100
-- [Evaluating Intelligence](../magic/evaluating-intelligence.md): 100
-
-## Uses
-
-### PvM (Player vs Monster)
-
-- Control dangerous encounters
-- Escape overwhelming situations
-- Provide group breathing room
-- Handle multiple monsters
-
-### Group Support
-
-- Protect party members
-- Control battlefield
-- Enable safe healing
-- Manage adds
-
-### Solo Play
-
-- Handle multiple spawns
-- Safe looting
-- Escape tool
-- Crowd control
-
-## Mechanics
-
-### Area of Effect
-
-- Affects all creatures nearby
-- Radius based on skill level
-- Must be maintained
-- Can be reapplied
-
-### Duration
-
-- Temporary effect
-- Monsters resume attacking when it ends
-- Reactivate as needed
-- Success rate based on skill difference
-
-### Breaking Peace
-
-- Attacking breaks peace effect
-- Peace ends naturally over time
-- Monsters may resist
-- High-level creatures harder to peace
-
-## Strategy
-
-### Effective Use
-
-1. Peace area
-2. Kill monsters one at a time
-3. Re-peace as needed
-4. Control battle flow
-
-### Emergency Escape
-
-- Peace to stop attacks
-- Run away while peaceful
-- Heal during peace
-- Recall to safety
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Essential bard skill, excellent utility)
-
----
-
-**Related Pages:**
+## Related skills
 
 - [Musicianship](musicianship.md)
-- [Provocation](provocation.md)
-- [Discordance](discordance.md)
-- [Combat System](../../combat.md)
