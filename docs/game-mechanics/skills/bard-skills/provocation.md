@@ -2,161 +2,32 @@
 
 # Provocation
 
-Turn monsters against each other.
-
 ## Overview
 
-Provocation is a bard skill that causes one creature to attack another. One of the most powerful PvM skills in the game, allowing you to defeat strong monsters by making them fight each other.
+Provocation is one of the most powerful skills in the game, by using it you have a chance to make two creatures fight each other.
 
-## Effects
+To use Provocation, you need instruments and Musicianship to play them.
 
-### Monster vs Monster Combat
+## How it works
 
-- Make one creature attack another
-- Even powerful monsters will fight
-- Damage each other significantly
+Provocation remembers the last instrument used. Use the skill, then target the two creatures you want to provoke.
 
-### Requirements
+If you fail, they will attack you instead.
 
-- Musical instrument equipped
-- [Musicianship](musicianship.md) skill
-- Line of sight to both targets
-- Both targets must be aggressive
+If you succeed, the creatures will keep fighting each other as long as you are within a 30 tile range of the fight.
+
+## Instruments
+
+You can improve your chances of success by using Exceptional or Magical instruments.
 
 ## Training
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+Train from Bard NPCs to reach around 30.
 
-### Early (0-30)
+Provocation is a difficulty based skill. Some creatures are harder to provoke than others, depending on their barding difficulty.
 
-- Provoke weak monsters
-- Practice on animals
-- Town creatures if allowed
+To be more efficient, you can gain Provocation and Musicianship at the same time.
 
-### Intermediate (30-60)
-
-- Dungeon monsters
-- Slightly tougher creatures
-- Build skill steadily
-
-### Advanced (60-85)
-
-- Strong monsters
-- Dragons, demons
-- High-level content
-
-### Master (85-100)
-
-- Provoke any creature
-- High success rates
-- Master bard
-
-## Related Skills
-
-**Required:**
-
-- [Musicianship](musicianship.md) - Bard foundation ⭐⭐⭐⭐⭐
-
-**Bard Skills:**
-
-- [Peacemaking](peacemaking.md) - Alternative control
-- [Discordance](discordance.md) - Weaken targets
-
-**Provocation Bard Template:**
-
-- [Musicianship](musicianship.md): 100
-- Provocation: 100 ⭐
-- [Peacemaking](peacemaking.md): 100
-- [Magery](../magic/magery.md): 100
-- [Meditation](../magic/meditation.md): 100
-- [Resisting Spells](../combat/resisting-spells.md): 100
-- [Evaluating Intelligence](../magic/evaluating-intelligence.md): 100
-
-## Uses
-
-### PvM (Player vs Monster)
-
-- Solo tough content
-- Defeat monsters above your level
-- Farm efficiently
-- Minimal risk hunting
-
-### Farming Strategy
-
-- Provoke strong monsters together
-- Let them kill each other
-- Loot both corpses
-- Extremely effective
-
-### Boss Fights
-
-- Provoke boss onto strong monsters
-- Weaken boss safely
-- Reduce damage taken
-- Safer boss kills
-
-## Mechanics
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-### Skill Checks
-
-- Success based on skill difference
-- Higher skilled monsters harder to provoke
-- Failure = no effect, retry
-- Combat continues when provoked
-
-### Duration
-
-- Monsters fight until one dies
-- Can be re-provoked
-- Very effective for tough enemies
-
-### Target Selection
-
-- Choose two aggressive creatures
-- Both must be in range
-- Ideally similar power level
-- Maximum mutual damage
-
-## Strategy
-
-### Optimal Provocation
-
-1. Find two strong monsters
-2. Provoke one onto the other
-3. Stay hidden or at safe distance
-4. Let them fight
-5. Finish wounded survivor
-6. Loot both
-
-### Safety Tips
-
-- Stay out of aggro range
-- Re-provoke if needed
-- Keep monsters fighting
-- Be ready to escape
-
-## Economic Value
-
-### Efficient Farming
-
-- Solo tough content
-- Better loot from strong monsters
-- Lower supply costs
-- High profit potential
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Most powerful PvM bard skill)
-
----
-
-**Related Pages:**
+## Related skills
 
 - [Musicianship](musicianship.md)
-- [Peacemaking](peacemaking.md)
-- [Combat System](../../combat.md)
-- [Skills Overview](../index.md)
