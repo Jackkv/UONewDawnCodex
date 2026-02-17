@@ -1,5 +1,7 @@
 # SERVER PATCH 1.1
 
+## February 10th, 2026
+
 Thanks to everyone who logged in and started to etch out a little place in New Dawn! This first patch addresses some go-live bugs that people experienced. No big features or content -- right now the focus is just trying to keep things going smooth while I iron out the remaining issues.
 
 If you don't see a bug you reported on this list, I have been trying to prioritize everything that comes my way but at some point, need to cut myself off and save those for future patches, or it just becomes too difficult test everything.
