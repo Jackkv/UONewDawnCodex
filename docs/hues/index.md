@@ -3,7 +3,7 @@
 Browse all available hues on New Dawn. Use the search box to find specific hue IDs, or adjust the number of results per page.
 
 !!! info
-    This list does not cover every hue available to players in the game — some are simply unusable and will hopefully be replaced in a future update. What follows is a complete list of every hue available in New Dawn, bad ones included.
+    This list *is not* a list of every hue available to players in the game. In fact, some are simply unusable and will hopefully be replaced in a future update. This is simply the full list hues in the game files, bad ones included.
 
 <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
 <style>
@@ -64,22 +64,59 @@ Browse all available hues on New Dawn. Use the search box to find specific hue I
     margin-top: 20px;
   }
   
-  /* Fix dropdown background */
+  /* Style for length and filter containers to match page jump */
+  .dataTables_length {
+    padding: 8px 12px !important;
+    margin-bottom: 10px !important;
+    border-radius: 4px !important;
+    font-size: 0.9em !important;
+    display: inline-block !important;
+  }
+  
+  .dataTables_length label {
+    color: rgba(255, 255, 255, 0.8) !important;
+    margin: 0 !important;
+  }
+  
+  .dataTables_filter {
+    padding: 8px 12px !important;
+    margin-bottom: 10px !important;
+    border-radius: 4px !important;
+    font-size: 0.9em !important;
+    display: inline-block !important;
+    position: relative;
+  }
+  
+  .dataTables_filter label {
+    color: rgba(255, 255, 255, 0.8) !important;
+    margin: 0 !important;
+  }
+  
+  /* Fix dropdown and input background */
   .dataTables_length select,
   .dataTables_filter input {
     background-color: rgba(50, 50, 50, 0.8) !important;
     color: #fff !important;
     border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    padding: 4px 8px !important;
+    border-radius: 3px !important;
+    margin-left: 6px !important;
+  }
+  
+  .dataTables_length select {
     padding: 4px 30px 4px 8px !important;
   }
   
-  /* Search clear button */
-  .dataTables_filter {
-    position: relative;
+  .dataTables_filter input:focus {
+    outline: none !important;
+    border-color: rgba(212, 175, 55, 0.5) !important;
+    box-shadow: 0 0 5px rgba(212, 175, 55, 0.3) !important;
   }
+  
+  /* Search clear button */
   .search-clear {
     position: absolute;
-    right: 8px;
+    right: 20px;
     top: 50%;
     transform: translateY(-50%);
     cursor: pointer;
@@ -165,7 +202,7 @@ Browse all available hues on New Dawn. Use the search box to find specific hue I
     margin-right: 8px;
   }
   .page-jump-input {
-    width: 60px;
+    width: 72px;
     padding: 4px 8px;
     background-color: rgba(50, 50, 50, 0.8);
     color: #fff;
@@ -193,20 +230,6 @@ Browse all available hues on New Dawn. Use the search box to find specific hue I
   .page-jump-btn:hover {
     background-color: rgba(212, 175, 55, 0.3);
     box-shadow: 0 0 6px rgba(212, 175, 55, 0.4);
-  }
-  
-  /* Add spacing to top controls */
-  .dataTables_length {
-    padding: 10px 0 !important;
-    margin-bottom: 10px !important;
-  }
-  .dataTables_filter {
-    padding: 10px 0 !important;
-    margin-bottom: 10px !important;
-  }
-  .dataTables_wrapper .dataTables_length,
-  .dataTables_wrapper .dataTables_filter {
-    display: inline-block;
   }
   
   /* Lightbox styles */
@@ -364,9 +387,11 @@ $(document).ready(function() {
       { orderable: false, targets: [1, 2] }
     ],
     initComplete: function() {
+      const table = this.api();
+      
       // Add page jump functionality after table is fully initialized
       if ($('#page-jump-container').length === 0) {
-        $('.dataTables_wrapper').append(`
+        $('.dataTables_filter').after(`
           <div id="page-jump-container" class="page-jump-container">
             <label for="page-jump-input">Go to page:</label>
             <input type="number" id="page-jump-input" class="page-jump-input" min="1" placeholder="#">
