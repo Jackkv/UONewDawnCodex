@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
       </div>
       
-      <a href="../?id=${hueNumber}" class="back-link">← Back to Hue List</a>
+      <a href="../" class="back-link">← Back to Hue List</a>
     </div>
   `;
   

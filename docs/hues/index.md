@@ -2,6 +2,9 @@
 
 Browse all available hues on New Dawn. Use the search box to find specific hue IDs, or adjust the number of results per page.
 
+!!! info
+    This list does not cover every hue available to players in the game — some are simply unusable and will hopefully be replaced in a future update. What follows is a complete list of every hue available in New Dawn, bad ones included.
+
 <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
 <style>
   #hues-table {
@@ -30,6 +33,7 @@ Browse all available hues on New Dawn. Use the search box to find specific hue I
   #hues-table thead th {
     background-color: rgba(100, 100, 100, 0.3) !important;
     padding: 8px !important;
+    text-align: center !important;
   }
   #hues-table tbody tr {
     background-color: rgba(50, 50, 50, 0.2);
@@ -40,6 +44,22 @@ Browse all available hues on New Dawn. Use the search box to find specific hue I
   #hues-table tbody tr:hover {
     background-color: rgba(100, 100, 100, 0.3) !important;
   }
+  
+  /* Enhanced Hue ID link styles for better clickability */
+  #hues-table tbody td:first-child a {
+    display: block;
+    padding: 12px 8px;
+    margin: -4px;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    font-weight: 500;
+  }
+  #hues-table tbody td:first-child a:hover {
+    background-color: rgba(212, 175, 55, 0.15);
+    box-shadow: 0 0 8px rgba(212, 175, 55, 0.3);
+    transform: scale(1.05);
+  }
+  
   .dataTables_wrapper {
     margin-top: 20px;
   }
@@ -50,11 +70,129 @@ Browse all available hues on New Dawn. Use the search box to find specific hue I
     background-color: rgba(50, 50, 50, 0.8) !important;
     color: #fff !important;
     border: 1px solid rgba(255, 255, 255, 0.2) !important;
-    padding: 4px 8px !important;
+    padding: 4px 30px 4px 8px !important;
+  }
+  
+  /* Search clear button */
+  .dataTables_filter {
+    position: relative;
+  }
+  .search-clear {
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 18px;
+    font-weight: bold;
+    padding: 2px 6px;
+    display: none;
+    transition: color 0.2s ease;
+    z-index: 10;
+    user-select: none;
+  }
+  .search-clear:hover {
+    color: rgba(212, 175, 55, 0.8);
+  }
+  .search-clear.visible {
+    display: inline-block;
   }
   .dataTables_length select option {
     background-color: #2d2d2d !important;
     color: #fff !important;
+  }
+  
+  /* Pagination info styling */
+  .dataTables_info {
+    padding: 10px 15px !important;
+    background-color: rgba(50, 50, 50, 0.4) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    border-radius: 4px !important;
+    color: rgba(255, 255, 255, 0.8) !important;
+    font-size: 0.9em !important;
+  }
+  
+  /* Pagination buttons styling */
+  .dataTables_paginate {
+    padding: 10px !important;
+    display: inline-block !important;
+  }
+  .dataTables_paginate .paginate_button {
+    padding: 6px 12px !important;
+    margin: 0 2px !important;
+    background-color: rgba(50, 50, 50, 0.4) !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    border-radius: 4px !important;
+    color: rgba(255, 255, 255, 0.8) !important;
+    transition: all 0.2s ease !important;
+  }
+  .dataTables_paginate .paginate_button:hover {
+    background-color: rgba(212, 175, 55, 0.2) !important;
+    border-color: rgba(212, 175, 55, 0.4) !important;
+    color: #fff !important;
+    box-shadow: 0 0 8px rgba(212, 175, 55, 0.3) !important;
+  }
+  .dataTables_paginate .paginate_button.current {
+    background-color: rgba(212, 175, 55, 0.3) !important;
+    border-color: rgba(212, 175, 55, 0.5) !important;
+    color: #fff !important;
+    font-weight: bold !important;
+  }
+  .dataTables_paginate .paginate_button.disabled {
+    opacity: 0.4 !important;
+    cursor: not-allowed !important;
+  }
+  .dataTables_paginate .paginate_button.disabled:hover {
+    background-color: rgba(50, 50, 50, 0.4) !important;
+    border-color: rgba(255, 255, 255, 0.2) !important;
+    box-shadow: none !important;
+  }
+  
+  /* Page jump input styling */
+  .page-jump-container {
+    display: block;
+    margin-top: 10px;
+    padding: 8px 12px;
+    background-color: rgba(50, 50, 50, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    font-size: 0.9em;
+    text-align: center;
+  }
+  .page-jump-container label {
+    color: rgba(255, 255, 255, 0.8);
+    margin-right: 8px;
+  }
+  .page-jump-input {
+    width: 60px;
+    padding: 4px 8px;
+    background-color: rgba(50, 50, 50, 0.8);
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 3px;
+    text-align: center;
+    font-size: 0.9em;
+  }
+  .page-jump-input:focus {
+    outline: none;
+    border-color: rgba(212, 175, 55, 0.5);
+    box-shadow: 0 0 5px rgba(212, 175, 55, 0.3);
+  }
+  .page-jump-btn {
+    margin-left: 6px;
+    padding: 4px 10px;
+    background-color: rgba(212, 175, 55, 0.2);
+    color: #fff;
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 0.9em;
+  }
+  .page-jump-btn:hover {
+    background-color: rgba(212, 175, 55, 0.3);
+    box-shadow: 0 0 6px rgba(212, 175, 55, 0.4);
   }
   
   /* Add spacing to top controls */
@@ -82,6 +220,11 @@ Browse all available hues on New Dawn. Use the search box to find specific hue I
     height: 100%;
     background-color: rgba(0, 0, 0, 0.9);
     cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .lightbox.show {
+    opacity: 1;
   }
   .lightbox-content {
     position: absolute;
@@ -120,8 +263,8 @@ Browse all available hues on New Dawn. Use the search box to find specific hue I
 <thead>
   <tr>
     <th>Hue ID</th>
-    <th>Color Sample</th>
-    <th>Robe Preview</th>
+    <th>Hue Sample</th>
+    <th>Paperdoll Preview</th>
   </tr>
 </thead>
 <tbody>
@@ -219,7 +362,53 @@ $(document).ready(function() {
     columnDefs: [
       { orderable: true, targets: 0 },
       { orderable: false, targets: [1, 2] }
-    ]
+    ],
+    initComplete: function() {
+      // Add page jump functionality after table is fully initialized
+      if ($('#page-jump-container').length === 0) {
+        $('.dataTables_wrapper').append(`
+          <div id="page-jump-container" class="page-jump-container">
+            <label for="page-jump-input">Go to page:</label>
+            <input type="number" id="page-jump-input" class="page-jump-input" min="1" placeholder="#">
+            <button class="page-jump-btn">Go</button>
+          </div>
+        `);
+      }
+      
+      const pageJumpInput = $('#page-jump-input');
+      const pageJumpBtn = $('.page-jump-btn');
+      
+      // Update max page number on table draw
+      table.on('draw', function() {
+        const pageInfo = table.page.info();
+        pageJumpInput.attr('max', pageInfo.pages);
+        pageJumpInput.attr('placeholder', '1-' + pageInfo.pages);
+      });
+      
+      // Jump to page on button click
+      pageJumpBtn.on('click', function() {
+        const pageInfo = table.page.info();
+        let pageNum = parseInt(pageJumpInput.val());
+        
+        if (pageNum && pageNum >= 1 && pageNum <= pageInfo.pages) {
+          table.page(pageNum - 1).draw('page');
+          pageJumpInput.val('');
+          pageJumpInput.blur();
+        }
+      });
+      
+      // Jump to page on Enter key
+      pageJumpInput.on('keypress', function(e) {
+        if (e.which === 13) {
+          pageJumpBtn.click();
+        }
+      });
+      
+      // Initialize max page
+      const pageInfo = table.page.info();
+      pageJumpInput.attr('max', pageInfo.pages);
+      pageJumpInput.attr('placeholder', '1-' + pageInfo.pages);
+    }
   });
   
   // Check for URL parameter
@@ -230,28 +419,64 @@ $(document).ready(function() {
     table.search(hueId).draw();
   }
   
+  // Add clear button to search box
+  const searchFilter = $('.dataTables_filter');
+  const searchInput = $('.dataTables_filter input');
+  searchFilter.append('<span class="search-clear" title="Clear search">×</span>');
+  const clearBtn = $('.search-clear');
+  
+  // Show/hide clear button based on input
+  searchInput.on('keyup search', function() {
+    if ($(this).val().length > 0) {
+      clearBtn.addClass('visible');
+    } else {
+      clearBtn.removeClass('visible');
+    }
+  });
+  
+  // Clear search on button click
+  clearBtn.on('click', function() {
+    searchInput.val('');
+    table.search('').draw();
+    clearBtn.removeClass('visible');
+    searchInput.focus();
+  });
+  
+  // Show clear button if there's initial search value
+  if (searchInput.val().length > 0) {
+    clearBtn.addClass('visible');
+  }
+  
   // Lightbox functionality - only for robe images
   const lightbox = $('#lightbox');
   const lightboxImg = $('#lightbox-img');
   const lightboxCaption = $('#lightbox-caption');
-  const closeBtn = $('.lightbox-close');
   
   // Click handler for robe images only (using event delegation)
   $(document).on('click', '.robe-img', function() {
     lightbox.css('display', 'block');
+    // Trigger reflow to ensure transition works
+    lightbox[0].offsetHeight;
+    lightbox.addClass('show');
     lightboxImg.attr('src', $(this).attr('src'));
     lightboxCaption.text($(this).attr('alt'));
   });
   
-  // Close lightbox on click
+  // Close lightbox on click with fade out
   lightbox.on('click', function() {
-    lightbox.css('display', 'none');
+    lightbox.removeClass('show');
+    setTimeout(function() {
+      lightbox.css('display', 'none');
+    }, 300); // Match transition duration
   });
   
   // Close on escape key
   $(document).on('keydown', function(e) {
-    if (e.key === 'Escape') {
-      lightbox.css('display', 'none');
+    if (e.key === 'Escape' && lightbox.hasClass('show')) {
+      lightbox.removeClass('show');
+      setTimeout(function() {
+        lightbox.css('display', 'none');
+      }, 300);
     }
   });
 });
