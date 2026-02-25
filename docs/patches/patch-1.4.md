@@ -1,4 +1,4 @@
-# SERVER PATCH 1.14
+# SERVER PATCH 1.4
 
 ## February 22nd, 2026
 
