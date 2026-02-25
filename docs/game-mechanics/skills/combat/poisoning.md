@@ -50,7 +50,6 @@ If using poison spells ([Magery](../magic/magery.md)):
 **Perfect Pairs:**
 
 - [Fencing](fencing.md) - Fast weapons = more poison applications
-- [Archery](archery.md) - Poison from safe distance
 - [Magery](../magic/magery.md) - Poison spell enhancement
 
 **Support Skills:**
