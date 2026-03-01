@@ -58,7 +58,7 @@ Weapons are considered being at full durability.
 
 Combining Swordsmanship with Anatomy lets you use the Concussion Blow special ability with Bardiche, Halberds and Two-handed Axes.
 
-The success rate is calculated by dividing your Anatomy skill by 4. GM Anatomy equals to 25% success rate.
+The success rate is calculated by dividing your Anatomy skill by 4, GM Anatomy equals to 25% success rate.
 
 On a successful hit you will reduce the target Intelligence by 25% for 30 seconds. During the effect the target can't be concussed again.
 
@@ -68,7 +68,9 @@ Train from Weaponsmith NPCs to reach around 30.
 
 To gain you will need to repeatedly attack a target.
 
-To be more efficient have two characters fight using Healing and Anatomy on each other, this way you can train Healing, Anatomy and Tactics at the same time. Have the target equip high amor rating and a weapon they have 0 skill with, hit them until you reach 81, then switch the target weapon with one they are GM with and continue until 100.
+To be more efficient have two characters fight using Healing and Anatomy on each other, this way you can train Healing, Anatomy and Tactics at the same time.
+
+Have the target equip high amor rating and a weapon they have 0 skill with, hit them until you reach 81, then switch the target weapon with one they are GM with and continue until 100.
 
 ## Related skills
 

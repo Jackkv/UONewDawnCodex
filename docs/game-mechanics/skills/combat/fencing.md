@@ -4,7 +4,9 @@
 
 ## Overview
 
-Fencing is the mastery of piercing weapons. It focuses on speed rather than damage, it's often paired with Poisoning to increase effectiveness.
+Fencing is the mastery of piercing weapons.
+
+It focuses on speed rather than damage, it's often paired with Poisoning to increase effectiveness.
 
 Higher combat skill makes you less likely to be hit.
 
@@ -34,9 +36,11 @@ Weapons are considered being at full durability.
 
 Combining Fencing with Anatomy allows you to use the Paralyzing Blow special ability with Spears, Short Spears and Pitchforks.
 
-The success rate is calculated by dividing your Anatomy skill by 4. GM Anatomy equals to 25% success rate.
+The success rate is calculated by dividing your Anatomy skill by 4, GM Anatomy equals to 25% success rate.
 
-On a successful hit the target will be paralyzed for 4 seconds, unable to move but still able to use potions, bandages and wands. During the effect the target can't be paralyzed again.
+On a successful hit the target will be paralyzed for 4 seconds, unable to move but still able to use potions, bandages and wands. 
+
+During the effect the target can't be paralyzed again.
 
 ## Training
 
@@ -44,7 +48,9 @@ Train from Weaponsmith or Thief NPCs to reach around 30.
 
 To gain you will need to repeatedly attack a target.
 
-To be more efficient have two characters fight using Healing and Anatomy on each other, this way you can train Healing, Anatomy and Tactics at the same time. Have the target equip high amor rating and a weapon they have 0 skill with, hit them until you reach 81, then switch the target weapon with one they are GM with and continue until 100.
+To be more efficient have two characters fight using Healing and Anatomy on each other, this way you can train Healing, Anatomy and Tactics at the same time.
+
+Have the target equip high amor rating and a weapon they have 0 skill with, hit them until you reach 81, then switch the target weapon with one they are GM with and continue until 100.
 
 ## Related skills
 

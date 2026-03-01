@@ -4,11 +4,17 @@
 
 ## Overview
 
-Archery allows you to fight from a distance using bows and crossbows. This skill excels at kiting enemies and provides a significant safety advantage.
+Archery allows you to fight from a distance using bows and crossbows, this skill excels at kiting enemies and provides a significant safety advantage.
 
 To help make Archers more viable, the shooting delay was reduced to 500ms and the Snare ability was added.
 
+<!-- Not clear if all weapons have the same delay between shots -->
+
 ## Weapons and ammo
+
+This table doesn't take into account the Strength, Dexterity and Tactics of the attacker or the Armor Rating of the defender.
+
+Weapons are considered being at full durability.
 
 |                                  Weapon                                  |                          Ammo                           | STR Required |     Damage roll     |
 |:------------------------------------------------------------------------:|:-------------------------------------------------------:|:------------:|:-------------------:|

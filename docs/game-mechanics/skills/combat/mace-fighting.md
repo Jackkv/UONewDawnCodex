@@ -4,7 +4,9 @@
 
 ## Overview
 
-Mace Fighting is the mastery of blunt weapons. Maces and War Maces can deplete the opponent stamina.
+Mace Fighting is the mastery of blunt weapons.
+
+Maces and War Maces can deplete the target stamina.
 
 Higher combat skill makes you less likely to be hit.
 
@@ -43,7 +45,7 @@ Maces and War Maces can deplete between 3 to 5 points of stamina from the target
 
 Combining Mace Fighting with Anatomy lets you use the Crushing Blow special ability with only two handed mace weapons.
 
-The success rate is calculated by dividing your Anatomy skill by 4. GM Anatomy equals to 25% success rate.
+The success rate is calculated by dividing your Anatomy skill by 4, GM Anatomy equals to 25% success rate.
 
 On a successful hit you will deal 50% bonus damage.
 
@@ -53,7 +55,9 @@ Train from Weaponsmith NPCs to reach around 30.
 
 To gain you will need to repeatedly attack a target.
 
-To be more efficient have two characters fight using Healing and Anatomy on each other, this way you can train Healing, Anatomy and Tactics at the same time. Have the target equip high amor rating and a weapon they have 0 skill with, hit them until you reach 81, then switch the target weapon with one they are GM with and continue until 100.
+To be more efficient have two characters fight using Healing and Anatomy on each other, this way you can train Healing, Anatomy and Tactics at the same time.
+
+Have the target equip high amor rating and a weapon they have 0 skill with, hit them until you reach 81, then switch the target weapon with one they are GM with and continue until 100.
 
 ## Related skills
 

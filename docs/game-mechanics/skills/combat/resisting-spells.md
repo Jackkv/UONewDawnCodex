@@ -4,7 +4,7 @@
 
 ## Overview
 
-Resisting Spells reduces the damage you take from harmful spells, and lowers the durations of debuffs.
+Resisting Spells reduces the damage taken from harmful spells and shortens the duration of debuffs.
 
 <!-- Not sure if Mana Drain and Mana Vampire have a chance of not having affect at all -->
 

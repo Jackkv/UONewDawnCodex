@@ -4,13 +4,13 @@
 
 ## Overview
 
-Parrying is a defensive skill that lets you absorb damage with your shield.
+Parrying is a defensive skill that gives you a chance to absorb damage with your shield.
 
 ## How it works
 
 If you are wearing a shield, each time you get hit, you have a chance to parry the attack and absorb some of the damage.
 
-The chance is calculated by dividing your Parrying skill by 2. If you have 100 Parrying you will have a 50% chance to parry.
+The chance is calculated by dividing your Parrying skill by 2, if you have 100 Parrying you will have a 50% chance to parry.
 
 The amount of damage reduction depends on the Armor Rating of the shield used.
 
@@ -121,7 +121,9 @@ If active when you get hit, you will be able to absorb Fire Breath damage.
 
 ## Training
 
-Parrying is hard to train because you will only gain when taking damage, it works best if trained while having a low combat skill as you get hit more often. Gain is based on base damage before armor reduction, getting hit by multiple monsters increases gain speed.
+Parrying is hard to train because you will only gain when taking damage, it works best if trained while having a low combat skill as you get hit more often.
+
+Gain is based on base damage before armor reduction, getting hit by multiple monsters increases gain speed.
 
 ## Related skills
 
