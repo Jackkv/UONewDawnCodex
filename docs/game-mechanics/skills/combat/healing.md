@@ -16,9 +16,9 @@ A minimum of 80 in both Healing and Anatomy will give you a 25% chance of resurr
 
 Anatomy directly affects the amount you can heal.
 
-`Minimum amount = (Anatomy ÷ 5) + (Healing ÷ 5) + 3`
+`Minimum amount = (Anatomy / 5) + (Healing / 5) + 3`
 
-`Maximum amount = (Anatomy ÷ 5) + (Healing ÷ 2) + 10`
+`Maximum amount = (Anatomy / 5) + (Healing / 2) + 10`
 
 With both Healing and Anatomy at 100 for example, you could heal between 43 and 80 hit points.
 

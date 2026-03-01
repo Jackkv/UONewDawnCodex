@@ -14,7 +14,7 @@ Combining Lumberjacking with Swordsmanship gives you bonus damage.
 
 The bonus gets calculated with this formula:
 
-`(Lumberjacking Skill ÷ 10 - 2) + (1 if GM)`
+`(Lumberjacking Skill / 10 - 2) + (1 if GM)`
 
 So if you have 50 Lumberjacking you will get +3 on your damage, if you have 99.9, +8 and if you have 100, +9.
 
