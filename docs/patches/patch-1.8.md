@@ -2,7 +2,7 @@
 
 ## March 23rd, 2026
 
-This is a smaller patch that continues to address bugs and feedback to the game. Development on enhancements to pirate maps, Order vs Chaos, CTF, and other systems will continue.
+This is a smaller patch that just focuses on some bug fixes and game changes. Development on enhancements to pirate maps, Order vs Chaos, CTF, and other systems will continue.
 
 ## 🛠️ Bug Fixes & Adjustments
 
@@ -14,7 +14,7 @@ This is a smaller patch that continues to address bugs and feedback to the game.
 - Fixed issue with ethereal hues not applying when in your bag
 - Fixed issue with tamed or summoned pets attacking and causing you to go gray
 - Fixed additional issues with how the considering your sins gump displays remaining time
-- Fixed the issue when you go from 5 short terms to 4 short term kills, it applied the 24 hour, not 16 hour decay
+- Fixed the issue when you went from 5 short terms to 4 short term kills, it applied the 24 hour, not 16 hour decay
 - If you're in a guild, you can opt-in (you're opt'ed out by default) using `[profile` to having your position shared with the rest of your guild on the World Map
 - Adjustments to the large brick house and two story houses (price, lockdowns)
 - The 2 pirate maps per 24 hours is now based on Central US time (not UTC)
