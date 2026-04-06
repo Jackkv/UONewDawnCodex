@@ -4,20 +4,22 @@
 
 ## Overview
 
-Alchemy allows you to craft a variety of potions including healing, poison, explosion, and buff potions. Higher skill levels enable stronger potions and better success rates.
+Alchemy allows you to craft a variety of potions using reagents.
 
 ## Tools
 
-In order to start crafting, you will need a mortar and pestle. You can purchase one from alchemist vendors.
+In order to start crafting, you will need a Mortar and pestle, you can purchase one from alchemist vendors.
 
 ## Potions
 
+These are all the potions you can craft and their effect.
+
 === "Refresh"
 
-    |                                   Potion                                    |   Reagents    |    Effect    | Skill |
-    |:---------------------------------------------------------------------------:|:-------------:|:------------:|:-----:|
-    |      ![item-icon](../../../assets/items/refresh-potion.png)<br>Refresh      | 1 Black Pearl | +25% Stamina | 15.1  |
-    | ![item-icon](../../../assets/items/refresh-potion.png)<br>Total Refreshment | 5 Black Pearl | Full Stamina | 25.1  |
+    |                                   Potion                                    |   Reagents    |    Effect    | Cooldown | Skill |
+    |:---------------------------------------------------------------------------:|:-------------:|:------------:|:--------:|:-----:|
+    |      ![item-icon](../../../assets/items/refresh-potion.png)<br>Refresh      | 1 Black Pearl | +25% Stamina |    2s    | 15.1  |
+    | ![item-icon](../../../assets/items/refresh-potion.png)<br>Total Refreshment | 5 Black Pearl | Full Stamina |    2s    | 25.1  |
 
 === "Agility"
 
@@ -58,11 +60,11 @@ In order to start crafting, you will need a mortar and pestle. You can purchase 
 
 === "Cure"
 
-    |                               Potion                                | Reagents |    Effect    | Skill |
-    |:-------------------------------------------------------------------:|:--------:|:------------:|:-----:|
-    | ![item-icon](../../../assets/items/cure-potion.png)<br>Lesser Cure  | 1 Garlic | Cures poison |  0.0  |
-    |     ![item-icon](../../../assets/items/cure-potion.png)<br>Cure     | 3 Garlic | Cures poison | 25.1  |
-    | ![item-icon](../../../assets/items/cure-potion.png)<br>Greater Cure | 6 Garlic | Cures poison | 65.1  |
+    |                               Potion                                | Reagents |    Effect    | Cooldown | Skill |
+    |:-------------------------------------------------------------------:|:--------:|:------------:|:--------:|:-----:|
+    | ![item-icon](../../../assets/items/cure-potion.png)<br>Lesser Cure  | 1 Garlic | Cures poison |    2s    |  0.0  |
+    |     ![item-icon](../../../assets/items/cure-potion.png)<br>Cure     | 3 Garlic | Cures poison |    2s    | 25.1  |
+    | ![item-icon](../../../assets/items/cure-potion.png)<br>Greater Cure | 6 Garlic | Cures poison |    2s    | 65.1  |
 
 === "Explosion"
 
@@ -88,13 +90,21 @@ Arcane ink can be purchased from the Codex Scholar at the Moonglow scribes (150,
 
 Codex fragments can be obtained from rift encounters.
 
+## Potion kegs
+
+Potion kegs can be crafted by a Carpenter.
+
+To fill a Potion keg, drag a filled potion into it.. all the crafted potions of the same type will automatically be put into the keg until it's full.
+
+To use the Potion keg, have an empty bottle and double click the keg, the empty potion will be filled.
+
 ## Explosion potions bonus
 
 Base damage against a player is between 5 min and 15 max. With GM Alchemy, it becomes 15 min and 20 max.
 
 ## Training
 
-Alchemy is often trained along with Poisoning.
+Alchemy is often trained alongside Poisoning.
 
 | Skill    | Potion          |
 |----------|-----------------|
@@ -105,4 +115,5 @@ Alchemy is often trained along with Poisoning.
 
 ## Related skills
 
+- [Carpentry](carpentry.md)
 - [Poisoning](../combat/poisoning.md)
