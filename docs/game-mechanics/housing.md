@@ -84,6 +84,13 @@ You can have 1 house per account (total 3 houses).
     |     Large Castle with Fence      |      |   29    |    775    | 1,150,000 |
     |         Sandstone Temple         |      |   29    |    775    | 1,150,000 |
 
+== "Orc Houses"
+
+    |  House   | Size | Secures | Lockdowns |  Cost  |
+    |:--------:|:----:|:-------:|:---------:|:------:|
+    | Orc Camp |      |    2    |    25     | 35,000 |
+    | Orc Camp |      |    2    |    25     | 35,000 |
+
 ## Classic houses
 
 ### Stone and plaster house
