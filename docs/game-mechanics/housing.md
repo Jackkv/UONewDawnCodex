@@ -238,3 +238,117 @@ You can have 1 house per account (total 3 houses).
 
 === "2nd floor"
 
+## Updated classic
+
+### Small brick house (East)
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Wood and plaster house (East)
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Stone and plaster house (East)
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Field stone house (East)
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Thatched-roof cottage (East)
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Wooden house (East)
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Tall small tower
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Three story villa
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Three story villa (East)
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Two-story brick house
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Large house with courtyard patio
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Two-story wood/plaster courtyard patio
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Large gray keep with rear courtyard
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Large gray keep with corner
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
