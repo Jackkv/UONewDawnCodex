@@ -57,7 +57,7 @@ You can have 1 house per account (total 3 houses).
     |:--------------------------------:|:----:|:-------:|:---------:|:---------:|
     |      Small Rough Sandstone       |      |    1    |    30     |  52,000   |
     |   Small Wood and Plaster Villa   |      |    3    |    110    |  90,000   |
-    |     Small Field Stone Villa      |      |    2    |    62     |  90,000   |
+    |     Small Field Brick Villa      |      |    2    |    62     |  90,000   |
     |     Small Field Stone Villa      |      |    2    |    62     |  90,000   |
     |         Small Wood Villa         |      |    2    |    62     |  90,000   |
     | Medium T‑Shaped Wood and Plaster |      |    2    |    62     |  110,000  |
@@ -352,3 +352,228 @@ You can have 1 house per account (total 3 houses).
 
 === "2nd floor"
 
+## Custom houses
+
+### Small Rough Sandstone
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Small Wood and Plaster Villa
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Small Brick Stone Villa
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Small Field Stone Villa
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Small Wood Villa
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Medium T‑Shaped Wood and Plaster
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Two Story Wooden (East)
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Two Story Stone Vendor
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Yew Crypt Tower
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Medium Fieldstone Patio House
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Field Stone Shop
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Brick Porch House
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Merchant Villa
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Medium Brick Patio House
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Square Steeple House
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Sandstone Plaster Patio
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Two Story Square Brick
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Large Sandstone Patio
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Two Story Wood Balcony House
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Mansion
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Two Story T‑Shaped Brick
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Wood Framed Stone Manor
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Large Stone Compound
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Wood Frame Manor with Tower
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Two Story Fieldstone Patio House
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Sandstone Two Story with Balcony
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Large Castle with Fence
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Sandstone Temple
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
