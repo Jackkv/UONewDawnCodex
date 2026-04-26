@@ -377,7 +377,7 @@ You can have 1 house per account (total 3 houses).
 
 === "2nd floor"
 
-### Small Brick Stone Villa
+### Small Field Brick Villa
 
 === "Outside"
 
