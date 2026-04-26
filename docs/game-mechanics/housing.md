@@ -333,113 +333,177 @@ You can have 1 house per account (total 3 houses).
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/small-brick-house-east.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/updated-classic/small-brick-house-east-1.png){ .on-glb }
 
 ### Wood and plaster house (East)
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/wood-and-plaster house-east.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/updated-classic/wood-and-plaster house-east-1.png){ .on-glb }
 
 ### Stone and plaster house (East)
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/stone-and-plaster-house-east.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/updated-classic/stone-and-plaster-house-east-1.png){ .on-glb }
 
 ### Field stone house (East)
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/field-stone-house-east.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/updated-classic/field-stone-house-east-1.png){ .on-glb }
 
 ### Thatched-roof cottage (East)
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/thatched-roof-cottage-east.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/updated-classic/thatched-roof-cottage-east-1.png){ .on-glb }
 
 ### Wooden house (East)
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/wooden-house-east.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/updated-classic/wooden-house-east-1.png){ .on-glb }
 
 ### Tall small tower
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/tall-small-tower.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/updated-classic/tall-small-tower-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/updated-classic/tall-small-tower-2.png){ .on-glb }
+
+=== "3rd floor"
+
+    ![image](../assets/housing/updated-classic/tall-small-tower-3.png){ .on-glb }
 
 ### Three story villa
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/three-story-villa.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/updated-classic/three-story-villa-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/updated-classic/three-story-villa-2.png){ .on-glb }
+
+=== "3rd floor"
+
+    ![image](../assets/housing/updated-classic/three-story-villa-3.png){ .on-glb }
 
 ### Three story villa (East)
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/three-story-villa-east.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/updated-classic/three-story-villa-east-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/updated-classic/three-story-villa-east-2.png){ .on-glb }
+
+=== "3rd floor"
+
+    ![image](../assets/housing/updated-classic/three-story-villa-east-3.png){ .on-glb }
 
 ### Two-story brick house
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/two-story-brick-house.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/updated-classic/two-story-brick-house-1.png){ .on-glb }
 
 ### Large house with courtyard patio
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/large-house-with-courtyard-patio.png){ .on-glb }
+
 === "1st floor"
 
-=== "2nd floor"
+    ![image](../assets/housing/updated-classic/large-house-with-courtyard-patio-1.png){ .on-glb }
 
 ### Two-story wood/plaster courtyard patio
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/two-story-wood-plaster-courtyard-patio.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/updated-classic/two-story-wood-plaster-courtyard-patio-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/updated-classic/two-story-wood-plaster-courtyard-patio-2.png){ .on-glb }
 
 ### Large gray keep with rear courtyard
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/large-gray-keep-with-rear-courtyard.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/updated-classic/large-gray-keep-with-rear-courtyard-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/updated-classic/large-gray-keep-with-rear-courtyard-2.png){ .on-glb }
 
 ### Large gray keep with corner
 
 === "Outside"
 
+    ![image](../assets/housing/updated-classic/large-gray-keep-with-corner.png){ .on-glb }
+
 === "1st floor"
 
+    ![image](../assets/housing/updated-classic/large-gray-keep-with-corner-1.png){ .on-glb }
+
 === "2nd floor"
+
+    ![image](../assets/housing/updated-classic/large-gray-keep-with-corner-2.png){ .on-glb }
 
 ## Custom houses
 
