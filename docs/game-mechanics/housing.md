@@ -83,3 +83,158 @@ You can have 1 house per account (total 3 houses).
     | Sandstone Two Story with Balcony |      |    6    |    195    |  270,000  |
     |     Large Castle with Fence      |      |   29    |    775    | 1,150,000 |
     |         Sandstone Temple         |      |   29    |    775    | 1,150,000 |
+
+## Classic houses
+
+### Stone and plaster house
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Field stone house
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Small brick house
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Wooden house
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Wood and plaster house
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Thatched-roof cottage
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Small stone workshop
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Small marble workshop
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Small stone tower
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Two-story villa
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Sandstone house with patio
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Two-story log cabin
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Brick house
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Two-story wood and plaster house
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Two-story stone and plaster house
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Large house with patio
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Tower
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Small stone keep
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
+### Castle
+
+=== "Outside"
+
+=== "1st floor"
+
+=== "2nd floor"
+
