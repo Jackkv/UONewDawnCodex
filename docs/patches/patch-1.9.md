@@ -6,7 +6,7 @@ This patch continues to make some slight adjustments overall, and introduces som
 
 ## 🛠️ Bug Fixes & Adjustments
 
-- Significancy lowered the chances peculiar seeds that drop off mobs to try to balance out the amount of plants being grown
+- Significantly lowered the chances peculiar seeds that drop off mobs to try to balance out the amount of plants being grown
 - Large BODs will now show a picture of the item that needs to be crafted to avoid any confusion
 - Fixed the countdown on the explosion timer
 - Public moongate gump now lets you go to Dawn
