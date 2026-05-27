@@ -60,3 +60,7 @@ Double click the bottle to reveal the Waterstained SOS, use the map to find the 
 While trying to fish up the chest, you will also pull up random items such as bones, pillows, paintings and shells.
 
 There is also a very rare chance to pull up an Enraged kraken.
+
+### Enraged kraken
+
+Enraged Krakens will always drop a Strongbox, in them you can always find a Pirate map.
