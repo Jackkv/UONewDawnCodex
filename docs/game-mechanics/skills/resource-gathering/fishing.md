@@ -31,6 +31,10 @@ Catch and release is an option found on the menu accessible by typing [profile i
 
 If turned ON, you will release normal fishes into the water, it helps managing weight and inventory.
 
+## Boats
+
+You can buy a boat from Shipwright vendors in most docks.
+
 ## Fishing net
 
 Fishing nets can have multiple colors, some more rare than others.
