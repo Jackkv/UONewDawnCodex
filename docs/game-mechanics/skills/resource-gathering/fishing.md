@@ -30,3 +30,17 @@ This table shows what can you fish up.
 Catch and release is an option found on the menu accessible by typing [profile in game.
 
 If turned ON, you will release normal fishes into the water, it helps managing weight and inventory.
+
+## Fishing net
+
+Fishing nets can have multiple colors, some more rare than others.
+
+When used, they have a chance of pulling up Sea creatures such as Sea Serpents, Deep Sea Serpents, Water Elementals and Krakens.
+
+Sea Serpents are guaranteed to be pulled up with a net and have a different loot from those fished up with a pole.
+
+They don't have MiBs, but they have very rare chance of dropping a level 2 Treasure map.
+
+Krakens can't be pulled up by pole fishing, they usually drop a Net and have a rare chance of having a MiB.
+
+At the moment is better to keep Nets as decoration.
