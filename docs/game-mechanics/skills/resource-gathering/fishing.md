@@ -64,3 +64,11 @@ There is also a very rare chance to pull up an Enraged kraken.
 ### Enraged kraken
 
 Enraged Krakens will always drop a Strongbox, in them you can always find a Pirate map.
+
+## Pirate maps
+
+Pirate maps are dropped by Ancient Sea Serpents or found in Strongboxes dropped by Enraged Krakens.
+
+You can only pull up two Ancient Sea Serpents a day for each account, after that limit you get a rare decoration item instead.
+
+For more information about Pirate maps go [here](../../../custom-systems/pirate-adventures.md).
