@@ -76,3 +76,11 @@ For more information about Pirate maps go [here](../../../custom-systems/pirate-
 ### Fishing rares
 
 This table shows which rares you can get after reaching the daily Ancient Sea Serpents limit.
+
+## Training
+
+Train from Fisher NPCs to reach around 30.
+
+Repeatedly fish until reaching 100, while fishing on land monster can't spawn and the gains are the same as fishing in deep sea.
+
+Consider keeping the fish to also train cooking.
