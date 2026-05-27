@@ -50,3 +50,13 @@ At the moment is better to keep Nets as decoration.
 You can extract Ink from rare fishes like the Octopus and the Cuttlefish.
 
 You can use the Bottle of Extracted Ink on a Dye Tub to make a single use of pure black hue.
+
+## Messages in a bottle
+
+You can loot a Message in a bottle from Sea Serpents and Deep Sea Serpents.
+
+Double click the bottle to reveal the Waterstained SOS, use the map to find the coordinates and fish up the treasure chest.
+
+While trying to fish up the chest, you will also pull up random items such as bones, pillows, paintings and shells.
+
+There is also a very rare chance to pull up an Enraged kraken.
