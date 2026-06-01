@@ -29,8 +29,6 @@ This table shows what you can fish up.
 
 === "Rare fishes"
 
-<!-- -->
-
     |      Rare fishes      |
     |:---------------------:|
     |       Angelfish       |
@@ -72,7 +70,6 @@ This table shows what you can fish up.
     |      Yellow Tang      |
     |  Yellow Tang Variant  |
     | Yellowtail Damselfish |
-
 
 ## Catch and release
 
