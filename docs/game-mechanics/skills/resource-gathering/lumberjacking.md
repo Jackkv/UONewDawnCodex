@@ -21,9 +21,11 @@ To avoid unattended gathering, all resource gathering activities will trigger th
 
 To be able to gather, you need to equip an axe in your hand and be on foot.
 
+You can purchase an axe from blacksmith or weaponsmith vendors.
+
 Double click the axe and then the tree until it's depleted.
 
-Trees are like Mining veins, they will always yield that type of wood.
+Specific trees will always yield the same type of wood.
 
 ## Axes damage bonus
 

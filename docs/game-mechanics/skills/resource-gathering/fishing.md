@@ -71,6 +71,14 @@ This table shows what you can fish up.
     |   ![item-icon](../../../assets/items/yellow-tang-variant.png)<br>Yellow Tang Variant   |
     | ![item-icon](../../../assets/items/yellowtail-damselfish.png)<br>Yellowtail Damselfish |
 
+## Fishing
+
+To be able to fish, you need to equip a fishing pole in your hand and be on foot.
+
+You can purchase a fishing pole from fisher vendors.
+
+Double click the pole and then the water.
+
 ## Catch and release
 
 Catch and release is an option found on the menu accessible by typing [profile in game.
@@ -79,7 +87,7 @@ If turned ON, you will release normal fishes into the water, it helps managing w
 
 ## Boats
 
-You can buy a boat from Shipwright vendors in most docks.
+You can buy a boat from shipwright vendors in most docks.
 
 ## Sea serpents loot
 
