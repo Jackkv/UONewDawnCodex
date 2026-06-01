@@ -2,120 +2,277 @@
 
 # Mining
 
-Extract ore from mountains and rocks.
-
 ## Overview
 
-Mining allows you to extract ore from mountainsides and rocky areas. Essential for blacksmiths and one of the most important gathering skills in the game.
+Mining allows you to extract ore from mountainsides and rocky areas, essential for blacksmiths.
 
-## Effects
+To avoid unattended gathering, all resource gathering activities will trigger the AFK captcha gump.
 
-### Ore Gathering
+## Types of iron
 
-- Mine iron ore (most common)
-- Find colored ores (better quality)
-- Smelt ore into ingots
-- Renewable resource
+| Skill |                                   Iron                                    | Spawn |
+|:-----:|:-------------------------------------------------------------------------:|:-----:|
+|   0   |        ![item-icon](../../../assets/items/iron-ingots.png)<br>Iron        |  50%  |
+|  65   | ![item-icon](../../../assets/items/dull-copper-ingots.png)<br>Dull Copper | 11.2% |
+|  70   |      ![item-icon](../../../assets/items/shadow-ingots.png)<br>Shadow      | 9.8%  |
+|  75   |      ![item-icon](../../../assets/items/copper-ingots.png)<br>Copper      | 8.4%  |
+|  80   |      ![item-icon](../../../assets/items/bronze-ingots.png)<br>Bronze      | 7.0%  |
+|  85   |      ![item-icon](../../../assets/items/golden-ingots.png)<br>Golden      | 5.6%  |
+|  90   |     ![item-icon](../../../assets/items/agapite-ingots.png)<br>Agapite     | 4.2%  |
+|  95   |      ![item-icon](../../../assets/items/verite-ingots.png)<br>Verite      | 2.8%  |
+|  99   |    ![item-icon](../../../assets/items/valorite-ingots.png)<br>Valorite    | 1.4%  |
 
-### Ore Types
+## Gathering
 
-- **Iron** - Most common, everywhere
-- **Shadow** - Uncommon
-- **Copper** - Uncommon
-- **Bronze** - Rare
-- **Gold** - Rare
-- **Agapite** - Very rare
-- **Verite** - Extremely rare
-- **Valorite** - Legendary rare
+To be able to gather, you need to be on foot.
 
-### Additional Resources
+Double click the pickaxe or shovel and then the vein until it's depleted.
 
-- Find gems while mining
-- Special ore veins
+You can purchase a pickaxe or shovel from mining vendors.
 
-## Training
+Specific veins will always yield the same type of ore.
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+## Prospector Tool
 
-### Early (0-30)
+The Prospector Tool is a Blacksmith BOD reward.
 
-- Buy pickaxe from NPC
-- Mine any mountains
-- Practice near towns
+When used, it can boost the ore vein by one level.
 
-### Intermediate (30-60)
+So for example an Agapite vein can be raised to Verite.
 
-- Mine in popular locations
-- Start finding colored ore
-- Build ingot stockpile
+This effect can stack with the Gargoyle pickaxe.
 
-### Advanced (60-85)
+## Gargoyle pickaxe
 
-- Mine rare ore types
-- Efficient gathering routes
-- Better yield rates
+The Gargoyle pickaxe is a Blacksmith BOD reward.
 
-### Master (85-100)
+When used, it can boost the ore vein by one level.
 
-- Expert miner
-- Maximum yield
-- Best chance for rare ore
+This effect can stack with the Prospector Tool.
 
-## Materials
+So for example an Agapite vein can be raised to Verite using a Prospector Tool and then raise to Valorite with the Gargoyle pickaxe.
 
-### Tools
+When using the Gargoyle pickaxe there is a chance of spawning an Ore Elemental of the same color of the ore you are mining.
 
-- **Pickaxe** - Required for mining
-- **Shovel** - Can also be used
-- Tools wear out over time
+Gargoyles and Stone Gargoyles can also drop a Gargoyle pickaxe.
 
-### Mining Locations
+## Mining gloves
 
-- Mountains
-- Caves
-- Rocky areas
-- Mine entrances
+Mining gloves are a Blacksmith BOD reward.
 
-## Related Skills
+Leather Mining Gloves add 1.0 points of mining.
 
-**Essential For:**
+Studded Mining Gloves add 3.0 points of mining.
 
-- [Blacksmithy](../crafting/blacksmithy.md) - Needs ingots ⭐⭐⭐⭐⭐
+Ringmail Mining Gloves add 5.0 points of mining.
 
-**Support Skills:**
+They can be used to help training.
 
-- [Cartography](../utility-and-support/cartography.md) - Treasure hunting (dig up chests)
-- [Magery](../magic/magery.md) - Travel to mining spots
+## Ore to ingot
 
-## Ore Quality
+You can combine different ore piles together by double clicking them.
 
-### Common Ores
+For example you could turn Large Piles into Small Piles to better manage weight and smelting.
 
-- Iron - Standard quality
-- Found everywhere
-- Most crafting uses iron
-
-### Rare Ores
-
-- Colored ores are rarer
-- Spawn in specific veins
-- Create superior equipment
-- Much higher value
+|                                    Ore                                     |    Weight    |                   Ingots on Successful smelt                   |
+|:--------------------------------------------------------------------------:|:------------:|:--------------------------------------------------------------:|
+|  ![item-icon](../../../assets/items/ore-small-pile.png)<br>2 Small Piles   | 2 * 2 Stones | ![item-icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
+| ![item-icon](../../../assets/items/ore-medium-pile-1.png)<br>1 Medium Pile |   7 Stones   | ![item-icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
+| ![item-icon](../../../assets/items/ore-medium-pile-2.png)<br>1 Medium Pile |   7 Stones   | ![item-icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
+|   ![item-icon](../../../assets/items/ore-large-pile.png)<br>1 Large Pile   |  12 Stones   | ![item-icon](../../../assets/items/iron-ingots.png)<br>2 Ingot |
 
 ## Smelting
 
-### Ore to Ingots
+To smelt double click the ore and then a forge, if successful you will get an ingot, if not, you will lose the ore.
 
-- Smelt ore at forges
-- 2 ore = 1 ingot
-- Ingots used in smithing
-- Lighter than ore for transport
+This table shows the smelt chance based on mining level.
 
----
+=== "0 - 20"
 
-**Related Pages:**
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |      0%      |
+    | Dull Copper |      0%      |
+    |   Shadow    |      0%      |
+    |   Copper    |      0%      |
+    |   Bronze    |      0%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "30"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     10%      |
+    | Dull Copper |      0%      |
+    |   Shadow    |      0%      |
+    |   Copper    |      0%      |
+    |   Bronze    |      0%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "40"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     30%      |
+    | Dull Copper |      0%      |
+    |   Shadow    |      0%      |
+    |   Copper    |      0%      |
+    |   Bronze    |      0%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "50"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     50%      |
+    | Dull Copper |      0%      |
+    |   Shadow    |      0%      |
+    |   Copper    |      0%      |
+    |   Bronze    |      0%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "60"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     70%      |
+    | Dull Copper |      0%      |
+    |   Shadow    |      0%      |
+    |   Copper    |      0%      |
+    |   Bronze    |      0%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "70"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     90%      |
+    | Dull Copper |     60%      |
+    |   Shadow    |     50%      |
+    |   Copper    |      0%      |
+    |   Bronze    |      0%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "80"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     100%     |
+    | Dull Copper |     80%      |
+    |   Shadow    |     70%      |
+    |   Copper    |     60%      |
+    |   Bronze    |     50%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "90"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     100%     |
+    | Dull Copper |     100%     |
+    |   Shadow    |     90%      |
+    |   Copper    |     80%      |
+    |   Bronze    |     70%      |
+    |   Golden    |     60%      |
+    |   Agapite   |     50%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "100"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     100%     |
+    | Dull Copper |     100%     |
+    |   Shadow    |     100%     |
+    |   Copper    |     100%     |
+    |   Bronze    |     90%      |
+    |   Golden    |     80%      |
+    |   Agapite   |     70%      |
+    |   Verite    |     60%      |
+    |  Valorite   |     52%      |
+
+=== "101"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     100%     |
+    | Dull Copper |     100%     |
+    |   Shadow    |     100%     |
+    |   Copper    |     100%     |
+    |   Bronze    |     92%      |
+    |   Golden    |     82%      |
+    |   Agapite   |     72%      |
+    |   Verite    |     63%      |
+    |  Valorite   |     54%      |
+
+=== "103"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     100%     |
+    | Dull Copper |     100%     |
+    |   Shadow    |     100%     |
+    |   Copper    |     100%     |
+    |   Bronze    |     96%      |
+    |   Golden    |     86%      |
+    |   Agapite   |     76%      |
+    |   Verite    |     66%      |
+    |  Valorite   |     58%      |
+
+=== "105"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     100%     |
+    | Dull Copper |     100%     |
+    |   Shadow    |     100%     |
+    |   Copper    |     100%     |
+    |   Bronze    |     100%     |
+    |   Golden    |     90%      |
+    |   Agapite   |     80%      |
+    |   Verite    |     70%      |
+    |  Valorite   |     62%      |
+
+At GM you can safely smelt Iron, Dull Copper, Shadow and Copper ores.
+
+When smelting anything above Copper, it's recommended to combine the ores into small piles and smelt them 2 at a time, otherwise you will risk the entire stack.
+
+## Archaeology
+
+Mining is one of the skill required for Excavation in the Archaeology system, alongside with Item Identification.
+
+For more information about the system go [here](../../../custom-systems/archaeology.md).
+
+## Training
+
+Train from Miner NPCs to reach around 30.
+
+Smelting ore gives faster gains than mining, when the chance of smelt is lower.
+
+Repeatedly mine and/or smelt until reaching 100.
+
+## Related skills
 
 - [Blacksmithy](../crafting/blacksmithy.md)
-- [Cartography](../utility-and-support/cartography.md)
-- [Resources](../../../items/resources.md)
