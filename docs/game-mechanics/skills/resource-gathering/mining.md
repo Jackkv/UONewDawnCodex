@@ -41,3 +41,17 @@ When used, it can boost the ore vein by one level.
 So for example an Agapite vein can be raised to Verite.
 
 This effect can stack with the Gargoyle pickaxe.
+
+## Gargoyle pickaxe
+
+The Gargoyle pickaxe is a Blacksmith BOD reward.
+
+When used, it can boost the ore vein by one level.
+
+This effect can stack with the Prospector Tool.
+
+So for example an Agapite vein can be raised to Verite using a Prospector Tool and then raise to Valorite with the Gargoyle pickaxe.
+
+When using the Gargoyle pickaxe there is a chance of spawning an Ore Elemental of the same color of the ore you are mining.
+
+Gargoyles and Stone Gargoyles can also drop a Gargoyle pickaxe.
