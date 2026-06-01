@@ -85,7 +85,7 @@ For example you could turn Large Piles into Small Piles to better manage weight 
 
 To smelt double click the ore and then a forge, if successful you will get an ingot, if not, you will lose the ore.
 
-This table show the smelt chance based on mining level.
+This table shows the smelt chance based on mining level.
 
 === "0 - 20"
 
@@ -263,7 +263,7 @@ When smelting anything above Copper, it's recommended to combine the ores into s
 
 Mining is one of the skill required for Excavation in the Archaeology system, alongside with Item Identification.
 
-To learn more about the system go [here](../../../custom-systems/archaeology.md).
+For more information about the system go [here](../../../custom-systems/archaeology.md).
 
 ## Training
 
