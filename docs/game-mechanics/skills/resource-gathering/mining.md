@@ -21,3 +21,13 @@ To avoid unattended gathering, all resource gathering activities will trigger th
 |  90   |     ![item-icon](../../../assets/items/agapite-ingots.png)<br>Agapite     | 4.2%  |
 |  95   |      ![item-icon](../../../assets/items/verite-ingots.png)<br>Verite      | 2.8%  |
 |  99   |    ![item-icon](../../../assets/items/valorite-ingots.png)<br>Valorite    | 1.4%  |
+
+## Gathering
+
+To be able to gather, you need to be on foot.
+
+Double click the pickaxe or shovel and then the vein until it's depleted.
+
+You can purchase a pickaxe or shovel from mining vendors.
+
+Specific veins will always yield the same type of ore.
