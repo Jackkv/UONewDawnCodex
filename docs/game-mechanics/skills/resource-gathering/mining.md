@@ -67,3 +67,16 @@ Studded Mining Gloves add 3.0 points of mining.
 Ringmail Mining Gloves add 5.0 points of mining.
 
 They can be used to help training.
+
+## Ore to ingot
+
+You can combine different ore piles together by double clicking them.
+
+For example you could turn Large Piles into Small Piles to better manage weight and smelting.
+
+|                                    Ore                                     |    Weight    |                   Ingots on Successful smelt                   |
+|:--------------------------------------------------------------------------:|:------------:|:--------------------------------------------------------------:|
+|  ![item-icon](../../../assets/items/ore-small-pile.png)<br>2 Small Piles   | 2 * 2 Stones | ![item-icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
+| ![item-icon](../../../assets/items/ore-medium-pile-1.png)<br>1 Medium Pile |   7 Stones   | ![item-icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
+| ![item-icon](../../../assets/items/ore-medium-pile-2.png)<br>1 Medium Pile |   7 Stones   | ![item-icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
+|   ![item-icon](../../../assets/items/ore-large-pile.png)<br>1 Large Pile   |  12 Stones   | ![item-icon](../../../assets/items/iron-ingots.png)<br>2 Ingot |
