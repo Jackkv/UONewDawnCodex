@@ -31,3 +31,13 @@ Double click the pickaxe or shovel and then the vein until it's depleted.
 You can purchase a pickaxe or shovel from mining vendors.
 
 Specific veins will always yield the same type of ore.
+
+## Prospector Tool
+
+The Prospector Tool is a Blacksmith BOD reward.
+
+When used, it can boost the ore vein by one level.
+
+So for example an Agapite vein can be raised to Verite.
+
+This effect can stack with the Gargoyle pickaxe.
