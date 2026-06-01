@@ -80,3 +80,181 @@ For example you could turn Large Piles into Small Piles to better manage weight 
 | ![item-icon](../../../assets/items/ore-medium-pile-1.png)<br>1 Medium Pile |   7 Stones   | ![item-icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
 | ![item-icon](../../../assets/items/ore-medium-pile-2.png)<br>1 Medium Pile |   7 Stones   | ![item-icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
 |   ![item-icon](../../../assets/items/ore-large-pile.png)<br>1 Large Pile   |  12 Stones   | ![item-icon](../../../assets/items/iron-ingots.png)<br>2 Ingot |
+
+## Smelting
+
+To smelt double click the ore and then a forge, if successful you will get an ingot, if not, you will lose the ore.
+
+This table show the smelt chance based on mining level.
+
+=== "0 - 20"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |      0%      |
+    | Dull Copper |      0%      |
+    |   Shadow    |      0%      |
+    |   Copper    |      0%      |
+    |   Bronze    |      0%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "30"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     10%      |
+    | Dull Copper |      0%      |
+    |   Shadow    |      0%      |
+    |   Copper    |      0%      |
+    |   Bronze    |      0%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "40"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     30%      |
+    | Dull Copper |      0%      |
+    |   Shadow    |      0%      |
+    |   Copper    |      0%      |
+    |   Bronze    |      0%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "50"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     50%      |
+    | Dull Copper |      0%      |
+    |   Shadow    |      0%      |
+    |   Copper    |      0%      |
+    |   Bronze    |      0%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "60"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     70%      |
+    | Dull Copper |      0%      |
+    |   Shadow    |      0%      |
+    |   Copper    |      0%      |
+    |   Bronze    |      0%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "70"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     90%      |
+    | Dull Copper |     60%      |
+    |   Shadow    |     50%      |
+    |   Copper    |      0%      |
+    |   Bronze    |      0%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "80"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     100%     |
+    | Dull Copper |     80%      |
+    |   Shadow    |     70%      |
+    |   Copper    |     60%      |
+    |   Bronze    |     50%      |
+    |   Golden    |      0%      |
+    |   Agapite   |      0%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "90"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     100%     |
+    | Dull Copper |     100%     |
+    |   Shadow    |     90%      |
+    |   Copper    |     80%      |
+    |   Bronze    |     70%      |
+    |   Golden    |     60%      |
+    |   Agapite   |     50%      |
+    |   Verite    |      0%      |
+    |  Valorite   |      0%      |
+
+=== "100"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     100%     |
+    | Dull Copper |     100%     |
+    |   Shadow    |     100%     |
+    |   Copper    |     100%     |
+    |   Bronze    |     90%      |
+    |   Golden    |     80%      |
+    |   Agapite   |     70%      |
+    |   Verite    |     60%      |
+    |  Valorite   |     52%      |
+
+=== "101"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     100%     |
+    | Dull Copper |     100%     |
+    |   Shadow    |     100%     |
+    |   Copper    |     100%     |
+    |   Bronze    |     92%      |
+    |   Golden    |     82%      |
+    |   Agapite   |     72%      |
+    |   Verite    |     63%      |
+    |  Valorite   |     54%      |
+
+=== "103"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     100%     |
+    | Dull Copper |     100%     |
+    |   Shadow    |     100%     |
+    |   Copper    |     100%     |
+    |   Bronze    |     96%      |
+    |   Golden    |     86%      |
+    |   Agapite   |     76%      |
+    |   Verite    |     66%      |
+    |  Valorite   |     58%      |
+
+=== "105"
+
+    |     Ore     | Smelt chance |
+    |:-----------:|:------------:|
+    |    Iron     |     100%     |
+    | Dull Copper |     100%     |
+    |   Shadow    |     100%     |
+    |   Copper    |     100%     |
+    |   Bronze    |     100%     |
+    |   Golden    |     90%      |
+    |   Agapite   |     80%      |
+    |   Verite    |     70%      |
+    |  Valorite   |     62%      |
+
+At GM you can safely smelt Iron, Dull Copper, Shadow and Copper ores.
+
+When smelting anything above Copper, it's recommended to combine the ores into small piles and smelt them 2 at a time, otherwise you will risk the entire stack.
