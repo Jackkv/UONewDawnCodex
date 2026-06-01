@@ -258,3 +258,15 @@ This table show the smelt chance based on mining level.
 At GM you can safely smelt Iron, Dull Copper, Shadow and Copper ores.
 
 When smelting anything above Copper, it's recommended to combine the ores into small piles and smelt them 2 at a time, otherwise you will risk the entire stack.
+
+## Training
+
+Train from Miner NPCs to reach around 30.
+
+Smelting ore gives faster gains than mining, when the chance of smelt is lower.
+
+Repeatedly mine and/or smelt until reaching 100.
+
+## Related skills
+
+- [Blacksmithy](../crafting/blacksmithy.md)
