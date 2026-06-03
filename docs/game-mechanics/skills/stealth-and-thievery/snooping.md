@@ -2,79 +2,20 @@
 
 # Snooping
 
-Peek into other players' backpacks.
-
 ## Overview
 
-Snooping allows you to look inside another player's backpack without their permission. Used by thieves to identify valuable targets before stealing.
+Snooping allows you to look inside another player's backpack without their permission.
 
-## Effects
-
-### Backpack Viewing
-
-- Open other players' backpacks
-- View their inventory
-- See what they're carrying
-- Plan theft targets
-
-### Success and Detection
-
-- Failure alerts the target
-- Success goes unnoticed
-- Higher skill = better success rate
-- Guards may respond if detected
+Used by thieves to identify valuable targets before stealing.
 
 ## Training
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+Train from Thief NPCs to reach around 50.
 
-### Active Training
+Snooping doesn't have any difficulty checks.
 
-Use Snooping on:
+Just repeatedly double click an NPC's or other player's backpack until you reach 100.
 
-- Other players (with permission)
-- NPCs
-- Practice in safe areas
-- Repeated attempts
-
-### Training Tips
-
-- Practice on willing participants
-- Train in non-guard zones
-- Careful in town
-
-## Related Skills
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-## Uses
-
-### Thievery
-
-- Identify valuable targets
-- Plan what to steal
-- Assess risk vs reward
-- Target selection
-
-### Information Gathering
-
-- Scout enemy inventory
-- Check for threats
-- Reconnaissance
-
-## Criminal System
-
-### Guard Zones
-
-- Guards will attack if caught stealing, not snooping
-
----
-
-**Related Pages:**
+## Related skills
 
 - [Stealing](stealing.md)
-- [Hiding](hiding.md)
-- [Stealth](stealth.md)
-- [PvP Guide](../../pvp/index.md)
