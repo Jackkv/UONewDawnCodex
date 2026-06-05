@@ -2,98 +2,50 @@
 
 # Detecting Hidden
 
-Reveal hidden players and objects.
-
 ## Overview
 
-Detecting Hidden allows you to reveal players using Hiding or Stealth, as well as discover hidden items and traps. Essential counter to stealth characters in PvP.
+Detecting Hidden allows you to reveal hidden players and trapped containers.
 
-## Effects
+## Hidden players
 
-### Reveal Hidden Characters
+Higher skill means better chance of revealing hidden players, event at GM, a GM Hidder will still have a chance of escaping detection.
 
-- Detect hidden players
-- Counter [Hiding](hiding.md) skill
-- Counter [Stealth](stealth.md) movement
-- Reveal invisible enemies
+### In houses
 
-### Discover Hidden Objects
+Using Detecting Hidden in a house you own, co-own or are friended to, will not grant you any skill gains and you will always reveal any players, monsters or pets with a 100% success rate, regardless of skill level.
 
-- Find hidden items
-- Detect trapped objects
-- Discover secret doors (if present)
+## Stealth players
+
+Hidden players using Stealth while moving near you have a chance to be revealed automatically.
+
+A check is made by comparing your Detecting Hidden and INT against the Stealth and DEX of the hidder moving around you.
+
+## Trapped containers
+
+At 50 Detecting Hidden you will be able to reveal trapped containers around you.
+
+The word [trapped] will appear over the container, the color indicates the type of trap.
+
+Red, for explosion traps.
+Green, for poison traps.
+Blue, for dart traps.
+
+## Tracking
+
+Detecting Hidden can also help Track Hidden players.
 
 ## Training
 
-### Active Training
+Train from Thief NPCs to reach around 50.
 
-Use Detecting Hidden:
+Repeatedly use the skill on yourself until reaching 100.
 
-- Around buildings and areas
-- In dungeons
-- Near hiding spots
-- Repeatedly scan areas
+For faster gains, when at 50, you can reveal multiple trapped containers around you instead.
 
-### Training Tips
+Each time a container is revealed, it counts as a use of the skill, revealing multiple containers counts as multiple skill uses at once.
 
-- Macro in safe areas
-- Practice in towns
-- Train while farming
-
-!!! tip "Passive Gains"
-    Some shards may allow passive gains when hidden players are nearby.
-
-## Related Skills
-
-**Counter To:**
-
-- [Hiding](hiding.md) - Detect hidden players
-- [Stealth](stealth.md) - Reveal stealthed players
-
-**Synergy With:**
-
-- [Tracking](../utility-and-support/tracking.md) - Find then reveal
-- [Remove Trap](../utility-and-support/remove-trap.md) - Find traps
-
-**Anti-Stealth Template:**
-
-- Combat skills
-- **Detecting Hidden: 100** ⭐
-- [Tracking](../utility-and-support/tracking.md): 100
-- [Magery](../magic/magery.md): 100
-- [Resisting Spells](../combat/resisting-spells.md): 100
-
-## PvP Applications
-
-### Counter Stealth Tactics
-
-- Reveal hidden attackers
-- Prevent ambushes
-- Clear hiding spots
-- Protect group members
-
-### Defense
-
-- Check for hidden enemies before casting
-- Reveal thieves near you
-- Secure areas
-
-## PvM Uses
-
-### Dungeon Exploration
-
-- Detect trapped chests
-
-## Importance
-
-⭐⭐⭐⭐ (Essential in PvP against stealth)
-⭐⭐ (Useful in PvM)
-
----
-
-**Related Pages:**
+## Related skills
 
 - [Hiding](hiding.md)
 - [Stealth](stealth.md)
 - [Tracking](../utility-and-support/tracking.md)
-- [PvP Guide](../../pvp/index.md)

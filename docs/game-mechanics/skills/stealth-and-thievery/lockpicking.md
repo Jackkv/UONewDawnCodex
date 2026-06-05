@@ -2,66 +2,29 @@
 
 # Lockpicking
 
-Open locked containers and doors.
-
 ## Overview
 
-Lockpicking allows you to open locked chests, doors, and containers without keys. Essential for treasure hunters and useful for accessing locked content.
+Lockpicking allows you to open locked containers without a key, essential for treasure hunters.
 
-## Effects
+## Dungeon chests
 
-### Lock Opening
-
-- Open locked chests
-- Unlock doors
-- Pick treasure chest locks
-- Access locked containers
+To identify a dungeon chest level, check its contents: around 200 gold with arrows indicates a level 3 chest, while around 200 gold with no arrows indicates a level 4 chest.
 
 ## Training
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+To help training is recommended to use Tinker boxes, these boxes are made by a Tinkerer with a specific skill level.
 
-## Materials
+Lock the boxes with their key and start lockpicking them.
 
-### Tools
+| Skill    | Lockpick               |
+|----------|------------------------|
+| 0 - 30   | Train from NPCs        |
+| 30 - 50  | 30 Tinker level box    |
+| 50 - 76  | 50 Tinker level box    |
+| 76 - 82  | 70 Tinker level box    |
+| 82 - 95  | 100 Tinker level box   |
+| 95 - 100 | Level 4 dungeon chests |
 
-- **Lockpicks** - Required for picking locks
-- Created by [Tinkering](../crafting/tinkering.md)
-- Consumed on failure
+## Related skills
 
-## Uses
-
-### Treasure Hunting
-
-- Open treasure chests from maps
-- Access buried treasure
-- Essential for treasure hunting build
-
-### Dungeon Exploration
-
-- Open locked dungeon chests
-
-## Lockpick Consumption
-
-### Tool Usage
-
-- Lockpicks break on failure
-- Success preserves lockpick
-- Higher skill = fewer breaks
-- Stock up on lockpicks
-
-### Creating Lockpicks
-
-- Requires [Tinkering](../crafting/tinkering.md) skill
-- Made from iron ingots
-- Cheap to produce
-
----
-
-**Related Pages:**
-
-- [Cartography](../utility-and-support/cartography.md)
-- [Remove Trap](../utility-and-support/remove-trap.md)
 - [Tinkering](../crafting/tinkering.md)
-- [Stealing](stealing.md)

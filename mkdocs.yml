@@ -157,12 +157,12 @@ nav:
         - Mining: game-mechanics/skills/resource-gathering/mining.md
         - Lumberjacking: game-mechanics/skills/resource-gathering/lumberjacking.md
       - Stealth & Thievery:
-        - Detecting Hidden: game-mechanics/skills/stealth-and-thievery/detecting-hidden.md
         - Hiding: game-mechanics/skills/stealth-and-thievery/hiding.md
-        - Lockpicking: game-mechanics/skills/stealth-and-thievery/lockpicking.md
+        - Stealth: game-mechanics/skills/stealth-and-thievery/stealth.md
         - Snooping: game-mechanics/skills/stealth-and-thievery/snooping.md
         - Stealing: game-mechanics/skills/stealth-and-thievery/stealing.md
-        - Stealth: game-mechanics/skills/stealth-and-thievery/stealth.md
+        - Lockpicking: game-mechanics/skills/stealth-and-thievery/lockpicking.md
+        - Detecting Hidden: game-mechanics/skills/stealth-and-thievery/detecting-hidden.md
       - Taming & Animals:
         - Animal Lore: game-mechanics/skills/taming-and-animals/animal-lore.md
         - Animal Taming: game-mechanics/skills/taming-and-animals/animal-taming.md

@@ -2,133 +2,56 @@
 
 # Hiding
 
-Become invisible to other players and monsters.
-
 ## Overview
 
-Hiding allows you to become invisible, avoiding detection by players and monsters. Essential for scouts, thieves, and stealth characters. Often paired with Stealth for movement.
+Hiding allows you to become invisible to players and monsters.
+
+Often paired with Stealth for movement.
 
 ## Effects
 
-### Invisibility
+Crossing paths with someone hidden will give a message 'Being perfectly rested, you shove something invisible out of the way.'
 
-- Become invisible to others
-- Avoid monster aggression
-- Escape dangerous situations
-- Scout safely
+Speaking or taking offensive actions will reveal you.
 
-### Breaking Hide
+Looting your own corpse will not reveal you, but looting others will.
 
-Hide breaks when you:
+You can't hide while in combat.
 
-- Move (without Stealth)
-- Attack or cast spells
-- Use most skills
-- Take damage
+Using most skills will reveal you, except for Detecting Hidden, Item Identification, Anatomy, Arms Lore, Animal Lore, Evaluate Intelligence, Forensic Evaluation, and Poisoning.
+
+You can be revealed by the skill Detecting Hidden or by the spell Reveal.
+
+## Egg bombs
+
+Egg bombs can be used to hide in combat and have a 25 second cooldown.
+
+They are made with Cooking at 90+ skill.
+
+## Stealth
+
+Stealth allows you to move while hidden.
+
+## Tracking
+
+Players that have both Tracking and Detecting Hidden have a chance at tracking hidden players.
+
+At GM Tracking, they can track up to 100 tiles away, 50 tiles within a dungeon.
+
+Both players must be in the same region and dungeon level.
+
+The chance is calculated by using the total Tracking and Detecting Hidden against the total Hiding and Stealth of the other player.
+
+After the base chance is calculated, is then also reduced based on the distance between the players.
 
 ## Training
 
-### Active Training
+Train from Thief NPCs to reach around 50.
 
-Use Hiding skill:
+Repeatedly Hide until reaching 100.
 
-- Repeatedly hide
-- Practice anywhere
-- Gains on each attempt
-
-### Passive Training
-
-- Use while adventuring
-- Hide during combat downtime
-- Escape dangerous situations
-
-!!! tip "Fast Training"
-    Macro hiding repeatedly in a safe location. Each attempt gives gain chance.
-
-## Related Skills
-
-**Essential Combination:**
-
-- [Stealth](stealth.md) - Move while hidden ⭐⭐⭐⭐⭐
-
-**Stealth Skills:**
-
-- [Stealing](stealing.md) - Thief builds
-- [Snooping](snooping.md) - Scout and steal
-- [Detecting Hidden](detecting-hidden.md) - Counter (for awareness)
-
-**Stealth Template:**
-
-- Hiding: 100
-- [Stealth](stealth.md): 100
-- [Stealing](stealing.md): 100
-- [Snooping](snooping.md): 100
-- [Wrestling](../combat/wrestling.md): 100
-- [Magery](../magic/magery.md): 80
-- [Resisting Spells](../combat/resisting-spells.md): 100
-
-## Uses
-
-### PvM (Player vs Monster)
-
-- Avoid monster aggression
-- Scout dangerous areas
-- Escape when overwhelmed
-- Safe positioning
-
-### PvP (Player vs Player)
-
-- Ambush tactics
-- Escape from fights
-- Scout enemy positions
-- Avoid detection
-
-### Thievery
-
-- Hide after stealing
-- Approach targets unseen
-- Escape after theft
-
-## Counters
-
-### Detection Methods
-
-- [Detecting Hidden](detecting-hidden.md) - Direct counter
-- Area spells reveal hidden players
-- Tracking can find general location
-- Revealed if you take damage
-
-## Character Templates
-
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
-
-### Stealth Scout
-
-- Hiding: 100
-- [Stealth](stealth.md): 100
-- [Detecting Hidden](detecting-hidden.md): 100
-- [Tracking](../utility-and-support/tracking.md): 100
-- Combat skills
-
-### Thief
-
-- Hiding: 100
-- [Stealth](stealth.md): 100
-- [Stealing](stealing.md): 100
-- [Snooping](snooping.md): 100
-- [Wrestling](../combat/wrestling.md): 100
-
-## Importance
-
-⭐⭐⭐⭐⭐ (Essential for stealth builds)
-⭐⭐⭐ (Useful for escape on any character)
-
----
-
-**Related Pages:**
+## Related skills
 
 - [Stealth](stealth.md)
-- [Detecting Hidden](detecting-hidden.md)
-- [Stealing](stealing.md)
-- [PvP Guide](../../pvp/index.md)
+- [Cooking](../crafting/cooking.md)
+- [Tracking](../utility-and-support/tracking.md)
