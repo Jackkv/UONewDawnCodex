@@ -124,15 +124,33 @@ The BOD 6-hour time limit applies to your whole account.
 
 ### BOD Rewards
 
-!!! info "Rewards list"
-    You can get rewards from BODs but they are not listed here yet.
+| Points | Rewards                                                                                                        |
+| -----: | -------------------------------------------------------------------------------------------------------------- |
+|      0 | SturdyShovel (100%)                                                                                            |
+|     25 | SturdyPickaxe (100%)                                                                                           |
+|     50 | SturdyShovel (45%), SturdyPickaxe (45%), MiningGloves (type 1) (10%)                                           |
+|    200 | GargoylesPickaxe (45%), ProspectorsTool (45%), MiningGloves (type 3) (10%)                                     |
+|    400 | GargoylesPickaxe (40%), ProspectorsTool (40%), PowderOfTemperament (20%)                                       |
+|    450 | PowderOfTemperament (90%), MiningGloves (type 5) (10%)                                                         |
+|    500 | RunicHammer (type 1) (25%), RunicHammer (type 2) (25%), RunicHammer (type 3) (25%), RunicHammer (type 4) (25%) |
+|    550 | RandomWeaponKeg (60%), GlowingForgedMetal (40%)                                                                |
+|    600 | RandomWeaponBarrel (50%), RandomRackOfTools (50%)                                                              |
+|    650 | RandomBlacksmithCase (100%)                                                                                    |
+|    675 | ColoredAnvil (100%)                                                                                            |
+|    850 | AncientHammer (type 10) (100%)                                                                                 |
+|    950 | RunicHammer (type 5) (100%)                                                                                    |
+|   1000 | AncientHammer (type 15) (100%)                                                                                 |
+|   1050 | RunicHammer (type 6) (100%)                                                                                    |
+|   1100 | AncientHammer (type 20) (100%)                                                                                 |
+|   1150 | RunicHammer (type 7) (100%)                                                                                    |
+|   1200 | RunicHammer (type 8) (100%)                                                                                    |
 
 ## Training
 
 Training Blacksmithy can be really expensive, consider Mining to fund the training.
 
 | Skill      | Item             |
-|------------|------------------|
+| ---------- | ---------------- |
 | 0 - 30     | Train from NPCs  |
 | 30 - 50    | Maul             |
 | 50 - 70    | Kryss            |
