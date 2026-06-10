@@ -1,6 +1,6 @@
 # SERVER PATCH 1.12
 
-## June 9th, 2026
+## June 10th, 2026
 
 Alongside with bug fixes and quality-of-life improvements, this update introducing bee keeping, and some pirate map changes.
 
@@ -74,7 +74,7 @@ A few fixes and adjustments to the DOTW system
 - Refactored how the DOTW system handles when a monster that was killed in a dungeon to prevent double processing 
 - Lowered the chances to get rift shards during DOTW during normal mobs, however, increased the amount you get when killing a rift spawn (sorry, the rift shard gravy train is over)
 
-## 🐝 Apiculture
+## 🐝 Apiculture (Beekeeping)
 
 <div class="rpg-scroll" markdown="1">
 **A Notice from the Beekeepers of the Realm**
@@ -99,8 +99,8 @@ The bees won't wait for you to be ready.
 - You can now maintain bee hives, head to the beekeeper in Ocllo to purchase a deed
 - Beehives require a water tub or water barrel as a water source, which can be crafted by carpenters. These can be refilled
 - Beehives (like plants) "grow" every 24 hours from when the hive was placed
-- Beehives will use water each time they "grow"
 - Beehives (like plants) deal with parasites and diseases so you can store various potions to help manage those
+- Beehives will use water each time they "grow"
 - As your beehives grow in population, they will require more water and flowers
 - If you beehive dies, you must destroy it to start over. It will not return the deed
 - Beehives that are too close to other beehives will require more flowers and water
