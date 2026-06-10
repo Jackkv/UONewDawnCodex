@@ -2,65 +2,23 @@
 
 # Animal Lore
 
-Identify and evaluate creatures and their abilities.
-
 ## Overview
 
-Animal Lore allows you to examine creatures and pets, revealing detailed information about their stats, skills, resistances, and abilities. Essential for tamers and useful for all players who interact with creatures.
+Animal Lore allows you to examine creatures and pets, revealing detailed information about their stats, skills and barding difficulty.
 
-## Active Use
-
-When you actively use the Animal Lore skill on a creature:
-
-- **Target Range**: 8 tiles
-- **Cooldown**: 1 second
-- **Requirements**:
-  - Must target an animal, monster, or sea creature
-  - Cannot target dead creatures
-  - At skill < 90.0: Can only lore tamed creatures
-  - At skill < 100.0: Can only lore tamed or tameable creatures
-  - At skill 100.0: Can lore any creature
-- **Success**: Opens detailed gump showing creature information
-- **Failure**: "You can't think of anything you know offhand."
-
-## Information Displayed
-
-The Animal Lore gump shows comprehensive creature details across multiple pages:
+It helps controlling pets and increases the amount of health you can heal with Veterinary. Also helps increasing your stable slots.
 
 ## Training
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+Train from Animal trainer NPCs to reach around 50.
 
-### Active Training
+Animal Lore can be used on a 1 second cooldown, it doesn't have any difficulty checks.
 
-Use Animal Lore skill on:
+Repeatedly use lore on pets until reaching 100.
 
-- Wild animals (requires 90.0+ skill for untamed)
-- Tamed creatures (works at any skill level)
-- Monsters (requires 100.0 skill if untameable)
-- Other players' pets
-- Your own pets
+To be more efficient, you can gain Lore while training Taming.
 
-### Passive Training
-
-- Gains while taming creatures
-- Improves alongside taming skill
-
-!!! tip "Quick Training"
-    Macro the skill on nearby animals. Each use provides a gain chance when you successfully use the skill.
-
-## Related Skills
-
-**Essential Pair:**
-
-- [Animal Taming](animal-taming.md) - Control creatures
-- [Veterinary](veterinary.md) - Heal pets
-
----
-
-**Related Pages:**
+## Related skills
 
 - [Animal Taming](animal-taming.md)
 - [Veterinary](veterinary.md)
-- [Skills Overview](../index.md)
