@@ -10,12 +10,12 @@ To avoid unattended gathering, all resource gathering activities will trigger th
 
 ## Types of wood
 
-| Skill |                             Boards                              |
-|:-----:|:---------------------------------------------------------------:|
-|   0   | ![item-icon](../../../assets/items/normal-boards.png)<br>Normal |
-|  65   |    ![item-icon](../../../assets/items/oak-boards.png)<br>Oak    |
-|  80   |    ![item-icon](../../../assets/items/ash-boards.png)<br>Ash    |
-|  95   |    ![item-icon](../../../assets/items/yew-boards.png)<br>Yew    |
+| Skill |                           Boards                           |
+|:-----:|:----------------------------------------------------------:|
+|   0   | ![icon](../../../assets/items/normal-boards.png)<br>Normal |
+|  65   |    ![icon](../../../assets/items/oak-boards.png)<br>Oak    |
+|  80   |    ![icon](../../../assets/items/ash-boards.png)<br>Ash    |
+|  95   |    ![icon](../../../assets/items/yew-boards.png)<br>Yew    |
 
 ## Gathering
 
