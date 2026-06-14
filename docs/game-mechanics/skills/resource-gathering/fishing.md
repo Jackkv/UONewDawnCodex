@@ -112,7 +112,7 @@ Sea Serpents pulled up with a net have a different loot from those fished up wit
 
 They don't have MiBs, but they have very rare chance of dropping a Level 2 Treasure Map.
 
-Krakens can't be pulled up by pole fishing, they usually drop a Net and have a rare chance of having a MiB.
+Krakens can't be pulled up by pole fishing, they usually drop a Net and have a rare chance of having a MiB. They can also drop a rare decorative rope item.
 
 At the moment is better to keep Nets as decoration.
 
