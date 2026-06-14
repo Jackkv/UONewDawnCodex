@@ -54,6 +54,7 @@ Flames and burning foes.
 ### Hythloth
 
 Dangerous demon filled dungeon.
+
 [:octicons-arrow-right-24: Hythloth Guide](hythloth.md)
 
 ---
@@ -61,6 +62,7 @@ Dangerous demon filled dungeon.
 ### Ice
 
 Home of the white wyrm and frozen fiends.
+
 [:octicons-arrow-right-24: Ice Guide](ice.md)
 
 ---
@@ -76,6 +78,7 @@ Elemental-themed dungeon with earth creatures.
 ### Terathan Keep
 
 Battleground between spiders and snakes. 
+
 [:octicons-arrow-right-24: Terathan Keep Guide](terathan-keep.md)
 
 ---
@@ -83,6 +86,7 @@ Battleground between spiders and snakes.
 ### Wrong
 
 Den of murderers.
+
 [:octicons-arrow-right-24: Wrong Guide](wrong.md)
 
 ---
