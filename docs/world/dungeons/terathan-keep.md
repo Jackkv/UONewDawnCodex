@@ -4,7 +4,7 @@ A vile dungeon featuring many of the most dangerous monsters in all of Britannia
 
 ## Overview
 
-Terathan Keep is a hazardous dungeon located far to the west of Trinsic, known for the unending war between the spider-like terathan inhabitants and their serpentine ophidian foes. The new mysteriously entrance emerged from the southern tip of the Dragonhame mountains. It will only appeal to the most experienced and bold of adventurers.
+Terathan Keep is a hazardous dungeon located far to the west of Trinsic, known for the unending war between the spider-like terathan inhabitants and their serpentine ophidian foes. The new entrance mysteriously emerged from the southern tip of the Dragonhame mountains. It will only appeal to the most experienced and bold of adventurers.
 
 ## Levels
 
