@@ -4,49 +4,50 @@ A multi-level dungeon featuring harpies, elementals, and treasure hunters' delig
 
 ## Overview
 
-Covetous is a popular dungeon near Vesper, known for its diverse creature spawns and valuable loot. It caters to a wide range of skill levels.
+Covetous is a popular dungeon near Vesper, known for its diverse creature spawns and numerous traps. It caters to a wide range of skill levels.
 
 ## Levels
 
 ### Level 1
 
-- **Creatures:** Harpies, gazers
-- **Difficulty:** Medium
-- **Loot:** Decent gold and items
+- **Creatures:** Harpies, gazers, corpsers
+- **Difficulty:** Easy
 
 ### Level 2
 
-- **Creatures:** Elementals, gazers
-- **Difficulty:** Hard
-- **Loot:** Magic items common
+- **Creatures:** Elementals, elder gazers, stone harpies
+- **Difficulty:** Medium
 
 ### Level 3
 
-- **Creatures:** Dragons, drakes (if present)
-- **Difficulty:** Very Hard
-- **Loot:** Excellent rewards
+- **Creatures:** Liches, undead 
+- **Difficulty:** Medium
 
-## Recommended Stats
+### Level 4
 
-- **Skills:** 60+ for level 1
-- **Skills:** 80+ for level 2
-- **Skills:** GM for level 3
-- **Equipment:** Quality armor and weapons
+- **Creatures:** Rotting corpses, undead
+- **Difficulty:** Hard
+
+### Level 5
+
+- **Creatures:** Dragons, drakes 
+- **Difficulty:** Very hard
 
 ## Notable Features
 
 - Near Vesper (convenient)
 - Good gold per hour
 - Mix of creature types
+- Numerous traps
 - Treasure chest spawns
 
 ## Tips
 
 !!! tip "Covetous Strategy"
     - Excellent for bard farming
-    - Provoke harpies effectively
-    - Watch for wandering monsters
-    - Popular farming spot (may be crowded)
+    - Good gold from elder gazers
+    - Watch for traps
+    - Popular farming spot 
 
 ---
 
