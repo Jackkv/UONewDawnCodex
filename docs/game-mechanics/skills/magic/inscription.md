@@ -16,16 +16,16 @@ In order to start crafting, you will need a scribe pen. You can purchase one fro
 
 Before you can inscribe a spell, there are a few requirements. You need a spellbook with spells already inscribed into it, then you need to be able to cast them by having the sufficient Magery skill points, mana and reagents. Lastly, you need a blank scroll to write on.
 
-|                           icon                            | Spell Circle | Magery skill | INT/Mana |
-|:---------------------------------------------------------:|:------------:|:------------:|:--------:|
-|  ![circle-icon](../../../assets/spells/first-circle.png)  |    First     |     1.1      |    4     |
-| ![circle-icon](../../../assets/spells/second-circle.png)  |    Second    |     6.1      |    6     |
-|  ![circle-icon](../../../assets/spells/third-circle.png)  |    Third     |     16.1     |    9     |
-| ![circle-icon](../../../assets/spells/fourth-circle.png)  |    Fourth    |     26.1     |    11    |
-|  ![circle-icon](../../../assets/spells/fifth-circle.png)  |    Fifth     |     36.1     |    14    |
-|  ![circle-icon](../../../assets/spells/sixth-circle.png)  |    Sixth     |     51.8     |    20    |
-| ![circle-icon](../../../assets/spells/seventh-circle.png) |   Seventh    |     66.1     |    40    |
-|  ![circle-icon](../../../assets/spells/eight-circle.png)  |    Eighth    |     80.1     |    50    |
+|                        icon                        | Spell Circle | Magery skill | INT/Mana |
+|:--------------------------------------------------:|:------------:|:------------:|:--------:|
+|  ![icon](../../../assets/spells/first-circle.png)  |    First     |     1.1      |    4     |
+| ![icon](../../../assets/spells/second-circle.png)  |    Second    |     6.1      |    6     |
+|  ![icon](../../../assets/spells/third-circle.png)  |    Third     |     16.1     |    9     |
+| ![icon](../../../assets/spells/fourth-circle.png)  |    Fourth    |     26.1     |    11    |
+|  ![icon](../../../assets/spells/fifth-circle.png)  |    Fifth     |     36.1     |    14    |
+|  ![icon](../../../assets/spells/sixth-circle.png)  |    Sixth     |     51.8     |    20    |
+| ![icon](../../../assets/spells/seventh-circle.png) |   Seventh    |     66.1     |    40    |
+|  ![icon](../../../assets/spells/eight-circle.png)  |    Eighth    |     80.1     |    50    |
 
 It doesn't matter if you successfully scribe a scroll or not, you will always consume mana, reagents and the blank scroll.
 
@@ -83,11 +83,11 @@ This table shows the percent of success rate, divided into skill ranges.
 
 ## Other craftables
 
-|                                 Item                                  |                                   Resources                                   | Skill |
-|:---------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----:|
-|    ![item-icon](../../../assets/items/spellbook.png)<br>Spellbook     |  10 Blank scrolls<br>3 Leather or Hides<br>50 Blood Moss<br>50 Spider's Silk  |  50   |
-| ![item-icon](../../../assets/items/bulk-order.png)<br>Bulk Order Book |                               10 Blank scrolls                                |  65   |
-|     ![item-icon](../../../assets/items/runebook.png)<br>Runebook      | 8 Blank scrolls<br>64 Recall scrolls<br>64 Gate scrolls<br>3 Leather or Hides |  85   |
+|                               Item                               |                                           Resources                                           | Skill |
+|:----------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-----:|
+|    ![icon](../../../assets/items/spellbook.png)<br>Spellbook     | 10 Blank scrolls<br>3 Leather or Hides<br>50 Blood Moss<br>50 Spider's Silk<br>50 Black Pearl |  50   |
+| ![icon](../../../assets/items/bulk-order.png)<br>Bulk Order Book |                                       10 Blank scrolls                                        |  65   |
+|     ![icon](../../../assets/items/runebook.png)<br>Runebook      |         8 Blank scrolls<br>64 Recall scrolls<br>64 Gate scrolls<br>3 Leather or Hides         |  85   |
 
 ## Copying books
 
