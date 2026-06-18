@@ -4,9 +4,10 @@ Every Monday at 8AM CT, four of the ten available dungeons are randomly assigned
 
 ## Overview
 
-**Only four of the five bonuses are active each week**, so one of the bonuses is skipped each week. These four dungeons infused with tempting bonuses entices adventurers to seek out and slay monsters by the thousands. Once enough are slayed, the terrible dragon Dracothraxus will appear in one of the four dungeons for brave adventurers to battle to a fiery death.
+**Only four of the five bonuses are active each week**, so one of the bonuses is skipped each week. These four dungeons infused with tempting bonuses entice adventurers to seek out and slay monsters by the thousands. Once enough are slain, the terrible dragon Dracothraxus will appear in one of the four dungeons for brave adventurers to battle to a fiery death.
 
-!!! tip "Learning the active dungeons" Typing [dotw in game or !dotw in discord to learn the currently active dungeons
+!!! tip "Learning the active dungeons" 
+    Type [dotw in game or !dotw in discord to learn the currently active dungeons
 
 ## DOTW Bonuses
 
