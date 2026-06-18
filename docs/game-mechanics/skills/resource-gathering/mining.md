@@ -10,17 +10,17 @@ To avoid unattended gathering, all resource gathering activities will trigger th
 
 ## Types of iron
 
-| Skill |                                   Iron                                    | Spawn |
-|:-----:|:-------------------------------------------------------------------------:|:-----:|
-|   0   |        ![item-icon](../../../assets/items/iron-ingots.png)<br>Iron        |  50%  |
-|  65   | ![item-icon](../../../assets/items/dull-copper-ingots.png)<br>Dull Copper | 11.2% |
-|  70   |      ![item-icon](../../../assets/items/shadow-ingots.png)<br>Shadow      | 9.8%  |
-|  75   |      ![item-icon](../../../assets/items/copper-ingots.png)<br>Copper      | 8.4%  |
-|  80   |      ![item-icon](../../../assets/items/bronze-ingots.png)<br>Bronze      | 7.0%  |
-|  85   |      ![item-icon](../../../assets/items/golden-ingots.png)<br>Golden      | 5.6%  |
-|  90   |     ![item-icon](../../../assets/items/agapite-ingots.png)<br>Agapite     | 4.2%  |
-|  95   |      ![item-icon](../../../assets/items/verite-ingots.png)<br>Verite      | 2.8%  |
-|  99   |    ![item-icon](../../../assets/items/valorite-ingots.png)<br>Valorite    | 1.4%  |
+| Skill |                                 Iron                                 | Spawn |
+|:-----:|:--------------------------------------------------------------------:|:-----:|
+|   0   |        ![icon](../../../assets/items/iron-ingots.png)<br>Iron        |  50%  |
+|  65   | ![icon](../../../assets/items/dull-copper-ingots.png)<br>Dull Copper | 11.2% |
+|  70   |      ![icon](../../../assets/items/shadow-ingots.png)<br>Shadow      | 9.8%  |
+|  75   |      ![icon](../../../assets/items/copper-ingots.png)<br>Copper      | 8.4%  |
+|  80   |      ![icon](../../../assets/items/bronze-ingots.png)<br>Bronze      | 7.0%  |
+|  85   |      ![icon](../../../assets/items/golden-ingots.png)<br>Golden      | 5.6%  |
+|  90   |     ![icon](../../../assets/items/agapite-ingots.png)<br>Agapite     | 4.2%  |
+|  95   |      ![icon](../../../assets/items/verite-ingots.png)<br>Verite      | 2.8%  |
+|  99   |    ![icon](../../../assets/items/valorite-ingots.png)<br>Valorite    | 1.4%  |
 
 ## Gathering
 
@@ -74,12 +74,12 @@ You can combine different ore piles together by double clicking them.
 
 For example you could turn Large Piles into Small Piles to better manage weight and smelting.
 
-|                                    Ore                                     |    Weight    |                   Ingots on Successful smelt                   |
-|:--------------------------------------------------------------------------:|:------------:|:--------------------------------------------------------------:|
-|  ![item-icon](../../../assets/items/ore-small-pile.png)<br>2 Small Piles   | 2 * 2 Stones | ![item-icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
-| ![item-icon](../../../assets/items/ore-medium-pile-1.png)<br>1 Medium Pile |   7 Stones   | ![item-icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
-| ![item-icon](../../../assets/items/ore-medium-pile-2.png)<br>1 Medium Pile |   7 Stones   | ![item-icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
-|   ![item-icon](../../../assets/items/ore-large-pile.png)<br>1 Large Pile   |  12 Stones   | ![item-icon](../../../assets/items/iron-ingots.png)<br>2 Ingot |
+|                                  Ore                                  |    Weight    |                Ingots on Successful smelt                 |
+|:---------------------------------------------------------------------:|:------------:|:---------------------------------------------------------:|
+|  ![icon](../../../assets/items/ore-small-pile.png)<br>2 Small Piles   | 2 * 2 Stones | ![icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
+| ![icon](../../../assets/items/ore-medium-pile-1.png)<br>1 Medium Pile |   7 Stones   | ![icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
+| ![icon](../../../assets/items/ore-medium-pile-2.png)<br>1 Medium Pile |   7 Stones   | ![icon](../../../assets/items/iron-ingot.png)<br>1 Ingot  |
+|   ![icon](../../../assets/items/ore-large-pile.png)<br>1 Large Pile   |  12 Stones   | ![icon](../../../assets/items/iron-ingots.png)<br>2 Ingot |
 
 ## Smelting
 
