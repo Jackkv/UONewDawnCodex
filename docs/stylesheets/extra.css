@@ -443,3 +443,10 @@ h6 ~ p img {
     color: #b08840;
     font-style: italic;
 }
+
+/* Top nav alignment PR #63 */
+@media screen and (min-width:76.234375em) {
+  .md-tabs {
+    display:flex;
+  }
+}
