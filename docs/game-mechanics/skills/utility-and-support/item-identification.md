@@ -2,55 +2,63 @@
 
 # Item Identification
 
-Identify magical properties of items.
-
 ## Overview
 
 Item Identification allows you to reveal the magical properties of unidentified items. Essential for determining item value and usefulness before use or sale.
 
-## Effects
+Use the skill then click the item you want to identify, at GM you can also identify all the contents of a bag or a corpse at once.
 
-### Item Analysis
+## Armor enchantments
 
-- Identify magic weapons
-- Reveal armor properties
-- Determine magic item bonuses
-- Assess item quality
+| Prefix         | Effect             |
+|----------------|--------------------|
+| Durable        | +5 to item Health  |
+| Substantial    | +10 to item Health |
+| Massive        | +15 to item Health |
+| Fortified      | +20 to item Health |
+| Indestructible | +25 to item Health |
 
-### Success Rate
+The first number on this table shows the actual Armor Rating of the area it protects. It will not match the in-game character status window, which only displays the total average.
 
-- Higher skill = better success rate
-- Some items require high skill
-- Failure does not damage items
+The numbers after the AR area shows the contribution to the total AR average, as showed in the character status window.
+
+| Suffix          | AR of the area | Neck, Hands | Head, Arms, Legs/Feet | Body  |
+|-----------------|----------------|-------------|-----------------------|-------|
+| Defense         | +5             | +0.4        | +0.7                  | +2.2  |
+| Guarding        | +10            | +0.7        | +1.4                  | +4.4  |
+| Hardening       | +15            | +1.1        | +2.1                  | +6.6  |
+| Fortification   | +20            | +1.4        | +2.8                  | +8.8  |
+| Invulnerability | +25            | +1.8        | +3.5                  | +11.0 |
+
+## Weapon enchantments
+
+For Bows and Crossbows the bonus is applied to the Archery skill instead of Tactics.
+
+| Prefix                | Effect                               |
+|-----------------------|--------------------------------------|
+| Accurate              | +5.0 to Tactics or +4.6 to Archery   |
+| Surpassingly Accurate | +10.0 to Tactics or +9.3 to Archery  |
+| Eminently Accurate    | +15.0 to Tactics or +14.0 to Archery |
+| Exceedingly Accurate  | +20.0 to Tactics or +18.7 to Archery |
+| Supremely Accurate    | +25.0 to Tactics or +23.3 to Archery |
+| Durable               | +10 to item Health                   |
+| Substantial           | +20 to item Health                   |
+| Massive               | +30 to item Health                   |
+| Fortified             | +40 to item Health                   |
+| Indestructible        | +50 to item Health                   |
+
+| Suffix      | Effect    |
+|-------------|-----------|
+| Ruin        | +1 damage |
+| Might       | +3 damage |
+| Force       | +5 damage |
+| Power       | +7 damage |
+| Vanquishing | +9 damage |
 
 ## Training
 
-### Active Training
+Train from Jeweler NPCs to reach around 50.
 
-Use Item Identification on:
+Item Identification doesn't have any difficulty checks.
 
-- Unidentified magic items
-- Loot from monsters
-
-### Passive Training
-
-- Gains while identifying loot
-- Automatic improvement during adventuring
-
-!!! tip "Training Source"
-    Kill monsters for magic loot, then identify everything for skill gains.
-
-## Related Skills
-
-**Useful With:**
-
-- Combat skills - Generate loot to identify
-- [Arms Lore](arms-lore.md) - Additional item information
-
----
-
-**Related Pages:**
-
-- [Arms Lore](arms-lore.md)
-- [Magery](../magic/magery.md)
-- [Items](../../../items/index.md)
+Just repeatedly identify the same item until reaching 100.
