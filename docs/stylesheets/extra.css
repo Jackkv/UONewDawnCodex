@@ -149,7 +149,6 @@ body,
     color: var(--nd-gold);
 }
 
-
 /* Toc right side panel PR #13 */
 .md-nav--secondary .md-nav__link {
     font-size: 0.7rem;
@@ -187,6 +186,23 @@ body,
 /* Table vertical alignment PR #14 */
 .md-typeset table:not([class]) th[style*="text-align: center"], .md-typeset table:not([class]) td[style*="text-align: center"] { 
     vertical-align: middle; 
+}
+
+/* Collapsible note style PR #61 */
+.md-typeset .note summary {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.md-typeset details.note {
+  border-color: var(--nd-gold);
+}
+
+.md-typeset .note summary:before {
+  background-color: var(--nd-gold);
+}
+    
+.md-typeset .note summary:after {
+  background-color: var(--nd-gold);
 }
 
 /* Cards and content boxes */
@@ -442,4 +458,11 @@ h6 ~ p img {
     margin-top: 0.75rem;
     color: #b08840;
     font-style: italic;
+}
+
+/* Top nav alignment PR #63 */
+@media screen and (min-width:76.234375em) {
+  .md-tabs {
+    display:flex;
+  }
 }
