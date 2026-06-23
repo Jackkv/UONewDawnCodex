@@ -55,6 +55,313 @@ For Bows and Crossbows the bonus is applied to the Archery skill instead of Tact
 | Power       | +7 damage |
 | Vanquishing | +9 damage |
 
+## Slayers
+
+### Humanoids
+
+=== "Repond"
+
+    ??? note "Click to expand"
+        - Arctic Ogre Lord
+        - Cyclopean Warrior
+        - Evil Mage
+        - Evil Mage Lord
+        - Ettin
+        - Frost Troll
+        - Ogre
+        - Ogre Lord
+        - Orc
+        - Orc Bomber
+        - Orc Brute
+        - Orc Captain
+        - Orcish Lord
+        - Ratman
+        - Ratman Archer
+        - Savage
+        - Savage Rider
+        - Titan
+
+=== "Ogre Thrashing"
+
+    ??? note "Click to expand"
+        - Arctic Ogre Lord
+        - Ogre
+        - Ogre Lord
+
+=== "Orc Slaying"
+
+    ??? note "Click to expand"
+        - Orc
+        - Orc Bomber
+        - Orc Brute
+        - Orc Captain
+        - Orcish Lord
+
+=== "Troll Slaughter"
+
+    ??? note "Click to expand"
+        - Frost Troll
+        - Troll
+
+### Undead
+
+=== "Silver"
+
+    ??? note "Click to expand"
+        - Ancient Lich
+        - Bogle
+        - Bone Knight
+        - Bone Mage
+        - Dark Guardian
+        - Ghoul
+        - Lich
+        - Lich Lord
+        - Mummy
+        - Neira
+        - Restless Soul
+        - Revenant
+        - Rotting Corpse
+        - Shade
+        - Skeletal Knight
+        - Skeleton
+        - Spectral Armour
+        - Spectre
+        - Wraith
+        - Zombie
+
+### Elemental
+
+=== "Elemental Ban"
+
+    ??? note "Click to expand"
+        - Acid Elemental
+        - Agapite Elemental
+        - Air Elemental
+        - Blood Elemental
+        - Bronze Elemental
+        - Copper Elemental
+        - Dull Copper Elemental
+        - Efreet
+        - Earth Elemental
+        - Fire Elemental
+        - Golden Elemental
+        - Ice Elemental
+        - Poison Elemental
+        - Sand Vortex
+        - Shadow Iron Elemental
+        - Snow Elemental
+        - Valorite Elemental
+        - Verite Elemental
+        - Water Elemental
+        - Summoned Air Elemental
+        - Summoned Earth Elemental
+        - Summoned Fire Elemental
+        - Summoned Water Elemental
+
+=== "Blood Drinking"
+
+    ??? note "Click to expand"
+        - Blood Elemental
+
+=== "Earth Shatter"
+
+    ??? note "Click to expand"
+        - Agapite Elemental
+        - Bronze Elemental
+        - Copper Elemental
+        - Dull Copper Elemental
+        - Earth Elemental
+        - Golden Elemental
+        - Shadow Iron Elemental
+        - Valorite Elemental
+        - Verite Elemental
+        - Summoned Earth Elemental
+
+=== "Elemental Health"
+
+    ??? note "Click to expand"
+        - Poison Elemental
+
+=== "Flame Dousing"
+
+    ??? note "Click to expand"
+        - Fire Elemental
+        - Summoned Fire Elemental
+
+=== "Summer Wind"
+
+    ??? note "Click to expand"
+        - Ice Elemental
+        - Snow Elemental
+
+=== "Vacuum"
+
+    ??? note "Click to expand"
+        - Air Elemental
+        - Summoned Air Elemental
+
+=== "Water Dissipation"
+
+    ??? note "Click to expand"
+        - Water Elemental
+        - Summoned Water Elemental
+
+### Abyss
+
+=== "Exorcism"
+
+    ??? note "Click to expand"
+        - Arcane Daemon
+        - Balron
+        - Chaos Daemon
+        - Daemon
+        - Enslaved Gargoyle
+        - Fire Gargoyle
+        - Gargoyle
+        - Gargoyle Destroyer
+        - Gargoyle Enforcer
+        - Horde Minion
+        - Ice Fiend
+        - Imp
+        - Moloch
+        - Semidar
+        - Servant Of Semidar
+        - Succubus
+
+=== "Daemon Dismissal"
+
+    ??? note "Click to expand"
+        - Balron
+        - Daemon
+        - Ice Fiend
+        - Imp
+        - Semidar
+        - Succubus
+        - Summoned Daemon
+
+=== "Gargoyle's Foe"
+
+    ??? note "Click to expand"
+        - Enslaved Gargoyle
+        - Fire Gargoyle
+        - Gargoyle
+        - Gargoyle Destroyer
+        - Gargoyle Enforcer
+        - Stone Gargoyle
+
+=== "Balron Damnation"
+
+    ??? note "Click to expand"
+        - Balron
+
+### Arachnid
+
+=== "Arachnid Doom"
+
+    ??? note "Click to expand"
+        - Dread Spider
+        - Frost Spider
+        - Giant Black Wide
+        - Giant Spider
+        - Mephitis
+        - Scorpion
+        - Terathan Avenger
+        - Terathan Matriarch
+        - Terathan Drone
+        - Terathan Warrior
+
+=== "Scorpion's Bane"
+
+    ??? note "Click to expand"
+        - Scorpion
+
+=== "Spider's Death"
+
+    ??? note "Click to expand"
+        - Dread Spider
+        - Frost Spider
+        - Giant Black Wide
+        - Giant Spider
+        - Mephitis
+
+=== "Terathan"
+
+    ??? note "Click to expand"
+        - Terathan Avenger
+        - Terathan Matriarch
+        - Terathan Drone
+        - Terathan Warrior
+
+### Reptilian
+
+=== "Reptilian Death"
+
+    ??? note "Click to expand"
+        - Ancient Wyrm
+        - Deep Sea Serpent
+        - Dragon
+        - Drake
+        - Ophidian Apprentice Mage, An Ophidian Shaman
+        - Ophidian Avenger, An Ophidian Knight-errant
+        - Ophidian Enforcer, An Ophidian Warrior
+        - Ophidian Justicar, An Ophidian Zealot
+        - Ophidian Matriarch
+        - Rikktor
+        - Sea Serpent
+        - Serado
+        - Serpentine Dragon
+        - Shadow Wyrm
+        - Skeletal Dragon
+        - White Wyrm
+        - Wyvern
+
+=== "Dragon Slaying"
+
+    ??? note "Click to expand"
+        - Ancient Wyrm
+        - Dragon
+        - Drake
+        - Serpentine Dragon
+        - Shadow Wyrm
+        - Skeletal Dragon
+        - White Wyrm
+        - Wyvern
+
+=== "Lizardman Slaughter"
+
+    ??? note "Click to expand"
+        - Lizardman
+
+=== "Ophidian"
+
+    ??? note "Click to expand"
+        - Ophidian Apprentice Mage, An Ophidian Shaman
+        - Ophidian Avenger, An Ophidian Knight-errant
+        - Ophidian Enforcer, An Ophidian Warrior
+        - Ophidian Justicar, An Ophidian Zealot
+        - Ophidian Matriarch
+
+=== "Snake's Bane"
+
+    ??? note "Click to expand"
+        - Deep Sea Serpent
+        - Sea Serpent
+        - Serado
+
+### Fey
+
+=== "Fey"
+
+    ??? note "Click to expand"
+        - Centaur
+        - Dark Wisp
+        - Ethereal Warrior
+        - Lord Oaks
+        - Pixie
+        - Shadow Wisp
+        - Silvani
+        - Wisp
+
 ## Training
 
 Train from Jeweler NPCs to reach around 50.
