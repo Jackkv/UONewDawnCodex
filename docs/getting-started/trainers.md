@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Ocllo Skill Trainers
 
 > **Town:** Ocllo  
