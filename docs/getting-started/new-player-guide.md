@@ -1,142 +1,172 @@
 # New Player Guide
 
-Welcome to New Dawn! This guide will walk you through everything you need to know as a new player.
+Thanks for giving New Dawn a look. Stepping into UO for the first time (or the first time in 25 years) can feel like a lot. It can be a bit overwhelming to where you might say, "nevermind" and log out.
 
-## How to Start Playing New Dawn
+That's normal. UO has never been a "read one page and you're ready" kind of game, and we don't expect you to memorize this guide either.
+ 
+Think of this as a handhold, not homework. Skim it, keep it open in a tab, and come back to whichever section you need when you need it. By the end you'll know enough to get your feet under you, find your way to Ocllo, and start your first character with a bit of confidence.
 
-### Step 1: Create Your Account
+## Getting New Dawn installed
 
-1. Go to [https://portal.uonewdawn.com/](https://portal.uonewdawn.com/) and log in with your Discord account to create a new New Dawn account
-2. Review the [Getting Started guide](https://portal.uonewdawn.com/getting-started) on the portal
-3. Review the server rules to learn what New Dawn is all about
+If you need to install New Dawn, [jump over to the installation page](./installation.md). Obviously if you've completed this step, you can skip it.
 
-### Step 2: Download The Launcher
+## A few basics before you dive in
 
-1. Download & install the launcher from [https://portal.uonewdawn.com/getting-started](https://portal.uonewdawn.com/getting-started)
-2. Let the launcher download game files (approximately 1.5GB)
+Here are some quick things that'll help right away. You'll pick up plenty more as you go.
 
-!!! info "Download Time"
-    The initial download is about 1.5GB and may take some time depending on your connection speed.
+- Horses can be tamed regardless of skill.
+- All players start with one bond slot. Feed the pet you want to bond, after the message "You begin bonding with your pet." appears, stable the pet for 24 hours and then feed it again to bond it. Bonded pets can recall with you.
+- There's no light filter, so the world looks (and feels) properly dark at night. Don't worry, you will get used to it in no time, you can buy Nightsight potions or use the Night Sight spell, they will last a long time.
+- Dungeons have a 50% skill boost gain, except for crafting skills.
+- Recall charges inside a runebook don't require magery.
+- You can't recall in or out of dungeons, instead, there are exit gates spread around.
+- Instead of Dex penalty when wearing armor, you instead lose stamina when taking damage, based on the armor you're wearing.
+- When you set a skill pointing down it will decrease at the same time as you gain on a skill pointing up, you don't have to wait to be at skill cap to lower a skill.
 
-### Step 3: Authenticate Your Launcher
+## The Young Player Program
 
-1. Click "Enter Britannia"
-2. Log in with your Discord account if you haven't already
-3. Click "Authenticate New Dawn Launcher"
+If you're newer to the server, this is the first thing worth knowing about. It's designed to give you breathing room while you learn the ropes.
 
-### Step 4: Enter the Game
+Type `[young` in game to join. Each account qualifies as long as it has under 120 hours of playtime.
 
-1. Click "Enter Britannia" again
-2. Select one of your three accounts & create/select a character
-3. Welcome to New Dawn!
+Upon entering the program you will be teleported to Ocllo.
 
-## Your First Steps in Britannia
+**Here's what you get as a Young player:**
+ 
+- No item loss on death. All your gear stays in your backpack.
+- Auto-teleport to a safe healer when you die.
+- Monsters won't attack you unprovoked while you're in Ocllo.
+- Poison immunity and instant logout, no delay.
+- You can't be stolen from by other players.
+- Access to the Ocllo Sewer for some easy early training.
 
-### Starting Location
+If you leave Occlo you will lose the young status, you can rejoin the program a set amount of times, so be careful.
 
-You can choose to start in any major town in Britannia. Each town offers unique opportunities:
+You will also lose young if you commit a murder, reach 450 total skill, or raise a craft skill past 80.
 
-- **Ocllo** - The most common starting location and recommended for new players
-- **Britain** - The ruins of its former self, the castle walls now the town walls
-- **Other towns** - Each has its own character and resources
+## Occlo
 
-### Essential Commands
+Ocllo is the main city and the best place to start. You'll find just about every vendor type here, so it doubles as a great spot to train and to shop.
 
-Learn these important commands:
+![image](../assets/screenshots/occlo-bank.png)
 
-- `[ach` - View and track your achievements
-- `[profile` - Access your character profile
-- `[emote` - Use emotes to express yourself
+Take a little time to explore. Between training and selling what you find, you can build up some starting gold without much risk.
 
-### Banking
+### The cotton farm
 
-Use the bank to store your items safely:
+Just South outside of the city you will find a Cotton farm, you can use it only while in the Young program.
 
-1. Say "bank" near a banker NPC
-2. Your bank box will open
-3. Store important items here
+![image](../assets/screenshots/occlo-cotton.png)
 
-!!! warning "Death and Items"
-    When you die, you may lose items you're carrying. Keep valuables in the bank!
+You should go here every chance you get to stock up on bandages.
 
-## Building Your Character
+### The Ocllo Sewer
 
-### Understanding Stats
+While you're Young, you'll get a 50% skill gain bonus inside this dungeon, though you won't be able to raise any skill above 80 there.
 
-Your character has three primary stats:
+These are the entrances:
 
-- **Strength (STR)** - Affects hit points and melee damage
-- **Dexterity (DEX)** - Affects stamina and swing speed
-- **Intelligence (INT)** - Affects mana and magic power
+![image](../assets/screenshots/occlo-sewers-entrances.png)
 
-### Skills
+### Provo cage
 
-You have 700 total skill points to distribute across various skills. Start by focusing on:
+This spot inside the Sewers is perfect for training Musicianship and Provocation up to 80.
 
-1. **Combat Skill** - Choose your weapon type
-2. **Tactics** - Improves combat effectiveness
-3. **Healing or Magery** - Keep yourself alive
-4. **Support Skills** - Add utility (Hiding, Tracking, etc.)
+![image](../assets/screenshots/sewer-cage.png)
 
-See our [Skills Guide](../game-mechanics/skills/index.md) for detailed information.
+Just Provo an Harpy to a Troll of the opposite cage.
 
-## Making Money
+## Picking your first build: the Provo Dexxer
 
-As a new player, here are ways to earn gold:
+If you're not sure where to start, the Provo Dexxer is one of the friendliest templates for a new character.
 
-### Early Game
+It doesn't lean on Magery for healing, so there's no need to stock reagents, which is good news since Magery is expensive to train early on. Instead, you'll gather cotton from around the world to make bandages, giving you free healing whenever you need it.
+ 
+Provocation is extremely powerful on almost any template, and pairing it with a combat skill makes the build even more profitable.
 
-- **Hunt animals** - Sell hides and meat
-- **Escorts** - Guide NPCs needing an escort to safety
-- **Collect resources** - Mining, lumberjacking
-- **Kill monsters** - Collect gold, sell off items to NPC vendors
+- Musicianship
+- Provocation
+- Healing
+- Anatomy
+- Swordsmanship
+- Tactics
+- Parrying/Magery/Hiding
 
-### Mid Game
+That last slot is your seventh skill, and it's mostly down to personal taste. Use it to support whatever play style suits you.
 
-- **Dungeon hunting** - More dangerous, better rewards
-- **Crafting** - Create items to sell
-- **Treasure hunting** - Find buried treasure
+Recall charges inside a runebook don't require magery. If you still want Magery to recall around please note:
 
-## Social & Community
+- Casting from scrolls does not require reagents. If successful, the mana consumed will be the same as for normal spells, and the scroll will disappear.
+- You need 50 Magery to never fail casting from recall scrolls.
+- You need 70 Magery to never fail casting recall from spells.
 
-### Finding Groups
+### Don't stress over starting skills
 
-- Use Discord to find hunting partners
-- Join a guild for community support
-- Visit popular gathering spots (Ocllo bank)
+The skills you pick during character creation aren't all that important. You can train almost anything up to around 50 using gold alone, so there's no wrong way to start. You also have 3 accounts, with 5 characters each, so you can always try out different skills.
+ 
+A handy trick: if you have other accounts, you can make characters on them just to funnel their starting gold toward your main, giving yourself a head start on early training.
+  
+### Starting stats
 
-### Player Housing
+You should start every character with at least 12 Dexterity, otherwise you won't be able to go trough players and monsters.
 
-Once you've earned enough gold, you can:
+For this template, depending on how often you want to use Magery, these are the recommended starting stats:
 
-- Purchase a house placement tool
-- Customize the interior of your house
-- Set up vendors to sell goods
+- Magery low usage: 47 strength, 12 dexterity, 11 intelligence
+- Magery high usage: 40 Strength, 12 Dexterity, 28 Intelligence
 
-## Tips for Success
+??? Note "Click to expand: Skills that raise stats"
 
-!!! tip "Pro Tips"
-    - **Bank often** - Don't carry everything with you
-    - **Join a guild** - Experienced players can help you
-    - **Start small** - Don't fight challenging monsters too early
-    - **Use Discord** - Our community is helpful and active
-    - **Learn scripts & macros** - Make repetitive tasks easier
+    A handful of skills give you stat gains as a nice side effect of training them.
 
-## Common Mistakes to Avoid
+    Strength:
 
-- Not banking valuable items
-- Spending all your gold immediately
-- Going AFK in dangerous areas
-- Not joining the community
+    - Camping
+    - Fencing
+    - Herding
+    - Lumberjacking
+    - Mace Fighting
+    - Mining
+    - Swordsmanship
 
-## Next Steps
+    Dexterity:
 
-Ready to dive deeper? Check out:
+    - Camping
+    - Fencing
+    - Musicianship
+    - Snooping
 
-- [Character Creation](character-creation.md) - Optimize your build
-- [Skills](../game-mechanics/skills/index.md) - Learn about all skills
-- [Towns](../world/towns/index.md) - Explore Britannia
+    Intelligence:
+    
+    - Camping
+    - Spirit Speak
 
----
+## Leveling up: the Summoner template
 
-**Welcome to New Dawn! May your adventures be legendary!**
+Once you've saved enough gold to train Magery, the Summoner is a strong next step. It lets you call powerful Daemons and other creatures to fight alongside you.
+
+**Suggested skills:**
+
+- Musicianship
+- Provocation
+- Magery
+- Meditation
+- Spirit Speak
+- Animal Lore
+- Resisting spells/Evaluating Intelligence/Hiding
+
+Again, that 7th slot really comes down to your own playstyle.
+
+For more detail, take a look at the [Spirit Speak](../game-mechanics/skills/magic/spirit-speak.md) page.
+
+## On training in general
+
+Every skill page goes deeper into how that skill works and how best to train it, so when you're ready to specialize, that's the place to look.
+ 
+One thing worth keeping in mind: the closer you get to your skill cap, your skill gains may ever so slightly slow down. That's normal, not a sign you're doing something wrong. Keep at it!
+
+## You're not alone in this
+
+If you get stuck, have a question, or just want to see what other players are up to, come hang out on [Discord](https://discord.gg/AStx3wYAPj). No question is too small, and you don't need to have it all figured out before you show up.
+ 
+There are always player-driven events and training groups happy to help new folks get going, so don't be shy about jumping in.
