@@ -1,4 +1,4 @@
-![Peacemaking](../../../assets/Flag_peacemaking.gif){ align=right }
+![Peacemaking](../../assets/flags/flag-peacemaking.gif){ align=right }
 
 # Peacemaking
 

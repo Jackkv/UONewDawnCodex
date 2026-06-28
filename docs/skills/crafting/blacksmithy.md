@@ -1,4 +1,4 @@
-![Blacksmithy](../../../assets/Flag_blacksmithy.gif){ align=right }
+![Blacksmithy](../../assets/flags/flag-blacksmithy.gif){ align=right }
 
 # Blacksmithy
 

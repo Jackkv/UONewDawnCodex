@@ -1,4 +1,4 @@
-![Healing](../../../assets/Flag_healing.gif){ align=right }
+![Healing](../../assets/flags/flag-healing.gif){ align=right }
 
 # Healing
 

@@ -1,4 +1,4 @@
-![Forensic Evaluation](../../../assets/Flag_forensic_evaluation.gif){ align=right }
+![Forensic Evaluation](../../assets/flags/flag-forensic-evaluation.gif){ align=right }
 
 # Forensic Evaluation
 

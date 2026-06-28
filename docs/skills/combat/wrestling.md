@@ -1,4 +1,4 @@
-![Wrestling](../../../assets/Flag_wrestling.gif){ align=right }
+![Wrestling](../../assets/flags/flag-wrestling.gif){ align=right }
 
 # Wrestling
 

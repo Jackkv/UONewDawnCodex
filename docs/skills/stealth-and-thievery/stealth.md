@@ -1,4 +1,4 @@
-![Stealth](../../../assets/Flag_stealth.gif){ align=right }
+![Stealth](../../assets/flags/flag-stealth.gif){ align=right }
 
 # Stealth
 

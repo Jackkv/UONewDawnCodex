@@ -1,4 +1,4 @@
-![Tactics](../../../assets/Flag_tactics.gif){ align=right }
+![Tactics](../../assets/flags/flag-tactics.gif){ align=right }
 
 # Tactics
 

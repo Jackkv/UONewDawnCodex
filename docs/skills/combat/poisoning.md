@@ -1,4 +1,4 @@
-![Poisoning](../../../assets/Flag_poisoning.gif){ align=right }
+![Poisoning](../../assets/flags/flag-poisoning.gif){ align=right }
 
 # Poisoning
 

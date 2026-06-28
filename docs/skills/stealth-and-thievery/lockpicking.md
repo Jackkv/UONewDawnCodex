@@ -1,4 +1,4 @@
-![Lockpicking](../../../assets/Flag_lockpicking.gif){ align=right }
+![Lockpicking](../../assets/flags/flag-lockpicking.gif){ align=right }
 
 # Lockpicking
 

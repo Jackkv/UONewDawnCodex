@@ -1,4 +1,4 @@
-![Discordance](../../../assets/Flag_enticement.gif){ align=right }
+![Discordance](../../assets/flags/flag-enticement.gif){ align=right }
 
 # Discordance
 

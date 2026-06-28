@@ -1,4 +1,4 @@
-![Archery](../../../assets/Flag_archery.gif){ align=right }
+![Archery](../../assets/flags/flag-archery.gif){ align=right }
 
 # Archery
 

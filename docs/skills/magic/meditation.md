@@ -1,4 +1,4 @@
-![Meditation](../../../assets/Flag_meditation.gif){ align=right }
+![Meditation](../../assets/flags/flag-meditation.gif){ align=right }
 
 # Meditation
 

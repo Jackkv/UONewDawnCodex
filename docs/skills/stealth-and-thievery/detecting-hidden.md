@@ -1,4 +1,4 @@
-![Detecting Hidden](../../../assets/Flag_detecting_hidden.gif){ align=right }
+![Detecting Hidden](../../assets/flags/flag-detecting-hidden.gif){ align=right }
 
 # Detecting Hidden
 

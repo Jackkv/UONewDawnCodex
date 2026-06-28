@@ -1,4 +1,4 @@
-![Bowcraft/Fletching](../../../assets/Flag_bowcraft.gif){ align=right }
+![Bowcraft/Fletching](../../assets/flags/flag-bowcraft.gif){ align=right }
 
 # Bowcraft/Fletching
 

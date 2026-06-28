@@ -1,4 +1,4 @@
-![Mining](../../../assets/Flag_mining.gif){ align=right }
+![Mining](../../assets/flags/flag-mining.gif){ align=right }
 
 # Mining
 

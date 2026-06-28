@@ -1,4 +1,4 @@
-![Herding](../../../assets/Flag_herding.gif){ align=right }
+![Herding](../../assets/flags/flag-herding.gif){ align=right }
 
 # Herding
 

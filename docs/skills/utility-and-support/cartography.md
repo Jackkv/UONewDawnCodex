@@ -1,4 +1,4 @@
-![Cartography](../../../assets/Flag_cartography.gif){ align=right }
+![Cartography](../../assets/flags/flag-cartography.gif){ align=right }
 
 # Cartography
 

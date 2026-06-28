@@ -1,4 +1,4 @@
-![Taste Identification](../../../assets/Flag_taste_identification.gif){ align=right }
+![Taste Identification](../../assets/flags/flag-taste-identification.gif){ align=right }
 
 # Taste Identification
 

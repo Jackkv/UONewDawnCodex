@@ -1,4 +1,4 @@
-![Snooping](../../../assets/Flag_snooping.gif){ align=right }
+![Snooping](../../assets/flags/flag-snooping.gif){ align=right }
 
 # Snooping
 

@@ -1,4 +1,4 @@
-![Camping](../../../assets/Flag_camping.gif){ align=right }
+![Camping](../../assets/flags/flag-camping.gif){ align=right }
 
 # Camping
 

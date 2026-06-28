@@ -1,4 +1,4 @@
-![Tracking](../../../assets/Flag_tracking.gif){ align=right }
+![Tracking](../../assets/flags/flag-tracking.gif){ align=right }
 
 # Tracking
 

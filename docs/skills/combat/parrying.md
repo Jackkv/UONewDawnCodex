@@ -1,4 +1,4 @@
-![Parrying](../../../assets/Flag_parrying.gif){ align=right }
+![Parrying](../../assets/flags/flag-parrying.gif){ align=right }
 
 # Parrying
 

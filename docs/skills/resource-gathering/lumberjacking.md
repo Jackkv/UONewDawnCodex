@@ -1,4 +1,4 @@
-![Lumberjacking](../../../assets/Flag_lumberjacking.gif){ align=right }
+![Lumberjacking](../../assets/flags/flag-lumberjacking.gif){ align=right }
 
 # Lumberjacking
 

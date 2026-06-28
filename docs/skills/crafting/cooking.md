@@ -1,4 +1,4 @@
-![Cooking](../../../assets/Flag_cooking.gif){ align=right }
+![Cooking](../../assets/flags/flag-cooking.gif){ align=right }
 
 # Cooking
 

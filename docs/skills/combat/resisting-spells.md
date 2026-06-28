@@ -1,4 +1,4 @@
-![Resisting Spells](../../../assets/Flag_resisting_spells.gif){ align=right }
+![Resisting Spells](../../assets/flags/flag-resisting-spells.gif){ align=right }
 
 # Resisting Spells
 

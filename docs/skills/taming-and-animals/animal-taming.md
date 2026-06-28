@@ -1,4 +1,4 @@
-![Animal Taming](../../../assets/Flag_animal_taming.gif){ align=right }
+![Animal Taming](../../assets/flags/flag-animal-taming.gif){ align=right }
 
 # Animal Taming
 
