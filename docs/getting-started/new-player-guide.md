@@ -8,7 +8,7 @@ Think of this as a handhold, not homework. Skim it, keep it open in a tab, and c
 
 ## Getting New Dawn installed
 
-If you need to install New Dawn, [jump over to the installation page](./installation.md). Obviously if you've completed this step, you can skip it.
+If you need to install New Dawn, [jump over to the installation page](on-windows.md). Obviously if you've completed this step, you can skip it.
 
 ## A few basics before you dive in
 
@@ -157,7 +157,7 @@ Once you've saved enough gold to train Magery, the Summoner is a strong next ste
 
 Again, that 7th slot really comes down to your own playstyle.
 
-For more detail, take a look at the [Spirit Speak](../game-mechanics/skills/magic/spirit-speak.md) page.
+For more detail, take a look at the [Spirit Speak](../skills/magic/spirit-speak.md) page.
 
 ## On training in general
 
