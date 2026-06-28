@@ -16,8 +16,8 @@ In order to start crafting, you will need a scribe pen. You can purchase one fro
 
 Before you can inscribe a spell, there are a few requirements. You need a spellbook with spells already inscribed into it, then you need to be able to cast them by having the sufficient Magery skill points, mana and reagents. Lastly, you need a blank scroll to write on.
 
-|                        icon                        | Spell Circle | Magery skill | INT/Mana |
-|:--------------------------------------------------:|:------------:|:------------:|:--------:|
+|                      icon                       | Spell Circle | Magery skill | INT/Mana |
+|:-----------------------------------------------:|:------------:|:------------:|:--------:|
 |  ![icon](../../assets/spells/first-circle.png)  |    First     |     1.1      |    4     |
 | ![icon](../../assets/spells/second-circle.png)  |    Second    |     6.1      |    6     |
 |  ![icon](../../assets/spells/third-circle.png)  |    Third     |     16.1     |    9     |
@@ -83,8 +83,8 @@ This table shows the percent of success rate, divided into skill ranges.
 
 ## Other craftables
 
-|                               Item                               |                                           Resources                                           | Skill |
-|:----------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-----:|
+|                             Item                              |                                           Resources                                           | Skill |
+|:-------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-----:|
 |    ![icon](../../assets/items/spellbook.png)<br>Spellbook     | 10 Blank scrolls<br>3 Leather or Hides<br>50 Blood Moss<br>50 Spider's Silk<br>50 Black Pearl |  50   |
 | ![icon](../../assets/items/bulk-order.png)<br>Bulk Order Book |                                       10 Blank scrolls                                        |  65   |
 |     ![icon](../../assets/items/runebook.png)<br>Runebook      |         8 Blank scrolls<br>64 Recall scrolls<br>64 Gate scrolls<br>3 Leather or Hides         |  85   |

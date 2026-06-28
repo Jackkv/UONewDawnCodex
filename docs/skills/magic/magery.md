@@ -18,8 +18,8 @@ If you fail to cast a spell from a spellbook, the reagents will still be consume
 
 === "1st Circle"
 
-    |                        Icon                        |     Spell      | Words of Power |               Reagents used               |
-    |:--------------------------------------------------:|:--------------:|:--------------:|:-----------------------------------------:|
+    |                      Icon                       |     Spell      | Words of Power |               Reagents used               |
+    |:-----------------------------------------------:|:--------------:|:--------------:|:-----------------------------------------:|
     |     ![icon](../../assets/spells/clumsy.png)     |     Clumsy     |    Uus Jux     |         Blood Moss<br>Nightshade          |
     |  ![icon](../../assets/spells/create-food.png)   |  Create Food   |  In Mani Ylem  |    Garlic<br>Ginseng<br>Mandrake Root     |
     |   ![icon](../../assets/spells/feeblemind.png)   |   Feeblemind   |    Rel Wis     |           Nightshade<br>Ginseng           |
@@ -31,8 +31,8 @@ If you fail to cast a spell from a spellbook, the reagents will still be consume
 
 === "2nd"
 
-    |                      Icon                       |    Spell    | Words of Power |               Reagents used               |
-    |:-----------------------------------------------:|:-----------:|:--------------:|:-----------------------------------------:|
+    |                     Icon                     |    Spell    | Words of Power |               Reagents used               |
+    |:--------------------------------------------:|:-----------:|:--------------:|:-----------------------------------------:|
     |   ![icon](../../assets/spells/agility.png)   |   Agility   |     Ex Uus     |        Blood Moss<br>Mandrake Root        |
     |   ![icon](../../assets/spells/cunning.png)   |   Cunning   |    Uus Wis     |        Nightshade<br>Mandrake Root        |
     |    ![icon](../../assets/spells/cure.png)     |    Cure     |     An Nox     |             Garlic<br>Ginseng             |
@@ -44,8 +44,8 @@ If you fail to cast a spell from a spellbook, the reagents will still be consume
 
 === "3rd"
 
-    |                       Icon                        |     Spell     | Words of Power |             Reagents used             |
-    |:-------------------------------------------------:|:-------------:|:--------------:|:-------------------------------------:|
+    |                      Icon                      |     Spell     | Words of Power |             Reagents used             |
+    |:----------------------------------------------:|:-------------:|:--------------:|:-------------------------------------:|
     |     ![icon](../../assets/spells/bless.png)     |     Bless     |   Rel Sanct    |        Garlic<br>Mandrake Root        |
     |   ![icon](../../assets/spells/fireball.png)    |   Fireball    |    Vas Flam    |              Black Pearl              |
     |  ![icon](../../assets/spells/magic-lock.png)   |  Magic Lock   |     An Por     | Bloodmoss<br>Garlic<br>Sulphurous Ash |
@@ -57,8 +57,8 @@ If you fail to cast a spell from a spellbook, the reagents will still be consume
 
 === "4th"
 
-    |                        Icon                        |     Spell      | Words of Power |                    Reagents used                     |
-    |:--------------------------------------------------:|:--------------:|:--------------:|:----------------------------------------------------:|
+    |                      Icon                       |     Spell      | Words of Power |                    Reagents used                     |
+    |:-----------------------------------------------:|:--------------:|:--------------:|:----------------------------------------------------:|
     |    ![icon](../../assets/spells/archcure.png)    |    Archcure    |   Vas An Nox   |          Garlic<br>Ginseng<br>Mandrake Root          |
     | ![icon](../../assets/spells/archprotection.png) | Archprotection | Vas Uus Sanct  | Garlic<br>Ginseng<br>Mandrake Root<br>Sulphurous Ash |
     |     ![icon](../../assets/spells/curse.png)      |     Curse      |   Des Sanct    |        Garlic<br>Nightshade<br>Sulphurous Ash        |
@@ -70,8 +70,8 @@ If you fail to cast a spell from a spellbook, the reagents will still be consume
 
 === "5th"
 
-    |                         Icon                         |      Spell       | Words of Power  |                        Reagents used                         |
-    |:----------------------------------------------------:|:----------------:|:---------------:|:------------------------------------------------------------:|
+    |                       Icon                        |      Spell       | Words of Power  |                        Reagents used                         |
+    |:-------------------------------------------------:|:----------------:|:---------------:|:------------------------------------------------------------:|
     |  ![icon](../../assets/spells/blade-spirits.png)   |  Blade Spirits   | In Jux Hur Ylem |          Black Pearl<br>Mandrake Root<br>Nightshade          |
     |   ![icon](../../assets/spells/dispel-field.png)   |   Dispel Field   |     An Grav     |   Black Pearl<br>Garlic<br>Spider's Silk<br>Sulphurous Ash   |
     |    ![icon](../../assets/spells/incognito.png)     |    Incognito     |    Kal In Ex    |              Blood Moss<br>Garlic<br>Nightshade              |
@@ -83,8 +83,8 @@ If you fail to cast a spell from a spellbook, the reagents will still be consume
 
 === "6th"
 
-    |                        Icon                        |     Spell      | Words of Power |                      Reagents used                      |
-    |:--------------------------------------------------:|:--------------:|:--------------:|:-------------------------------------------------------:|
+    |                      Icon                       |     Spell      | Words of Power |                      Reagents used                      |
+    |:-----------------------------------------------:|:--------------:|:--------------:|:-------------------------------------------------------:|
     |     ![icon](../../assets/spells/dispel.png)     |     Dispel     |     An Ort     |        Garlic<br>Mandrake Root<br>Sulphurous Ash        |
     |  ![icon](../../assets/spells/energy-bolt.png)   |  Energy Bolt   |    Corp Por    |                Black Pearl<br>Nightshade                |
     |   ![icon](../../assets/spells/explosion.png)    |   Explosion    |  Vas Ort Flam  |             Mandrake Root<br>Sulphurous Ash             |
@@ -96,8 +96,8 @@ If you fail to cast a spell from a spellbook, the reagents will still be consume
 
 === "7th"
 
-    |                        Icon                         |      Spell      |  Words of Power   |                          Reagents used                          |
-    |:---------------------------------------------------:|:---------------:|:-----------------:|:---------------------------------------------------------------:|
+    |                       Icon                       |      Spell      |  Words of Power   |                          Reagents used                          |
+    |:------------------------------------------------:|:---------------:|:-----------------:|:---------------------------------------------------------------:|
     | ![icon](../../assets/spells/chain-lightning.png) | Chain Lightning |   Vas Ort Grav    |  Black Pearl<br>Blood Moss<br>Mandrake Root<br>Sulphurous Ash   |
     |  ![icon](../../assets/spells/energy-field.png)   |  Energy Field   |   In Sanct Grav   | Black Pearl<br>Mandrake Root<br>Spider's Silk<br>Sulphurous Ash |
     |   ![icon](../../assets/spells/flamestrike.png)   |   Flamestrike   |   Kal Vas Flam    |                 Spider's Silk<br>Sulphurous Ash                 |
@@ -109,8 +109,8 @@ If you fail to cast a spell from a spellbook, the reagents will still be consume
 
 === "8th"
 
-    |                                     Icon                                     |       Spell        |   Words of Power    |                         Reagents used                          |
-    |:----------------------------------------------------------------------------:|:------------------:|:-------------------:|:--------------------------------------------------------------:|
+    |                                   Icon                                    |       Spell        |   Words of Power    |                         Reagents used                          |
+    |:-------------------------------------------------------------------------:|:------------------:|:-------------------:|:--------------------------------------------------------------:|
     |             ![earthquake](../../assets/spells/earthquake.png)             |     Earthquake     |     In Vas Por      |    Blood Moss<br>Ginseng<br>Mandrake Root<br>Sulphurous Ash    |
     |          ![energy-vortex](../../assets/spells/energy-vortex.png)          |   Energy Vortex    |    Vas Corp Por     |    Black Pearl<br>Blood Moss<br>Mandrake Root<br>Nightshade    |
     |           ![resurrection](../../assets/spells/resurrection.png)           |    Resurrection    |       An Corp       |                Blood Moss<br>Garlic<br>Ginseng                 |
@@ -124,8 +124,8 @@ If you fail to cast a spell from a spellbook, the reagents will still be consume
 
 This table shows the minimum Skill required to attempt casting a Spell of a specific Circle (2% success rate), the number next to it shows the amount of skill needed to have achieve 99%.
 
-|                        icon                        | Spell Circle | INT |    Skill    |
-|:--------------------------------------------------:|:------------:|:---:|:-----------:|
+|                      icon                       | Spell Circle | INT |    Skill    |
+|:-----------------------------------------------:|:------------:|:---:|:-----------:|
 |  ![icon](../../assets/spells/first-circle.png)  |    First     |  4  | 1.1 / 40.1  |
 | ![icon](../../assets/spells/second-circle.png)  |    Second    |  6  | 6.1 / 50.1  |
 |  ![icon](../../assets/spells/third-circle.png)  |    Third     |  9  | 16.1 / 60.1 |
@@ -149,8 +149,8 @@ You can find Reagents from the ground, from looting monsters or from NPC vendors
 
 This table show how much each reagent type is used when casting spells, for example Mandrake Root is used in 56% of all spells, with higher usage in Circles 5 trough 8.
 
-|                               Reagent                               | All Circles | Circles 1 - 4 | Circles 5 - 8 |
-|:-------------------------------------------------------------------:|:-----------:|:-------------:|:-------------:|
+|                             Reagent                              | All Circles | Circles 1 - 4 | Circles 5 - 8 |
+|:----------------------------------------------------------------:|:-----------:|:-------------:|:-------------:|
 |  ![icon](../../assets/items/mandrake-root.png)<br>Mandrake Root  |     56%     |      41%      |      72%      |
 | ![icon](../../assets/items/sulphurous-ash.png)<br>Sulphurous Ash |     41%     |      34%      |      47%      |
 |     ![icon](../../assets/items/blood-moss.png)<br>Blood Moss     |     41%     |      28%      |      53%      |

@@ -26,8 +26,8 @@ Weapons are considered being at full durability.
 
 === "One Handed"
 
-    |                               Weapon                                | STR Required |   Damage roll    | Speed | Item HP  |
-    |:-------------------------------------------------------------------:|:------------:|:----------------:|:-----:|:--------:|
+    |                              Weapon                              | STR Required |   Damage roll    | Speed | Item HP  |
+    |:----------------------------------------------------------------:|:------------:|:----------------:|:-----:|:--------:|
     | ![icon](../../assets/items/skinning-knife.png)<br>Skinning Knife |      5       |  1d10<br>(1-10)  |  40   | 31 - 40  |
     |        ![icon](../../assets/items/cleaver.png)<br>Cleaver        |      10      | 1d12+1<br>(2-13) |  40   | 31 - 50  |
     |  ![icon](../../assets/items/butcher-knife.png)<br>Butcher Knife  |      5       |  2d7<br>(2-14)   |  40   | 31 - 40  |
@@ -42,8 +42,8 @@ Weapons are considered being at full durability.
 
 === "Two Handed"
 
-    |                                 Weapon                                  | STR Required |   Damage roll    | Speed | Item HP  |
-    |:-----------------------------------------------------------------------:|:------------:|:----------------:|:-----:|:--------:|
+    |                                Weapon                                | STR Required |   Damage roll    | Speed | Item HP  |
+    |:--------------------------------------------------------------------:|:------------:|:----------------:|:-----:|:--------:|
     |          ![icon](../../assets/items/hatchet.png)<br>Hatchet          |      15      | 1d16+1<br>(2-17) |  40   | 31 - 80  |
     | ![icon](../../assets/items/executioner-axe.png)<br>Executioner's Axe |      35      | 3d10+3<br>(6-33) |  37   | 31 - 90  |
     |              ![icon](../../assets/items/axe.png)<br>Axe              |      35      | 3d10+3<br>(6-33) |  37   | 31 - 100 |

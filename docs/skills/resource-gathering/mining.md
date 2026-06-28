@@ -10,8 +10,8 @@ To avoid unattended gathering, all resource gathering activities will trigger th
 
 ## Types of iron
 
-| Skill |                                 Iron                                 | Spawn |
-|:-----:|:--------------------------------------------------------------------:|:-----:|
+| Skill |                               Iron                                | Spawn |
+|:-----:|:-----------------------------------------------------------------:|:-----:|
 |   0   |        ![icon](../../assets/items/iron-ingots.png)<br>Iron        |  50%  |
 |  65   | ![icon](../../assets/items/dull-copper-ingots.png)<br>Dull Copper | 11.2% |
 |  70   |      ![icon](../../assets/items/shadow-ingots.png)<br>Shadow      | 9.8%  |
@@ -74,8 +74,8 @@ You can combine different ore piles together by double clicking them.
 
 For example you could turn Large Piles into Small Piles to better manage weight and smelting.
 
-|                                  Ore                                  |    Weight    |                Ingots on Successful smelt                 |
-|:---------------------------------------------------------------------:|:------------:|:---------------------------------------------------------:|
+|                                Ore                                 |    Weight    |               Ingots on Successful smelt               |
+|:------------------------------------------------------------------:|:------------:|:------------------------------------------------------:|
 |  ![icon](../../assets/items/ore-small-pile.png)<br>2 Small Piles   | 2 * 2 Stones | ![icon](../../assets/items/iron-ingot.png)<br>1 Ingot  |
 | ![icon](../../assets/items/ore-medium-pile-1.png)<br>1 Medium Pile |   7 Stones   | ![icon](../../assets/items/iron-ingot.png)<br>1 Ingot  |
 | ![icon](../../assets/items/ore-medium-pile-2.png)<br>1 Medium Pile |   7 Stones   | ![icon](../../assets/items/iron-ingot.png)<br>1 Ingot  |

@@ -18,8 +18,8 @@ These are all the weapons and armor you can craft.
 
 === "Ringmail"
 
-    |                               Item                               | Resources | Skill |
-    |:----------------------------------------------------------------:|:---------:|:-----:|
+    |                             Item                              | Resources | Skill |
+    |:-------------------------------------------------------------:|:---------:|:-----:|
     |   ![icon](../../assets/items/ringmail-gloves.png)<br>Gloves   | 10 ingots | 12.0  |
     | ![icon](../../assets/items/ringmail-leggings.png)<br>Leggings | 16 ingots | 19.4  |
     |  ![icon](../../assets/items/ringmail-sleeves.png)<br>Sleeves  | 14 ingots | 16.9  |
@@ -27,16 +27,16 @@ These are all the weapons and armor you can craft.
 
 === "Chainmail"
 
-    |                               Item                                | Resources | Skill |
-    |:-----------------------------------------------------------------:|:---------:|:-----:|
+    |                              Item                              | Resources | Skill |
+    |:--------------------------------------------------------------:|:---------:|:-----:|
     |     ![icon](../../assets/items/chainmail-coif.png)<br>Coif     | 10 ingots | 14.5  |
     | ![icon](../../assets/items/chainmail-leggings.png)<br>Leggings | 18 ingots | 36.7  |
     |    ![icon](../../assets/items/chainmail-tunic.png)<br>Tunic    | 20 ingots | 39.1  |
 
 === "Platemail"
 
-    |                                    Item                                     | Resources | Skill |
-    |:---------------------------------------------------------------------------:|:---------:|:-----:|
+    |                                   Item                                   | Resources | Skill |
+    |:------------------------------------------------------------------------:|:---------:|:-----:|
     |          ![icon](../../assets/items/platemail-arms.png)<br>Arms          | 18 ingots | 66.3  |
     |        ![icon](../../assets/items/platemail-gloves.png)<br>Gloves        | 12 ingots | 58.9  |
     |        ![icon](../../assets/items/platemail-gorget.png)<br>Gorget        | 10 ingots | 56.4  |
@@ -46,8 +46,8 @@ These are all the weapons and armor you can craft.
 
 === "Helmets"
 
-    |                             Item                              | Resources | Skill |
-    |:-------------------------------------------------------------:|:---------:|:-----:|
+    |                            Item                            | Resources | Skill |
+    |:----------------------------------------------------------:|:---------:|:-----:|
     |    ![icon](../../assets/items/bascinet.png)<br>Bascinet    | 15 ingots |  8.3  |
     | ![icon](../../assets/items/close-helmet.png)<br>Close Helm | 15 ingots | 37.9  |
     |      ![icon](../../assets/items/helmet.png)<br>Helmet      | 15 ingots | 37.9  |
@@ -56,8 +56,8 @@ These are all the weapons and armor you can craft.
 
 === "Shields"
 
-    |                                   Item                                    | Resources | Skill |
-    |:-------------------------------------------------------------------------:|:---------:|:-----:|
+    |                                  Item                                  | Resources | Skill |
+    |:----------------------------------------------------------------------:|:---------:|:-----:|
     |       ![icon](../../assets/items/buckler-shield.png)<br>Buckler        | 10 ingots |  <1   |
     |     ![icon](../../assets/items/bronze-shield.png)<br>Bronze Shield     | 12 ingots |  <1   |
     |     ![icon](../../assets/items/heater-shield.png)<br>Heater Shield     | 18 ingots | 24.3  |
@@ -67,8 +67,8 @@ These are all the weapons and armor you can craft.
 
 === "Bladed"
 
-    |                              Item                               | Resources | Skill |
-    |:---------------------------------------------------------------:|:---------:|:-----:|
+    |                             Item                             | Resources | Skill |
+    |:------------------------------------------------------------:|:---------:|:-----:|
     |  ![icon](../../assets/items/broad-sword.png)<br>Broad Sword  | 10 ingots | 35.4  |
     |      ![icon](../../assets/items/cutlass.png)<br>Cutlass      | 8 ingots  | 24.3  |
     |       ![icon](../../assets/items/dagger.png)<br>Dagger       | 3 ingots  |  <1   |
@@ -80,8 +80,8 @@ These are all the weapons and armor you can craft.
 
 === "Axes"
 
-    |                                  Item                                   | Resources | Skill |
-    |:-----------------------------------------------------------------------:|:---------:|:-----:|
+    |                                 Item                                 | Resources | Skill |
+    |:--------------------------------------------------------------------:|:---------:|:-----:|
     |              ![icon](../../assets/items/axe.png)<br>Axe              | 14 ingots | 34.2  |
     |       ![icon](../../assets/items/battle-axe.png)<br>Battle Axe       | 14 ingots | 30.5  |
     |       ![icon](../../assets/items/double-axe.png)<br>Double Axe       | 12 ingots | 29.3  |
@@ -92,8 +92,8 @@ These are all the weapons and armor you can craft.
 
 === "Polearms"
 
-    |                             Item                              | Resources | Skill |
-    |:-------------------------------------------------------------:|:---------:|:-----:|
+    |                            Item                            | Resources | Skill |
+    |:----------------------------------------------------------:|:---------:|:-----:|
     |    ![icon](../../assets/items/bardiche.png)<br>Bardiche    | 18 ingots | 45.3  |
     |     ![icon](../../assets/items/halberd.png)<br>Halberd     | 20 ingots | 49.0  |
     | ![icon](../../assets/items/short-spear.png)<br>Short Spear | 6 ingots  | 45.3  |
@@ -102,8 +102,8 @@ These are all the weapons and armor you can craft.
 
 === "Bashing"
 
-    |                             Item                              | Resources | Skill |
-    |:-------------------------------------------------------------:|:---------:|:-----:|
+    |                            Item                            | Resources | Skill |
+    |:----------------------------------------------------------:|:---------:|:-----:|
     | ![icon](../../assets/items/hammer-pick.png)<br>Hammer Pick | 18 ingots | 25.6  |
     |        ![icon](../../assets/items/mace.png)<br>Mace        | 6 ingots  | 14.5  |
     |        ![icon](../../assets/items/maul.png)<br>Maul        | 10 ingots | 19.4  |

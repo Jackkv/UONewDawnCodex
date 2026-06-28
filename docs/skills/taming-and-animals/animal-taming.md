@@ -24,8 +24,8 @@ Dragons, Drakes and Nightmare have the Fire Breath ability, proportionate to the
 
 This table shows the minimum skill required to start taming, the damage only shows melee without considering magery and fire breath.
 
-|                                Creature                                 | Skill | Damage |    HP     |   AR   |
-|:-----------------------------------------------------------------------:|:-----:|:------:|:---------:|:------:|
+|                               Creature                               | Skill | Damage |    HP     |   AR   |
+|:--------------------------------------------------------------------:|:-----:|:------:|:---------:|:------:|
 |           ![icon](../../assets/mobiles/horse.png)<br>Horse           |   0   | 2 - 10 | 44 - 120  |   7    |
 |         ![icon](../../assets/mobiles/chicken.png)<br>Chicken         | - 0.9 |   1    |   2 - 8   |   1    |
 |   ![icon](../../assets/mobiles/tropical-bird.png)<br>Tropical Bird   | - 0.9 |   1    |   3 - 6   |   1    |

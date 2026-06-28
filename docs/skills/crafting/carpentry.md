@@ -16,8 +16,8 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Other"
 
-    |                                         Item                                          |     Resources     | Dyeable |     Skill      |
-    |:-------------------------------------------------------------------------------------:|:-----------------:|:-------:|:--------------:|
+    |                                        Item                                        |     Resources     | Dyeable |     Skill      |
+    |:----------------------------------------------------------------------------------:|:-----------------:|:-------:|:--------------:|
     |           ![icon](../../assets/items/barrel-staves.png)<br>Barrel Staves           | 5 Boards or Logs  |   no    | 0.0 Carpentry  |
     |              ![icon](../../assets/items/barrel-lid.png)<br>Barrel Lid              | 4 Boards or Logs  |   no    | 11.0 Carpentry |
     | ![icon](../../assets/items/short-music-stand-left.png)<br>Short Music Stand (left) | 15 Boards or Logs |   yes   | 78.9 Carpentry |
@@ -26,8 +26,8 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Furniture"
 
-    |                                    Item                                     |            Resources             | Dyeable |              Skill               |
-    |:---------------------------------------------------------------------------:|:--------------------------------:|:-------:|:--------------------------------:|
+    |                                   Item                                   |            Resources             | Dyeable |              Skill               |
+    |:------------------------------------------------------------------------:|:--------------------------------:|:-------:|:--------------------------------:|
     |         ![icon](../../assets/items/foot-stool.png)<br>Foot Stool         |         9 Boards or Logs         |   yes   |          11.0 Carpentry          |
     |              ![icon](../../assets/items/stool.png)<br>Stool              |         9 Boards or Logs         |   yes   |          11.0 Carpentry          |
     |        ![icon](../../assets/items/straw-chair.png)<br>Straw Chair        |        13 Boards or Logs         |   yes   |          21.0 Carpentry          |
@@ -47,8 +47,8 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Containers"
 
-    |                              Item                               |                     Resources                     | Dyeable |     Skill      |
-    |:---------------------------------------------------------------:|:-------------------------------------------------:|:-------:|:--------------:|
+    |                             Item                             |                     Resources                     | Dyeable |     Skill      |
+    |:------------------------------------------------------------:|:-------------------------------------------------:|:-------:|:--------------:|
     |   ![icon](../../assets/items/wooden-box.png)<br>Wooden Box   |                 10 Boards or Logs                 |   yes   | 21.0 Carpentry |
     |  ![icon](../../assets/items/small-crate.png)<br>Small Crate  |                 8 Boards or Logs                  |   yes   | 10.0 Carpentry |
     | ![icon](../../assets/items/medium-crate.png)<br>Medium Crate |                 15 Boards or Logs                 |   yes   | 31.5 Carpentry |
@@ -61,8 +61,8 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Weapons and Armor"
 
-    |                                 Item                                 |          Resources          | Dyeable |              Skill               |
-    |:--------------------------------------------------------------------:|:---------------------------:|:-------:|:--------------------------------:|
+    |                               Item                                |          Resources          | Dyeable |              Skill               |
+    |:-----------------------------------------------------------------:|:---------------------------:|:-------:|:--------------------------------:|
     | ![icon](../../assets/items/shepard-crook.png)<br>Shepherd's Crook |      7 Boards or Logs       |   no    |          78.9 Carpentry          |
     |   ![icon](../../assets/items/quarterstaff.png)<br>Quarter Staff   |      6 Boards or Logs       |   no    |          73.6 Carpentry          |
     |  ![icon](../../assets/items/gnarled-staff.png)<br>Gnarled Staff   |      7 Boards or Logs       |   no    |          78.9 Carpentry          |
@@ -71,8 +71,8 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Instruments"
 
-    |                                    Item                                     |           Resources           | Dyeable |                Skill                |
-    |:---------------------------------------------------------------------------:|:-----------------------------:|:-------:|:-----------------------------------:|
+    |                                   Item                                   |           Resources           | Dyeable |                Skill                |
+    |:------------------------------------------------------------------------:|:-----------------------------:|:-------:|:-----------------------------------:|
     |           ![icon](../../assets/items/lap-harp.png)<br>Lap Harp           | 20 Boards or Logs<br>10 Cloth |   no    | 63.1 Carpentry<br>45.0 Musicianship |
     |      ![icon](../../assets/items/standing-harp.png)<br>Standing Harp      | 35 Boards or Logs<br>15 Cloth |   no    | 78.9 Carpentry<br>45.0 Musicianship |
     |               ![icon](../../assets/items/drum.png)<br>Drum               | 20 Boards or Logs<br>10 Cloth |   no    | 57.8 Carpentry<br>45.0 Musicianship |
@@ -82,8 +82,8 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Misc. Add-Ons"
 
-    |                                   Item                                   |            Resources            | Dyeable |              Skill               |
-    |:------------------------------------------------------------------------:|:-------------------------------:|:-------:|:--------------------------------:|
+    |                                 Item                                  |            Resources            | Dyeable |              Skill               |
+    |:---------------------------------------------------------------------:|:-------------------------------:|:-------:|:--------------------------------:|
     | ![icon](../../assets/items/small-bed-south.png)<br>Small Bed (south)  | 100 Boards or Logs<br>100 Cloth |   no    | 94.7 Carpentry<br>75.0 Tailoring |
     |  ![icon](../../assets/items/small-bed-east.png)<br>Small Bed (east)   | 100 Boards or Logs<br>100 Cloth |   no    | 94.7 Carpentry<br>75.0 Tailoring |
     | ![icon](../../assets/items/large-bed-south.png)<br>Large Bed (south)  | 150 Boards or Logs<br>150 Cloth |   no    | 94.7 Carpentry<br>75.0 Tailoring |
@@ -96,8 +96,8 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Blacksmithing"
 
-    |                                    Item                                     |           Resources            | Dyeable |                Skill                 |
-    |:---------------------------------------------------------------------------:|:------------------------------:|:-------:|:------------------------------------:|
+    |                                   Item                                   |           Resources            | Dyeable |                Skill                 |
+    |:------------------------------------------------------------------------:|:------------------------------:|:-------:|:------------------------------------:|
     |        ![icon](../../assets/items/small-forge.png)<br>Small Forge        | 5 Boards or Logs<br>75 Ingots  |   no    | 73.6 Carpentry<br>75.0 Blacksmithing |
     |  ![icon](../../assets/items/large-forge-east.png)<br>Large Forge (east)  | 5 Boards or Logs<br>100 Ingots |   no    | 78.9 Carpentry<br>80.0 Blacksmithing |
     | ![icon](../../assets/items/large-forge-south.png)<br>Large Forge (south) | 5 Boards or Logs<br>100 Ingots |   no    | 78.9 Carpentry<br>80.0 Blacksmithing |
@@ -106,8 +106,8 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Training"
 
-    |                                        Item                                         |           Resources           | Dyeable |              Skill               |
-    |:-----------------------------------------------------------------------------------:|:-----------------------------:|:-------:|:--------------------------------:|
+    |                                       Item                                       |           Resources           | Dyeable |              Skill               |
+    |:--------------------------------------------------------------------------------:|:-----------------------------:|:-------:|:--------------------------------:|
     |   ![icon](../../assets/items/training-dummy-east.png)<br>Training Dummy (east)   | 55 Boards or Logs<br>60 Cloth |   no    | 68.4 Carpentry<br>50.0 Tailoring |
     |  ![icon](../../assets/items/training-dummy-south.png)<br>Training Dummy (south)  | 55 Boards or Logs<br>60 Cloth |   no    | 68.4 Carpentry<br>50.0 Tailoring |
     |  ![icon](../../assets/items/pickpockets-dip-east.png)<br>Pickpockets Dip (east)  | 65 Boards or Logs<br>60 Cloth |   no    | 73.6 Carpentry<br>50.0 Tailoring |
@@ -115,8 +115,8 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Tailoring and Cooking"
 
-    |                                       Item                                        |           Resources           | Dyeable |              Skill               |
-    |:---------------------------------------------------------------------------------:|:-----------------------------:|:-------:|:--------------------------------:|
+    |                                      Item                                      |           Resources           | Dyeable |              Skill               |
+    |:------------------------------------------------------------------------------:|:-----------------------------:|:-------:|:--------------------------------:|
     |          ![icon](../../assets/items/dressform-front.png)<br>Dressform          | 25 Boards or Logs<br>10 Cloth |   yes   | 63.1 Carpentry<br>65.0 Tailoring |
     |  ![icon](../../assets/items/spinning-wheel-east.png)<br>Spinning Wheel (east)  | 75 Boards or Logs<br>25 Cloth |   no    | 73.6 Carpentry<br>65.0 Tailoring |
     | ![icon](../../assets/items/spinning-wheel-south.png)<br>Spinning Wheel (south) | 75 Boards or Logs<br>25 Cloth |   no    | 73.6 Carpentry<br>65.0 Tailoring |
@@ -125,8 +125,8 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Cooking"
 
-    |                                     Item                                      |            Resources            | Dyeable |              Skill               |
-    |:-----------------------------------------------------------------------------:|:-------------------------------:|:-------:|:--------------------------------:|
+    |                                    Item                                    |            Resources            | Dyeable |              Skill               |
+    |:--------------------------------------------------------------------------:|:-------------------------------:|:-------:|:--------------------------------:|
     |    ![icon](../../assets/items/stone-oven-east.png)<br>Stone Oven (east)    | 85 Boards or Logs<br>125 Ingots |   no    | 68.4 Carpentry<br>50.0 Tinkering |
     |   ![icon](../../assets/items/stone-oven-south.png)<br>Stone Oven (south)   | 85 Boards or Logs<br>125 Ingots |   no    | 68.4 Carpentry<br>50.0 Tinkering |
     |    ![icon](../../assets/items/flour-mill-east.png)<br>Flour Mill (east)    | 100 Boards or Logs<br>50 Ingots |   no    | 94.7 Carpentry<br>75.0 Tinkering |

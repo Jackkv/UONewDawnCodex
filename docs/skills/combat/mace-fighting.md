@@ -18,8 +18,8 @@ Weapons are considered being at full durability.
 
 === "One Handed"
 
-    |                              Weapon                               | STR Required |    Damage roll     | Speed | Item HP  |
-    |:-----------------------------------------------------------------:|:------------:|:------------------:|:-----:|:--------:|
+    |                             Weapon                             | STR Required |    Damage roll     | Speed | Item HP  |
+    |:--------------------------------------------------------------:|:------------:|:------------------:|:-----:|:--------:|
     |    ![icon](../../assets/items/magic-wand.png)<br>Magic Wand    |      0       |   2d3<br>(2 - 6)   |  35   | 31 - 70  |
     | ![icon](../../assets/items/smith-hammer.png)<br>Smith's Hammer |      30      |  6d3<br>(6 - 18)   |  30   | 31 - 60  |
     |          ![icon](../../assets/items/club.png)<br>Club          |      10      | 4d5+4<br>(8 - 24)  |  40   | 31 - 40  |
@@ -31,8 +31,8 @@ Weapons are considered being at full durability.
 
 === "Two Handed"
 
-    |                                Weapon                                | STR Required |    Damage roll     | Speed | Item HP  |
-    |:--------------------------------------------------------------------:|:------------:|:------------------:|:-----:|:--------:|
+    |                              Weapon                               | STR Required |    Damage roll     | Speed | Item HP  |
+    |:-----------------------------------------------------------------:|:------------:|:------------------:|:-----:|:--------:|
     | ![icon](../../assets/items/shepard-crook.png)<br>Shepherd's Crook |      10      |  3d4<br>(3 - 12)   |  30   | 31 - 50  |
     |   ![icon](../../assets/items/quarterstaff.png)<br>Quarterstaff    |      30      | 5d5+3<br>(8 - 28)  |  48   | 31 - 60  |
     |  ![icon](../../assets/items/gnarled-staff.png)<br>Gnarled Staff   |      20      | 5d5+5<br>(10 - 30) |  33   | 31 - 50  |

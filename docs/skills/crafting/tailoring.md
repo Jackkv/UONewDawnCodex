@@ -16,8 +16,8 @@ These are all the clothes and armor you can craft.
 
 === "Hats"
 
-    |                                Item                                 | Resources | Skill |
-    |:-------------------------------------------------------------------:|:---------:|:-----:|
+    |                               Item                               | Resources | Skill |
+    |:----------------------------------------------------------------:|:---------:|:-----:|
     |       ![icon](../../assets/items/skullcap.png)<br>Skullcap       |  2 Cloth  |  0.0  |
     |        ![icon](../../assets/items/bandana.png)<br>Bandana        |  2 Cloth  |  0.0  |
     |     ![icon](../../assets/items/floppy-hat.png)<br>Floppy Hat     | 11 Cloth  |  6.2  |
@@ -33,8 +33,8 @@ These are all the clothes and armor you can craft.
 
 === "Bone Armor"
 
-    |                               Item                                |             Resources             | Skill |
-    |:-----------------------------------------------------------------:|:---------------------------------:|:-----:|
+    |                              Item                              |             Resources             | Skill |
+    |:--------------------------------------------------------------:|:---------------------------------:|:-----:|
     |     ![icon](../../assets/items/bear-mask.png)<br>Bear Mask     | 6 Leather or Hides<br>1 Bear Head | 80.0  |
     |     ![icon](../../assets/items/deer-mask.png)<br>Deer Mask     | 6 Leather or Hides<br>1 Deer Head | 80.0  |
     |   ![icon](../../assets/items/bone-helmet.png)<br>Bone Helmet   |   4 Leather or Hides<br>2 Bones   | 85.0  |
@@ -45,8 +45,8 @@ These are all the clothes and armor you can craft.
 
 === "Shirts"
 
-    |                             Item                              | Resources | Skill |
-    |:-------------------------------------------------------------:|:---------:|:-----:|
+    |                            Item                            | Resources | Skill |
+    |:----------------------------------------------------------:|:---------:|:-----:|
     |     ![icon](../../assets/items/doublet.png)<br>Doublet     |  8 Cloth  |  0.0  |
     |       ![icon](../../assets/items/shirt.png)<br>Shirt       |  8 Cloth  | 20.7  |
     | ![icon](../../assets/items/fancy-shirt.png)<br>Fancy Shirt |  8 Cloth  | 24.8  |
@@ -60,8 +60,8 @@ These are all the clothes and armor you can craft.
 
 === "Pants"
 
-    |                             Item                              | Resources | Skill |
-    |:-------------------------------------------------------------:|:---------:|:-----:|
+    |                            Item                            | Resources | Skill |
+    |:----------------------------------------------------------:|:---------:|:-----:|
     | ![icon](../../assets/items/short-pants.png)<br>Short Pants |  6 Cloth  | 24.8  |
     |  ![icon](../../assets/items/long-pants.png)<br>Long Pants  |  8 Cloth  | 24.8  |
     |        ![icon](../../assets/items/kilt.png)<br>Kilt        |  8 Cloth  | 20.7  |
@@ -69,8 +69,8 @@ These are all the clothes and armor you can craft.
 
 === "Miscellaneous"
 
-    |                            Item                             | Resources | Skill |
-    |:-----------------------------------------------------------:|:---------:|:-----:|
+    |                           Item                           | Resources | Skill |
+    |:--------------------------------------------------------:|:---------:|:-----:|
     |  ![icon](../../assets/items/body-sash.png)<br>Body Sash  |  4 Cloth  |  4.1  |
     | ![icon](../../assets/items/half-apron.png)<br>Half Apron |  6 Cloth  | 20.7  |
     | ![icon](../../assets/items/full-apron.png)<br>Full Apron | 10 Cloth  | 29.0  |
@@ -78,8 +78,8 @@ These are all the clothes and armor you can craft.
 
 === "Footwear"
 
-    |                             Item                              |      Resources      | Skill |
-    |:-------------------------------------------------------------:|:-------------------:|:-----:|
+    |                            Item                            |      Resources      | Skill |
+    |:----------------------------------------------------------:|:-------------------:|:-----:|
     |     ![icon](../../assets/items/sandals.png)<br>Sandals     | 4 Leather or Hides  | 12.4  |
     |       ![icon](../../assets/items/shoes.png)<br>Shoes       | 6 Leather or Hides  | 16.5  |
     |       ![icon](../../assets/items/boots.png)<br>Boots       | 8 Leather or Hides  | 33.1  |
@@ -87,8 +87,8 @@ These are all the clothes and armor you can craft.
 
 === "Leather Armor"
 
-    |                                  Item                                   |      Resources      | Skill |
-    |:-----------------------------------------------------------------------:|:-------------------:|:-----:|
+    |                                 Item                                 |      Resources      | Skill |
+    |:--------------------------------------------------------------------:|:-------------------:|:-----:|
     |   ![icon](../../assets/items/leather-gorget.png)<br>Leather Gorget   | 4 Leather or Hides  | 53.9  |
     |      ![icon](../../assets/items/leather-cap.png)<br>Leather Cap      | 2 Leather or Hides  |  6.8  |
     |   ![icon](../../assets/items/leather-gloves.png)<br>Leather Gloves   | 3 Leather or Hides  | 51.8  |
@@ -98,8 +98,8 @@ These are all the clothes and armor you can craft.
 
 === "Studded Armor"
 
-    |                                  Item                                   |      Resources      | Skill |
-    |:-----------------------------------------------------------------------:|:-------------------:|:-----:|
+    |                                 Item                                 |      Resources      | Skill |
+    |:--------------------------------------------------------------------:|:-------------------:|:-----:|
     |   ![icon](../../assets/items/studded-gorget.png)<br>Studded Gorget   | 6 Leather or Hides  | 78.8  |
     |   ![icon](../../assets/items/studded-gloves.png)<br>Studded Gloves   | 8 Leather or Hides  | 82.9  |
     |  ![icon](../../assets/items/studded-sleeves.png)<br>Studded Sleeves  | 10 Leather or Hides | 87.1  |
@@ -108,8 +108,8 @@ These are all the clothes and armor you can craft.
 
 === "Female Armor"
 
-    |                                      Item                                       |      Resources      | Skill |
-    |:-------------------------------------------------------------------------------:|:-------------------:|:-----:|
+    |                                     Item                                     |      Resources      | Skill |
+    |:----------------------------------------------------------------------------:|:-------------------:|:-----:|
     |       ![icon](../../assets/items/leather-shorts.png)<br>Leather Shorts       | 8 Leather or Hides  | 62.2  |
     |        ![icon](../../assets/items/leather-skirt.png)<br>Leather Skirt        | 6 Leather or Hides  | 58.0  |
     |      ![icon](../../assets/items/leather-bustier.png)<br>Leather Bustier      | 6 Leather or Hides  | 58.0  |
@@ -131,24 +131,24 @@ Lastly you can use scissors on the Bolts to get Cloth.
 
 === "Gathering"
 
-    |                              From                               |                             Get                             |
-    |:---------------------------------------------------------------:|:-----------------------------------------------------------:|
+    |                             From                             |                           Get                            |
+    |:------------------------------------------------------------:|:--------------------------------------------------------:|
     | ![icon](../../assets/items/cotton-plant.png)<br>Cotton Plant | ![icon](../../assets/items/cotton.png)<br>Bale of Cotton |
     |   ![icon](../../assets/items/flax-plant.png)<br>Flax Plant   |   ![icon](../../assets/items/flax.png)<br>Flax Bundle    |
     |       ![icon](../../assets/mobiles/sheep.png)<br>Sheep       |   ![icon](../../assets/items/wool.png)<br>Pile of Wool   |
 
 === "Spinning Wheel"
 
-    |                             Use                             |                                  Get                                  |
-    |:-----------------------------------------------------------:|:---------------------------------------------------------------------:|
+    |                           Use                            |                                Get                                 |
+    |:--------------------------------------------------------:|:------------------------------------------------------------------:|
     | ![icon](../../assets/items/cotton.png)<br>Bale of Cotton | ![icon](../../assets/items/spool-thread.png)<br>6 Spools of Thread |
     |   ![icon](../../assets/items/flax.png)<br>Flax Bundle    | ![icon](../../assets/items/spool-thread.png)<br>6 Spools of Thread |
     |   ![icon](../../assets/items/wool.png)<br>Pile of Wool   |    ![icon](../../assets/items/ball-yarn.png)<br>3 Balls of Yarn    |
 
 === "Upright Loom"
 
-    |                                  Use                                  |                               Get                                |
-    |:---------------------------------------------------------------------:|:----------------------------------------------------------------:|
+    |                                Use                                 |                              Get                              |
+    |:------------------------------------------------------------------:|:-------------------------------------------------------------:|
     | ![icon](../../assets/items/spool-thread.png)<br>5 Spools of Thread | ![icon](../../assets/items/bolt-cloth.png)<br>1 Bolt of Cloth |
     |    ![icon](../../assets/items/ball-yarn.png)<br>5 Balls of Yarn    | ![icon](../../assets/items/bolt-cloth.png)<br>1 Bolt of Cloth |
 
@@ -158,8 +158,8 @@ This list shows which animal and monster drop specific leather.
 
 === "Normal"
 
-    |                                Animal                                 | Yield |
-    |:---------------------------------------------------------------------:|:-----:|
+    |                               Animal                               | Yield |
+    |:------------------------------------------------------------------:|:-----:|
     |            ![icon](../../assets/mobiles/cat.png)<br>Cat            |   1   |
     |        ![icon](../../assets/mobiles/gorilla.png)<br>Gorilla        |   1   |
     |   ![icon](../../assets/mobiles/snow-leopard.png)<br>Snow Leopard   |   1   |
@@ -185,8 +185,8 @@ This list shows which animal and monster drop specific leather.
 
 === "Spined"
 
-    |                                   Monster                                   | Yield |
-    |:---------------------------------------------------------------------------:|:-----:|
+    |                                 Monster                                  | Yield |
+    |:------------------------------------------------------------------------:|:-----:|
     |         ![icon](../../assets/mobiles/dire-wolf.png)<br>Dire Wolf         |   6   |
     |               ![icon](../../assets/mobiles/imp.png)<br>Imp               |   6   |
     |            ![icon](../../assets/mobiles/ratman.png)<br>Ratman            |   8   |
@@ -201,16 +201,16 @@ This list shows which animal and monster drop specific leather.
 
 === "Horned"
 
-    |                                       Monster                                       | Yield |
-    |:-----------------------------------------------------------------------------------:|:-----:|
+    |                                     Monster                                      | Yield |
+    |:--------------------------------------------------------------------------------:|:-----:|
     | ![icon](../../assets/mobiles/sea-serpent.png)<br>Sea Serpent<br>Deep Sea Serpent |  10   |
     |                 ![icon](../../assets/mobiles/drake.png)<br>Drake                 |  20   |
     |                ![icon](../../assets/mobiles/wyvern.png)<br>Wyvern                |  20   |
 
 === "Barbed"
 
-    |                              Monster                              | Yield |
-    |:-----------------------------------------------------------------:|:-----:|
+    |                            Monster                             | Yield |
+    |:--------------------------------------------------------------:|:-----:|
     |    ![icon](../../assets/mobiles/nightmare.png)<br>Nightmare    |  10   |
     | ![icon](../../assets/mobiles/ancient-wyrm.png)<br>Ancient Wyrm |  20   |
     |       ![icon](../../assets/mobiles/dragon.png)<br>Dragon       |  20   |

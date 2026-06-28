@@ -16,8 +16,8 @@ These are all the tools and parts that you can craft.
 
 === "Wooden Items"
 
-    |                                 Item                                  |    Resources     | Skill |
-    |:---------------------------------------------------------------------:|:----------------:|:-----:|
+    |                                Item                                |    Resources     | Skill |
+    |:------------------------------------------------------------------:|:----------------:|:-----:|
     |  ![icon](../../assets/items/jointing-plane.png)<br>Jointing Plane  | 4 Boards or Logs |   0   |
     | ![icon](../../assets/items/moulding-planes.png)<br>Moulding Plane  | 4 Boards or Logs |   0   |
     | ![icon](../../assets/items/smoothing-plane.png)<br>Smoothing Plane | 4 Boards or Logs |   0   |
@@ -27,8 +27,8 @@ These are all the tools and parts that you can craft.
 
 === "Tools"
 
-    |                                   Item                                    | Resources | Skill |
-    |:-------------------------------------------------------------------------:|:---------:|:-----:|
+    |                                  Item                                  | Resources | Skill |
+    |:----------------------------------------------------------------------:|:---------:|:-----:|
     |          ![icon](../../assets/items/scissors.png)<br>Scissors          | 4 Ingots  |   5   |
     | ![icon](../../assets/items/mortar-and-pestle.png)<br>Mortar and Pestle | 3 Ingots  |  20   |
     |             ![icon](../../assets/items/scorp.png)<br>Scorp             | 2 Ingots  |  30   |
@@ -55,8 +55,8 @@ These are all the tools and parts that you can craft.
 
 === "Parts"
 
-    |                               Item                                | Resources | Skill |
-    |:-----------------------------------------------------------------:|:---------:|:-----:|
+    |                              Item                              | Resources | Skill |
+    |:--------------------------------------------------------------:|:---------:|:-----:|
     |         ![icon](../../assets/items/gears.png)<br>Gears         | 2 Ingots  |   5   |
     |   ![icon](../../assets/items/clock-parts.png)<br>Clock parts   | 1 Ingots  |  25   |
     |    ![icon](../../assets/items/barrel-tap.png)<br>Barrel Tap    | 2 Ingots  |  35   |
@@ -68,8 +68,8 @@ These are all the tools and parts that you can craft.
 
 === "Utensils"
 
-    |                                Item                                 | Resources | Skill |
-    |:-------------------------------------------------------------------:|:---------:|:-----:|
+    |                               Item                               | Resources | Skill |
+    |:----------------------------------------------------------------:|:---------:|:-----:|
     |  ![icon](../../assets/items/butcher-knife.png)<br>Butcher Knife  | 2 Ingots  |  25   |
     |    ![icon](../../assets/items/spoon-left.png)<br>Spoon (left)    | 1 Ingots  |   0   |
     |   ![icon](../../assets/items/spoon-right.png)<br>Spoon (right)   | 1 Ingots  |   0   |
@@ -85,8 +85,8 @@ These are all the tools and parts that you can craft.
 
 === "Miscellaneous"
 
-    |                               Item                                | Resources | Skill |
-    |:-----------------------------------------------------------------:|:---------:|:-----:|
+    |                              Item                              | Resources | Skill |
+    |:--------------------------------------------------------------:|:---------:|:-----:|
     |      ![icon](../../assets/items/key-ring.png)<br>Key ring      | 2 ingots  |  10   |
     |    ![icon](../../assets/items/candelabra.png)<br>Candelabra    | 4 ingots  |  55   |
     |        ![icon](../../assets/items/scales.png)<br>Scales        | 5 ingots  |  60   |
@@ -98,8 +98,8 @@ These are all the tools and parts that you can craft.
 
 === "Jewelry"
 
-    |                                          Item                                           |          Resources           | Skill |
-    |:---------------------------------------------------------------------------------------:|:----------------------------:|:-----:|
+    |                                         Item                                         |          Resources           | Skill |
+    |:------------------------------------------------------------------------------------:|:----------------------------:|:-----:|
     |           ![icon](../../assets/items/gold-ring.png)<br>Star Sapphire Ring            | 2 Ingots<br>1 Star Sapphires |  40   |
     |  ![icon](../../assets/items/silver-necklace.png)<br>Star Sapphire Necklace (Silver)  | 2 Ingots<br>1 Star Sapphires |  40   |
     | ![icon](../../assets/items/gold-necklace-2.png)<br>Star Sapphire Necklace (Jewelled) | 2 Ingots<br>1 Star Sapphires |  40   |
@@ -157,8 +157,8 @@ These are all the tools and parts that you can craft.
 
 === "Assemblies"
 
-    |                                 Item                                  |                            Resources                            | Skill |
-    |:---------------------------------------------------------------------:|:---------------------------------------------------------------:|:-----:|
+    |                                Item                                |                            Resources                            | Skill |
+    |:------------------------------------------------------------------:|:---------------------------------------------------------------:|:-----:|
     | ![icon](../../assets/items/axles-with-gears.png)<br>Axle and Gears |                        1 Axle<br>1 Gears                        |   0   |
     |     ![icon](../../assets/items/clock-parts.png)<br>Clock Parts     |                 1 Axles with Gears<br>1 Springs                 |   0   |
     |   ![icon](../../assets/items/sextant-parts.png)<br>Sextant Parts   |                 1 Axles with Gears<br>1 Hinges                  |   0   |
@@ -170,8 +170,8 @@ These are all the tools and parts that you can craft.
 
 === "Traps"
 
-    |                                          Item                                           |                      Resources                       | Skill |
-    |:---------------------------------------------------------------------------------------:|:----------------------------------------------------:|:-----:|
+    |                                         Item                                         |                      Resources                       | Skill |
+    |:------------------------------------------------------------------------------------:|:----------------------------------------------------:|:-----:|
     |                ![icon](../../assets/items/dart-trap.png)<br>Dart Trap                |             1 Ingots<br>1 Crossbow Bolts             |  30   |
     |              ![icon](../../assets/items/poison-trap.png)<br>Poison Trap              |             1 Ingots<br>1 Green Potions              |  30   |
     |           ![icon](../../assets/items/explosion-trap.png)<br>Explosion Trap           |             1 Ingots<br>1 Purple Potions             |  55   |

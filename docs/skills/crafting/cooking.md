@@ -22,8 +22,8 @@ This is all the food you can craft.
 
 === "Ingredients"
 
-    |                               Item                                |        Resources         | Skill |
-    |:-----------------------------------------------------------------:|:------------------------:|:-----:|
+    |                              Item                              |        Resources         | Skill |
+    |:--------------------------------------------------------------:|:------------------------:|:-----:|
     | ![icon](../../assets/items/sack-of-flour.png)<br>Sack of Flour |         2 Wheat          |   0   |
     |         ![icon](../../assets/items/dough.png)<br>Dough         |    1 Flour<br>1 Water    |   0   |
     |      ![icon](../../assets/items/dough.png)<br>Sweet Dough      |    1 Dough<br>1 Honey    |   0   |
@@ -32,8 +32,8 @@ This is all the food you can craft.
 
 === "Preparations"
 
-    |                                    Item                                     |       Resources       | Skill |
-    |:---------------------------------------------------------------------------:|:---------------------:|:-----:|
+    |                                   Item                                   |       Resources       | Skill |
+    |:------------------------------------------------------------------------:|:---------------------:|:-----:|
     |      ![icon](../../assets/items/unbaked-pie.png)<br>Unbaked Quiche       |   1 Dough<br>1 Eggs   |   0   |
     |     ![icon](../../assets/items/unbaked-pie.png)<br>Unbaked Meat Pie      | 1 Dough<br>1 Raw Meat |   0   |
     | ![icon](../../assets/items/uncooked-pizza.png)<br>Uncooked Sausage Pizza | 1 Dough<br>1 Sausage  |   0   |
@@ -46,8 +46,8 @@ This is all the food you can craft.
 
 === "Baking"
 
-    |                                Item                                 |         Resources         | Skill |
-    |:-------------------------------------------------------------------:|:-------------------------:|:-----:|
+    |                               Item                               |         Resources         | Skill |
+    |:----------------------------------------------------------------:|:-------------------------:|:-----:|
     |     ![icon](../../assets/items/bread-loaf.png)<br>Bread Loaf     |          1 Dough          |   0   |
     | ![icon](../../assets/items/pan-of-cookies.png)<br>Pan of Cookies |       1 Cookie Mix        |   0   |
     |           ![icon](../../assets/items/cake.png)<br>Cake           |        1 Cake Mix         |   0   |
@@ -63,8 +63,8 @@ This is all the food you can craft.
 
 === "Barbecue"
 
-    |                             Item                              |     Resources      | Skill |
-    |:-------------------------------------------------------------:|:------------------:|:-----:|
+    |                            Item                            |     Resources      | Skill |
+    |:----------------------------------------------------------:|:------------------:|:-----:|
     | ![icon](../../assets/items/cooked-bird.png)<br>Cooked Bird |    1 Raw Birds     |   0   |
     | ![icon](../../assets/items/chicken-leg.png)<br>Chicken Leg | 1 Raw Chicken Legs |   0   |
     |  ![icon](../../assets/items/fish-steak.png)<br>Fish Steak  | 1 Raw Fish Steaks  |   0   |
@@ -99,8 +99,8 @@ Egg bombs require 90+ Cooking to be crafted.
 
 They can be used during combat to hide and have a 25 second cooldown.
 
-|                        Item                        |     Resources     | Skill |
-|:--------------------------------------------------:|:-----------------:|:-----:|
+|                      Item                       |     Resources     | Skill |
+|:-----------------------------------------------:|:-----------------:|:-----:|
 | ![icon](../../assets/items/egg.png)<br>Egg Bomb | 1 Eggs<br>3 Flour |  90   |
 
 ## Training
