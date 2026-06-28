@@ -93,6 +93,8 @@ not_in_nav: |
   patches/login-patch-*.md
   hues/hue.md
   custom-systems/conquest-of-virtues.md
+  game-mechanics/gardening.md
+  world/bestiary.md
 
 # Page tree
 nav:
@@ -139,7 +141,7 @@ nav:
       - Items & Equipment: game-mechanics/items-and-equipment.md
       - Murder System: game-mechanics/murder-system.md
       - Currencies: game-mechanics/currencies.md
-      - Gardening: game-mechanics/gardening.md
+      # - Gardening: game-mechanics/gardening.md
       - Housing: game-mechanics/housing.md
       - Stats: game-mechanics/stats.md
     - Skills:
@@ -210,11 +212,13 @@ nav:
       - custom-systems/battlegrounds.md
       - Capture the Flag: custom-systems/capture-the-flag.md
       - Conquest: custom-systems/conquest.md
-    - Codex Rifts: custom-systems/codex-rifts.md
-    #- Conquest of Virtues: custom-systems/conquest-of-virtues.md    
+    - Codex Rifts: custom-systems/codex-rifts.md    
     - Dungeon Dyes: custom-systems/dungeon-dyes.md
+    - Dungeon of the Week: custom-systems/dotw.md
     - Pirate Adventures: custom-systems/pirate-adventures.md
+    - Ship Holds: custom-systems/ship-holds.md
     - Spirit Summoner: custom-systems/spirit-summoner.md
+    - Young Player Program: custom-systems/young-program.md
 ### Hues ###
   - Hues: hues/index.md
 ### Community & Resources ###
