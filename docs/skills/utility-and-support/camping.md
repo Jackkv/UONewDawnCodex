@@ -22,7 +22,7 @@ Bedrolls can be bought from a Provisioner vendor, once your camp is secure, doub
 
 ## Stat gain
 
-Camping can be used to gain very fast stats. To use this method, you will need to be at 700 skill cap, have 0 Camping with the skill pointing up, while all the other skills are locked. Then repeatedly use kindling to make fires and start gaining any stat of your choice.
+Camping can be used to raise stats very quickly. To use this method, you have to be at 700 skill cap, have Camping at 0 with the arrow up, and lock all other skills. Then repeatedly use kindling to start campfires, which will let you gain any stat you choose at a fast rate.
 
 ## Training
 
