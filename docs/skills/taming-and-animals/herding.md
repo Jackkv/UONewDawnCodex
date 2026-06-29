@@ -15,3 +15,5 @@ Double click your Shepherd's Crook then click on the animal you want to herd, If
 Train from Animal trainer NPCs to reach around 50.
 
 Trap a bull inside a building and repeatedly herd it until reaching 100.
+
+Herding can also increase Strength.

@@ -273,6 +273,8 @@ Smelting ore gives faster gains than mining, when the chance of smelt is lower.
 
 Repeatedly mine and/or smelt until reaching 100.
 
+Mining can also increase Strength.
+
 ## Related skills
 
 - [Blacksmithy](../crafting/blacksmithy.md)

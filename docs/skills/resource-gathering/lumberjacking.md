@@ -45,6 +45,8 @@ Train from Carpenter NPCs to reach around 50.
 
 Repeatedly chop trees until reaching 100.
 
+Chopping trees can also increase Strength.
+
 ## Related skills
 
 - [Carpentry](../crafting/carpentry.md)

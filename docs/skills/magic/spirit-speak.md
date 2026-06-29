@@ -28,6 +28,8 @@ Train from Healer NPCs to reach around 50.
 
 Spirit speak can be used on a 10 seconds cooldown, it doesn't have difficulty checks. Just use it until you reach 100.
 
+Using this skill also increases Intelligence.
+
 ## Related skills
 
 - [Spirit Summoner System](../../custom-systems/spirit-summoner.md)

@@ -52,6 +52,8 @@ To be more efficient have two characters fight using Healing and Anatomy on each
 
 Have the target equip high amor rating and a weapon they have 0 skill with, hit them until you reach 81, then switch the target weapon with one they are GM with and continue until 100.
 
+Sparring with a Fencing weapon also increases Strength and Dexterity.
+
 ## Related skills
 
 - [Anatomy](anatomy.md)

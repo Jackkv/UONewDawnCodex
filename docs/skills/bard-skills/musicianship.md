@@ -18,6 +18,8 @@ Musicianship doesn't have any difficulty checks, keep playing instruments until 
 
 To be more efficient, you can gain Musicianship while training other barding skills.
 
+Playing an instrument can also increase Dexterity.
+
 ## Related skills
 
 - [Provocation](provocation.md)
