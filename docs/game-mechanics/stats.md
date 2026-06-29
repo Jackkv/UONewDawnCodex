@@ -46,6 +46,10 @@ Damage is capped at 40.
 
 [Resisting spells](../skills/combat/resisting-spells.md) blocks 66% of the damage, if resisted.
 
+## Camping method
+
+Camping can be used to raise stats very quickly. To use this method, you have to be at 700 skill cap, have Camping at 0 with the arrow up, and lock all other skills. Then repeatedly use kindling to start campfires, which will let you gain any stat you choose at a fast rate.
+
 ## Gaining stats
 
 Each skill has a Primary and a Secondary stat gain, if both stats are unlocked, the primary will increase 75% of the time while the secondary 25% of the time.
