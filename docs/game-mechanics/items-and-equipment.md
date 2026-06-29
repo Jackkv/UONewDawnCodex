@@ -380,6 +380,56 @@ Opposite slayer type: Abyss.
         - Silvani
         - Wisp
 
+## Starting items
+
+Depending on which skills you choose during character creation you will received different items. Even 0.1 on a skill will grant you these items.
+
+Clothes, Weapons, Instruments and Tools are always Newbied, which means you will not lose them upon death (If you are not a Murderer).
+
+|        Skill        |                         Items Received                          |
+|:-------------------:|:---------------------------------------------------------------:|
+|       Alchemy       |                 Robe, Mortar & Pestle, Bottles                  |
+|       Anatomy       |                         Robe, Bandages                          |
+|     Animal Lore     |                      Robe, Shepherds Crook                      |
+|    Animal Taming    |                         Shepherds Crook                         |
+|       Archery       |                           Bow, Arrows                           |
+|      Arms Lore      |                          Random Weapon                          |
+|       Begging       |                          Gnarled Staff                          |
+|     Blacksmithy     |            Half Apron, Pickaxes, Tongs, Iron Ingots             |
+|      Bowcraft       |                    Boards, Feathers, Shafts                     |
+|       Camping       |                        Bedroll, Kindling                        |
+|      Carpentry      |                     Half Apron, Saw, Boards                     |
+|     Cartography     |                       Sextant, Blank Maps                       |
+|       Cooking       |           Kindling, Raw Birds, Sack of Flour, Pitcher           |
+|  Detecting Hidden   |                              Cloak                              |
+|     Discordance     |                        Random Instrument                        |
+|       Fencing       |                         Fencing Weapon                          |
+|       Fishing       |                    Fishing Pole, Floppy Hat                     |
+|       Healing       |                       Scissors, Bandages                        |
+|       Herding       |                         Shepherds Crook                         |
+|       Hiding        |                              Cloak                              |
+|     Inscription     |                       Book, Blank Scrolls                       |
+| Item Identification |                          Gnarled Staff                          |
+|     Lockpicking     |                            Lockpicks                            |
+|    Lumberjacking    |                             Hatchet                             |
+|    Mace Fighting    |                          Macing Weapon                          |
+|       Magery        | Wizards Hat, Robe, Spellbook, Bag of Reagents, 3 Random Scrolls |
+|       Mining        |                             Pickaxe                             |
+|    Musicianship     |                        Random Instrument                        |
+|      Parrying       |                          Wooden Shield                          |
+|     Peacemaking     |                        Random Instrument                        |
+|      Poisoning      |                      Lesser Poison Potions                      |
+|     Provocation     |                        Random Instrument                        |
+|      Stealing       |                            Lockpicks                            |
+|      Snooping       |                            Lockpicks                            |
+|    Spirit Speak     |                              Cloak                              |
+|    Swordsmanship    |                          Swords Weapon                          |
+|      Tailoring      |                    Sewing Kit, Bolt of Cloth                    |
+|      Tinkering      |                   Tinker Tools, Tinker Parts                    |
+|      Tracking       |                      Boots, Skinning Knife                      |
+|     Veterinary      |                       Scissors, Bandages                        |
+|      Wrestling      |                         Leather Gloves                          |
+
 ## Armor
 
 The AR Area on this table shows the actual Armor Rating of the area it protects. It will not match the in-game character status window, which only displays the total average.
@@ -732,3 +782,4 @@ Gathered with [Mining](../skills/resource-gathering/mining.md).
 |  90   |     ![icon](../assets/items/agapite-ingots.png)<br>Agapite     | 4.2%  |
 |  95   |      ![icon](../assets/items/verite-ingots.png)<br>Verite      | 2.8%  |
 |  99   |    ![icon](../assets/items/valorite-ingots.png)<br>Valorite    | 1.4%  |
+
