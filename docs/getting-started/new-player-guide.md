@@ -115,31 +115,7 @@ For this template, depending on how often you want to use Magery, these are the 
 - Magery low usage: 47 strength, 12 dexterity, 11 intelligence
 - Magery high usage: 40 Strength, 12 Dexterity, 28 Intelligence
 
-??? Note "Click to expand: Skills that raise stats"
-
-    A handful of skills give you stat gains as a nice side effect of training them.
-
-    Strength:
-
-    - Camping
-    - Fencing
-    - Herding
-    - Lumberjacking
-    - Mace Fighting
-    - Mining
-    - Swordsmanship
-
-    Dexterity:
-
-    - Camping
-    - Fencing
-    - Musicianship
-    - Snooping
-
-    Intelligence:
-    
-    - Camping
-    - Spirit Speak
+Visit the [Stats page](../game-mechanics/stats.md) for a detailed list of skills and their stat gains.
 
 ## Leveling up: the Summoner template
 
