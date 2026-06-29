@@ -19,3 +19,5 @@ Using the skill:
 Train from Healer NPCs to reach around 50.
 
 Repeatedly use the skill on corpses until reaching 100.
+
+While training this skill you can also gain Intelligence and Dexterity.

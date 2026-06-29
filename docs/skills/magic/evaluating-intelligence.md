@@ -37,6 +37,8 @@ You can train by using it on players, monsters, and animals until you reach 100.
 
 You also gain by casting any spell.
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Anatomy](../combat/anatomy.md)

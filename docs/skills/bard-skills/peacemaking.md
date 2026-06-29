@@ -18,6 +18,8 @@ Peacemaking can be used on a 10 seconds cooldown, it doesn't have any difficulty
 
 To be more efficient, you can gain Peacemaking and Musicianship at the same time.
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Musicianship](musicianship.md)

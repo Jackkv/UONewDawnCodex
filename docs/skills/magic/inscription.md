@@ -104,6 +104,8 @@ Inscription i'snt just for scrolls, you can copy books too. Just target the comp
 | 50 - 75  | Invisibility    |
 | 75 - 100 | Gate Travel     |
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Magery](magery.md)

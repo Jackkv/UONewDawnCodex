@@ -18,6 +18,8 @@ Train from Animal trainer NPCs to reach around 50.
 
 Have two horses fight each other while healing them with bandages until reaching 100.
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Animal Taming](animal-taming.md)

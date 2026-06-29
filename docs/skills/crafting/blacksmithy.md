@@ -163,6 +163,8 @@ Training Blacksmithy can be really expensive, consider Mining to fund the traini
 | 86 - 94.5  | Platemail gorget |
 | 94.5 - 100 | Platemail gloves |
 
+While training this skill you can also gain Strength and Dexterity.
+
 ## Related skills
 
 - [Mining](../resource-gathering/mining.md)

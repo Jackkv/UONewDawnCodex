@@ -62,6 +62,8 @@ Train from Blacksmith, Weaponsmith or Armorer NPCs to reach around 50.
 
 Repeatedly use the skill on an item until reaching 100.
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Blacksmithy](../crafting/blacksmithy.md)

@@ -16,6 +16,8 @@ Remove Trap can be used on a 10 seconds cooldown.
 
 Train on tinker made traps of rising difficulty. Once you reach 98, move to dungeon chests or high-level treasure maps.
 
+While training this skill you can also gain Dexterity and Intelligence.
+
 ## Related skills
 
 - [Lockpicking](../stealth-and-thievery/lockpicking.md)

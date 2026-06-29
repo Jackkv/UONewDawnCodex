@@ -52,6 +52,8 @@ Train from Thief NPCs to reach around 50.
 
 Repeatedly Hide until reaching 100.
 
+While training this skill you can also gain Dexterity and Intelligence.
+
 ## Related skills
 
 - [Stealth](stealth.md)

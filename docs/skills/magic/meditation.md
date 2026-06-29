@@ -22,6 +22,8 @@ In order to gain skill points you need to regenerate mana, you can consume mana 
 
 When training Magery you will also naturally gain Meditation too.
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Magery](magery.md)

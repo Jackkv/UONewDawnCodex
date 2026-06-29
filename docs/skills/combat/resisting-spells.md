@@ -66,6 +66,8 @@ You can train Resisting Spells, Magery, Meditation and Healing at the same time.
 | 60 - 82  | Energy Bolt      |
 | 82 - 100 | Flamestrike      |
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Magery](../magic/magery.md)

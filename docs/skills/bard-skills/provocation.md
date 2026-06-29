@@ -30,6 +30,8 @@ Provocation is a difficulty based skill. Some creatures are harder to provoke th
 
 To be more efficient, you can gain Provocation and Musicianship at the same time.
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Musicianship](musicianship.md)

@@ -27,6 +27,8 @@ Lock the boxes with their key and start lockpicking them.
 | 82 - 95  | 100 Tinker level box   |
 | 95 - 100 | Level 4 dungeon chests |
 
+While training this skill you can also gain Dexterity and Intelligence.
+
 ## Related skills
 
 - [Tinkering](../crafting/tinkering.md)

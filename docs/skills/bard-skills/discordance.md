@@ -22,6 +22,8 @@ If you use Discordance on a peaceful creature, it won't attack you even once it 
 
 To be more efficient, you can gain Discordance and Musicianship at the same time.
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Musicianship](musicianship.md)

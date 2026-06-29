@@ -13,3 +13,5 @@ Starting items if you choose this skill in character creation: Gnarled Staff.
 ## Training
 
 Repeatedly beg NPCs until reaching 100.
+
+While training this skill you can also gain Dexterity and Intelligence.

@@ -198,6 +198,8 @@ Training Magery can burn a hole in your pockets, so be sure to stockpile plenty 
     | 60 - 82  | Energy Bolt                                                     |
     | 82 - 100 | Flamestrike                                                     |
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Evaluating Intelligence](evaluating-intelligence.md)

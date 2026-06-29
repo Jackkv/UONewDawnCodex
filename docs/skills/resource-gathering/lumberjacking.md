@@ -47,7 +47,7 @@ Train from Carpenter NPCs to reach around 50.
 
 Repeatedly chop trees until reaching 100.
 
-Chopping trees can also increase Strength.
+While training this skill you can also gain Strength and Dexterity.
 
 ## Related skills
 

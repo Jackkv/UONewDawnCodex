@@ -115,6 +115,8 @@ Alchemy is often trained alongside Poisoning.
 | 60 - 97  | Greater Poison  |
 | 97 - 100 | Deadly Poison   |
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Carpentry](carpentry.md)

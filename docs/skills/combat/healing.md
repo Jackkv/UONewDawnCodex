@@ -70,6 +70,8 @@ Healing or curing others is faster than healing yourself, to be more efficient c
 | 60 - 80  | Cure poison                                                                                                |
 | 80 - 100 | Resurrect :material-information-outline:{ title="Resurrecting is slower than curing someone else poison" } |
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Anatomy](anatomy.md)

@@ -163,6 +163,8 @@ Repeatedly fish until reaching 100, while fishing on land monster can't spawn an
 
 Consider keeping the fish to also train cooking.
 
+While training this skill you can also gain Dexterity and Strength.
+
 ## Related skills
 
 - [Cooking](../crafting/cooking.md)

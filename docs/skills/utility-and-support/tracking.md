@@ -26,6 +26,8 @@ Tracking can be used on a 10 seconds cooldown.
 
 Repeatedly Track something until reaching 100.
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Detecting Hidden](../stealth-and-thievery/detecting-hidden.md)

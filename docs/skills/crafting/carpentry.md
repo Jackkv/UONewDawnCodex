@@ -178,6 +178,8 @@ Consider Lumberjacking to fund the training.
 | 75 - 87     | Quarter Staff   |
 | 87 - 100    | Gnarled Staff   |
 
+While training this skill you can also gain Strength and Dexterity.
+
 ## Related skills
 
 - [Lumberjacking](../resource-gathering/lumberjacking.md)

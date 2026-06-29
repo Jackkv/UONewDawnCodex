@@ -29,3 +29,5 @@ Train from Jeweler NPCs to reach around 50.
 Item Identification doesn't have any difficulty checks.
 
 Just repeatedly identify the same item until reaching 100.
+
+While training this skill you can also gain Intelligence and Dexterity.

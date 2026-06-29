@@ -14,6 +14,8 @@ Taste Identification can be used on a 1 second cooldown, it doesn't have any dif
 
 Repeatedly Taste ID the same potion until reaching 100.
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Poisoning](../combat/poisoning.md)

@@ -53,6 +53,8 @@ Consider Lumberjacking to fund the training.
 | 70 - 90  | Crossbows       |
 | 90 - 100 | Heavy Crossbow  |
 
+While training this skill you can also gain Dexterity and Intelligence.
+
 ## Related skills
 
 - [Archery](../combat/archery.md)

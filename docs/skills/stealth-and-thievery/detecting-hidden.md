@@ -46,6 +46,8 @@ For faster gains, when at 50, you can reveal multiple trapped containers around 
 
 Each time a container is revealed, it counts as a use of the skill, revealing multiple containers counts as multiple skill uses at once.
 
+While training this skill you can also gain Intelligence and Dexterity.
+
 ## Related skills
 
 - [Hiding](hiding.md)

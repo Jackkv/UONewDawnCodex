@@ -301,3 +301,5 @@ Consider cutting what you craft to recoup some of the materials.
 | 55.0 - 74.6 | Robe            |
 | 74.6 - 99.5 | Oil Cloth       |
 | 99.5 - 100  | Studded Gorget  |
+
+While training this skill you can also gain Dexterity and Intelligence.

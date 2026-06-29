@@ -18,7 +18,7 @@ Snooping doesn't have any difficulty checks.
 
 Just repeatedly double click an NPC's or other player's backpack until you reach 100.
 
-Snooping can also increase Dexterity.
+While training this skill you can also gain Dexterity and Intelligence.
 
 ## Related skills
 
