@@ -1,66 +1,106 @@
 # Stats
 
-Understanding your character's core statistics in New Dawn.
+Stat cap is set to 225, 100 max for each individual stat.
 
-## The Three Primary Stats
+## Strength
 
-New Dawn uses three primary statistics that define your character's capabilities:
+Strength determines your maximum health.
 
-### Strength (STR)
+`Max Health = 50 + (STR / 2)`
 
-**Primary Effect:** Hit Points and Physical Damage
+Strength also gives a bonus to weapon damage.
 
----
+`STR * 0.2 = % bonus to weapon damage`
 
-### Dexterity (DEX)
+Strength affects your carrying capacity.
 
-**Primary Effect:** Stamina and Swing Speed
+`Every 1 point of Strength adds 3.5 stones to your maximum weight.`
 
----
+## Dexterity
 
-### Intelligence (INT)
+Dexterity determines your maximum stamina.
 
-**Primary Effect:** Mana Pool
+`1 DEX = 1 Max Stam`
 
-## Stat Distribution
+Current stamina determines Swing speed.
 
-## Stat Caps
+`(WeaponSpeed * 0.25) - (Your Dex / 30) = Swing speed`
 
-**Individual Stat Cap:** 100 (base)
-**Total Stat Cap:** 225
+Dexterity also determines how long it takes to apply [bandages](../skills/combat/healing.md#bandages-speed).
 
-!!! info "Stat Growth"
-    As you play, your stats will naturally increase toward the 225 cap. You can influence which stats grow by "locking" stats.
+## Intelligence
 
-## Stat Locks
+Intelligence determines your maximum mana.
 
-Control which stats can increase or decrease:
+`1 INT = 1 Max Mana`
 
-- **Up Arrow (↑)** - Stat can increase
-- **Down Arrow (↓)** - Stat can decrease to make room
-- **Lock (→)** - Stat is frozen
+## Mind Blast
 
-**Strategy:**
+Mind Blast is a Magery offensive spell.
 
-1. Set your primary stats to "up"
-2. Set unwanted stats to "down"
-3. Lock when you reach desired values
+The amount of damage you take is based on your stats.
 
-## Stat Gain
+`(Highest stat - lowest stat) / 2`
 
-!!! warning
-    These need refinement. Confirm in the Discord community.
+Damage is capped at 40.
 
-### How Stats Increase
+[Resisting spells](../skills/combat/resisting-spells.md) blocks 66% of the damage, if resisted.
 
-Stats gain through skill usage:
+## Gaining stats
 
-- **Strength:** Melee combat, mining, lumberjacking
-- **Dexterity:** Combat (all types), crafting
-- **Intelligence:** Spellcasting, meditation
+Each skill has a Primary and a Secondary stat gain, if both stats are unlocked, the primary will increase 75% of the time while the secondary 25% of the time.
 
-### Stat Gain Rate
+If for example, the Primary stat is locked then the Secondary will gain at 100% rate.
 
-!!! warning
-    These need refinement. Confirm your template in the Discord community.
+There is a 1 in 20 chance of gaining stat while using a skill.
 
+| Skill Name              | Primary Stat | Secondary Stat |
+|-------------------------|--------------|----------------|
+| Alchemy                 | Intelligence | Dexterity      |
+| Anatomy                 | Strength     | Intelligence   |
+| Animal Lore             | Intelligence | Dexterity      |
+| Animal Taming           | Strength     | Intelligence   |
+| Archery                 | Dexterity    | Strength       |
+| Arms Lore               | Intelligence | Dexterity      |
+| Begging                 | Dexterity    | Intelligence   |
+| Blacksmithy             | Strength     | Dexterity      |
+| Bowcraft & Fletching    | Dexterity    | Intelligence   |
+| Camping                 | Dexterity    | Intelligence   |
+| Carpentry               | Strength     | Dexterity      |
+| Cartography             | Intelligence | Dexterity      |
+| Cooking                 | Dexterity    | Intelligence   |
+| Detecting Hidden        | Intelligence | Dexterity      |
+| Discordance             | Intelligence | Dexterity      |
+| Evaluating Intelligence | Intelligence | Dexterity      |
+| Fencing                 | Dexterity    | Strength       |
+| Fishing                 | Dexterity    | Strength       |
+| Forensic Evaluation     | Intelligence | Dexterity      |
+| Healing                 | Intelligence | Dexterity      |
+| Herding                 | Dexterity    | Intelligence   |
+| Hiding                  | Dexterity    | Intelligence   |
+| Inscription             | Intelligence | Dexterity      |
+| Item Identification     | Intelligence | Dexterity      |
+| Lumberjacking           | Strength     | Dexterity      |
+| Magery                  | Intelligence | Dexterity      |
+| Meditation              | Intelligence | Dexterity      |
+| Mining                  | Strength     | Dexterity      |
+| Mace Fighting           | Strength     | Dexterity      |
+| Musicianship            | Dexterity    | Intelligence   |
+| Parrying                | Strength     | Dexterity      |
+| Peacemaking             | Intelligence | Dexterity      |
+| Poisoning               | Intelligence | Dexterity      |
+| Provocation             | Intelligence | Dexterity      |
+| Remove Trap             | Dexterity    | Intelligence   |
+| Resisting Spells        | Intelligence | Dexterity      |
+| Snooping                | Dexterity    | Intelligence   |
+| Spirit Speak            | Intelligence | Dexterity      |
+| Stealing                | Dexterity    | Intelligence   |
+| Stealth                 | Dexterity    | Intelligence   |
+| Swordsmanship           | Strength     | Dexterity      |
+| Tactics                 | Strength     | Dexterity      |
+| Tailoring               | Dexterity    | Intelligence   |
+| Taste Identification    | Intelligence | Dexterity      |
+| Tinkering               | Dexterity    | Intelligence   |
+| Tracking                | Intelligence | Dexterity      |
+| Veterinary              | Intelligence | Dexterity      |
+| Wrestling               | Strength     | Dexterity      |
