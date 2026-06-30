@@ -4,8 +4,6 @@
 
 The murder system tracks player kills and applies consequences for those who engage in player killing (PKing). This system uses both **short-term** and **long-term** murder counts to regulate PvP behavior and provide pathways for redemption.
 
----
-
 ## How Murder Counts Work
 
 ### Important: Reporting is Required
@@ -36,8 +34,6 @@ When you ARE reported, you receive **two types** of murder counts:
 - **Purpose**: Your permanent murder record
 - **Visibility**: This is your "Kills" count that determined if you're red
 
----
-
 ## Murder Count Decay System
 
 ### Key Points
@@ -65,8 +61,6 @@ When you ARE reported, you receive **two types** of murder counts:
 - First 6 murders decay at 24 hours each (from 10 down to 4)
 - Remaining 4 murders decay at 16 hours each (below 5)
 - Total time to clear all 10: **(6 × 24) + (4 × 16) = 208 hours** of being logged in
-
----
 
 ## Stat and Skill Loss on Resurrection
 
@@ -150,16 +144,12 @@ The percentage of stat/skill loss is calculated as follows:
 - Stay alive and let murders decay naturally if possible
 - Keep murders below 5 if you engage in risky PvP
 
----
-
 ## Dungeon Death Penalty
 
 If you have **5 or more short-term murders** and die inside a dungeon, you are subject to a **dungeon re-entry lockout**:
 
 - **Lockout duration:** 5 minutes before you can re-enter the dungeon
 - This applies only to dungeon deaths — dying in the overworld is unaffected
-
----
 
 ## The Corrupt Judge & Pardons
 
@@ -196,8 +186,6 @@ The cost doubles with each pardon you purchase:
 
 **Note**: Gold is automatically withdrawn from your bank account.
 
----
-
 ## Using a Forged Pardon
 
 Once you receive a **Forged Pardon**:
@@ -213,8 +201,6 @@ Once you receive a **Forged Pardon**:
 **While alive (manual):** Double-click the pardon at any time to consume it and receive the same benefit — counts cleared, no penalty.
 
 Upon use you receive a message: _"Redemption is granted. Your sins are now but shadows of the past."_
-
----
 
 ## Important Notes
 
@@ -236,8 +222,6 @@ Upon use you receive a message: _"Redemption is granted. Your sins are now but s
 4. **Let murders decay naturally if possible** - Save gold by waiting, but this requires long play sessions
 5. **Plan your PvP carefully** - Each kill has consequences that last many hours
 6. **Thieves Guild members can't report** - They're criminals themselves, so guards won't take their reports
-
----
 
 ## Summary
 
