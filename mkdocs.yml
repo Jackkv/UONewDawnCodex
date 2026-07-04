@@ -139,7 +139,9 @@ nav:
         - Wrong: world/dungeons/wrong.md
       # - Bestiary: world/bestiary.md
     - Game Mechanics:
-      - Items & Equipment: game-mechanics/items-and-equipment.md
+      - Items & Equipment:
+        - Items & Equipment: game-mechanics/items-and-equipment.md
+        - Slayers: game-mechanics/slayers.md
       - Murder System: game-mechanics/murder-system.md
       - Currencies: game-mechanics/currencies.md
       # - Gardening: game-mechanics/gardening.md
