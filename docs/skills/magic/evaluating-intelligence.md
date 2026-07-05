@@ -4,7 +4,7 @@
 
 ## Overview
 
-It passively boosts the damage of your offensive Magery spells.
+Evaluating Intelligence passively boosts the damage of your offensive Magery spells.
 
 When combined with Anatomy, they function as a passive Wrestling further enhancing your combat effectiveness.
 
