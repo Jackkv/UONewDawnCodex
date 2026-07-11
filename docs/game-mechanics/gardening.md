@@ -69,3 +69,43 @@ The top right icon shows the plant's growth status.
    - A yellow dash means the growth check hasn't happened yet.
    - A blue cross means the plant grew normally.
    - A green cross means the plant grew two stages.
+
+## Maintenance
+
+When a plant goes through a growth check, it may develop certain ailments. You need to remedy these before the next check so they don't end up harming the plant.
+
+The icons on the left show what needs to be addressed before the next growth cycle.
+
+The icons on the right let you add water or potions to remedy the ailments.
+
+The bottom center displays the plant's Health, which has four stages: Vibrant, Healthy, Wilted, and Dying.
+
+If the Health drops to Wilted or Dying apply two Greater Heal potions.
+
+Applying Greater Strength potions can reduce how often a plant is affected by ailments.
+
+### ![image](../assets/gumps/plant-bowl-water.png) Watering
+
+If the water icon has no symbol, the plant has the perfect amount of water.
+
+A yellow dash means you should water it once. A red dash means you should water it twice.
+
+Be careful not to overwater, as it can harm the plant's health.
+
+A yellow cross means the plant has been overwatered once and will need one growth cycle to recover. A red cross means it has been overwatered twice and will need two growth cycles to recover.
+
+### ![image](../assets/gumps/plant-bowl-insect.png) Insect infestation
+
+This can happen at random. If a yellow cross appears, apply one Greater Poison potion. If it's red, apply two.
+
+### ![image](../assets/gumps/plant-bowl-fungus.png) Fungus infection
+
+This can happen at random. If a yellow cross appears, apply one Greater Cure potion. If it's red, apply two.
+
+### ![image](../assets/gumps/plant-bowl-poisoned.png) Poisoned
+
+This happens when too many poison potions have been applied. A yellow cross means you should apply one Greater Heal potion. If it's red, apply two.
+
+### ![image](../assets/gumps/plant-bowl-diseased.png) Diseased
+
+This happens when too many cure potions have been applied. A yellow cross means you should apply one Greater Heal potion. If it's red, apply two.
