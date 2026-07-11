@@ -51,3 +51,21 @@ It can be refilled using a Water Trough or Water barrel.
         - Add Greater Heal potions
         - Add Greater Strength potions
         - Bottom right corner: Empty bowl
+
+## Growth
+
+A plant performs a growth check every 24 hours after you last tend it.
+
+With each check, it advances through growth stages 1 to 9, shown by the icon in the top‑left corner.
+
+On day 7, the plant becomes visible and can both pollinate other plants and be pollinated.
+
+On day 9, the plant can be removed and set to decorative, or it can be left in place to continue producing seeds.
+
+The top right icon shows the plant's growth status.
+
+   - A red exclamation mark means the plant is in an invalid spot. The growth check will fail, and nothing will change, the plant won't improve or decline.
+   - A red dash means it didn't grow because it's unhealthy.
+   - A yellow dash means the growth check hasn't happened yet.
+   - A blue cross means the plant grew normally.
+   - A green cross means the plant grew two stages.
