@@ -25,3 +25,29 @@ Can also be looted from Boars, Bull Frogs, Giant Toads and Earth Elementals.
 You can buy a Pitcher of Water from Provisioner NPCs.
 
 It can be refilled using a Water Trough or Water barrel.
+
+## Plant gump
+
+![image](../assets/gumps/plant-bowl-gump.png)
+
+??? note "Click to expand: Icons legend"
+
+    === "Left side"
+
+        - Top left corner: Growth stage
+        - Reproduction page
+        - Insect infestation
+        - Fungus infection
+        - Poisoned
+        - Diseased
+        - Bottom left corner: Does nothing
+
+    === "Right side"
+
+        - Top right corner: Growth condition
+        - Water level
+        - Add Greater Poison potions
+        - Add Greater Cure potions
+        - Add Greater Heal potions
+        - Add Greater Strength potions
+        - Bottom right corner: Empty bowl
