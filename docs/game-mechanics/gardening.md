@@ -35,7 +35,7 @@ It can be refilled using a Water Trough or Water barrel.
     === "Left side"
 
         - Top left corner: Growth stage
-        - Reproduction page
+        - Reproduction page button
         - Insect infestation
         - Fungus infection
         - Poisoned
@@ -44,7 +44,7 @@ It can be refilled using a Water Trough or Water barrel.
 
     === "Right side"
 
-        - Top right corner: Growth condition
+        - Top right corner: Growth status
         - Water level
         - Add Greater Poison potions
         - Add Greater Cure potions
@@ -52,15 +52,17 @@ It can be refilled using a Water Trough or Water barrel.
         - Add Greater Strength potions
         - Bottom right corner: Empty bowl
 
-## Growth
+## ![image](../assets/gumps/plant-growth-stage.png) Growth
 
 A plant performs a growth check every 24 hours after you last tend it.
 
 With each check, it advances through growth stages 1 to 9, shown by the icon in the top‑left corner.
 
-On day 7, the plant becomes visible and can both pollinate other plants and be pollinated.
+On stage 7, the plant becomes visible and can both pollinate other plants and be pollinated.
 
-On day 9, the plant can be removed and set to decorative, or it can be left in place to continue producing seeds.
+On stage 9, the plant can be removed and set to decorative, or it can be left in place to continue producing seeds and resources.
+
+### ![image](../assets/gumps/plant-growth-status.png) Growth status
 
 The top right icon shows the plant's growth status.
 
@@ -82,7 +84,7 @@ The bottom center displays the plant's Health, which has four stages: Vibrant, H
 
 If the Health drops to Wilted or Dying apply two Greater Heal potions.
 
-Applying Greater Strength potions can reduce how often a plant is affected by ailments.
+Applying ![](../assets/gumps/plant-strength-potion.png) Greater Strength potions can reduce how often a plant is affected by ailments.
 
 ### ![image](../assets/gumps/plant-water.png) Watering
 
@@ -96,16 +98,16 @@ A yellow cross means the plant has been overwatered once and will need one growt
 
 ### ![image](../assets/gumps/plant-insect.png) Insect infestation
 
-This can happen at random. If a yellow cross appears, apply one Greater Poison potion. If it's red, apply two.
+This can happen at random. If a yellow cross appears, apply one ![](../assets/gumps/plant-poison-potion.png) Greater Poison potion. If it's red, apply two.
 
 ### ![image](../assets/gumps/plant-fungus.png) Fungus infection
 
-This can happen at random. If a yellow cross appears, apply one Greater Cure potion. If it's red, apply two.
+This can happen at random. If a yellow cross appears, apply one ![](../assets/gumps/plant-cure-potion.png) Greater Cure potion. If it's red, apply two.
 
 ### ![image](../assets/gumps/plant-poisoned.png) Poisoned
 
-This happens when too many poison potions have been applied. A yellow cross means you should apply one Greater Heal potion. If it's red, apply two.
+This happens when too many poison potions have been applied. A yellow cross means you should apply one ![](../assets/gumps/plant-heal-potion.png) Greater Heal potion. If it's red, apply two.
 
 ### ![image](../assets/gumps/plant-diseased.png) Diseased
 
-This happens when too many cure potions have been applied. A yellow cross means you should apply one Greater Heal potion. If it's red, apply two.
+This happens when too many cure potions have been applied. A yellow cross means you should apply one ![](../assets/gumps/plant-heal-potion.png) Greater Heal potion. If it's red, apply two.
