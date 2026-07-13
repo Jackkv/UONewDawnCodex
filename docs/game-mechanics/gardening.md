@@ -111,3 +111,64 @@ This happens when too many poison potions have been applied. A yellow cross mean
 ### ![image](../assets/gumps/plant-diseased.png) Diseased
 
 This happens when too many cure potions have been applied. A yellow cross means you should apply one ![](../assets/gumps/plant-heal-potion.png) Greater Heal potion. If it's red, apply two.
+
+### ![image](../assets/gumps/plant-bowl.png) Emptying the bowl
+
+If you empty the bowl while the plant is still in its first growth stage, you'll get the seed back but lose the fertile dirt.
+
+At any later stage, emptying the bowl will cause you to lose both the seed and the fertile dirt.
+
+## ![image](../assets/gumps/plant-reproduction.png) Reproduction
+
+![image](../assets/gumps/plant-reproduction-gump.png)
+
+### ![image](../assets/gumps/reproduction-bowl.png) Bowl icon
+
+This button brings you back to the plant gump.
+
+### ![image](../assets/gumps/reproduction-decorative.png) Decorative
+
+This icon appears only when the plant reaches stage 9 of growth.
+
+Clicking it will convert the plant into a decorative item. Once set to decorative, the plant will no longer produce seeds or resources, and it will no longer require maintenance. At that point, it functions purely as decoration.
+
+### ![image](../assets/gumps/reproduction-pollination-1.png) Pollination
+
+This icon displays the pollination state.
+
+   - A yellow dash means the plant isn't producing pollen yet.
+   - A red cross means the plant can't produce pollen at all and cannot be cross‑pollinated.
+   - A red exclamation mark means pollen is available.
+   - A green cross means the plant has already been pollinated.
+
+#### ![image](../assets/gumps/reproduction-pollination-2.png) Cross pollination
+
+Click this icon to select another plant and perform cross‑pollination.
+
+### ![image](../assets/gumps/reproduction-petals-1.png) Resources production
+
+This icon shows the state of Resources production.
+
+- A red cross means the plant produces no resources.
+- A plant can produce up to eight resources in total.
+- The number on the left shows how many resources are currently on the plant.
+- The number on the right shows the current maximum, when harvested both number will decrease.
+- When the right number reaches zero, the plant has produced all of its resources and won't generate any more.
+
+#### ![Image](../assets/gumps/reproduction-petals-2.png) Harvest resources
+
+Click this icon to harvester the resources.
+
+### ![image](../assets/gumps/reproduction-seed-1.png) Seed production
+
+This icon shows the state of Seed production.
+
+- A red cross means the plant produces no seeds.
+- A plant can produce up to eight seeds in total.
+- The number on the left shows how many seeds are currently on the plant.
+- The number on the right shows the current maximum, when harvested both number will decrease.
+- When the right number reaches zero, the plant has produced all of its seeds and won't generate any more.
+
+#### ![image](../assets/gumps/reproduction-seed-2.png) Harvest seeds
+
+Click this icon to harvester the seeds.
