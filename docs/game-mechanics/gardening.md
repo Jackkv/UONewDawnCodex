@@ -84,7 +84,7 @@ If the Health drops to Wilted or Dying apply two Greater Heal potions.
 
 Applying Greater Strength potions can reduce how often a plant is affected by ailments.
 
-### ![image](../assets/gumps/plant-bowl-water.png) Watering
+### ![image](../assets/gumps/plant-water.png) Watering
 
 If the water icon has no symbol, the plant has the perfect amount of water.
 
@@ -94,18 +94,18 @@ Be careful not to overwater, as it can harm the plant's health.
 
 A yellow cross means the plant has been overwatered once and will need one growth cycle to recover. A red cross means it has been overwatered twice and will need two growth cycles to recover.
 
-### ![image](../assets/gumps/plant-bowl-insect.png) Insect infestation
+### ![image](../assets/gumps/plant-insect.png) Insect infestation
 
 This can happen at random. If a yellow cross appears, apply one Greater Poison potion. If it's red, apply two.
 
-### ![image](../assets/gumps/plant-bowl-fungus.png) Fungus infection
+### ![image](../assets/gumps/plant-fungus.png) Fungus infection
 
 This can happen at random. If a yellow cross appears, apply one Greater Cure potion. If it's red, apply two.
 
-### ![image](../assets/gumps/plant-bowl-poisoned.png) Poisoned
+### ![image](../assets/gumps/plant-poisoned.png) Poisoned
 
 This happens when too many poison potions have been applied. A yellow cross means you should apply one Greater Heal potion. If it's red, apply two.
 
-### ![image](../assets/gumps/plant-bowl-diseased.png) Diseased
+### ![image](../assets/gumps/plant-diseased.png) Diseased
 
 This happens when too many cure potions have been applied. A yellow cross means you should apply one Greater Heal potion. If it's red, apply two.
