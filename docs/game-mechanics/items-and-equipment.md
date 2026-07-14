@@ -63,9 +63,11 @@ Check out the [Slayers page](./slayers.md) to learn more.
 
 ## Starting items
 
-Depending on which skills you choose during character creation you will received different items. Even 0.1 on a skill will grant you these items.
+Depending on which skills you choose during character creation you will receive different items. Even 1 point on a skill will grant you these items.
 
 Clothes, Weapons, Instruments and Tools are always Newbied, which means you will not lose them upon death (If you are not a Murderer).
+
+You will always receive a Newbied Dagger and Candle.
 
 |        Skill        |                         Items Received                          |
 |:-------------------:|:---------------------------------------------------------------:|
@@ -463,4 +465,3 @@ Gathered with [Mining](../skills/resource-gathering/mining.md).
 |  90   |     ![icon](../assets/items/agapite-ingots.png)<br>Agapite     | 4.2%  |
 |  95   |      ![icon](../assets/items/verite-ingots.png)<br>Verite      | 2.8%  |
 |  99   |    ![icon](../assets/items/valorite-ingots.png)<br>Valorite    | 1.4%  |
-
