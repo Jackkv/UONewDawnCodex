@@ -33,9 +33,7 @@ Train from Mage NPCs to reach around 50.
 
 Evaluating Intelligence can be used on a 1 second cooldown, it doesn't have difficulty checks.
 
-You can train by using it on players, monsters, and animals until you reach 100. It also increases when casting offensive spells and provides INT gains.
-
-You also gain by casting any spell.
+You can train by using it on players, monsters, and animals until you reach 100. You also gain by casting any spell.
 
 While training this skill you can also gain Intelligence and Dexterity.
 
