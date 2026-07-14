@@ -1,3 +1,39 @@
+<style>
+
+/* Cross color table */
+
+.cross-color table {
+    border-collapse: separate !important;
+    margin: 1px 0 !important;
+}
+
+.cross-color table th,
+.cross-color table td {
+    border: 1px solid var(--nd-border) !important;
+    min-width: 105px !important;
+    padding: 0.5em !important;
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+/* cross-pollination table */
+
+.cross-pollination table {
+    border-collapse: separate !important;
+    margin: 1px 0 !important;
+}
+
+.cross-pollination table th,
+.cross-pollination table td {
+    border: 1px solid var(--nd-border) !important;
+    min-width: 0px !important;
+    padding: 0.5em !important;
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+</style>
+
 # Gardening
 
 The Gardening system lets you grow and cross-pollinate a wide variety of decorative plants. Seeds are planted in pots, cared for over several days, and bred with other plants to unlock new varieties and color combinations. All fully grown plants are purely decorative, they exist to beautify your home and nothing more.
@@ -347,3 +383,199 @@ This icon shows the state of Seed production.
 #### ![image](../assets/gumps/reproduction-seed-2.png) Harvest seeds
 
 Click this icon to harvester the seeds.
+
+## Cross pollination
+
+Every plant in the grid can be cross‑pollinated based on its position.
+
+To find the result of a crossing, look at the two parent plants in the grid and find the plant that sits exactly halfway between them. That middle plant is the offspring. Halfway can be horizontal, vertical, or diagonal, as long as the middle plant is centered between the two parents.
+
+That's why Poppies + Bulrushes and Campion Flowers + Lilies both result in Snowdrops, which is the midpoint between each pair.
+
+If the two parent plants have an even number of squares between them, there are two plants in the middle. The result has a 50/50 chance of being either of those two middle plants.
+
+So Campion Flowers + Bulrushes sits halfway between Poppies and Snowdrops, giving a 50/50 chance of either one.
+
+<div class="cross-pollination">
+<table>
+  <tr>
+    <td><img src="/assets/items/campion-flowers.png"><br>Campion Flowers</td>
+    <td><img src="/assets/items/poppies.png"><br>Poppies</td>
+    <td><img src="/assets/items/snowdrops.png"><br>Snowdrops</td>
+    <td><img src="/assets/items/bulrushes.png"><br>Bulrushes</td>
+    <td><img src="/assets/items/lilies.png"><br>Lilies</td>
+    <td><img src="/assets/items/pampas-grass.png"><br>Pampas Grass</td>
+    <td><img src="/assets/items/rushes.png"><br>Rushes</td>
+    <td><img src="/assets/items/elephant-ear-plant.png"><br>Elephant Ear Plant</td>
+    <td><img src="/assets/items/fern.png"><br>Fern</td>
+  </tr>
+  <tr>
+    <td><img src="/assets/items/poppies.png"><br>Poppies</td>
+    <td><img src="/assets/items/snowdrops.png"><br>Snowdrops</td>
+    <td><img src="/assets/items/bulrushes.png"><br>Bulrushes</td>
+    <td><img src="/assets/items/lilies.png"><br>Lilies</td>
+    <td><img src="/assets/items/pampas-grass.png"><br>Pampas Grass</td>
+    <td><img src="/assets/items/rushes.png"><br>Rushes</td>
+    <td><img src="/assets/items/elephant-ear-plant.png"><br>Elephant Ear Plant</td>
+    <td><img src="/assets/items/fern.png"><br>Fern</td>
+    <td><img src="/assets/items/ponytail-palm.png"><br>Ponytail Palm</td>
+  </tr>
+  <tr>
+    <td><img src="/assets/items/snowdrops.png"><br>Snowdrops</td>
+    <td><img src="/assets/items/bulrushes.png"><br>Bulrushes</td>
+    <td><img src="/assets/items/lilies.png"><br>Lilies</td>
+    <td><img src="/assets/items/pampas-grass.png"><br>Pampas Grass</td>
+    <td><img src="/assets/items/rushes.png"><br>Rushes</td>
+    <td><img src="/assets/items/elephant-ear-plant.png"><br>Elephant Ear Plant</td>
+    <td><img src="/assets/items/fern.png"><br>Fern</td>
+    <td><img src="/assets/items/ponytail-palm.png"><br>Ponytail Palm</td>
+    <td><img src="/assets/items/small-palm.png"><br>Small Palm</td>
+  </tr>
+  <tr>
+    <td><img src="/assets/items/bulrushes.png"><br>Bulrushes</td>
+    <td><img src="/assets/items/lilies.png"><br>Lilies</td>
+    <td><img src="/assets/items/pampas-grass.png"><br>Pampas Grass</td>
+    <td><img src="/assets/items/rushes.png"><br>Rushes</td>
+    <td><img src="/assets/items/elephant-ear-plant.png"><br>Elephant Ear Plant</td>
+    <td><img src="/assets/items/fern.png"><br>Fern</td>
+    <td><img src="/assets/items/ponytail-palm.png"><br>Ponytail Palm</td>
+    <td><img src="/assets/items/small-palm.png"><br>Small Palm</td>
+    <td><img src="/assets/items/century-plant.png"><br>Century Plant</td>
+  </tr>
+  <tr>
+    <td><img src="/assets/items/lilies.png"><br>Lilies</td>
+    <td><img src="/assets/items/pampas-grass.png"><br>Pampas Grass</td>
+    <td><img src="/assets/items/rushes.png"><br>Rushes</td>
+    <td><img src="/assets/items/elephant-ear-plant.png"><br>Elephant Ear Plant</td>
+    <td><img src="/assets/items/fern.png"><br>Fern</td>
+    <td><img src="/assets/items/ponytail-palm.png"><br>Ponytail Palm</td>
+    <td><img src="/assets/items/small-palm.png"><br>Small Palm</td>
+    <td><img src="/assets/items/century-plant.png"><br>Century Plant</td>
+    <td><img src="/assets/items/water-plant.png"><br>Water Plant</td>
+  </tr>
+  <tr>
+    <td><img src="/assets/items/pampas-grass.png"><br>Pampas Grass</td>
+    <td><img src="/assets/items/rushes.png"><br>Rushes</td>
+    <td><img src="/assets/items/elephant-ear-plant.png"><br>Elephant Ear Plant</td>
+    <td><img src="/assets/items/fern.png"><br>Fern</td>
+    <td><img src="/assets/items/ponytail-palm.png"><br>Ponytail Palm</td>
+    <td><img src="/assets/items/small-palm.png"><br>Small Palm</td>
+    <td><img src="/assets/items/century-plant.png"><br>Century Plant</td>
+    <td><img src="/assets/items/water-plant.png"><br>Water Plant</td>
+    <td><img src="/assets/items/snake-plant.png"><br>Snake Plant</td>
+  </tr>
+  <tr>
+    <td><img src="/assets/items/rushes.png"><br>Rushes</td>
+    <td><img src="/assets/items/elephant-ear-plant.png"><br>Elephant Ear Plant</td>
+    <td><img src="/assets/items/fern.png"><br>Fern</td>
+    <td><img src="/assets/items/ponytail-palm.png"><br>Ponytail Palm</td>
+    <td><img src="/assets/items/small-palm.png"><br>Small Palm</td>
+    <td><img src="/assets/items/century-plant.png"><br>Century Plant</td>
+    <td><img src="/assets/items/water-plant.png"><br>Water Plant</td>
+    <td><img src="/assets/items/snake-plant.png"><br>Snake Plant</td>
+    <td><img src="/assets/items/prickly-pear-cactus.png"><br>Prickly Pear Cactus</td>
+  </tr>
+  <tr>
+    <td><img src="/assets/items/elephant-ear-plant.png"><br>Elephant Ear Plant</td>
+    <td><img src="/assets/items/fern.png"><br>Fern</td>
+    <td><img src="/assets/items/ponytail-palm.png"><br>Ponytail Palm</td>
+    <td><img src="/assets/items/small-palm.png"><br>Small Palm</td>
+    <td><img src="/assets/items/century-plant.png"><br>Century Plant</td>
+    <td><img src="/assets/items/water-plant.png"><br>Water Plant</td>
+    <td><img src="/assets/items/snake-plant.png"><br>Snake Plant</td>
+    <td><img src="/assets/items/prickly-pear-cactus.png"><br>Prickly Pear Cactus</td>
+    <td><img src="/assets/items/barrel-cactus.png"><br>Barrel Cactus</td>
+  </tr>
+  <tr>
+    <td><img src="/assets/items/fern.png"><br>Fern</td>
+    <td><img src="/assets/items/ponytail-palm.png"><br>Ponytail Palm</td>
+    <td><img src="/assets/items/small-palm.png"><br>Small Palm</td>
+    <td><img src="/assets/items/century-plant.png"><br>Century Plant</td>
+    <td><img src="/assets/items/water-plant.png"><br>Water Plant</td>
+    <td><img src="/assets/items/snake-plant.png"><br>Snake Plant</td>
+    <td><img src="/assets/items/prickly-pear-cactus.png"><br>Prickly Pear Cactus</td>
+    <td><img src="/assets/items/barrel-cactus.png"><br>Barrel Cactus</td>
+    <td><img src="/assets/items/tribarrel-cactus.png"><br>Tribarrel Cactus</td>
+  </tr>
+</table>
+</div>
+
+### Cross colors
+
+This table shows how to cross-pollinate colors.
+
+Pick a color from the left column, pick another color from the top row, then look at the cell where the two meet, that intersection shows the color you get when you cross-pollinate.
+
+<div class="cross-color">
+<table>
+<tr>
+<th></th>
+<th><img src="/assets/items/seed-red.png"><br>Red</th>
+<th><img src="/assets/items/seed-blue.png"><br>Blue</th>
+<th><img src="/assets/items/seed-yellow.png"><br>Yellow</th>
+<th><img src="/assets/items/seed-purple.png"><br>Purple</th>
+<th><img src="/assets/items/seed-green.png"><br>Green</th>
+<th><img src="/assets/items/seed-orange.png"><br>Orange</th>
+</tr>
+
+<tr>
+<th><img src="/assets/items/seed-red.png"><br>Red</th>
+<td><img src="/assets/items/seed-bright-red.png"><br>Bright Red</td>
+<td><img src="/assets/items/seed-purple.png"><br>Purple</td>
+<td><img src="/assets/items/seed-orange.png"><br>Orange</td>
+<td><img src="/assets/items/seed-red.png"><br>Red</td>
+<td><img src="/assets/items/seed-red.png"><br>Red</td>
+<td><img src="/assets/items/seed-red.png"><br>Red</td>
+</tr>
+
+<tr>
+<th><img src="/assets/items/seed-blue.png"><br>Blue</th>
+<td><img src="/assets/items/seed-purple.png"><br>Purple</td>
+<td><img src="/assets/items/seed-bright-blue.png"><br>Bright Blue</td>
+<td><img src="/assets/items/seed-green.png"><br>Green</td>
+<td><img src="/assets/items/seed-blue.png"><br>Blue</td>
+<td><img src="/assets/items/seed-blue.png"><br>Blue</td>
+<td><img src="/assets/items/seed-blue.png"><br>Blue</td>
+</tr>
+
+<tr>
+<th><img src="/assets/items/seed-yellow.png"><br>Yellow</th>
+<td><img src="/assets/items/seed-orange.png"><br>Orange</td>
+<td><img src="/assets/items/seed-green.png"><br>Green</td>
+<td><img src="/assets/items/seed-bright-yellow.png"><br>Bright Yellow</td>
+<td><img src="/assets/items/seed-yellow.png"><br>Yellow</td>
+<td><img src="/assets/items/seed-yellow.png"><br>Yellow</td>
+<td><img src="/assets/items/seed-yellow.png"><br>Yellow</td>
+</tr>
+
+<tr>
+<th><img src="/assets/items/seed-purple.png"><br>Purple</th>
+<td><img src="/assets/items/seed-red.png"><br>Red</td>
+<td><img src="/assets/items/seed-blue.png"><br>Blue</td>
+<td><img src="/assets/items/seed-yellow.png"><br>Yellow</td>
+<td><img src="/assets/items/seed-bright-purple.png"><br>Bright Purple</td>
+<td><img src="/assets/items/seed-blue.png"><br>Blue</td>
+<td><img src="/assets/items/seed-red.png"><br>Red</td>
+</tr>
+
+<tr>
+<th><img src="/assets/items/seed-green.png"><br>Green</th>
+<td><img src="/assets/items/seed-red.png"><br>Red</td>
+<td><img src="/assets/items/seed-blue.png"><br>Blue</td>
+<td><img src="/assets/items/seed-yellow.png"><br>Yellow</td>
+<td><img src="/assets/items/seed-blue.png"><br>Blue</td>
+<td><img src="/assets/items/seed-bright-green.png"><br>Bright Green</td>
+<td><img src="/assets/items/seed-yellow.png"><br>Yellow</td>
+</tr>
+
+<tr>
+<th><img src="/assets/items/seed-orange.png"><br>Orange</th>
+<td><img src="/assets/items/seed-red.png"><br>Red</td>
+<td><img src="/assets/items/seed-blue.png"><br>Blue</td>
+<td><img src="/assets/items/seed-yellow.png"><br>Yellow</td>
+<td><img src="/assets/items/seed-red.png"><br>Red</td>
+<td><img src="/assets/items/seed-yellow.png"><br>Yellow</td>
+<td><img src="/assets/items/seed-bright-orange.png"><br>Bright Orange</td>
+</tr>
+</table>
+</div>
