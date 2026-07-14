@@ -303,9 +303,9 @@ If the water icon has no symbol, the plant has the perfect amount of water.
 
 A yellow dash means you should water it once. A red dash means you should water it twice.
 
-Be careful not to overwater, as it can harm the plant's health.
+Be careful not to over-water, as it can harm the plant's health.
 
-A yellow cross means the plant has been overwatered once and will need one growth cycle to recover. A red cross means it has been overwatered twice and will need two growth cycles to recover.
+A yellow cross means the plant has been over-watered once and will need one growth cycle to recover. A red cross means it has been over-watered twice and will need two growth cycles to recover.
 
 ### ![image](../assets/gumps/plant-insect.png) Insect infestation
 
