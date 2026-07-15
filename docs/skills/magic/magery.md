@@ -202,6 +202,8 @@ You can train Magery, Evaluating Intelligence and Meditation at the same time.
 
 While training this skill you can also gain Intelligence and Dexterity.
 
+While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/stats.md) page to learn more.
+
 ## Related skills
 
 - [Evaluating Intelligence](evaluating-intelligence.md)

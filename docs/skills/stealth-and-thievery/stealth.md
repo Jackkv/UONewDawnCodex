@@ -61,6 +61,8 @@ Stealth can be used on a 10 seconds cooldown, wear the right amount of armor rat
 
 While training this skill you can also gain Dexterity and Intelligence.
 
+While training this skill you can also gain Dexterity (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/stats.md) page to learn more.
+
 ## Related skills
 
 - [Hiding](hiding.md)

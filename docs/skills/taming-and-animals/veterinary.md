@@ -20,6 +20,8 @@ Have two horses fight each other while healing them with bandages until reaching
 
 While training this skill you can also gain Intelligence and Dexterity.
 
+While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/stats.md) page to learn more.
+
 ## Related skills
 
 - [Animal Taming](animal-taming.md)

@@ -165,6 +165,8 @@ Training Blacksmithy can be really expensive, consider Mining to fund the traini
 
 While training this skill you can also gain Strength and Dexterity.
 
+While training this skill you can also gain Strength (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/stats.md) page to learn more.
+
 ## Related skills
 
 - [Mining](../resource-gathering/mining.md)

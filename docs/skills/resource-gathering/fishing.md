@@ -165,6 +165,8 @@ Consider keeping the fish to also train cooking.
 
 While training this skill you can also gain Dexterity and Strength.
 
+While training this skill you can also gain Dexterity (primary) and Strength (secondary). Visit the [stats](../../game-mechanics/stats.md) page to learn more.
+
 ## Related skills
 
 - [Cooking](../crafting/cooking.md)

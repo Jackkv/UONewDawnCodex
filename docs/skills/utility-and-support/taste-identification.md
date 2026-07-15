@@ -16,6 +16,8 @@ Repeatedly Taste ID the same potion until reaching 100.
 
 While training this skill you can also gain Intelligence and Dexterity.
 
+While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/stats.md) page to learn more.
+
 ## Related skills
 
 - [Poisoning](../combat/poisoning.md)

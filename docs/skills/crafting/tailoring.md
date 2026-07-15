@@ -302,4 +302,4 @@ Consider cutting what you craft to recoup some of the materials.
 | 74.6 - 99.5 | Oil Cloth       |
 | 99.5 - 100  | Studded Gorget  |
 
-While training this skill you can also gain Dexterity and Intelligence.
+While training this skill you can also gain Dexterity (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/stats.md) page to learn more.

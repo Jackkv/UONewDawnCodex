@@ -18,4 +18,4 @@ Train from Animal trainer NPCs to reach around 50.
 
 Trap a bull inside a building and repeatedly herd it until reaching 100.
 
-While training this skill you can also gain Dexterity and Intelligence.
+While training this skill you can also gain Dexterity (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/stats.md) page to learn more.
