@@ -52,7 +52,7 @@ Secondary‑colored plants and bright variants can only be created through cross
 
 There is also a chance to get a black or white mutation when cross‑pollinating two plants of different colors.
 
-Jump to [cross‑pollination](#cross-pollination) to lear more.
+Jump to [cross‑pollination](#cross-pollination) to learn more.
 
 === "Primary colors"
 
@@ -293,7 +293,7 @@ The icons on the right let you add water or potions to remedy the ailments.
 
 The bottom center displays the plant's Health, which has four stages: Vibrant, Healthy, Wilted, and Dying.
 
-If the Health drops to Wilted or Dying apply two Greater Heal potions.
+If the Health drops to Wilted or Dying apply two ![](../assets/gumps/plant-heal-potion.png) Greater Heal potions.
 
 Applying ![](../assets/gumps/plant-strength-potion.png) Greater Strength potions can reduce how often a plant is affected by ailments.
 
