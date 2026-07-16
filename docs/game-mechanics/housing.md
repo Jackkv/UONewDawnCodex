@@ -115,6 +115,8 @@ You can click the house for a detailed view.
     |              [![icon](../assets/housing/custom/wood-framed-stone-manor-icon.png)<br>Wood Framed Stone Manor](#wood-framed-stone-manor)               | 23x22 |   15    |    390    |  650,000  |
     |                   [![icon](../assets/housing/custom/large-stone-compound-icon.png)<br>Large Stone Compound](#large-stone-compound)                   | 13x14 |    9    |    285    |  680,000  |
     |        [![icon](../assets/housing/custom/wood-frame-manor-with-tower-icon.png)<br>Wood Frame Manor with Tower](#wood-frame-manor-with-tower)         | 23x22 |   17    |    400    |  690,000  |
+    |    [![icon](../assets/housing/custom/brown-keep-with-rear-fenced-cy-icon.png)<br>Brown keep with rear fenced CY](#brown-keep-with-rear-fenced-cy)    | 24x24 |   25    |    550    |  898,000  |
+    |       [![icon](../assets/housing/custom/gray-keep-with-rear-CY-east-icon.png)<br>Gray keep with rear CY (East)](#gray-keep-with-rear-cy-east)        | 25x25 |   25    |    550    |  898,000  |
     |              [![icon](../assets/housing/custom/large-castle-with-fence-icon.png)<br>Large Castle with Fence](#large-castle-with-fence)               | 31x32 |   29    |    775    | 1,150,000 |
     |                         [![icon](../assets/housing/custom/sandstone-temple-icon.png)<br>Sandstone Temple](#sandstone-temple)                         | 31x32 |   29    |    775    | 1,150,000 |
 
@@ -884,6 +886,34 @@ You can click the house for a detailed view.
 === "2nd floor"
 
     ![image](../assets/housing/custom/wood-frame-manor-with-tower-2.png){ .on-glb }
+
+### Brown keep with rear fenced CY
+
+=== "Outside"
+
+    ![image](../assets/housing/custom/brown-keep-with-rear-fenced-cy.png){ .on-glb }
+
+=== "1st floor"
+
+    ![image](../assets/housing/custom/brown-keep-with-rear-fenced-cy-1.png){ .on-glb }
+
+=== "2nd floor"
+
+    ![image](../assets/housing/custom/brown-keep-with-rear-fenced-cy-2.png){ .on-glb }
+
+### Gray keep with rear CY (East)
+
+=== "Outside"
+
+    ![image](../assets/housing/custom/gray-keep-with-rear-CY-east.png){ .on-glb }
+
+=== "1st floor"
+
+    ![image](../assets/housing/custom/gray-keep-with-rear-CY-east-1.png){ .on-glb }
+
+=== "2nd floor"
+
+    ![image](../assets/housing/custom/gray-keep-with-rear-CY-east-2.png){ .on-glb }
 
 ### Large Castle with Fence
 
