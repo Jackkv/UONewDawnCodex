@@ -1,169 +1,75 @@
 # Currencies & Rewards
 
-New Dawn features multiple currency systems that allow players to earn rewards through various activities. These currencies can be spent at reward vendors for exclusive items, decorations, and power-ups.
+New Dawn features multiple currency systems that allow players to earn rewards through various activities. These currencies can be spent at reward vendors for aesthetic rewards.
 
-## Currency Types
+Currencies apply only to the account of the character who earned them, not to all three accounts.
 
-### Champion Tokens
+## Dawn Event Center
 
-**Source:** Champion Spawns
+The Dawn Event Center can be accessed through the green moongate near the Ocllo bank, or by using any public moongate and selecting the upper right option.
 
-Champion Tokens are earned by participating in and completing champion spawns throughout Britannia.
+Inside, you'll find all the NPCs who handle currency exchanges and showcase the available rewards.
 
-**How to Earn:**
+You can also find the area where to sign up for Duels, CTF, and Conquest.
 
-- Deal damage to champion spawn creatures
-- Defeat the champion boss
-- Tokens awarded based on participation
-- All champion spawns award tokens
+## Rift Shards
 
-**Uses:**
+Rift Shards are a currency earned through Codex Rift activities.
 
-- Purchase rewards at Champion Token vendor in Dawn
-- Exclusive decorative items
-- Special equipment
-- Rare dyes and customization items
+Rift Spawns are enhanced versions of normal monsters that can appear in place of regular creatures.
 
-### Harrower Shards
+Defeating one may open a Rift Gate, giving players access to the Rift, which is a shared instance with other players.
 
-**Source:** The Harrower
+Once inside, you have sixty minutes to fight through champion spawns and their bosses. Any monster in the Rift has a small chance to drop Rift Shards, while bosses will always award them as long as you contributed enough damage.
 
-Harrower Shards are premium currency earned from the most challenging PvM content.
+Each champion spawn progresses through three tiers, and completing all three will summon the boss.
 
-**How to Earn:**
+For more information visit the [Codex Rift](../custom-systems/codex-rifts.md) page.
 
-- Collect 6 champion skulls
-- Create Harrower scroll (Patch 0.36)
-- Summon and defeat the Harrower
-- Shards awarded based on damage contribution
+## Doubloons
 
-**Uses:**
+Doubloons are a currency earned by completing Pirate Adventures.
 
-- Purchase exclusive rewards at Harrower vendor in Dawn
-- Rarest decoratives
-- Most powerful items
-- Ultra-rare dyes
-- Prestigious rewards
+To begin one, players must first obtain a pirate map, which can drop from Ancient Sea Serpents or appear inside Strongboxes recovered from Enraged Krakens.
 
-**Harrower Scroll System:**
+Once a map is found, it must be cleaned with a Bottle of Vinegar by a Cartographer before it becomes usable.
 
-- Place all 6 skulls on platform braziers
-- Receive a scroll to summon Harrower later
-- Optional: Create 1-hour temp guild region
-- Allies/guild members appear normal, others orange and attackable
+After the map is restored, double‑clicking it will open a gate that leads directly into the adventure instance. Inside, players have sixty minutes to clear the map and defeat its boss.
 
-### Pirate Currency
+Defeating the boss will award Doubloons.
 
-**Source:** Pirate Map Instances
+For more information visit the [Pirate Adventures](../custom-systems/pirate-adventures.md) page.
 
-Earn pirate-specific currency by completing pirate adventures.
+## Champion Tokens
 
-**How to Earn:**
+Champion Tokens are a currency earned by defeating Champion bosses.
 
-- Complete pirate map instances
-- Defeat pirate bosses
-- Amount scales with map tier
-- Red < Blue < Purple tiers
+Champion altars can be found inside specific dungeons, and approaching one has a chance to activate it. if it doesn’t, players can use the Valor virtue to force activation.
 
-**Uses:**
+Once the altar is active, the first wave of monsters begins. Each champion spawn progresses through four tiers, and clearing all four will summon the champion boss.
 
-- Special pirate-themed items
-- Naval decorations
-- Unique equipment
-- Cosmetic rewards
+Defeating the boss will award Champion Tokens.
 
-### Rift Shards
+## Harrower Tokens
 
-**Source:** Codex Rifts
+Harrower Tokens are a currency earned by defeating Harrowers.
 
-Rift Shards are earned by defeating powerful rift masters.
+The Harrower can only be summoned after all six champion bosses have been defeated and their skulls collected.
 
-**How to Earn:**
+Once the skulls are gathered, they must be placed on their altar on Temple Island.
 
-- Deal damage to rift masters in Codex Rifts
-- Top damager gets the most shards
-- Scaling down based on damage contribution
-- Minimum 1 shard for significant contribution
+Doing so opens a gate that reveals the Harrower's location deep within a dungeon, allowing players to enter and face the final encounter.
 
-**Uses:**
+Defeating the Harrower will award the tokens.
 
-- Codex Rift-themed rewards
-- Historical recreations
-- Special decoratives
+## War Tokens
 
-## Reward Vendors
+War Tokens are a currency earned by participating in the CTF and Conquest PvP systems.
 
-### Location: Dawn (Event Center)
+Players can sign up for either activity inside the Dawn Event Center.
 
-All currency-based reward vendors are located in **Dawn**, the Event Center:
+At the end of each match, every participant receives War Tokens based on their individual points, with the winning team earning a small bonus.
 
-- Travel via Ocllo to Dawn
-- Safe zone - no PvP or harmful acts
-- Multiple vendor types
-- Browse all available rewards
+War Tokens also have a daily cap, limiting how many can be earned each day.
 
-### Vendor Types
-
-**Champion Token Vendor:**
-
-- Accepts Champion Tokens
-- Decorative items
-- Champion-themed rewards
-
-**Harrower Shard Vendor:**
-
-- Accepts Harrower Shards
-- Most exclusive items
-- Rarest decoratives
-- Premium rewards
-
-**Pirate Reward Vendor:**
-
-- Accepts Pirate currency
-- Naval and pirate themes
-- Sea-faring decorations
-- Adventure-themed items
-
-**Rift Reward Vendor:**
-
-- Accepts Rift Shards and Codex Shards
-- Time-displaced items
-- Historical artifacts
-- Rift-themed decorations
-
-### Checking Your Balance
-
-**In [Profile]:**
-
-- All currency counts displayed
-- Check across all characters
-- Account-wide tracking
-- Quick reference
-
-**Game Portal:**
-
-- You can also view your balances on the portal
-
-Check [patch notes](../patches/index.md) for new additions.
-
-## Related Systems
-
-- **Champion Spawns** - Earning Champion Tokens
-- **[Codex Rifts](../custom-systems/codex-rifts.md)** - Rift and Codex Shards
-- **[Pirate Adventures](../custom-systems/pirate-adventures.md)** - Pirate currency
-- **[Achievements](../custom-systems/achievements.md)** - Another reward system
-
-## Patch History
-
-Currency systems introduced and expanded:
-
-- **0.16:** Champion tokens and Harrower shards added
-- **0.16:** Initial reward store concept
-- **0.27:** Rift shards from rift masters, codex shards implemented
-- **0.33:** Reward vendors with initial items added to Dawn
-- **0.33:** Mask dyes, dragon dyes, runebook dyes added
-- **0.33:** Hoods and shrouds added as rewards
-- **0.40:** BOD point system with reward overlap
-- **0.40:** Comprehensive BOD tailoring rewards
-
-For complete history, see the [patch notes](../patches/index.md).
+For more information visit the [Battlegrounds](../custom-systems/battlegrounds.md) page.
