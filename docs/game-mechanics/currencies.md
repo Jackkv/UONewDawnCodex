@@ -14,6 +14,8 @@ You can also find the area where to sign up for Duels, CTF, and Conquest.
 
 ## Rift Shards
 
+![image](../assets/screenshots/dawn-rift-npc.png)
+
 Rift Shards are a currency earned through Codex Rift activities.
 
 Rift Spawns are enhanced versions of normal monsters that can appear in place of regular creatures.
@@ -27,6 +29,8 @@ Each champion spawn progresses through three tiers, and completing all three wil
 For more information visit the [Codex Rift](../custom-systems/codex-rifts.md) page.
 
 ## Doubloons
+
+![image](../assets/screenshots/dawn-doubloons-npc.png)
 
 Doubloons are a currency earned by completing Pirate Adventures.
 
@@ -42,6 +46,8 @@ For more information visit the [Pirate Adventures](../custom-systems/pirate-adve
 
 ## Champion Tokens
 
+![image](../assets/screenshots/dawn-champion-npc.png)
+
 Champion Tokens are a currency earned by defeating Champion bosses.
 
 Champion altars can be found inside specific dungeons, and approaching one has a chance to activate it. if it doesn’t, players can use the Valor virtue to force activation.
@@ -51,6 +57,8 @@ Once the altar is active, the first wave of monsters begins. Each champion spawn
 Defeating the boss will award Champion Tokens.
 
 ## Harrower Tokens
+
+![image](../assets/screenshots/dawn-harrower-npc.png)
 
 Harrower Tokens are a currency earned by defeating Harrowers.
 
@@ -63,6 +71,8 @@ Doing so opens a gate that reveals the Harrower's location deep within a dungeon
 Defeating the Harrower will award the tokens.
 
 ## War Tokens
+
+![image](../assets/screenshots/dawn-war-npc.png)
 
 War Tokens are a currency earned by participating in the CTF and Conquest PvP systems.
 
