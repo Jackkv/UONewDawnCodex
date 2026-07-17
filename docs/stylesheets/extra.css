@@ -376,6 +376,22 @@ h6 ~ p img {
   vertical-align: middle;
 }
 
+/* Custom class to center images PR #70 */
+
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Custom class to align images to the right PR #70 */
+
+.right-img {
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+}
+
 /* ─────────────────────────────────────────────────────
    RPG Scroll block  —  use in markdown as:
    <div class="rpg-scroll" markdown="1">
