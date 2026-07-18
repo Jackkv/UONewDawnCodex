@@ -14,7 +14,7 @@ You can also find the area where to sign up for Duels, CTF, and Conquest.
 
 ## Rift Shards
 
-![image](../assets/screenshots/dawn-rift-npc.png)
+![image](../assets/screenshots/dawn-rift-npc.png){ .center-img }
 
 Rift Shards are a currency earned through Codex Rift activities.
 
@@ -30,7 +30,7 @@ For more information visit the [Codex Rift](../custom-systems/codex-rifts.md) pa
 
 ## Doubloons
 
-![image](../assets/screenshots/dawn-doubloons-npc.png)
+![image](../assets/screenshots/dawn-doubloons-npc.png){ .center-img }
 
 Doubloons are a currency earned by completing Pirate Adventures.
 
@@ -46,7 +46,7 @@ For more information visit the [Pirate Adventures](../custom-systems/pirate-adve
 
 ## Champion Tokens
 
-![image](../assets/screenshots/dawn-champion-npc.png)
+![image](../assets/screenshots/dawn-champion-npc.png){ .center-img }
 
 Champion Tokens are a currency earned by defeating Champion bosses.
 
@@ -58,7 +58,7 @@ Defeating the boss will award Champion Tokens.
 
 ## Harrower Tokens
 
-![image](../assets/screenshots/dawn-harrower-npc.png)
+![image](../assets/screenshots/dawn-harrower-npc.png){ .center-img }
 
 Harrower Tokens are a currency earned by defeating Harrowers.
 
@@ -72,7 +72,7 @@ Defeating the Harrower will award the tokens.
 
 ## War Tokens
 
-![image](../assets/screenshots/dawn-war-npc.png)
+![image](../assets/screenshots/dawn-war-npc.png){ .center-img }
 
 War Tokens are a currency earned by participating in the CTF and Conquest PvP systems.
 
