@@ -35,18 +35,12 @@ This list outlines every slayer and the specific monsters that take increased da
 === "Repond (Super - All Humanoids)"
 
     ???+ note "Click to collapse"
+
         - Arctic Ogre Lord
-        - Base Pirate
-        - Cave Troll
-        - Cyclops
-        - Ettin
+        - Cyclopean Warrior
         - Evil Mage
         - Evil Mage Lord
-        - Frost Troll
-        - Meer Captain
-        - Meer Eternal
-        - Meer Mage
-        - Meer Warrior
+        - Ettin
         - Mountain Troll
         - Ogre
         - Ogre Lord
@@ -54,22 +48,20 @@ This list outlines every slayer and the specific monsters that take increased da
         - Orc Bomber
         - Orc Brute
         - Orc Captain
-        - Orc Chopper
         - Orcish Lord
         - Orcish Mage
-        - Orc Scout
         - Ratman
         - Ratman Archer
-        - Ratman Mage
         - Savage
         - Savage Rider
-        - Savage Shaman
+        - Shaman
         - Titan
         - Troll
 
 === "Ogre Thrashing"
 
     ???+ note "Click to collapse"
+
         - Arctic Ogre Lord
         - Ogre
         - Ogre Lord
@@ -77,18 +69,19 @@ This list outlines every slayer and the specific monsters that take increased da
 === "Orc Slaying"
 
     ???+ note "Click to collapse"
+
         - Orc
+        - Orc Bomber
         - Orc Bomber
         - Orc Brute
         - Orc Captain
-        - Orc Chopper
-        - Orcish Lord
+        - Ophidian Lord
         - Orcish Mage
-        - Orc Scout
 
 === "Troll Slaughter"
 
     ???+ note "Click to collapse"
+
         - Frost Troll
         - Troll
 
@@ -97,55 +90,41 @@ This list outlines every slayer and the specific monsters that take increased da
 === "Silver"
 
     ???+ note "Click to collapse"
-        - Ancient Lich
-        - Bogle
+
         - Bone Knight
         - Bone Mage
-        - Darknight Creeper
-        - Flesh Golem
         - Ghoul
-        - Gore Fiend
-        - Hell Steed
-        - Lady Of The Snow
         - Lich
         - Lich Lord
         - Mummy
-        - Pestilent Bandage
-        - Revenant
-        - Revenant Lion
         - Rotting Corpse
         - Shade
-        - Shadow Knight
+        - Skeleton
         - Skeletal Knight
         - Skeletal Mage
-        - Skeletal Mount
-        - Skeleton
         - Spectre
-        - Wraith
         - Zombie
+        - Wraith
 
 ### Elemental
 
 === "Elemental Ban"
 
     ???+ note "Click to collapse"
+
         - Acid Elemental
         - Agapite Elemental
         - Air Elemental
         - Blood Elemental
         - Bronze Elemental
         - Copper Elemental
-        - Crystal Elemental
         - Dull Copper Elemental
-        - Earth Elemental
         - Efreet
+        - Earth Elemental
         - Fire Elemental
         - Golden Elemental
         - Ice Elemental
-        - Kaze Kemono
         - Poison Elemental
-        - Rai Ju
-        - Sand Vortex
         - Shadow Iron Elemental
         - Snow Elemental
         - Summoned Air Elemental
@@ -159,11 +138,14 @@ This list outlines every slayer and the specific monsters that take increased da
 === "Blood Drinking"
 
     ???+ note "Click to collapse"
+
         - Blood Elemental
 
 === "Earth Shatter"
 
     ???+ note "Click to collapse"
+
+        - Acid Elemental
         - Agapite Elemental
         - Bronze Elemental
         - Copper Elemental
@@ -178,84 +160,70 @@ This list outlines every slayer and the specific monsters that take increased da
 === "Elemental Health"
 
     ???+ note "Click to collapse"
+
         - Poison Elemental
 
 === "Flame Dousing"
 
     ???+ note "Click to collapse"
+
         - Fire Elemental
         - Summoned Fire Elemental
 
 === "Summer Wind"
 
     ???+ note "Click to collapse"
+
         - Ice Elemental
         - Snow Elemental
 
 === "Vacuum"
 
     ???+ note "Click to collapse"
+
         - Air Elemental
         - Summoned Air Elemental
 
 === "Water Dissipation"
 
     ???+ note "Click to collapse"
-        - Water Elemental
+
         - Summoned Water Elemental
+        - Water Elemental
 
 ### Abyss
 
 === "Exorcism"
 
     ???+ note "Click to collapse"
-        - Abysmal Horror
-        - Arcane Daemon
+
         - Balron
-        - Bone Demon
-        - Chaos Daemon
         - Daemon
-        - Demon Knight
-        - Devourer
-        - Enslaved Gargoyle
         - Fire Gargoyle
         - Gargoyle
         - Gargoyle Destroyer
         - Gargoyle Enforcer
-        - Gibberling
-        - Horde Minion
         - Ice Fiend
         - Imp
-        - Impaler
-        - Moloch
-        - Ravager
-        - Stone Gargoyle
+        - Semidar
+        - Succubus
         - Summoned Daemon
 
 === "Daemon Dismissal"
 
     ???+ note "Click to collapse"
-        - Abysmal Horror
-        - Arcane Daemon
+
         - Balron
-        - Bone Demon
-        - Chaos Daemon
         - Daemon
-        - Demon Knight
-        - Devourer
-        - Gibberling
-        - Horde Minion
         - Ice Fiend
         - Imp
-        - Impaler
-        - Moloch
-        - Ravager
+        - Semidar
         - Summoned Daemon
 
 === "Gargoyle's Foe"
 
     ???+ note "Click to collapse"
-        - Enslaved Gargoyle
+
         - Fire Gargoyle
         - Gargoyle
         - Gargoyle Destroyer
@@ -265,13 +233,13 @@ This list outlines every slayer and the specific monsters that take increased da
 === "Balron Damnation"
 
     ???+ note "Click to collapse"
-        - Balron
 
 ### Arachnid
 
 === "Arachnid Doom"
 
     ???+ note "Click to collapse"
+
         - Dread Spider
         - Frost Spider
         - Giant Black Widow
@@ -286,23 +254,26 @@ This list outlines every slayer and the specific monsters that take increased da
 === "Scorpion's Bane"
 
     ???+ note "Click to collapse"
+
         - Scorpion
 
 === "Spider's Death"
 
     ???+ note "Click to collapse"
+
         - Dread Spider
         - Frost Spider
-        - Giant Black Wide
+        - Giant Black Widow
         - Giant Spider
         - Mephitis
 
 === "Terathan"
 
     ???+ note "Click to collapse"
+
         - Terathan Avenger
-        - Terathan Matriarch
         - Terathan Drone
+        - Terathan Matriarch
         - Terathan Warrior
 
 ### Reptilian
@@ -310,93 +281,92 @@ This list outlines every slayer and the specific monsters that take increased da
 === "Reptilian Death"
 
     ???+ note "Click to collapse"
-        - Ancient Sea Serpent
+
         - Ancient Wyrm
         - Deep Sea Serpent
         - Dragon
         - Drake
-        - Greater Dragon
-        - Giant Ice Worm
+        - Giant Ice Serpent
         - Giant Serpent
-        - Ice Serpent
         - Ice Snake
-        - Lava Serpent
+        - Lava Nerve
         - Lava Snake
         - Lizardman
-        - Ophidian Archmage
-        - Ophidian Knight
-        - Ophidian Mage
+        - Ophidian Apprentice Mage
+        - Ophidian Avenger
+        - Ophidian Enforcer
+        - Ophidian Justicar
+        - Ophidian Knight-Errant
         - Ophidian Matriarch
+        - Ophidian Shaman
+        - Ophidian Warrior
+        - Ophidian Zealot
         - Ophidian Warrior
         - Sea Serpent
-        - Serado
         - Serpentine Dragon
         - Shadow Wyrm
         - Silver Serpent
-        - Skeletal Dragon
         - Snake
-        - Swamp Dragon
         - White Wyrm
         - Wyvern
 
 === "Dragon Slaying"
 
     ???+ note "Click to collapse"
+
         - Ancient Wyrm
         - Dragon
         - Drake
         - Serpentine Dragon
         - Shadow Wyrm
-        - Skeletal Dragon
         - White Wyrm
         - Wyvern
 
 === "Lizardman Slaughter"
 
     ???+ note "Click to collapse"
+
         - Lizardman
 
 === "Ophidian"
 
     ???+ note "Click to collapse"
+
         - Ophidian Apprentice Mage
-        - An Ophidian Shaman
         - Ophidian Avenger
-        - An Ophidian Knight-errant
         - Ophidian Enforcer
-        - An Ophidian Warrior
         - Ophidian Justicar
-        - An Ophidian Zealot
+        - Ophidian Knight-Errant
         - Ophidian Matriarch
+        - Ophidian Shaman
+        - Ophidian Warrior
+        - Ophidian Zealot
 
 === "Snake's Bane"
 
     ???+ note "Click to collapse"
-        - Ancient Sea Serpent
+
         - Deep Sea Serpent
-        - Giant Ice Worm
+        - Giant Ice Serpent
         - Giant Serpent
-        - Ice Serpent
         - Ice Snake
-        - Lava Serpent
+        - Lava Nerve
         - Lava Snake
         - Sea Serpent
-        - Serado
         - Silver Serpent
         - Snake
-        - Yamandon
 
 ### Fey
 
 === "Fey"
 
     ???+ note "Click to collapse"
+
         - Centaur
         - Ethereal Warrior
-        - Kirin
+        - Ki-rin
         - Lord Oaks
         - Pixie
-        - Satyr
         - Silvani
-        - Treefellow
+        - Unicorn
         - Wisp
