@@ -6,6 +6,8 @@ Currencies apply only to the account of the character who earned them, not to al
 
 ## Dawn Event Center
 
+![image](../assets/screenshots/dawn-event-center.png){ .center-img }
+
 The Dawn Event Center can be accessed through the green moongate near the Ocllo bank, or by using any public moongate and selecting the upper right option.
 
 Inside, you'll find all the NPCs who handle currency exchanges and showcase the available rewards.
