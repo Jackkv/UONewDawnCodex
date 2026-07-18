@@ -68,7 +68,7 @@ You can train Resisting Spells, Magery, Meditation and Healing at the same time.
 
 While training this skill you can also gain Intelligence and Dexterity.
 
-While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/stats.md) page to learn more.
+While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
 ## Related skills
 

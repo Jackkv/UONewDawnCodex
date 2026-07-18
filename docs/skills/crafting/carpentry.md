@@ -180,7 +180,7 @@ Consider Lumberjacking to fund the training.
 
 While training this skill you can also gain Strength and Dexterity.
 
-While training this skill you can also gain Strength (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/stats.md) page to learn more.
+While training this skill you can also gain Strength (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
 ## Related skills
 

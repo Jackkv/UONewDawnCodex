@@ -56,7 +56,7 @@ Have the target equip high amor rating and a weapon they have 0 skill with, hit 
 
 While training this skill you can also gain Dexterity and Strength.
 
-While training this skill you can also gain Dexterity (primary) and Strength (secondary). Visit the [stats](../../game-mechanics/stats.md) page to learn more.
+While training this skill you can also gain Dexterity (primary) and Strength (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
 ## Related skills
 

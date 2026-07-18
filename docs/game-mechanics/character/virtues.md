@@ -1,6 +1,6 @@
 # Virtues
 
-![image](../assets/gumps/virtues.png)
+![image](../../assets/gumps/virtues.png)
 
 Virtues are special powers you unlock by performing specific actions in the world.
 
