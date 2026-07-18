@@ -1,6 +1,12 @@
 # Resources
 
-## Cotton
+Resources are the raw materials players collect throughout the world. Cotton from fields, leather from creatures, wood from trees, and ores from the earth.
+
+## Cotton & Flax
+
+Cotton and flax grow in farms and fields, anyone can harvest them.
+
+Once gathered, they can be spun into thread and woven into cloth using a spinning wheel and loom.
 
 |                             From                             |                           Get                            |
 |:------------------------------------------------------------:|:--------------------------------------------------------:|
