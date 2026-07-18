@@ -142,13 +142,14 @@ nav:
       - Items & Equipment:
         - Items & Equipment: game-mechanics/items-and-equipment.md
         - Slayers: game-mechanics/slayers.md
+      - Character:
+        - Fame & Karma: game-mechanics/character/fame-and-karma.md
+        - Virtues: game-mechanics/character/virtues.md
+        - Stats: game-mechanics/character/stats.md
       - Murder System: game-mechanics/murder-system.md
       - Currencies: game-mechanics/currencies.md
       - Gardening: game-mechanics/gardening.md
       - Housing: game-mechanics/housing.md
-      - Virtues: game-mechanics/virtues.md
-      - Stats: game-mechanics/stats.md
-      - Fame & Karma: game-mechanics/fame-and-karma.md
     - Skills:
       - Bard Skills:
         - Musicianship: skills/bard-skills/musicianship.md
