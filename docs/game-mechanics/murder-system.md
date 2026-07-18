@@ -28,6 +28,8 @@ Long term murder counts only decay while you have less than five. Once you reach
 
 ## The Corrupt Judge & Pardons
 
+![image](../assets/screenshots/dryden-npc.png){ .center-img }
+
 Dryden the Judge has long since abandoned any pretense of impartiality. Rumor places him at The Pirate's Blunder in Buc's Den. A man who asks no questions, provided the coin is right. The nobles of Magincia have been pushing the courts to root out this corruption, and Dryden's prices have risen accordingly.
 
 ### Forged Pardon request
