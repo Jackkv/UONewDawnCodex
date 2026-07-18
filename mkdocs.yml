@@ -140,8 +140,12 @@ nav:
       # - Bestiary: world/bestiary.md
     - Game Mechanics:
       - Items & Equipment:
-        - Items & Equipment: game-mechanics/items-and-equipment.md
-        - Slayers: game-mechanics/slayers.md
+        - Magical properties: game-mechanics/items-and-equipment/magical-properties.md
+        - Starting items: game-mechanics/items-and-equipment/starting-items.md
+        - Slayers: game-mechanics/items-and-equipment/slayers.md
+        - Armor: game-mechanics/items-and-equipment/armor.md
+        - Weapons: game-mechanics/items-and-equipment/weapons.md
+        - Resources: game-mechanics/items-and-equipment/resources.md
       - Character:
         - Fame & Karma: game-mechanics/character/fame-and-karma.md
         - Virtues: game-mechanics/character/virtues.md
