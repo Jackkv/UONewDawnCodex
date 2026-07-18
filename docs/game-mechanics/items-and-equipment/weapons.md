@@ -8,8 +8,8 @@ Weapons are considered being at full durability.
 
 === "One Handed"
 
-    |                            Weapon                             | STR Required |   Damage roll    | Speed | Item HP  |
-    |:-------------------------------------------------------------:|:------------:|:----------------:|:-----:|:--------:|
+    |                              Weapon                              | STR Required |   Damage roll    | Speed | Item HP  |
+    |:----------------------------------------------------------------:|:------------:|:----------------:|:-----:|:--------:|
     | ![icon](../../assets/items/skinning-knife.png)<br>Skinning Knife |      5       |  1d10<br>(1-10)  |  40   | 31 - 40  |
     |        ![icon](../../assets/items/cleaver.png)<br>Cleaver        |      10      | 1d12+1<br>(2-13) |  40   | 31 - 50  |
     |  ![icon](../../assets/items/butcher-knife.png)<br>Butcher Knife  |      5       |  2d7<br>(2-14)   |  40   | 31 - 40  |
@@ -24,8 +24,8 @@ Weapons are considered being at full durability.
 
 === "Two Handed"
 
-    |                              Weapon                               | STR Required |   Damage roll    | Speed | Item HP  |
-    |:-----------------------------------------------------------------:|:------------:|:----------------:|:-----:|:--------:|
+    |                                Weapon                                | STR Required |   Damage roll    | Speed | Item HP  |
+    |:--------------------------------------------------------------------:|:------------:|:----------------:|:-----:|:--------:|
     |          ![icon](../../assets/items/hatchet.png)<br>Hatchet          |      15      | 1d16+1<br>(2-17) |  40   | 31 - 80  |
     | ![icon](../../assets/items/executioner-axe.png)<br>Executioner's Axe |      35      | 3d10+3<br>(6-33) |  37   | 31 - 90  |
     |              ![icon](../../assets/items/axe.png)<br>Axe              |      35      | 3d10+3<br>(6-33) |  37   | 31 - 100 |
@@ -40,8 +40,8 @@ Weapons are considered being at full durability.
 
 === "One Handed"
 
-    |                           Weapon                            | STR Required |    Damage roll     | Speed | Item HP  |
-    |:-----------------------------------------------------------:|:------------:|:------------------:|:-----:|:--------:|
+    |                             Weapon                             | STR Required |    Damage roll     | Speed | Item HP  |
+    |:--------------------------------------------------------------:|:------------:|:------------------:|:-----:|:--------:|
     |    ![icon](../../assets/items/magic-wand.png)<br>Magic Wand    |      0       |   2d3<br>(2 - 6)   |  35   | 31 - 70  |
     | ![icon](../../assets/items/smith-hammer.png)<br>Smith's Hammer |      30      |  6d3<br>(6 - 18)   |  30   | 31 - 60  |
     |          ![icon](../../assets/items/club.png)<br>Club          |      10      | 4d5+4<br>(8 - 24)  |  40   | 31 - 40  |
@@ -53,8 +53,8 @@ Weapons are considered being at full durability.
 
 === "Two Handed"
 
-    |                             Weapon                             | STR Required |    Damage roll     | Speed | Item HP  |
-    |:--------------------------------------------------------------:|:------------:|:------------------:|:-----:|:--------:|
+    |                              Weapon                               | STR Required |    Damage roll     | Speed | Item HP  |
+    |:-----------------------------------------------------------------:|:------------:|:------------------:|:-----:|:--------:|
     | ![icon](../../assets/items/shepard-crook.png)<br>Shepherd's Crook |      10      |  3d4<br>(3 - 12)   |  30   | 31 - 50  |
     |   ![icon](../../assets/items/quarterstaff.png)<br>Quarterstaff    |      30      | 5d5+3<br>(8 - 28)  |  48   | 31 - 60  |
     |  ![icon](../../assets/items/gnarled-staff.png)<br>Gnarled Staff   |      20      | 5d5+5<br>(10 - 30) |  33   | 31 - 50  |
@@ -65,24 +65,24 @@ Weapons are considered being at full durability.
 
 === "One Handed"
 
-    |                      Weapon                      | STR Required |    Damage roll     | Speed | Item HP  |
-    |:------------------------------------------------:|:------------:|:------------------:|:-----:|:--------:|
+    |                       Weapon                        | STR Required |    Damage roll     | Speed | Item HP  |
+    |:---------------------------------------------------:|:------------:|:------------------:|:-----:|:--------:|
     |  ![icon](../../assets/items/dagger.png)<br>Dagger   |      1       |  3d5<br>(3 - 15)   |  55   | 31 - 50  |
     |   ![icon](../../assets/items/kryss.png)<br>Kryss    |      10      | 1d26+2<br>(3 - 28) |  53   | 31 - 90  |
     | ![icon](../../assets/items/warfork.png)<br>War Fork |      35      | 1d29+3<br>(4 - 32) |  45   | 31 - 110 |
 
 === "Two Handed"
 
-    |                         Weapon                          | STR Required |    Damage roll     | Speed | Item HP |
-    |:-------------------------------------------------------:|:------------:|:------------------:|:-----:|:-------:|
+    |                           Weapon                           | STR Required |    Damage roll     | Speed | Item HP |
+    |:----------------------------------------------------------:|:------------:|:------------------:|:-----:|:-------:|
     |   ![icon](../../assets/items/pitchfork.png)<br>Pitchfork   |      15      |  4d4<br>(4 - 16)   |  45   | 31 - 60 |
     | ![icon](../../assets/items/short-spear.png)<br>Short Spear |      15      | 2d15+2<br>(4 - 32) |  50   | 31 - 70 |
     |       ![icon](../../assets/items/spear.png)<br>Spear       |      30      |  2d18<br>(2 - 36)  |  46   | 31 - 80 |
 
 ## Archery
 
-|                            Weapon                             |                     Ammo                     | STR Required |     Damage roll     | Speed | Item HP  |
-|:-------------------------------------------------------------:|:--------------------------------------------:|:------------:|:-------------------:|:-----:|:--------:|
+|                              Weapon                              |                      Ammo                       | STR Required |     Damage roll     | Speed | Item HP  |
+|:----------------------------------------------------------------:|:-----------------------------------------------:|:------------:|:-------------------:|:-----:|:--------:|
 |            ![icon](../../assets/items/bow.png)<br>Bow            | ![icon](../../assets/items/arrow.png)<br>Arrows |      20      |  4d9+5<br>(9 - 41)  |   -   | 31 - 60  |
 |       ![icon](../../assets/items/crossbow.png)<br>Crossbow       |  ![icon](../../assets/items/bolt.png)<br>Bolts  |      30      |  5d8+3<br>(8 - 43)  |   -   | 31 - 80  |
 | ![icon](../../assets/items/heavy-crossbow.png)<br>Heavy Crossbow |  ![icon](../../assets/items/bolt.png)<br>Bolts  |      40      | 5d10+6<br>(11 - 56) |   -   | 31 - 100 |

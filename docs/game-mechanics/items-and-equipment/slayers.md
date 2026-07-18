@@ -7,8 +7,8 @@ Slayers are magical bonuses on weapons and instruments that boost their power ag
 
 ## Slayer Groups at a Glance
 
-| Group     | Super Slayer    | Sub-Slayers                                                                                            | Opposition Group | Drops From                                                                                                                                                                                                                                                                                                                             |
-| --------- | --------------- | ------------------------------------------------------------------------------------------------------ | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Group         | Super Slayer    | Sub-Slayers                                                                                            | Opposition Group | Drops From                                                                                                                                                                                                                                                                                                                             |
+|---------------|-----------------|--------------------------------------------------------------------------------------------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Humanoid**  | Repond          | Ogre Trashing, Orc Slaying, Troll Slaughter                                                            | Undead           | Bone Knight, Lich, Lich Lord, Ancient Lich, Bone Magi, Mummy, Skeletal Mage                                                                                                                                                                                                                                                            |
 | **Undead**    | Silver          | _(none)_                                                                                               | Humanoid         | Arctic OgreLord, Cave Troll, Mountain Troll, Evil Mage Lord, Titan, Pirate Bartender, Pirate Captain, Executioner                                                                                                                                                                                                                      |
 | **Elemental** | Elemental Ban   | Blood Drinking, Earth Shatter, Elemental Health, Flame Dousing, Summer Wind, Vacuum, Water Dissipation | Abyss            | Balron, Daemon, Fire Gargoyle, Gargoyle, Ice Fiend, Imp, Semidar, Stone Gargoyle, Succubus                                                                                                                                                                                                                                             |
@@ -19,10 +19,10 @@ Slayers are magical bonuses on weapons and instruments that boost their power ag
 
 ## The Two Slayer Tiers
 
-| Tier             | Description                                      | Example                  |
-| ---------------- | ------------------------------------------------ | ------------------------ |
-| **Super Slayer** | Hits _every_ creature in the entire group        | `Repond` - all humanoids |
-| *Minor Slayer* | Hits only a specific sub-family within the group | `Orc Slaying` - orcs only |
+| Tier             | Description                                      | Example                   |
+|------------------|--------------------------------------------------|---------------------------|
+| **Super Slayer** | Hits _every_ creature in the entire group        | `Repond` - all humanoids  |
+| *Minor Slayer*   | Hits only a specific sub-family within the group | `Orc Slaying` - orcs only |
 
 A super slayer is always the stronger, broader option. Minor slayers cover a narrower roster.
 
