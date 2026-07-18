@@ -12,7 +12,7 @@ Starting items if you choose this skill in character creation: Gnarled Staff.
 
 ## Magical properties
 
-For a detailed list of all the Magical properties visit the [Items & Equipment](../../game-mechanics/items-and-equipment.md) page.
+For a detailed list visit the [Magical properties](../../game-mechanics/items-and-equipment/magical-properties.md) page.
 
 ## Slayers
 
@@ -20,7 +20,7 @@ Slayers are magical bonuses on weapons and instruments that boost their power ag
 
 Using a slayer against a creature of the opposite type actually weakens your power, making it worse than using a normal weapon or instrument.
 
-For a detailed list of all the Slayers visit the [Items & Equipment](../../game-mechanics/items-and-equipment.md) page.
+For a detailed list visit the [Slayers](../../game-mechanics/items-and-equipment/slayers.md) page.
 
 ## Training
 

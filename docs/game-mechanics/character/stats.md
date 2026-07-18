@@ -26,7 +26,7 @@ Current stamina determines Swing speed.
 
 `(WeaponSpeed * 0.25) - (Your Dex / 30) = Swing speed`
 
-Dexterity also determines how long it takes to apply [bandages](../skills/combat/healing.md#bandages-speed).
+Dexterity also determines how long it takes to apply [bandages](../../skills/combat/healing.md#bandages-speed).
 
 ## Intelligence
 
@@ -44,7 +44,7 @@ The amount of damage you take is based on your stats.
 
 Damage is capped at 40.
 
-[Resisting spells](../skills/combat/resisting-spells.md) blocks 66% of the damage, if resisted.
+[Resisting spells](../../skills/combat/resisting-spells.md) blocks 66% of the damage, if resisted.
 
 ## Gaining stats
 

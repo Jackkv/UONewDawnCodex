@@ -115,7 +115,7 @@ For this template, depending on how often you want to use Magery, these are the 
 - Magery low usage: 47 strength, 12 dexterity, 11 intelligence
 - Magery high usage: 40 Strength, 12 Dexterity, 28 Intelligence
 
-Visit the [Stats page](../game-mechanics/stats.md) for a detailed list of skills and their stat gains.
+Visit the [Stats page](../game-mechanics/character/stats.md) for a detailed list of skills and their stat gains.
 
 ## Leveling up: the Summoner template
 

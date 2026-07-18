@@ -1,6 +1,6 @@
 # Magical properties
 
-[Item Identification](../skills/utility-and-support/item-identification.md) allows you to reveal the magical properties of unidentified items.
+[Item Identification](../../skills/utility-and-support/item-identification.md) allows you to reveal the magical properties of unidentified items.
 
 ## Armor enchantments
 
