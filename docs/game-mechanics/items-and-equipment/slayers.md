@@ -37,6 +37,7 @@ This list outlines every slayer and the specific monsters that take increased da
     ???+ note "Click to collapse"
 
         - Arctic Ogre Lord
+        - Cave Troll
         - Cyclopean Warrior
         - Ettin
         - Evil Mage
@@ -83,6 +84,7 @@ This list outlines every slayer and the specific monsters that take increased da
 
     ???+ note "Click to collapse"
 
+        - Cave Troll
         - Frost Troll
         - Troll
 
