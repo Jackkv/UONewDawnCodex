@@ -4,9 +4,7 @@
 
 ## Overview
 
-Evaluating Intelligence can be used on a 1 second cooldown, it doesn't have difficulty checks.
-
-It passively boosts the damage of your offensive Magery spells.
+Evaluating Intelligence passively boosts the damage of your offensive Magery spells.
 
 When combined with Anatomy, they function as a passive Wrestling further enhancing your combat effectiveness.
 
@@ -33,9 +31,13 @@ Once your Evaluating Intelligence reaches 76, you'll see the target's Mana as a 
 
 Train from Mage NPCs to reach around 50.
 
-You can train by using it on players, monsters, and animals until you reach 100. It also increases when casting offensive spells and provides INT gains.
+Evaluating Intelligence can be used on a 1 second cooldown, it doesn't have difficulty checks.
 
-You also gain by casting any spell.
+You can train by using it on players, monsters, and animals until you reach 100. You also gain by casting any spell.
+
+While training this skill you can also gain Intelligence and Dexterity.
+
+While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
 ## Related skills
 

@@ -37,3 +37,5 @@ Train from Mapmaker NPCs to reach around 50.
 | 65 - 67    | Sea Charts                         |
 | 67 - 99.5  | World Maps                         |
 | 99.5 - 100 | Level 2 - 4 Tattered Treasure Maps |
+
+While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.

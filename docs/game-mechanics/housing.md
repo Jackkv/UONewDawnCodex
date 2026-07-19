@@ -94,13 +94,15 @@ You can click the house for a detailed view.
     |              [![icon](../assets/housing/custom/small-field-brick-villa-icon.png)<br>Small Field Brick Villa](#small-field-brick-villa)               |  9x9  |    2    |    62     |  90,000   |
     |              [![icon](../assets/housing/custom/small-field-stone-villa-icon.png)<br>Small Field Stone Villa](#small-field-stone-villa)               |  9x9  |    2    |    62     |  90,000   |
     |                         [![icon](../assets/housing/custom/small-wood-villa-icon.png)<br>Small Wood Villa](#small-wood-villa)                         |  9x9  |    2    |    62     |  90,000   |
-    | [![icon](../assets/housing/custom/medium-t‑shaped-wood-and-plaster-icon.png)<br>Medium T‑Shaped Wood and Plaster](#medium-tshaped-wood-and-plaster) | 14x11 |    2    |    62     |  110,000  |
+    | [![icon](../assets/housing/custom/medium-t‑shaped-wood-and-plaster-icon.png)<br>Medium T‑Shaped Wood and Plaster](#medium-tshaped-wood-and-plaster)  | 14x11 |    2    |    62     |  110,000  |
     |                [![icon](../assets/housing/custom/two-story-wooden-east-icon.png)<br>Two Story Wooden (East)](#two-story-wooden-east)                 | 9x12  |    4    |    135    |  165,000  |
     |                [![icon](../assets/housing/custom/two-story-stone-vendor-icon.png)<br>Two Story Stone Vendor](#two-story-stone-vendor)                |  9x9  |    4    |    135    |  195,000  |
     |                          [![icon](../assets/housing/custom/yew-crypt-tower-icon.png)<br>Yew Crypt Tower](#yew-crypt-tower)                           | 12x12 |    5    |    195    |  233,000  |
     |     [![icon](../assets/housing/custom/medium-fieldstone-patio-house-icon.png)<br>Medium Fieldstone Patio House](#medium-fieldstone-patio-house)      | 14x15 |    4    |    135    |  280,000  |
+    | [![icon](../assets/housing/custom/sandstone-two-story-with-balcony-icon.png)<br>Sandstone Two Story with Balcony](#sandstone-two-story-with-balcony) | 12x18 |    6    |    195    |  270,000  |
     |                         [![icon](../assets/housing/custom/field-stone-shop-icon.png)<br>Field Stone Shop](#field-stone-shop)                         | 14x12 |    4    |    135    |  300,000  |
     |                       [![icon](../assets/housing/custom/brick-porch-house-icon.png)<br>Brick Porch House](#brick-porch-house)                        | 15x14 |    4    |    135    |  300,000  |
+    | [![icon](../assets/housing/custom/two-story-fieldstone-patio-house-icon.png)<br>Two Story Fieldstone Patio House](#two-story-fieldstone-patio-house) | 11x17 |    4    |    135    |  320,000  |
     |                            [![icon](../assets/housing/custom/merchant-villa-icon.png)<br>Merchant Villa](#merchant-villa)                            | 16x15 |    9    |    285    |  322,500  |
     |             [![icon](../assets/housing/custom/medium-brick-patio-house-icon.png)<br>Medium Brick Patio House](#medium-brick-patio-house)             | 16x14 |    4    |    135    |  330,000  |
     |                   [![icon](../assets/housing/custom/square-steeple-house-icon.png)<br>Square Steeple House](#square-steeple-house)                   | 13x13 |    4    |    135    |  370,000  |
@@ -109,12 +111,12 @@ You can click the house for a detailed view.
     |                 [![icon](../assets/housing/custom/large-sandstone-patio-icon.png)<br>Large Sandstone Patio](#large-sandstone-patio)                  | 16x15 |    9    |    250    |  385,000  |
     |       [![icon](../assets/housing/custom/two-story-wood-balcony-house-icon.png)<br>Two Story Wood Balcony House](#two-story-wood-balcony-house)       | 14x10 |    6    |    195    |  420,000  |
     |                                      [![icon](../assets/housing/custom/mansion-icon.png)<br>Mansion](#mansion)                                       | 15x14 |    9    |    285    |  510,000  |
-    |             [![icon](../assets/housing/custom/two-story-t‑shaped-brick-icon.png)<br>Two Story T‑Shaped Brick](#two-story-tshaped-brick)             | 14x17 |    6    |    195    |  520,000  |
+    |             [![icon](../assets/housing/custom/two-story-t‑shaped-brick-icon.png)<br>Two Story T‑Shaped Brick](#two-story-tshaped-brick)              | 14x17 |    6    |    195    |  520,000  |
     |              [![icon](../assets/housing/custom/wood-framed-stone-manor-icon.png)<br>Wood Framed Stone Manor](#wood-framed-stone-manor)               | 23x22 |   15    |    390    |  650,000  |
     |                   [![icon](../assets/housing/custom/large-stone-compound-icon.png)<br>Large Stone Compound](#large-stone-compound)                   | 13x14 |    9    |    285    |  680,000  |
     |        [![icon](../assets/housing/custom/wood-frame-manor-with-tower-icon.png)<br>Wood Frame Manor with Tower](#wood-frame-manor-with-tower)         | 23x22 |   17    |    400    |  690,000  |
-    | [![icon](../assets/housing/custom/two-story-fieldstone-patio-house-icon.png)<br>Two Story Fieldstone Patio House](#two-story-fieldstone-patio-house) | 11x17 |    4    |    135    |  320,000  |
-    | [![icon](../assets/housing/custom/sandstone-two-story-with-balcony-icon.png)<br>Sandstone Two Story with Balcony](#sandstone-two-story-with-balcony) | 12x18 |    6    |    195    |  270,000  |
+    |    [![icon](../assets/housing/custom/brown-keep-with-rear-fenced-cy-icon.png)<br>Brown keep with rear fenced CY](#brown-keep-with-rear-fenced-cy)    | 24x24 |   25    |    550    |  898,000  |
+    |       [![icon](../assets/housing/custom/gray-keep-with-rear-CY-east-icon.png)<br>Gray keep with rear CY (East)](#gray-keep-with-rear-cy-east)        | 25x25 |   25    |    550    |  898,000  |
     |              [![icon](../assets/housing/custom/large-castle-with-fence-icon.png)<br>Large Castle with Fence](#large-castle-with-fence)               | 31x32 |   29    |    775    | 1,150,000 |
     |                         [![icon](../assets/housing/custom/sandstone-temple-icon.png)<br>Sandstone Temple](#sandstone-temple)                         | 31x32 |   29    |    775    | 1,150,000 |
 
@@ -673,6 +675,20 @@ You can click the house for a detailed view.
 
     ![image](../assets/housing/custom/medium-fieldstone-patio-house-1.png){ .on-glb }
 
+### Sandstone Two Story with Balcony
+
+=== "Outside"
+
+    ![image](../assets/housing/custom/sandstone-two-story-with-balcony.png){ .on-glb }
+
+=== "1st floor"
+
+    ![image](../assets/housing/custom/sandstone-two-story-with-balcony-1.png){ .on-glb }
+
+=== "2nd floor"
+
+    ![image](../assets/housing/custom/sandstone-two-story-with-balcony-2.png){ .on-glb }
+
 ### Field Stone Shop
 
 === "Outside"
@@ -692,6 +708,20 @@ You can click the house for a detailed view.
 === "1st floor"
 
     ![image](../assets/housing/custom/brick-porch-house-1.png){ .on-glb }
+
+### Two Story Fieldstone Patio House
+
+=== "Outside"
+
+    ![image](../assets/housing/custom/two-story-fieldstone-patio-house.png){ .on-glb }
+
+=== "1st floor"
+
+    ![image](../assets/housing/custom/two-story-fieldstone-patio-house-1.png){ .on-glb }
+
+=== "2nd floor"
+
+    ![image](../assets/housing/custom/two-story-fieldstone-patio-house-2.png){ .on-glb }
 
 ### Merchant Villa
 
@@ -857,33 +887,33 @@ You can click the house for a detailed view.
 
     ![image](../assets/housing/custom/wood-frame-manor-with-tower-2.png){ .on-glb }
 
-### Two Story Fieldstone Patio House
+### Brown keep with rear fenced CY
 
 === "Outside"
 
-    ![image](../assets/housing/custom/two-story-fieldstone-patio-house.png){ .on-glb }
+    ![image](../assets/housing/custom/brown-keep-with-rear-fenced-cy.png){ .on-glb }
 
 === "1st floor"
 
-    ![image](../assets/housing/custom/two-story-fieldstone-patio-house-1.png){ .on-glb }
+    ![image](../assets/housing/custom/brown-keep-with-rear-fenced-cy-1.png){ .on-glb }
 
 === "2nd floor"
 
-    ![image](../assets/housing/custom/two-story-fieldstone-patio-house-2.png){ .on-glb }
+    ![image](../assets/housing/custom/brown-keep-with-rear-fenced-cy-2.png){ .on-glb }
 
-### Sandstone Two Story with Balcony
+### Gray keep with rear CY (East)
 
 === "Outside"
 
-    ![image](../assets/housing/custom/sandstone-two-story-with-balcony.png){ .on-glb }
+    ![image](../assets/housing/custom/gray-keep-with-rear-CY-east.png){ .on-glb }
 
 === "1st floor"
 
-    ![image](../assets/housing/custom/sandstone-two-story-with-balcony-1.png){ .on-glb }
+    ![image](../assets/housing/custom/gray-keep-with-rear-CY-east-1.png){ .on-glb }
 
 === "2nd floor"
 
-    ![image](../assets/housing/custom/sandstone-two-story-with-balcony-2.png){ .on-glb }
+    ![image](../assets/housing/custom/gray-keep-with-rear-CY-east-2.png){ .on-glb }
 
 ### Large Castle with Fence
 

@@ -30,7 +30,9 @@ Train from Healer NPCs to reach around 50.
 
 Spirit speak can be used on a 10 seconds cooldown, it doesn't have difficulty checks. Just use it until you reach 100.
 
-Using this skill also increases Intelligence.
+While training this skill you can also gain Intelligence and Dexterity.
+
+While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
 ## Related skills
 

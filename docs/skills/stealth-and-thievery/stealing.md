@@ -82,6 +82,10 @@ Put a container on the ground, put inside a bag that contains 1 empty bottle. St
 | 85 - 95  | Bag with 7 bottles<br>9 stones  |
 | 95 - 100 | Bag with 8 bottles<br>10 stones |
 
+While training this skill you can also gain Dexterity and Intelligence.
+
+While training this skill you can also gain Dexterity (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
+
 ## Related skills
 
 - [Snooping](snooping.md)

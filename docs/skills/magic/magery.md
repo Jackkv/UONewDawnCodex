@@ -179,14 +179,14 @@ Training Magery can burn a hole in your pockets, so be sure to stockpile plenty 
 
 === "Magery Only"
 
-    | Skill    | Cast                                                                        |
-    |----------|-----------------------------------------------------------------------------|
-    | 0 - 30   | Train from NPCs                                                             |
-    | 30 - 50  | Fourth Circle                                                               |
-    | 50 - 84  | Invisibility                                                                |
-    | 84 - 100 | Resurrection                                                                |
-    | or       |                                                                             |
-    | 84 - 100 | Air Elemental :material-information-outline:{ title="Summon then release" } |
+    | Skill     | Cast                                                                        |
+    |-----------|-----------------------------------------------------------------------------|
+    | 0 - 30    | Train from NPCs                                                             |
+    | 30 - 50   | Fourth Circle                                                               |
+    | 51.8 - 84 | Invisibility                                                                |
+    | 84 - 100  | Resurrection                                                                |
+    | or        |                                                                             |
+    | 84 - 100  | Air Elemental :material-information-outline:{ title="Summon then release" } |
 
 === "Magery and Resisting Spells"
 
@@ -197,6 +197,12 @@ Training Magery can burn a hole in your pockets, so be sure to stockpile plenty 
     | 55 - 60  | Lighting                                                        |
     | 60 - 82  | Energy Bolt                                                     |
     | 82 - 100 | Flamestrike                                                     |
+
+You can train Magery, Evaluating Intelligence and Meditation at the same time.
+
+While training this skill you can also gain Intelligence and Dexterity.
+
+While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
 ## Related skills
 

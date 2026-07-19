@@ -135,6 +135,10 @@ While training Taming you can also gain Animal Lore.
 | 71.1 - 85.5 | Bull                 | Jhelom      |
 | 85.5 - 100  | Hell Hound           | Hythloth    |
 
+While training this skill you can also gain Strength and Intelligence.
+
+While training this skill you can also gain Strength (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
+
 ## Related skills
 
 - [Animal Lore](animal-lore.md)

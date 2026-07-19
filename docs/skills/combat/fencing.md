@@ -54,7 +54,9 @@ To be more efficient have two characters fight using Healing and Anatomy on each
 
 Have the target equip high amor rating and a weapon they have 0 skill with, hit them until you reach 81, then switch the target weapon with one they are GM with and continue until 100.
 
-Sparring with a Fencing weapon also increases Strength and Dexterity.
+While training this skill you can also gain Dexterity and Strength.
+
+While training this skill you can also gain Dexterity (primary) and Strength (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
 ## Related skills
 

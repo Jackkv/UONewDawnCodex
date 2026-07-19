@@ -24,6 +24,10 @@ Anatomy can be used on a 1 second cooldown, it doesn't have any difficulty check
 
 You can train by using it on players, monsters, and animals until you reach 100.
 
+While training this skill you can also gain Strength and Intelligence.
+
+While training this skill you can also gain Strength (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
+
 ## Related skills
 
 - [Healing](healing.md)
