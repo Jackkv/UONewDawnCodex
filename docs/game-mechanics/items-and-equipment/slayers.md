@@ -38,9 +38,10 @@ This list outlines every slayer and the specific monsters that take increased da
 
         - Arctic Ogre Lord
         - Cyclopean Warrior
+        - Ettin
         - Evil Mage
         - Evil Mage Lord
-        - Ettin
+        - Frost Troll
         - Mountain Troll
         - Ogre
         - Ogre Lord
@@ -52,9 +53,10 @@ This list outlines every slayer and the specific monsters that take increased da
         - Orcish Mage
         - Ratman
         - Ratman Archer
+        - Ratman Mage
         - Savage
         - Savage Rider
-        - Shaman
+        - Savage Shaman
         - Titan
         - Troll
 
@@ -72,10 +74,9 @@ This list outlines every slayer and the specific monsters that take increased da
 
         - Orc
         - Orc Bomber
-        - Orc Bomber
         - Orc Brute
         - Orc Captain
-        - Ophidian Lord
+        - Orcish Lord
         - Orcish Mage
 
 === "Troll Slaughter"
@@ -99,12 +100,12 @@ This list outlines every slayer and the specific monsters that take increased da
         - Mummy
         - Rotting Corpse
         - Shade
-        - Skeleton
         - Skeletal Knight
         - Skeletal Mage
+        - Skeleton
         - Spectre
-        - Zombie
         - Wraith
+        - Zombie
 
 ### Elemental
 
@@ -119,21 +120,21 @@ This list outlines every slayer and the specific monsters that take increased da
         - Bronze Elemental
         - Copper Elemental
         - Dull Copper Elemental
-        - Efreet
         - Earth Elemental
+        - Efreet
         - Fire Elemental
         - Golden Elemental
         - Ice Elemental
         - Poison Elemental
         - Shadow Iron Elemental
         - Snow Elemental
+        - Valorite Elemental
+        - Verite Elemental
+        - Water Elemental
         - Summoned Air Elemental
         - Summoned Earth Elemental
         - Summoned Fire Elemental
         - Summoned Water Elemental
-        - Valorite Elemental
-        - Verite Elemental
-        - Water Elemental
 
 === "Blood Drinking"
 
@@ -145,7 +146,6 @@ This list outlines every slayer and the specific monsters that take increased da
 
     ???+ note "Click to collapse"
 
-        - Acid Elemental
         - Agapite Elemental
         - Bronze Elemental
         - Copper Elemental
@@ -153,9 +153,9 @@ This list outlines every slayer and the specific monsters that take increased da
         - Earth Elemental
         - Golden Elemental
         - Shadow Iron Elemental
-        - Summoned Earth Elemental
         - Valorite Elemental
         - Verite Elemental
+        - Summoned Earth Elemental
 
 === "Elemental Health"
 
@@ -188,8 +188,8 @@ This list outlines every slayer and the specific monsters that take increased da
 
     ???+ note "Click to collapse"
 
-        - Summoned Water Elemental
         - Water Elemental
+        - Summoned Water Elemental
 
 ### Abyss
 
@@ -205,8 +205,7 @@ This list outlines every slayer and the specific monsters that take increased da
         - Gargoyle Enforcer
         - Ice Fiend
         - Imp
-        - Semidar
-        - Succubus
+        - Stone Gargoyle
         - Summoned Daemon
 
 === "Daemon Dismissal"
@@ -217,7 +216,6 @@ This list outlines every slayer and the specific monsters that take increased da
         - Daemon
         - Ice Fiend
         - Imp
-        - Semidar
         - Summoned Daemon
 
 === "Gargoyle's Foe"
@@ -233,6 +231,8 @@ This list outlines every slayer and the specific monsters that take increased da
 === "Balron Damnation"
 
     ???+ note "Click to collapse"
+
+        - Balron
 
 ### Arachnid
 
@@ -289,7 +289,7 @@ This list outlines every slayer and the specific monsters that take increased da
         - Giant Ice Serpent
         - Giant Serpent
         - Ice Snake
-        - Lava Nerve
+        - Lava Serpent
         - Lava Snake
         - Lizardman
         - Ophidian Apprentice Mage
@@ -301,7 +301,6 @@ This list outlines every slayer and the specific monsters that take increased da
         - Ophidian Shaman
         - Ophidian Warrior
         - Ophidian Zealot
-        - Ophidian Warrior
         - Sea Serpent
         - Serpentine Dragon
         - Shadow Wyrm
@@ -350,7 +349,7 @@ This list outlines every slayer and the specific monsters that take increased da
         - Giant Ice Serpent
         - Giant Serpent
         - Ice Snake
-        - Lava Nerve
+        - Lava Serpent
         - Lava Snake
         - Sea Serpent
         - Silver Serpent
