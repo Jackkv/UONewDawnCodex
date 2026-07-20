@@ -86,6 +86,7 @@ This list outlines every slayer and the specific monsters that take increased da
 
         - Cave Troll
         - Frost Troll
+        - Mountain Troll
         - Troll
 
 ### Undead
