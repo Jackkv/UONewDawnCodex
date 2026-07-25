@@ -5,6 +5,8 @@ hide:
 
 # Cove: The Betrayal and the Orcish Conquest
 
+![image](../../assets/screenshots/cove-banner.png){ .right-img }
+
 Cove, once a flourishing settlement nestled within the protective embrace of a majestic mountain range, fell victim to treachery and a devastating orcish invasion during the early days of the gargoyles' onslaught.
 
 Unbeknownst to the unsuspecting citizens of Cove, a grave betrayal unfolded behind the scenes. While the town boasted a formidable wooden fortress wall that seemed impenetrable to frontal attacks, a sinister alliance had formed between the orcs and the gargoyles. Veiled beneath the cover of darkness, the orcs clandestinely burrowed through the very heart of the mountain that had long shielded Cove from their neighboring orc stronghold.

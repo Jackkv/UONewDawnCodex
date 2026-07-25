@@ -5,6 +5,8 @@ hide:
 
 # Serpent's Hold: A Triumph of Independence
 
+![image](../../assets/screenshots/serpent-hold-banner.png){ .right-img }
+
 Among the three stalwart cities that defied the gargoyle invasion, Serpent's Hold emerged as a shining exemplar of resilience. Shielded by the clandestine presence of the Order of the Silver Serpent, the invading gargoyles remained oblivious to the city's steadfast defenders. Exploiting this advantageous position, the Order established a strategic operation on Temple and Bald Islands, ingeniously channeling vital supplies and sustenance to Serpent's Hold.
 
 Through unwavering dedication and meticulous planning, Serpent's Hold triumphed over the chaos of war. Its indomitable defense marked the birth of a newfound independence, as the city boldly declared its autonomy from any ruling authority in Britannia.

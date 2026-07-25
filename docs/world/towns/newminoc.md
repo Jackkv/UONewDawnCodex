@@ -5,6 +5,8 @@ hide:
 
 # New Minoc: A Haven Within Crescent Mountain
 
+![image](../../assets/screenshots/new-minoc-banner.png){ .right-img }
+
 Upon receiving dire tidings of the Invasion of Cove, the inhabitants of Minoc wasted no time in fleeing their ancestral homes. Seeking safety and solace, they embarked on an exodus towards the protective embrace of Crescent Mountain, a majestic peak nestled in the northern reaches. Abandoning the desolate streets of Minoc, they left behind a ghost town, devoid of life.
 
 Unbeknownst to the relentless gargoyles, who pursued their conquest with unwavering determination, Minoc had become an empty shell. Mistakenly believing that the fleeing populace sought refuge in Windemere Wood or embarked on perilous voyages across the treacherous waters of Lost Hope Bay, the gargoyles cast their gaze eastward, beyond the towering summit of Mount Kendall.

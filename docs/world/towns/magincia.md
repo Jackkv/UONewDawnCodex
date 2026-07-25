@@ -5,6 +5,8 @@ hide:
 
 # Magincia: Rise and Resentment
 
+![image](../../assets/screenshots/magincia-banner.png){ .right-img }
+
 Magincia, once a modest fishing village, underwent a remarkable metamorphosis in the wake of the cataclysmic events that shaped Britannia's fate. After the devastating Codex War, the town seized the opportunity to ascend to prominence. With its considerable wealth and the support of the influential Council of Mages, Magincia embarked on an ambitious endeavor: the construction of a formidable wall shielding the town from the moongate. To further bolster their defenses, they employed a sizeable mercenary army comprising defectors from Britannia's protective forces.
 
 Magincia stands today as Britannia's wealthiest town, a testament to its relentless pursuit of prosperity. However, its affluence has come at a cost. The town's rise to opulence was built upon the losses suffered by other major towns, leading to widespread disdain from its neighbors. Despite this animosity, Magincia has cultivated an alluring charm, boasting vibrant streets adorned with flowers and picturesque roof gardens. It has earned a reputation as one of Britannia's most beautiful towns.

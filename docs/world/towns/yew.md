@@ -5,6 +5,8 @@ hide:
 
 # Yew: Rebirth Among the Trees
 
+![image](../../assets/screenshots/yew-banner.png){ .right-img }
+
 When war swept through Yew, nature wasted no time reclaiming what remained. The ancient yew trees for which the settlement was named spread their roots through the rubble, their branches soon obscuring all signs of the town that once stood there. Within a generation, the forest had swallowed old Yew entirely.
 
 The displaced residents fled to Yew Abbey, rallying behind its fortified walls as battles raged across Britannia. What began as temporary shelter became permanent home. For generations after the Avatar's victory, the people of Yew lived among the monastery grounds, building a makeshift community around the Abbey's stone halls. Over time, this refuge grew into the new heart of Yew itself, much as Britain Castle became the center of its own rebuilt city.
