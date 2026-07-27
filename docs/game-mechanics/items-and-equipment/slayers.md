@@ -202,6 +202,7 @@ This list outlines every slayer and the specific monsters that take increased da
 
     ???+ note "Click to collapse"
 
+        - Arcane Daemon
         - Balron
         - Chaos Daemon
         - Daemon
@@ -219,6 +220,7 @@ This list outlines every slayer and the specific monsters that take increased da
 
     ???+ note "Click to collapse"
 
+        - Arcane Daemon
         - Balron
         - Chaos Daemon
         - Daemon
