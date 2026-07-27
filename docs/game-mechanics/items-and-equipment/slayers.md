@@ -290,7 +290,7 @@ This list outlines every slayer and the specific monsters that take increased da
         - Dragon
         - Drake
         - Giant Ice Serpent
-        - Giant Serpent
+        - Giant Snake
         - Ice Snake
         - Lava Serpent
         - Lava Snake
@@ -350,7 +350,7 @@ This list outlines every slayer and the specific monsters that take increased da
 
         - Deep Sea Serpent
         - Giant Ice Serpent
-        - Giant Serpent
+        - Giant Snake
         - Ice Snake
         - Lava Serpent
         - Lava Snake
