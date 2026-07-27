@@ -203,6 +203,7 @@ This list outlines every slayer and the specific monsters that take increased da
     ???+ note "Click to collapse"
 
         - Balron
+        - Chaos Daemon
         - Daemon
         - Fire Gargoyle
         - Gargoyle
@@ -218,6 +219,7 @@ This list outlines every slayer and the specific monsters that take increased da
     ???+ note "Click to collapse"
 
         - Balron
+        - Chaos Daemon
         - Daemon
         - Ice Fiend
         - Imp
