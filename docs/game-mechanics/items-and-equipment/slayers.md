@@ -96,6 +96,7 @@ This list outlines every slayer and the specific monsters that take increased da
     ???+ note "Click to collapse"
 
         - Ancient Lich
+        - Bogle
         - Bone Knight
         - Bone Mage
         - Ghoul
