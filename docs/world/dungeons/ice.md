@@ -1,44 +1,33 @@
 # Ice
 
-A frozen dungeon featuring frigid enemies and treasure hunter's rewards.
+## Entrance
 
-## Overview
+![image](../../assets/screenshots/ice-entrance.png)
 
-Ice is a popular dungeon located far to the west of New Minoc, known for its frozen innhabitants. It challenges the most skilled adventurers.
+Coordinates 1998, 81
 
-## Levels
+## Level 1
 
-### Level 1
+![image](../../assets/screenshots/ice-lvl-1.png)
 
-- **Creatures:** Arctic ogre lords, white wyrm, snow elementals, ice elementals, giant ice serpents, ratmen, frost trolls
-- **Difficulty:** Hard
+|                                   Mobs                                   |                                                                        |                                                            |                                                                |                                                                  |
+|:------------------------------------------------------------------------:|:----------------------------------------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------------------------:|:----------------------------------------------------------------:|
+|    ![icon](../../assets/mobiles/acid-elemental.png)<br>Acid Elemental    | ![icon](../../assets/mobiles/arctic-ogre-lord.png)<br>Arctic Ogre Lord | ![icon](../../assets/mobiles/frost-ooze.png)<br>Frost Ooze | ![icon](../../assets/mobiles/frost-spider.png)<br>Frost Spider |   ![icon](../../assets/mobiles/frost-troll.png)<br>Frost Troll   |
+| ![icon](../../assets/mobiles/giant-ice-serpent.png)<br>Giant Ice Serpent |    ![icon](../../assets/mobiles/ice-elemental.png)<br>Ice Elemental    |  ![icon](../../assets/mobiles/ice-snake.png)<br>Ice Snake  |       ![icon](../../assets/mobiles/ratman.png)<br>Ratman       | ![icon](../../assets/mobiles/ratman-archer.png)<br>Ratman Archer |
+|       ![icon](../../assets/mobiles/ratman-mage.png)<br>Ratman Mage       |   ![icon](../../assets/mobiles/snow-elemental.png)<br>Snow Elemental   | ![icon](../../assets/mobiles/white-wyrm.png)<br>White Wyrm |                                                                |                                                                  |
 
-### Level 2
+## Level 2
 
-- **Creatures:** Ratmen, ratmen mages, ratmen archers
-- **Difficulty:** Very hard
+![image](../../assets/screenshots/ice-lvl-2.png)
 
-### Level 3
+|                        Mobs                        |                                                                  |                                                              |
+|:--------------------------------------------------:|:----------------------------------------------------------------:|:------------------------------------------------------------:|
+| ![icon](../../assets/mobiles/ratman.png)<br>Ratman | ![icon](../../assets/mobiles/ratman-archer.png)<br>Ratman Archer | ![icon](../../assets/mobiles/ratman-mage.png)<br>Ratman Mage |
 
-- **Creatures:** Ice fiends, evil mage lords
-- **Difficulty:** Very hard
+## Level 3
 
-## Notable Features
+![image](../../assets/screenshots/ice-lvl-3.png)
 
-- Located in the far north of Britannia 
-- Good gold farming
-- Mix of creature types
-- Relatively small
-- Treasure chest spawns
-
-## Tips
-
-!!! tip "Ice Strategy"
-    - Excellent for bard farming
-    - Glacial staff rare drop from giant ice serpents
-    - Only white wyrm spawn
-    - Watch for PKs
-
----
-
-**Thaw the frigid foes of Ice!**
+|                           Mobs                           |                                                                    |                                                          |
+|:--------------------------------------------------------:|:------------------------------------------------------------------:|:--------------------------------------------------------:|
+| ![icon](../../assets/mobiles/evil-mage.png)<br>Evil Mage | ![icon](../../assets/mobiles/evil-mage-lord.png)<br>Evil Mage Lord | ![icon](../../assets/mobiles/ice-fiend.png)<br>Ice Fiend |
