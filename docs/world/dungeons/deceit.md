@@ -1,49 +1,43 @@
 # Deceit
 
-A multi-level dungeon featuring endless hordes of undead.
+## Entrance
 
-## Overview
+![image](../../assets/screenshots/deceit-entrance.png)
 
-Deceit is a historic dungeon located on the frozen Dagger Island, known for the undead hordes that inhabit every floor. Home to the Neira champion spawn. It provides a challenge for adventurers of all skill levels.
+Coordinates 4111, 432
 
-## Levels
+## Level 1
 
-### Level 1
+![image](../../assets/screenshots/deceit-lvl-1.png)
 
-- **Creatures:** Undead, water elementals
-- **Difficulty:** Easy
+|                             Mobs                             |                                                      |                                                                      |                                                    |                                                    |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
+| ![icon](../../assets/mobiles/bone-knight.png)<br>Bone Knight |   ![icon](../../assets/mobiles/ghoul.png)<br>Ghoul   |            ![icon](../../assets/mobiles/lich.png)<br>Lich            |  ![icon](../../assets/mobiles/mummy.png)<br>Mummy  |  ![icon](../../assets/mobiles/shade.png)<br>Shade  |
+|    ![icon](../../assets/mobiles/skeleton.png)<br>Skeleton    | ![icon](../../assets/mobiles/spectre.png)<br>Spectre | ![icon](../../assets/mobiles/water-elemental.png)<br>Water Elemental | ![icon](../../assets/mobiles/wraith.png)<br>Wraith | ![icon](../../assets/mobiles/zombie.png)<br>Zombie |
 
-### Level 2
+## Level 2
 
-- **Creatures:** Undead, mummies, skeletal mages, bone knights
-- **Difficulty:** Medium
+![image](../../assets/screenshots/deceit-lvl-2.png)
 
-### Level 3
+|                             Mobs                             |                                                                      |                                                    |                                                    |
+|:------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
+| ![icon](../../assets/mobiles/bone-knight.png)<br>Bone Knight |       ![icon](../../assets/mobiles/bone-mage.png)<br>Bone Mage       |  ![icon](../../assets/mobiles/ghoul.png)<br>Ghoul  |  ![icon](../../assets/mobiles/mummy.png)<br>Mummy  |
+|    ![icon](../../assets/mobiles/skeleton.png)<br>Skeleton    | ![icon](../../assets/mobiles/skeletal-knight.png)<br>Skeletal Knight | ![icon](../../assets/mobiles/wraith.png)<br>Wraith | ![icon](../../assets/mobiles/zombie.png)<br>Zombie |
 
-- **Creatures:** Undead, poison elementals, liches
-- **Difficulty:** Hard
+## Level 3
 
-### Level 4
+![image](../../assets/screenshots/deceit-lvl-3.png)
 
-- **Creatures:** Undead, ancient lich, lich lords, liches, fire elementals, silver serpents
-- **Difficulty:** Very hard
+|                                  Mobs                                  |                                                              |                                                      |                                                    |
+|:----------------------------------------------------------------------:|:------------------------------------------------------------:|:----------------------------------------------------:|:--------------------------------------------------:|
+|     ![icon](../../assets/mobiles/ancient-lich.png)<br>Ancient Lich     | ![icon](../../assets/mobiles/bone-knight.png)<br>Bone Knight |   ![icon](../../assets/mobiles/ghoul.png)<br>Ghoul   |   ![icon](../../assets/mobiles/lich.png)<br>Lich   |
+| ![icon](../../assets/mobiles/poison-elemental.png)<br>Poison Elemental |       ![icon](../../assets/mobiles/shade.png)<br>Shade       | ![icon](../../assets/mobiles/spectre.png)<br>Spectre | ![icon](../../assets/mobiles/wraith.png)<br>Wraith |
 
-## Notable Features
+## Level 4
 
-- Remote island location
-- Neira champion spawn
-- Hordes of undead
-- Numerous floors
-- Ancient lich
+![image](../../assets/screenshots/deceit-lvl-4.png)
 
-## Tips
-
-!!! tip "Deceit Strategy"
-    - Excellent for tamer farming
-    - Good gold from lich lords
-    - Watch for traps in lich lord room
-    - Popular farming spot 
-
----
-
-**Fear the dead of Deceit or join them forever!**
+|                              Mobs                              |                                                                    |                                                        |                                                                    |                                                    |
+|:--------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------------------:|:--------------------------------------------------:|
+| ![icon](../../assets/mobiles/ancient-lich.png)<br>Ancient Lich |    ![icon](../../assets/mobiles/bone-knight.png)<br>Bone Knight    |    ![icon](../../assets/mobiles/bogle.png)<br>Bogle    | ![icon](../../assets/mobiles/fire-elemental.png)<br>Fire Elemental |   ![icon](../../assets/mobiles/ghoul.png)<br>Ghoul |
+|         ![icon](../../assets/mobiles/lich.png)<br>Lich         | ![icon](../../assets/mobiles/silver-serpent.png)<br>Silver Serpent | ![icon](../../assets/mobiles/skeleton.png)<br>Skeleton |         ![icon](../../assets/mobiles/wraith.png)<br>Wraith         | ![icon](../../assets/mobiles/zombie.png)<br>Zombie |
