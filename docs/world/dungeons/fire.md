@@ -1,39 +1,30 @@
 # Fire
 
-A burning dungeon featuring smoldering enemies and mysteries.
+## Entrance
 
-## Overview
+![image](../../assets/screenshots/fire-entrance.png)
 
-Fire is a popular dungeon located in Serpent's Hold, known for its enflamed innhabitants and the Semidar champion spawn. It caters to a wide range of skill levels.
+Coordinates 2923, 3406
 
-## Levels
+## Level 1
 
-### Level 1
+![image](../../assets/screenshots/fire-lvl-1.png)
 
-- **Creatures:** Efreets, hell hounds, hell cats, lava serpents, fire elementals, evil mages, dread spiders, undead
-- **Difficulty:** Medium
+|                                Mobs                                |                                                                    |                                                                |                                                            |
+|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:--------------------------------------------------------------:|:----------------------------------------------------------:|
+|      ![icon](../../assets/mobiles/bone-mage.png)<br>Bone Mage      |   ![icon](../../assets/mobiles/dread-spider.png)<br>Dread Spider   |       ![icon](../../assets/mobiles/efreet.png)<br>Efreet       |  ![icon](../../assets/mobiles/evil-mage.png)<br>Evil Mage  |
+| ![icon](../../assets/mobiles/evil-mage-lord.png)<br>Evil Mage Lord | ![icon](../../assets/mobiles/fire-elemental.png)<br>Fire Elemental |  ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Snake  |   ![icon](../../assets/mobiles/hell-cat.png)<br>Hell Cat   |
+|     ![icon](../../assets/mobiles/hell-hound.png)<br>Hell Hound     |    ![icon](../../assets/mobiles/lava-lizard.png)<br>Lava Lizard    | ![icon](../../assets/mobiles/lava-serpent.png)<br>Lava Serpent | ![icon](../../assets/mobiles/lava-snake.png)<br>Lava Snake |
+|  ![icon](../../assets/mobiles/skeleton-lich.png)<br>Skeleton Lich  |  ![icon](../../assets/mobiles/skeletal-mage.png)<br>Skeletal Mage  |        ![icon](../../assets/mobiles/slime.png)<br>Slime        |     ![icon](../../assets/mobiles/zombie.png)<br>Zombie     |
 
-### Level 2
+### Semidar
 
-- **Creatures:** Efreets, daemons, liches, hell hounds, hell cats, lava serpents, fire elementals, evil mages
-- **Difficulty:** Hard
+## Level 2
 
-## Notable Features
+![image](../../assets/screenshots/fire-lvl-2.png)
 
-- In Serpent's Hold 
-- Easy access
-- Mix of creature types
-- Champion Semidar spawn 
-- Treasure chest spawns
-
-## Tips
-
-!!! tip "Fire Strategy"
-    - Excellent for bard farming
-    - Demon bone armor rare drop from efreets
-    - Careful of narrow passages with crowded spawns
-    - Learn where the teleport sparkles lead
-
----
-
-**Douse the searing flames of Fire!**
+|                          Mobs                          |                                                            |                                                                    |                                                                    |                                                              |
+|:------------------------------------------------------:|:----------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------:|
+|   ![icon](../../assets/mobiles/efreet.png)<br>Efreet   |  ![icon](../../assets/mobiles/evil-mage.png)<br>Evil Mage  | ![icon](../../assets/mobiles/evil-mage-lord.png)<br>Evil Mage Lord | ![icon](../../assets/mobiles/fire-elemental.png)<br>Fire Elemental | ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Snake |
+| ![icon](../../assets/mobiles/hell-cat.png)<br>Hell Cat | ![icon](../../assets/mobiles/hell-hound.png)<br>Hell Hound |    ![icon](../../assets/mobiles/lava-lizard.png)<br>Lava Lizard    |   ![icon](../../assets/mobiles/lava-serpent.png)<br>Lava Serpent   |  ![icon](../../assets/mobiles/lava-snake.png)<br>Lava Snake  |
+|     ![icon](../../assets/mobiles/lich.png)<br>Lich     |  ![icon](../../assets/mobiles/lich-lord.png)<br>Lich Lord  |      ![icon](../../assets/mobiles/nightmare.png)<br>Nightmare      |                                                                    |                                                              |
