@@ -1,49 +1,44 @@
 # Hythloth
 
-A wicked dungeon featuring demonic foes.
+## Entrance
 
-## Overview
+![image](../../assets/screenshots/hythloth-entrance.png)
 
-Hythloth is a vile dungeon located on the Island of the Avatar, known for its demonic innhabitants. It is a dungeon only suited to the bravest of adventurers.
+Coordinates 4722, 3815
 
-## Levels
+## Level 1
 
-### Level 1
+![image](../../assets/screenshots/hythloth-lvl-1.png)
 
-- **Creatures:** Gargoyles, hell hounds, imps
-- **Difficulty:** Medium
+|                               Mobs                               |                                                                    |                                                            |
+|:----------------------------------------------------------------:|:------------------------------------------------------------------:|:----------------------------------------------------------:|
+| ![icon](../../assets/mobiles/fire-gargoyle.png)<br>Fire Gargoyle |       ![icon](../../assets/mobiles/gargoyle.png)<br>Gargoyle       | ![icon](../../assets/mobiles/hell-hound.png)<br>Hell Hound |
+|           ![icon](../../assets/mobiles/imp.png)<br>Imp           | ![icon](../../assets/mobiles/stone-gargoyle.png)<br>Stone Gargoyle |                                                            |
 
-### Level 2
+## Level 2
 
-- **Creatures:** Gargoyles, hell hounds, imps
-- **Difficulty:** Medium
+![image](../../assets/screenshots/hythloth-lvl-2.png)
 
-### Level 3
+|                        Mobs                        |                                                              |                                                                    |                                                        |
+|:--------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------:|
+| ![icon](../../assets/mobiles/daemon.png)<br>Daemon |   ![icon](../../assets/mobiles/evil-mage.png)<br>Evil Mage   | ![icon](../../assets/mobiles/evil-mage-lord.png)<br>Evil Mage Lord | ![icon](../../assets/mobiles/gargoyle.png)<br>Gargoyle |
+|  ![icon](../../assets/mobiles/gazer.png)<br>Gazer  | ![icon](../../assets/mobiles/gazer-larva.png)<br>Gazer Larva |     ![icon](../../assets/mobiles/hell-hound.png)<br>Hell Hound     |      ![icon](../../assets/mobiles/imp.png)<br>Imp      |
 
-- **Creatures:** Balrons, succubi, crystal daemon
-- **Difficulty:** Very hard
+## Level 3
 
-### Level 4
+![image](../../assets/screenshots/hythloth-lvl-3.png)
 
-- **Creatures:** Demons, gargoyles
-- **Difficulty:** Very hard
+|                          Mobs                          |                                                                    |                                                              |                                                                  |
+|:------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------:|:----------------------------------------------------------------:|
+|   ![icon](../../assets/mobiles/balron.png)<br>Balron   |         ![icon](../../assets/mobiles/daemon.png)<br>Daemon         | ![icon](../../assets/mobiles/elder-gazer.png)<br>Elder Gazer | ![icon](../../assets/mobiles/fire-gargoyle.png)<br>Fire Gargoyle |
+| ![icon](../../assets/mobiles/gargoyle.png)<br>Gargoyle |          ![icon](../../assets/mobiles/gazer.png)<br>Gazer          | ![icon](../../assets/mobiles/gazer-larva.png)<br>Gazer Larva |   ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Snake   |
+|      ![icon](../../assets/mobiles/imp.png)<br>Imp      | ![icon](../../assets/mobiles/stone-gargoyle.png)<br>Stone Gargoyle |    ![icon](../../assets/mobiles/succubus.png)<br>Succubus    |                                                                  |
 
-## Notable Features
+## Level 4
 
-- Found on Fire Island
-- Fearsome spawn
-- Dangerous traps
-- Unique monster spawns
-- Treasure chest spawns
+![image](../../assets/screenshots/hythloth-lvl-4.png)
 
-## Tips
-
-!!! tip "Hythloth Strategy"
-    - Seek out special demons and gargoyles on level 4
-    - Good gold farming from balrons and succubi
-    - Learn to navigate the invisible maze on level 2
-    - Gargoyles can drop a gargoyle's pickaxe 
-
----
-
-**Exorcise the demons of Hythloth!**
+|                               Mobs                               |                                                                  |                                                                            |                                                                          |
+|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:--------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
+| ![icon](../../assets/mobiles/arcane-daemon.png)<br>Arcane Daemon |  ![icon](../../assets/mobiles/chaos-daemon.png)<br>Chaos Daemon  |             ![icon](../../assets/mobiles/daemon.png)<br>Daemon             | ![icon](../../assets/mobiles/enslaved-gargoyle.png)<br>Enslaved Gargoyle |
+|   ![icon](../../assets/mobiles/fire-daemon.png)<br>Fire Daemon   | ![icon](../../assets/mobiles/fire-gargoyle.png)<br>Fire Gargoyle | ![icon](../../assets/mobiles/gargoyle-destroyer.png)<br>Gargoyle Destroyer | ![icon](../../assets/mobiles/gargoyle-enforcer.png)<br>Gargoyle Enforcer |
