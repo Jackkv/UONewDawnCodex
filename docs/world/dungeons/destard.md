@@ -1,44 +1,31 @@
 # Destard
 
-A dungeon featuring majestic and fearsom dragons and wyrms.
+## Entrance
 
-## Overview
+![image](../../assets/screenshots/destard-entrance.png)
 
-Destard is a legendary dungeon near Skara Brae, known as the home of dragons. Home to the Rikktor champion spawn. It is a popular location for the bravest of adventurers.
+Coordinates 1176, 2637
 
-## Levels
+## Level 1
 
-### Level 1
+![image](../../assets/screenshots/destard-lvl-1.png)
 
-- **Creatures:** Dragons, drakes, wyverns, giant serpents, water elementals
-- **Difficulty:** Hard
+|                        Mobs                        |                                                  |                                                              |                                                                      |                                                    |
+|:--------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------:|
+| ![icon](../../assets/mobiles/dragon.png)<br>Dragon | ![icon](../../assets/mobiles/drake.png)<br>Drake | ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Snake | ![icon](../../assets/mobiles/water-elemental.png)<br>Water Elemental | ![icon](../../assets/mobiles/wyvern.png)<br>Wyvern |
 
-### Level 2
+## Level 2
 
-- **Creatures:** Shadow wyrms, drakes, wyverns, daemons, evil mages
-- **Difficulty:** Very hard
+![image](../../assets/screenshots/destard-lvl-2.png)
 
-### Level 3
+|                        Mobs                        |                                                  |                                                          |                                                              |
+|:--------------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------:|:------------------------------------------------------------:|
+| ![icon](../../assets/mobiles/daemon.png)<br>Daemon | ![icon](../../assets/mobiles/drake.png)<br>Drake | ![icon](../../assets/mobiles/evil-mage.png)<br>Evil Mage | ![icon](../../assets/mobiles/shadow-wyrm.png)<br>Shadow Wyrm |
 
-- **Creatures:** Ancient wyrm, wyverns, giant serpents, fire elemental
-- **Difficulty:** Very hard
+## Level 3
 
-## Notable Features
+![image](../../assets/screenshots/destard-lvl-3.png)
 
-- Near Skara Brae (convenient)
-- Good gold per hour
-- Home of dragons
-- Rikktor champion spawn
-- Treasure chest spawns
-
-## Tips
-
-!!! tip "Destard Strategy"
-    - Excellent for bard farming
-    - Good gold from dragons
-    - Careful of firebreaths
-    - Popular farming and PK spot
-
----
-
-**Beware Destard: here there be dragons!**
+|                              Mobs                              |                                                                    |                                                              |                                                    |
+|:--------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------:|:--------------------------------------------------:|
+| ![icon](../../assets/mobiles/ancient-wyrm.png)<br>Ancient Wyrm | ![icon](../../assets/mobiles/fire-elemental.png)<br>Fire Elemental | ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Snake | ![icon](../../assets/mobiles/wyvern.png)<br>Wyvern |
