@@ -1,43 +1,39 @@
 # Despise
 
-A beginner to mid-level dungeon filled with ogres, ettins, and lizardmen.
+## Entrance
 
-## Overview
+![image](../../assets/screenshots/despise-entrance.png)
 
-Despise is an excellent dungeon for newer adventurers ready to move beyond basic hunting. Home to the Baracoon champion spawnIt features humanoid creatures and offers good experience.
+Coordinates 1298, 1081
 
-## Levels
+## Level 1
 
-### Level 1
+![image](../../assets/screenshots/despise-lvl-1.png)
 
-- **Creatures:** Lizardmen, ratmen, brigands
-- **Difficulty:** Easy
+|                         Mobs                         |                                                                  |                                                                |                                                          |
+|:----------------------------------------------------:|:----------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------:|
+| ![icon](../../assets/mobiles/brigand.png)<br>Brigand |   ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Snake   | ![icon](../../assets/mobiles/giant-spider.png)<br>Giant Spider | ![icon](../../assets/mobiles/lizardman.png)<br>Lizardman |
+|  ![icon](../../assets/mobiles/ratman.png)<br>Ratman  | ![icon](../../assets/mobiles/ratman-archer.png)<br>Ratman Archer |  ![icon](../../assets/mobiles/ratman-mage.png)<br>Ratman Mage  |                                                          |
 
-### Level 2
+## Level 2
 
-- **Creatures:** Ettins, earth elementals, trolls
-- **Difficulty:** Medium
+![image](../../assets/screenshots/despise-lvl-2.png)
 
-### Level 3
+Level 2 is the actual entrance. Going up takes you to Level 1, and going down takes you to Level 3.
 
-- **Creatures:** Ogre lords, titans, cyclops, acid elementals, ettins, trolls
-- **Difficulty:** Hard
+## Level 3
 
-## Notable Features
+![image](../../assets/screenshots/despise-lvl-3.png)
 
-- Great for skill training
-- Popular for new players
-- Barracoon the Piper champion spawn
-- Ogre lord island
+|                                 Mobs                                 |                                                  |                                                                |                                                  |                                                  |
+|:--------------------------------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|
+| ![icon](../../assets/mobiles/earth-elemental.png)<br>Earth Elemental | ![icon](../../assets/mobiles/ettin.png)<br>Ettin | ![icon](../../assets/mobiles/giant-spider.png)<br>Giant Spider | ![icon](../../assets/mobiles/slime.png)<br>Slime | ![icon](../../assets/mobiles/troll.png)<br>Troll |
 
-## Tips
+## Level 4
 
-!!! tip "Despise Strategy"
-    - Don't be intimidated to explore deeper levels
-    - Learn where the teleport sparkles lead
-    - Champion altar located on ogre lord island
-    - Good gold farm from ogre lords and titans
+![image](../../assets/screenshots/despise-lvl-4.png)
 
----
-
-**Turn the resentment of Despise to your gain!**
+|                                Mobs                                |                                                              |                                                  |                                                          |                                                    |
+|:------------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------:|:--------------------------------------------------:|
+| ![icon](../../assets/mobiles/acid-elemental.png)<br>Acid Elemental |       ![icon](../../assets/mobiles/ettin.png)<br>Ettin       |  ![icon](../../assets/mobiles/ogre.png)<br>Ogre  | ![icon](../../assets/mobiles/ogre-lord.png)<br>Ogre Lord | ![icon](../../assets/mobiles/ratman.png)<br>Ratman |
+|  ![icon](../../assets/mobiles/ratman-archer.png)<br>Ratman Archer  | ![icon](../../assets/mobiles/ratman-mage.png)<br>Ratman Mage | ![icon](../../assets/mobiles/slime.png)<br>Slime |     ![icon](../../assets/mobiles/troll.png)<br>Troll     |                                                    |
