@@ -1,54 +1,51 @@
 # Covetous
 
-A multi-level dungeon featuring harpies, elementals, and treasure hunters' delight.
+## Entrance
 
-## Overview
+![image](../../assets/screenshots/covetous-entrance.png)
 
-Covetous is a popular dungeon near Vesper, known for its diverse creature spawns and numerous traps. It caters to a wide range of skill levels.
+Coordinates 2499, 917
 
-## Levels
+## Level 1
 
-### Level 1
+![image](../../assets/screenshots/covetous-lvl-1.png)
 
-- **Creatures:** Harpies, gazers, corpsers
-- **Difficulty:** Easy
+|                              Mobs                              |                                                      |                                                                |                                                              |                                                    |
+|:--------------------------------------------------------------:|:----------------------------------------------------:|:--------------------------------------------------------------:|:------------------------------------------------------------:|:--------------------------------------------------:|
+|      ![icon](../../assets/mobiles/brigand.png)<br>Brigand      | ![icon](../../assets/mobiles/corpser.png)<br>Corpser |        ![icon](../../assets/mobiles/gazer.png)<br>Gazer        | ![icon](../../assets/mobiles/gazer-larva.png)<br>Gazer Larva |  ![icon](../../assets/mobiles/ghoul.png)<br>Ghoul  |
+| ![icon](../../assets/mobiles/giant-spider.png)<br>Giant Spider |   ![icon](../../assets/mobiles/harpy.png)<br>Harpy   | ![icon](../../assets/mobiles/headless-one.png)<br>Headless One | ![icon](../../assets/mobiles/stone-harpy.png)<br>Stone Harpy | ![icon](../../assets/mobiles/zombie.png)<br>Zombie |
 
-### Level 2
+## Level 2
 
-- **Creatures:** Elementals, elder gazers, stone harpies
-- **Difficulty:** Medium
+![image](../../assets/screenshots/covetous-lvl-2.png)
 
-### Level 3
+|     Mobs     |         |              |             |             |                 |
+|:------------:|:-------:|:------------:|:-----------:|:-----------:|:---------------:|
+| ![icon](../../assets/mobiles/brigand.png)<br>Brigand | ![icon](../../assets/mobiles/corpser.png)<br>Corpser | ![icon](../../assets/mobiles/dread-spider.png)<br>Dread Spider | ![icon](../../assets/mobiles/elder-gazer.png)<br>Elder Gazer | ![icon](../../assets/mobiles/gazer.png)<br>Gazer | ![icon](../../assets/mobiles/gazer-larva.png)<br>Gazer Larva |
+| ![icon](../../assets/mobiles/giant-spider.png)<br>Giant Spider | ![icon](../../assets/mobiles/harpy.png)<br>Harpy | ![icon](../../assets/mobiles/headless-one.png)<br>Headless One | ![icon](../../assets/mobiles/slime.png)<br>Slime | ![icon](../../assets/mobiles/stone-harpy.png)<br>Stone Harpy | ![icon](../../assets/mobiles/water-elemental.png)<br>Water Elemental |
 
-- **Creatures:** Liches, undead 
-- **Difficulty:** Medium
+## Level 3
 
-### Level 4
+![image](../../assets/screenshots/covetous-lvl-3.png)
 
-- **Creatures:** Rotting corpses, undead
-- **Difficulty:** Hard
+|   Mobs   |                 |         |        |        |
+|:--------:|:---------------:|:-------:|:------:|:------:|
+| ![icon](../../assets/mobiles/dragon.png)<br>Dragon | ![icon](../../assets/mobiles/drake.png)<br>Drake | ![icon](../../assets/mobiles/lich.png)<br>Lich | ![icon](../../assets/mobiles/mummy.png)<br>Mummy | ![icon](../../assets/mobiles/shade.png)<br>Shade |
+| ![icon](../../assets/mobiles/skeleton.png)<br>Skeleton | ![icon](../../assets/mobiles/skeletal-knight.png)<br>Skeletal Knight | ![icon](../../assets/mobiles/spectre.png)<br>Spectre | ![icon](../../assets/mobiles/wraith.png)<br>Wraith | ![icon](../../assets/mobiles/zombie.png)<br>Zombie |
 
-### Level 5
+## Level 4
 
-- **Creatures:** Dragons, drakes 
-- **Difficulty:** Very hard
+![image](../../assets/screenshots/covetous-lvl-4.png)
 
-## Notable Features
+|  Mobs   |                |        |          |
+|:-------:|:--------------:|:------:|:--------:|
+| ![icon](../../assets/mobiles/mummy.png)<br>Mummy | ![icon](../../assets/mobiles/rotting-corpse.png)<br>Rotting Corpse | ![icon](../../assets/mobiles/shade.png)<br>Shade | ![icon](../../assets/mobiles/skeleton.png)<br>Skeleton |
+| ![icon](../../assets/mobiles/spectre.png)<br>Spectre | ![icon](../../assets/mobiles/wraith.png)<br>Wraith | ![icon](../../assets/mobiles/zombie.png)<br>Zombie |  |
 
-- Near Vesper (convenient)
-- Good gold per hour
-- Mix of creature types
-- Numerous traps
-- Treasure chest spawns
+## Level 5
 
-## Tips
+![image](../../assets/screenshots/covetous-lvl-5.png)
 
-!!! tip "Covetous Strategy"
-    - Excellent for bard farming
-    - Good gold from elder gazers
-    - Watch for traps
-    - Popular farming spot 
-
----
-
-**Seek fortune in the depths of Covetous!**
+|  Mobs  |       |           |
+|:------:|:-----:|:---------:|
+| ![icon](../../assets/mobiles/dragon.png)<br>Dragon | ![icon](../../assets/mobiles/drake.png)<br>Drake | ![icon](../../assets/mobiles/nightmare.png)<br>Nightmare |
