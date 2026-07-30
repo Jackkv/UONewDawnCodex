@@ -1,53 +1,52 @@
 # Shame
 
-An elemental-themed dungeon featuring earth elementals and other creatures.
+## Entrance
 
-## Overview
+![image](../../assets/screenshots/shame-entrance.png)
 
-Shame is a multi-level dungeon known for its many levels full of elementals. It's a popular spot for mid to high-level adventurers.
+Coordinates 513, 1561
 
-## Levels
+## Level 1
 
-### Level 1
+![image](../../assets/screenshots/shame-lvl-1.png)
 
-- **Creatures:** Earth elementals, giant scorpions
-- **Difficulty:** Easy
+|                                 Mobs                                 |                                                        |
+|:--------------------------------------------------------------------:|:------------------------------------------------------:|
+| ![icon](../../assets/mobiles/earth-elemental.png)<br>Earth Elemental | ![icon](../../assets/mobiles/scorpion.png)<br>Scorpion |
 
-### Level 2
+## Level 2
 
-- **Creatures:** Air elementals
-- **Difficulty:** Medium
+![image](../../assets/screenshots/shame-lvl-2.png)
 
-### Level 3
+|                               Mobs                               |                                                    |                                                              |                                                                      |
+|:----------------------------------------------------------------:|:--------------------------------------------------:|:------------------------------------------------------------:|:--------------------------------------------------------------------:|
+| ![icon](../../assets/mobiles/air-elemental.png)<br>Air Elemental | ![icon](../../assets/mobiles/kraken.png)<br>Kraken | ![icon](../../assets/mobiles/sea-serpent.png)<br>Sea Serpent | ![icon](../../assets/mobiles/water-elemental.png)<br>Water Elemental |
 
-- **Creatures:** Water elementals, evil mages
-- **Difficulty:** Medium
+## Level 3
 
-### Level 4
+![image](../../assets/screenshots/shame-lvl-3.png)
 
-- **Creatures:** Elder gazers
-- **Difficulty:** Hard
+|                                Mobs                                |                                                                      |                                                                        |                                                                    |
+|:------------------------------------------------------------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------------:|:------------------------------------------------------------------:|
+|        ![icon](../../assets/mobiles/brigand.png)<br>Brigand        | ![icon](../../assets/mobiles/earth-elemental.png)<br>Earth Elemental |        ![icon](../../assets/mobiles/evil-mage.png)<br>Evil Mage        | ![icon](../../assets/mobiles/evil-mage-lord.png)<br>Evil Mage Lord |
+| ![icon](../../assets/mobiles/fire-elemental.png)<br>Fire Elemental |          ![icon](../../assets/mobiles/kraken.png)<br>Kraken          | ![icon](../../assets/mobiles/poison-elemental.png)<br>Poison Elemental |       ![icon](../../assets/mobiles/scorpion.png)<br>Scorpion       |
+|    ![icon](../../assets/mobiles/sea-serpent.png)<br>Sea Serpent    |           ![icon](../../assets/mobiles/slime.png)<br>Slime           |  ![icon](../../assets/mobiles/water-elemental.png)<br>Water Elemental  |                                                                    |
 
-### Level 5
+## Level 4
 
-- **Creatures:** Blood elementals, poison elementals, acid elementals, elder gazers
-- **Difficulty:** Very hard
+![image](../../assets/screenshots/shame-lvl-4.png)
 
-## Notable Features
+|                             Mobs                             |
+|:------------------------------------------------------------:|
+| ![icon](../../assets/mobiles/elder-gazer.png)<br>Elder Gazer |
 
-- Rich in mining nodes and elementals
-- Kraken and sea serpents
-- Popular farming locations
-- Floor gates
+## Level 5
 
-## Tips
+![image](../../assets/screenshots/shame-lvl-5.png)
 
-!!! tip "Success in Shame"
-    - Watch for PKs
-    - Careful with scorpions poison
-    - Kraken will flamestrike
-    - Great gold from blood elementals and elder gazers
-
----
-
-**Master the elements in Shame!**
+|                                  Mobs                                  |                                                                  |                                                                      |                                                                      |
+|:----------------------------------------------------------------------:|:----------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|
+|   ![icon](../../assets/mobiles/acid-elemental.png)<br>Acid Elemental   | ![icon](../../assets/mobiles/air-elemental.png)<br>Air Elemental | ![icon](../../assets/mobiles/blood-elemental.png)<br>Blood Elemental | ![icon](../../assets/mobiles/earth-elemental.png)<br>Earth Elemental |
+|      ![icon](../../assets/mobiles/elder-gazer.png)<br>Elder Gazer      |     ![icon](../../assets/mobiles/evil-mage.png)<br>Evil Mage     |  ![icon](../../assets/mobiles/evil-mage-lord.png)<br>Evil Mage Lord  |  ![icon](../../assets/mobiles/fire-elemental.png)<br>Fire Elemental  |
+|      ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Snake      |  ![icon](../../assets/mobiles/giant-spider.png)<br>Giant Spider  |          ![icon](../../assets/mobiles/kraken.png)<br>Kraken          |       ![icon](../../assets/mobiles/nightmare.png)<br>Nightmare       |
+| ![icon](../../assets/mobiles/poison-elemental.png)<br>Poison Elemental |      ![icon](../../assets/mobiles/scorpion.png)<br>Scorpion      | ![icon](../../assets/mobiles/water-elemental.png)<br>Water Elemental |                                                                      |
