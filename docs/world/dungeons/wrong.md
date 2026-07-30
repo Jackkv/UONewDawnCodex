@@ -1,39 +1,27 @@
 # Wrong
 
-A treacherous dungeon featuring depraved beings and dangerous murderers.
+## Entrance
 
-## Overview
+![image](../../assets/screenshots/wrong-entrance.png)
 
-Wrong is a vile dungeon located to the west of New Minoc, known as a den of murderers and their monster companions. Its simple layout is suited to less experienced adventurers.
+Coordinates 2042, 217
 
-## Levels
+## Level 1
 
-### Level 1
+![image](../../assets/screenshots/wrong-lvl-1.png)
 
-- **Creatures:** Lizardmen, trolls, brigands
-- **Difficulty:** Easy
+|                       Mobs                       |                                                  |                                                  |                                                          |                                                      |
+|:------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------:|:----------------------------------------------------:|
+| ![icon](../../assets/mobiles/ettin.png)<br>Ettin | ![icon](../../assets/mobiles/harpy.png)<br>Harpy | ![icon](../../assets/mobiles/troll.png)<br>Troll | ![icon](../../assets/mobiles/lizardman.png)<br>Lizardman | ![icon](../../assets/mobiles/brigand.png)<br>Brigand |
 
-### Level 2
+## Level 2
 
-- **Creatures:** Executioners, ettins, brigands
-- **Difficulty:** Hard
+![image](../../assets/screenshots/wrong-lvl-2.png)
 
-## Notable Features
+|                       Mobs                       |                                                  |                                                      |                                                              |
+|:------------------------------------------------:|:------------------------------------------------:|:----------------------------------------------------:|:------------------------------------------------------------:|
+| ![icon](../../assets/mobiles/ettin.png)<br>Ettin | ![icon](../../assets/mobiles/troll.png)<br>Troll | ![icon](../../assets/mobiles/brigand.png)<br>Brigand | ![icon](../../assets/mobiles/executioner.png)<br>Executioner |
 
-- West of New Minoc
-- Evil executioners
-- Features humanoids of various types
-- Relatively small
-- Dangerous traps
+## Level 3
 
-## Tips
-
-!!! tip "Wrong Strategy"
-    - Excellent for summoner farming
-    - Executioners deal extremely high melee damage
-    - Be wary of traps, especially in the executioners room
-    - Look out for hidden doors 
-
----
-
-**Purify those lost souls who chose Wrong!**
+![image](../../assets/screenshots/wrong-lvl-3.png)
