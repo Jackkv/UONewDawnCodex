@@ -1,34 +1,17 @@
 # Terathan Keep
 
-A vile dungeon featuring many of the most dangerous monsters in all of Britannia.
+## Entrance
 
-## Overview
+![image](../../assets/screenshots/terathan-keep-entrance.png)
 
-Terathan Keep is a hazardous dungeon located far to the west of Trinsic, known for the unending war between the spider-like terathan inhabitants and their serpentine ophidian foes. The new entrance mysteriously emerged from the southern tip of the Dragonhame mountains. It will only appeal to the most experienced and bold of adventurers.
+Coordinates 1488, 2968
 
-## Levels
+## Level 1
 
-### Level 1
+![image](../../assets/screenshots/terathan-keep-lvl-1.png)
 
-- **Creatures:** Terathans, ophidians, balrons, dragons, drakes
-- **Difficulty:** Very hard
-
-## Notable Features
-
-- West of Trinsic 
-- One massive level
-- Mix of creature types
-- War between the terathans and ophidians
-- Extreme danger
-
-## Tips
-
-!!! tip "Terathan Keep Strategy"
-    - Excellent for bard farming
-    - Exploit the war between the spiders and snakes
-    - Be prepared for poison and high damage monsters
-    - Star room access from the swamp altar
-
----
-
-**Beware the toxins of Terathan Keep!**
+|                                    Mobs                                    |                                                                                        |                                                                                    |                                                                        |                                                                      |
+|:--------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|:----------------------------------------------------------------------:|:--------------------------------------------------------------------:|
+|             ![icon](../../assets/mobiles/balron.png)<br>Balron             |       ![icon](../../assets/mobiles/terathan-matriarch.png)<br>Terathan Matriarch       |       ![icon](../../assets/mobiles/terathan-avenger.png)<br>Terathan Avenger       | ![icon](../../assets/mobiles/terathan-warrior.png)<br>Terathan Warrior |  ![icon](../../assets/mobiles/terathan-drone.png)<br>Terathan Drone  |
+| ![icon](../../assets/mobiles/ophidian-matriarch.png)<br>Ophidian Matriarch | ![icon](../../assets/mobiles/ophidian-apprentice-mage.png)<br>Ophidian Apprentice Mage |      ![icon](../../assets/mobiles/ophidian-justicar.png)<br>Ophidian Justicar      |  ![icon](../../assets/mobiles/ophidian-shaman.png)<br>Ophidian Shaman  | ![icon](../../assets/mobiles/ophidian-zealot.png)<br>Ophidian Zealot |
+|   ![icon](../../assets/mobiles/ophidian-avenger.png)<br>Ophidian Avenger   |        ![icon](../../assets/mobiles/ophidian-enforcer.png)<br>Ophidian Enforcer        | ![icon](../../assets/mobiles/ophidian-knight-errant.png)<br>Ophidian Knight-Errant | ![icon](../../assets/mobiles/ophidian-warrior.png)<br>Ophidian Warrior |                                                                      |
