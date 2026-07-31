@@ -137,6 +137,13 @@ nav:
         - Shame: world/dungeons/shame.md
         - Terathan Keep: world/dungeons/terathan-keep.md
         - Wrong: world/dungeons/wrong.md
+      - Champions:
+        - Barracoon: world/champions/barracoon.md
+        - Mephitis: world/champions/mephitis.md
+        - Neira: world/champions/neira.md
+        - Oaks: world/champions/oaks.md
+        - Rikktor: world/champions/rikktor.md
+        - Semidar: world/champions/semidar.md
       # - Bestiary: world/bestiary.md
     - Game Mechanics:
       - Items & Equipment:
