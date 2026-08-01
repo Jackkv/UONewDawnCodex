@@ -1,4 +1,4 @@
-# Neira
+# Neira the Necromancer
 
 ![image](../../assets/mobiles/neira.png)
 

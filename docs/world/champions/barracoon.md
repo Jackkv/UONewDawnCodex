@@ -1,4 +1,4 @@
-# Barracoon
+# Barracoon the Piper
 
 ![image](../../assets/mobiles/barracoon.png)
 
