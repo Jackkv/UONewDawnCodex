@@ -2,7 +2,9 @@
 
 ![image](../../assets/mobiles/mephitis.png)
 
-When Mephitis is defeated, it rewards [Champion Tokens](../../game-mechanics/currencies.md#champion-tokens) along with one of the six skulls needed to activate the [Harrower](harrower.md).
+When Mephitis is defeated, it rewards [Champion Tokens](../../game-mechanics/currencies.md#champion-tokens) and the Skull of Venom.
+
+Each champion rewards a different skull, all six are required to summon [The Harrower](the-harrower.md).
 
 ## Location
 

@@ -2,7 +2,9 @@
 
 ![image](../../assets/mobiles/rikktor.png)
 
-When Rikktor is defeated, it rewards [Champion Tokens](../../game-mechanics/currencies.md#champion-tokens) along with one of the six skulls needed to activate the [Harrower](harrower.md).
+When Rikktor is defeated, it rewards [Champion Tokens](../../game-mechanics/currencies.md#champion-tokens) and the Skull of Power.
+
+Each champion rewards a different skull, all six are required to summon [The Harrower](the-harrower.md).
 
 ## Location
 
