@@ -39,3 +39,5 @@ Level 2 is the actual entrance. Going up takes you to Level 1, and going down ta
 | ![icon](../../assets/mobiles/ratman.png)<br>Ratman | ![icon](../../assets/mobiles/ratman-archer.png)<br>Ratman Archer | ![icon](../../assets/mobiles/ratman-mage.png)<br>Ratman Mage | ![icon](../../assets/mobiles/slime.png)<br>Slime |                                                                    |
 
 ### Barracoon
+
+Despise is the home of the [Barracoon](../champions/barracoon.md) champion.

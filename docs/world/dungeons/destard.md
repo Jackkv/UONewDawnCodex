@@ -17,6 +17,8 @@ Coordinates 1176, 2637
 
 ### Rikktor
 
+Destard is the home of the [Rikktor](../champions/rikktor.md) champion.
+
 ## Level 2
 
 ![image](../../assets/screenshots/destard-lvl-2.png)

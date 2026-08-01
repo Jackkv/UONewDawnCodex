@@ -35,6 +35,8 @@ Coordinates 4111, 432
 
 ### Neira
 
+Deceit is the home of the [Neira](../champions/neira.md) champion.
+
 ## Level 4
 
 ![image](../../assets/screenshots/deceit-lvl-4.png)
