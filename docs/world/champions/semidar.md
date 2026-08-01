@@ -8,7 +8,7 @@ When Semidar is defeated, it rewards [Champion Tokens](../../game-mechanics/curr
 
 ![image](../../assets/screenshots/fire-lvl-1.png)
 
-The Semidar altar is found on the first level of the [Fire](../dungeons/fire.md) dungeon.
+The Semidar altar can be found on the first level of the [Fire](../dungeons/fire.md) dungeon.
 
 ## Activation
 

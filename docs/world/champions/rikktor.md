@@ -8,7 +8,7 @@ When Rikktor is defeated, it rewards [Champion Tokens](../../game-mechanics/curr
 
 ![image](../../assets/screenshots/destard-lvl-1.png)
 
-The Rikktor altar is found on the first level of the [Destard](../dungeons/destard.md) dungeon.
+The Rikktor altar can be found on the first level of the [Destard](../dungeons/destard.md) dungeon.
 
 ## Activation
 

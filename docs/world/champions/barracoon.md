@@ -8,7 +8,7 @@ When Barracoon is defeated, it rewards [Champion Tokens](../../game-mechanics/cu
 
 ![image](../../assets/screenshots/despise-lvl-4.png)
 
-The Barracoon altar is found on the fourth level of the [Despise](../dungeons/despise.md) dungeon.
+The Barracoon altar can be found on the fourth level of the [Despise](../dungeons/despise.md) dungeon.
 
 ## Activation
 

@@ -8,7 +8,7 @@ When Neira is defeated, it rewards [Champion Tokens](../../game-mechanics/curren
 
 ![image](../../assets/screenshots/deceit-lvl-3.png)
 
-The Neira altar is found on the third level of the [Deceit](../dungeons/deceit.md) dungeon.
+The Neira altar can be found on the third level of the [Deceit](../dungeons/deceit.md) dungeon.
 
 ## Activation
 
