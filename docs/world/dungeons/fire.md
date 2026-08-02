@@ -1,10 +1,18 @@
 # Fire
 
+## Dungeon Dye
+
+Monsters inside a dungeon have a rare chance to drop a [Dungeon Dye Material](../../custom-systems/dungeon-dyes.md), each dungeon has its own dye.
+
+| Dye Material | Dye Name       | Hue                               |
+|--------------|----------------|-----------------------------------|
+| Cinderstone  | Inferno Orange | [2470](../../hues/hue.md?id=2470) |
+
 ## Entrance
 
 ![image](../../assets/screenshots/fire-entrance.png)
 
-Coordinates 2923, 3406
+Coordinates 2923, 3406.
 
 ## Level 1
 

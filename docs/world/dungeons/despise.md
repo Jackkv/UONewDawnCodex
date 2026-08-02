@@ -1,10 +1,18 @@
 # Despise
 
+## Dungeon Dye
+
+Monsters inside a dungeon have a rare chance to drop a [Dungeon Dye Material](../../custom-systems/dungeon-dyes.md), each dungeon has its own dye.
+
+| Dye Material | Dye Name   | Hue                               |
+|--------------|------------|-----------------------------------|
+| Thorny Vine  | Envy Green | [2163](../../hues/hue.md?id=2163) |
+
 ## Entrance
 
 ![image](../../assets/screenshots/despise-entrance.png)
 
-Coordinates 1298, 1081
+Coordinates 1298, 1081.
 
 ## Level 1
 

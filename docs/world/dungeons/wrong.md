@@ -1,10 +1,18 @@
 # Wrong
 
+## Dungeon Dye
+
+Monsters inside a dungeon have a rare chance to drop a [Dungeon Dye Material](../../custom-systems/dungeon-dyes.md), each dungeon has its own dye.
+
+| Dye Material   | Dye Name      | Hue                               |
+|----------------|---------------|-----------------------------------|
+| Ironweight Ore | Judgment Blue | [2154](../../hues/hue.md?id=2154) |
+
 ## Entrance
 
 ![image](../../assets/screenshots/wrong-entrance.png)
 
-Coordinates 2042, 217
+Coordinates 2042, 217.
 
 ## Level 1
 

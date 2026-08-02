@@ -1,10 +1,18 @@
 # Deceit
 
+## Dungeon Dye
+
+Monsters inside a dungeon have a rare chance to drop a [Dungeon Dye Material](../../custom-systems/dungeon-dyes.md), each dungeon has its own dye.
+
+| Dye Material   | Dye Name     | Hue                               |
+|----------------|--------------|-----------------------------------|
+| Illusion Shard | Phantom Gray | [2165](../../hues/hue.md?id=2165) |
+
 ## Entrance
 
 ![image](../../assets/screenshots/deceit-entrance.png)
 
-Coordinates 4111, 432
+Coordinates 4111, 432.
 
 ## Level 1
 

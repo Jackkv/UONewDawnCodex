@@ -1,10 +1,18 @@
 # Ice
 
+## Dungeon Dye
+
+Monsters inside a dungeon have a rare chance to drop a [Dungeon Dye Material](../../custom-systems/dungeon-dyes.md), each dungeon has its own dye.
+
+| Dye Material   | Dye Name     | Hue                               |
+|----------------|--------------|-----------------------------------|
+| Glacial Shards | Glacial Blue | [2579](../../hues/hue.md?id=2579) |
+
 ## Entrance
 
 ![image](../../assets/screenshots/ice-entrance.png)
 
-Coordinates 1998, 81
+Coordinates 1998, 81.
 
 ## Level 1
 

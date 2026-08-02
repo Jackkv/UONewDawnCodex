@@ -1,10 +1,18 @@
 # Destard
 
+## Dungeon Dye
+
+Monsters inside a dungeon have a rare chance to drop a [Dungeon Dye Material](../../custom-systems/dungeon-dyes.md), each dungeon has its own dye.
+
+| Dye Material      | Dye Name           | Hue                               |
+|-------------------|--------------------|-----------------------------------|
+| Dragon Blood Opal | Dragon's Scale Red | [2139](../../hues/hue.md?id=2139) |
+
 ## Entrance
 
 ![image](../../assets/screenshots/destard-entrance.png)
 
-Coordinates 1176, 2637
+Coordinates 1176, 2637.
 
 ## Level 1
 

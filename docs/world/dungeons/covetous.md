@@ -1,10 +1,18 @@
 # Covetous
 
+## Dungeon Dye
+
+Monsters inside a dungeon have a rare chance to drop a [Dungeon Dye Material](../../custom-systems/dungeon-dyes.md), each dungeon has its own dye.
+
+| Dye Material | Dye Name   | Hue                               |
+|--------------|------------|-----------------------------------|
+| Shimmerstone | Aurum Gold | [2132](../../hues/hue.md?id=2132) |
+
 ## Entrance
 
 ![image](../../assets/screenshots/covetous-entrance.png)
 
-Coordinates 2499, 917
+Coordinates 2499, 917.
 
 ## Level 1
 

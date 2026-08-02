@@ -1,10 +1,18 @@
 # Hythloth
 
+## Dungeon Dye
+
+Monsters inside a dungeon have a rare chance to drop a [Dungeon Dye Material](../../custom-systems/dungeon-dyes.md), each dungeon has its own dye.
+
+| Dye Material | Dye Name      | Hue                               |
+|--------------|---------------|-----------------------------------|
+| Shadow Stone | Abyssal Black | [2724](../../hues/hue.md?id=2724) |
+
 ## Entrance
 
 ![image](../../assets/screenshots/hythloth-entrance.png)
 
-Coordinates 4722, 3815
+Coordinates 4722, 3815.
 
 ## Level 1
 
