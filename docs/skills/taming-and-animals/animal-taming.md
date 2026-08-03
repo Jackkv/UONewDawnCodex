@@ -104,6 +104,18 @@ Missing creatures
 
 Even at GM, you still have a 5% chance of successfully taming a Dragon, White Wyrm or Drake. The message "You seem to anger the Beast" will reflect that.
 
+## Nightmares
+
+Nightmares spawn on a timer between 12 and 24 hours in specific locations only.
+
+The coordinates show only the general spawn areas, not exact locations.
+
+- Covetous lvl 5, Coordinates 5453, 1802.
+- Fire lvl 2, Coordinates 5723, 1334.
+- Shame lvl 5, Coordinates 5666, 13.
+- Temple island, Coordinates 2493, 3590.
+- Hedge Maze, Coordinates 1146, 2215.
+
 ## Bonding
 
 All players start with one bond slot. Feed the pet you want to bond, after the message "You begin bonding with your pet." appears, stable the pet for 24 hours and then feed it again to bond it.
