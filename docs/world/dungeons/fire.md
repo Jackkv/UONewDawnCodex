@@ -29,6 +29,8 @@ Coordinates 2923, 3406.
 
 ### Semidar
 
+![image](../../assets/mobiles/semidar.png)
+
 Fire is the home of the [Semidar](../champions/semidar.md) champion.
 
 ## Level 2

@@ -48,4 +48,6 @@ Level 2 is the actual entrance. Going up takes you to Level 1, and going down ta
 
 ### Barracoon
 
+![image](../../assets/mobiles/barracoon.png)
+
 Despise is the home of the [Barracoon](../champions/barracoon.md) champion.

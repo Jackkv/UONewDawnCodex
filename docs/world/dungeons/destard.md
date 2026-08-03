@@ -25,6 +25,8 @@ Coordinates 1176, 2637.
 
 ### Rikktor
 
+![image](../../assets/mobiles/rikktor.png)
+
 Destard is the home of the [Rikktor](../champions/rikktor.md) champion.
 
 ## Level 2
