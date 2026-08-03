@@ -28,24 +28,26 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Furniture"
 
-    |                                   Item                                   |            Resources             | Dyeable |              Skill               |
-    |:------------------------------------------------------------------------:|:--------------------------------:|:-------:|:--------------------------------:|
-    |         ![icon](../../assets/items/foot-stool.png)<br>Foot Stool         |         9 Boards or Logs         |   yes   |          11.0 Carpentry          |
-    |              ![icon](../../assets/items/stool.png)<br>Stool              |         9 Boards or Logs         |   yes   |          11.0 Carpentry          |
-    |        ![icon](../../assets/items/straw-chair.png)<br>Straw Chair        |        13 Boards or Logs         |   yes   |          21.0 Carpentry          |
-    |       ![icon](../../assets/items/wooden-chair.png)<br>Wooden Chair       |        13 Boards or Logs         |   yes   |          21.0 Carpentry          |
-    |    ![icon](../../assets/items/vesper-chair.png)<br>Vesper Style Chair    |        15 Boards or Logs         |   yes   |          42.1 Carpentry          |
-    |   ![icon](../../assets/items/trinsic-chair.png)<br>Trinsic Style Chair   |        15 Boards or Logs         |   yes   |          42.1 Carpentry          |
-    |       ![icon](../../assets/items/wooden-bench.png)<br>Wooden Bench       |        17 Boards or Logs         |   yes   |          52.6 Carpentry          |
-    |      ![icon](../../assets/items/wooden-throne.png)<br>Wooden Throne      |        17 Boards or Logs         |   yes   |          52.6 Carpentry          |
-    | ![icon](../../assets/items/magincia-throne.png)<br>Magincia Style Throne |        19 Boards or Logs         |   yes   |          73.6 Carpentry          |
-    |        ![icon](../../assets/items/small-table.png)<br>Small Table        |        17 Boards or Logs         |   yes   |          42.1 Carpentry          |
-    |      ![icon](../../assets/items/writing-table.png)<br>Writing Table      |        17 Boards or Logs         |   yes   |          63.1 Carpentry          |
-    |        ![icon](../../assets/items/large-table.png)<br>Large Table        |        23 Boards or Logs         |   yes   |          63.1 Carpentry          |
-    |     ![icon](../../assets/items/yew-wood-table.png)<br>Yew-Wood Table     |        27 Boards or Logs         |   yes   |          84.2 Carpentry          |
-    |            ![icon](../../assets/items/counter.png)<br>Counter            |        22 Boards or Logs         |   no    |          84.2 Carpentry          |
-    |    ![icon](../../assets/items/counter-purple.png)<br>Counter (Purple)    | 22 Oak Boards or Logs<br>5 Cloth |   no    | 88.6 Carpentry<br>84.2 Tailoring |
-    |     ![icon](../../assets/items/counter-green.png)<br>Counter (Green)     | 22 Oak Boards or Logs<br>5 Cloth |   no    | 88.6 Carpentry<br>84.2 Tailoring |
+    |                                        Item                                        |            Resources             | Dyeable |              Skill               |
+    |:----------------------------------------------------------------------------------:|:--------------------------------:|:-------:|:--------------------------------:|
+    |              ![icon](../../assets/items/foot-stool.png)<br>Foot Stool              |         9 Boards or Logs         |   yes   |          11.0 Carpentry          |
+    |                   ![icon](../../assets/items/stool.png)<br>Stool                   |         9 Boards or Logs         |   yes   |          11.0 Carpentry          |
+    |             ![icon](../../assets/items/straw-chair.png)<br>Straw Chair             |        13 Boards or Logs         |   yes   |          21.0 Carpentry          |
+    |            ![icon](../../assets/items/wooden-chair.png)<br>Wooden Chair            |        13 Boards or Logs         |   yes   |          21.0 Carpentry          |
+    |         ![icon](../../assets/items/vesper-chair.png)<br>Vesper Style Chair         |        15 Boards or Logs         |   yes   |          42.1 Carpentry          |
+    |        ![icon](../../assets/items/trinsic-chair.png)<br>Trinsic Style Chair        |        15 Boards or Logs         |   yes   |          42.1 Carpentry          |
+    |            ![icon](../../assets/items/wooden-bench.png)<br>Wooden Bench            |        17 Boards or Logs         |   yes   |          52.6 Carpentry          |
+    |           ![icon](../../assets/items/wooden-throne.png)<br>Wooden Throne           |        17 Boards or Logs         |   yes   |          52.6 Carpentry          |
+    |      ![icon](../../assets/items/magincia-throne.png)<br>Magincia Style Throne      |        19 Boards or Logs         |   yes   |          73.6 Carpentry          |
+    |             ![icon](../../assets/items/small-table.png)<br>Small Table             |        17 Boards or Logs         |   yes   |          42.1 Carpentry          |
+    |           ![icon](../../assets/items/writing-table.png)<br>Writing Table           |        17 Boards or Logs         |   yes   |          63.1 Carpentry          |
+    |             ![icon](../../assets/items/large-table.png)<br>Large Table             |        23 Boards or Logs         |   yes   |          63.1 Carpentry          |
+    |          ![icon](../../assets/items/yew-wood-table.png)<br>Yew-Wood Table          |        27 Boards or Logs         |   yes   |          84.2 Carpentry          |
+    |                 ![icon](../../assets/items/counter.png)<br>Counter                 |      22 Oak Boards or Logs       |   no    |          84.2 Carpentry          |
+    |        ![icon](../../assets/items/counter-top-only.png)<br>Counter Top Only        |      22 Oak Boards or Logs       |   no    |          84.2 Carpentry          |
+    |         ![icon](../../assets/items/counter-purple.png)<br>Counter (Purple)         | 22 Oak Boards or Logs<br>5 Cloth |   no    | 88.6 Carpentry<br>84.2 Tailoring |
+    |          ![icon](../../assets/items/counter-green.png)<br>Counter (Green)          | 22 Oak Boards or Logs<br>5 Cloth |   no    | 88.6 Carpentry<br>84.2 Tailoring |
+    | ![icon](../../assets/items/counter-top-only-green.png)<br>Counter Top Only (Green) | 22 Oak Boards or Logs<br>5 Cloth |   no    | 88.6 Carpentry<br>84.2 Tailoring |
 
 === "Containers"
 
@@ -84,17 +86,19 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Misc. Add-Ons"
 
-    |                                 Item                                  |            Resources            | Dyeable |              Skill               |
-    |:---------------------------------------------------------------------:|:-------------------------------:|:-------:|:--------------------------------:|
-    | ![icon](../../assets/items/small-bed-south.png)<br>Small Bed (south)  | 100 Boards or Logs<br>100 Cloth |   no    | 94.7 Carpentry<br>75.0 Tailoring |
-    |  ![icon](../../assets/items/small-bed-east.png)<br>Small Bed (east)   | 100 Boards or Logs<br>100 Cloth |   no    | 94.7 Carpentry<br>75.0 Tailoring |
-    | ![icon](../../assets/items/large-bed-south.png)<br>Large Bed (south)  | 150 Boards or Logs<br>150 Cloth |   no    | 94.7 Carpentry<br>75.0 Tailoring |
-    |  ![icon](../../assets/items/large-bed-east.png)<br>Large Bed  (east)  | 150 Boards or Logs<br>150 Cloth |   no    | 94.7 Carpentry<br>75.0 Tailoring |
-    | ![icon](../../assets/items/dartboard-south.png)<br>Dart Board (south) |        5 Boards or Logs         |   no    |          15.7 Carpentry          |
-    |  ![icon](../../assets/items/dartboard-east.png)<br>Dart Board (east)  |        5 Boards or Logs         |   no    |          15.7 Carpentry          |
-    |       ![icon](../../assets/items/ballot-box.png)<br>Ballot Box        |        10 Boards or Logs        |   no    |          47.3 Carpentry          |
-    |        ![icon](../../assets/items/pentagram.png)<br>Pentagram         | 100 Boards or Logs<br>40 Ingots |   no    |  100.0 Carpentry<br>75.0 Magery  |
-    |         ![icon](../../assets/items/abattoir.png)<br>Abattoir          | 100 Boards or Logs<br>40 Ingots |   no    |  100.0 Carpentry<br>50.0 Magery  |
+    |                                    Item                                    |             Resources             | Dyeable |              Skill               |
+    |:--------------------------------------------------------------------------:|:---------------------------------:|:-------:|:--------------------------------:|
+    |    ![icon](../../assets/items/small-bed-south.png)<br>Small Bed (south)    |  100 Boards or Logs<br>100 Cloth  |   no    | 94.7 Carpentry<br>75.0 Tailoring |
+    |     ![icon](../../assets/items/small-bed-east.png)<br>Small Bed (east)     |  100 Boards or Logs<br>100 Cloth  |   no    | 94.7 Carpentry<br>75.0 Tailoring |
+    |    ![icon](../../assets/items/large-bed-south.png)<br>Large Bed (south)    |  150 Boards or Logs<br>150 Cloth  |   no    | 94.7 Carpentry<br>75.0 Tailoring |
+    |    ![icon](../../assets/items/large-bed-east.png)<br>Large Bed  (east)     |  150 Boards or Logs<br>150 Cloth  |   no    | 94.7 Carpentry<br>75.0 Tailoring |
+    |   ![icon](../../assets/items/dartboard-south.png)<br>Dart Board (south)    |         5 Boards or Logs          |   no    |          15.7 Carpentry          |
+    |    ![icon](../../assets/items/dartboard-east.png)<br>Dart Board (east)     |         5 Boards or Logs          |   no    |          15.7 Carpentry          |
+    |          ![icon](../../assets/items/ballot-box.png)<br>Ballot Box          |         10 Boards or Logs         |   no    |          47.3 Carpentry          |
+    |           ![icon](../../assets/items/pentagram.png)<br>Pentagram           |  100 Boards or Logs<br>40 Ingots  |   no    |  100.0 Carpentry<br>75.0 Magery  |
+    |            ![icon](../../assets/items/abattoir.png)<br>Abattoir            |  100 Boards or Logs<br>40 Ingots  |   no    |  100.0 Carpentry<br>50.0 Magery  |
+    |        ![icon](../../assets/items/water-barrel.png)<br>Water Barrel        | 5 Barrel Staves<br>2 Barrel Hoops |   no    |          57.8 Carpentry          |
+    | ![icon](../../assets/items/water-barrel-short.png)<br>Water Barrel (short) | 3 Barrel Staves<br>1 Barrel Hoops |   no    |          57.8 Carpentry          |
 
 === "Blacksmithing"
 
