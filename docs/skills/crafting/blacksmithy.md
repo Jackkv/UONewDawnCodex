@@ -141,12 +141,12 @@ The BOD 6-hour time limit applies to your whole account.
 |  650   |                      Random Blacksmith Case (1 of 4) (100%)                       |
 |  675   |                               Colored Anvil (100%)                                |
 |  700   |                                        TBD                                        |
-|  750   |                            Ancient Hammer (+5) (100%)                             |
-|  850   |                            Ancient Hammer (+10) (100%)                            |
+|  750   |                            Ancient Hammer (+2) (100%)                             |
+|  850   |                            Ancient Hammer (+5) (100%)                             |
 |  950   |                            Runic Hammer (Gold) (100%)                             |
-|  1000  |                            Ancient Hammer (+15) (100%)                            |
+|  1000  |                            Ancient Hammer (+8) (100%)                             |
 |  1050  |                           Runic Hammer (Agapite) (100%)                           |
-|  1100  |                            Ancient Hammer (+20) (100%)                            |
+|  1100  |                            Ancient Hammer (+10) (100%)                            |
 |  1150  |                           Runic Hammer (Verite) (100%)                            |
 |  1200  |                          Runic Hammer (Valorite) (100%)                           |
 
