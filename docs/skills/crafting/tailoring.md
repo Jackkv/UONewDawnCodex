@@ -227,6 +227,10 @@ To purchase one, you must first join the Tailor guild. You can join by using the
 
 Once you're a member, you can obtain the Tailor Dye Kit by giving 10.000 gold to a Grandmaster Tailor NPC.
 
+## Tailoring kits
+
+Tailoring kits are obtained through BOD rewards ([650 points](#tailoring-deco)), they can be used to check the durability of an item.
+
 ## Bulk order deeds
 
 A minimum skill of 70.1 (real) is required to get a BOD.
@@ -277,7 +281,7 @@ Available sandal hues: 1243, 1321, 1207, 1352, 1534, 1416, 1505, 1621
 
 #### Tailoring Deco
 
-You have a 50% chance to roll 1 of 4 hanging clothes. The other 50% will roll 1 of 2 tailoring kids.
+You have a 50% chance to roll 1 of 4 hanging clothes. The other 50% will roll 1 of 2 tailoring kits.
 
 #### Ore Mask Dyes
 
