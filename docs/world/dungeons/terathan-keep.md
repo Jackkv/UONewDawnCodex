@@ -4,7 +4,7 @@
 
 ![image](../../assets/screenshots/terathan-keep-entrance.png)
 
-Coordinates 1488, 2968
+Coordinates 1488, 2968.
 
 ## Level 1
 

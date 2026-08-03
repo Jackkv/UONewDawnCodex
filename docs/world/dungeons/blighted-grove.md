@@ -4,7 +4,7 @@
 
 ![image](../../assets/screenshots/blighted-grove-entrance.png)
 
-Coordinates 588, 1639
+Coordinates 588, 1639.
 
 ## Level 1
 

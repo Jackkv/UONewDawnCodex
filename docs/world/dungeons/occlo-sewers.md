@@ -4,7 +4,7 @@
 
 ![image](../../assets/screenshots/occlo-sewers-entrance.png)
 
-Coordinates 3600, 2491
+Coordinates 3600, 2491.
 
 ## Level 1
 

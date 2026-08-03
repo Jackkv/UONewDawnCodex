@@ -4,7 +4,7 @@
 
 ![image](../../assets/screenshots/painted-caves-entrance.png)
 
-Coordinates 1716, 2997
+Coordinates 1716, 2997.
 
 ## Level 1
 
