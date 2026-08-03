@@ -116,6 +116,21 @@ These are all the weapons and armor you can craft.
 
 To craft a repair deed you will need a blank scroll, use your tool, click repair and target the scroll.
 
+## Runic hammers
+
+Runic Hammers are obtained through BOD rewards, the enchantments only apply to weapons.
+
+|   Hammer    |                Prefixes/Suffixes                 |                       Effect                        |
+|:-----------:|:------------------------------------------------:|:---------------------------------------------------:|
+| Dull Copper |                 Durable Accurate                 |        +5 to item Health<br>+5.0 to Tactics         |
+|   Shadow    |                 Durable of Ruin                  |           +5 to item Health<br>+1 damage            |
+|   Copper    |     Fortified Surpassingly Accurate of Ruin      | +20 to item Health<br>+10.0 to Tactics<br>+1 damage |
+|   Bronze    |     Fortified Surpassingly Accurate of Might     | +20 to item Health<br>+10.0 to Tactics<br>+3 damage |
+|    Gold     |    Indestructible Eminently Accurate of Force    | +25 to item Health<br>+15.0 to Tactics<br>+5 damage |
+|   Agapite   |    Indestructible Eminently Accurate of Power    | +25 to item Health<br>+15.0 to Tactics<br>+7 damage |
+|   Verite    |   Indestructible Exceedingly Accurate of Power   | +25 to item Health<br>+20.0 to Tactics<br>+7 damage |
+|  Valorite   | Indestructible Supremely Accurate of Vanquishing | +25 to item Health<br>+25.0 to Tactics<br>+9 damage |
+
 ## Bulk order deeds
 
 A minimum skill of 70.1 (real) is required to get a BOD.
