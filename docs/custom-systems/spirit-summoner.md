@@ -16,7 +16,7 @@ Once both conditions are met, every summoning spell you cast is enhanced through
 As you approach the requirements, the system provides feedback:
 
 | Closeness to Qualifying          | Message                                   |
-| -------------------------------- | ----------------------------------------- |
+|----------------------------------|-------------------------------------------|
 | Spirit Speak within 10 of Magery | _"You sense restless spirits nearby..."_  |
 | Spirit Speak within 6 of Magery  | _"Ghostly whispers swirl around you..."_  |
 | Spirit Speak within 3 of Magery  | _"The veil between worlds grows thin..."_ |
@@ -28,7 +28,7 @@ As you approach the requirements, the system provides feedback:
 Spirit Summoner summons use a Spirit Speak-based duration formula instead of the fixed durations normal mages receive:
 
 | Spirit Speak | Duration    |
-| ------------ | ----------- |
+|--------------|-------------|
 | 50           | 6 minutes   |
 | 60           | 6.8 minutes |
 | 70           | 7.6 minutes |
@@ -61,7 +61,7 @@ Both 5th circle and 8th circle summons use the same scaler value. The only diffe
 ### Stat Scaler by Animal Lore
 
 | Animal Lore | Stat Scaler | Result (% boost to all stats/skills) |
-| ----------- | ----------- | ------------------------------------ |
+|-------------|-------------|--------------------------------------|
 | 0           | 0.00        | +0%                                  |
 | 25          | 0.0875      | +8.75%                               |
 | 50          | 0.175       | +17.5%                               |
@@ -75,10 +75,10 @@ Both 5th circle and 8th circle summons use the same scaler value. The only diffe
 When a Spirit Summoner casts the 5th circle Summon Creature spell, the game picks randomly from a special pool of spirit creatures instead of the standard summons. All spirit creatures are summoned with 1 control slot and use the Spirit Speak duration formula.
 
 | Creature       | Notable Ability                                                               |
-| -------------- | ----------------------------------------------------------------------------- |
+|----------------|-------------------------------------------------------------------------------|
 | Polar Bear     | —                                                                             |
 | Panther        | —                                                                             |
-| Giant Serpent  | 80% chance to inflict Greater or Deadly poison on hit                         |
+| Giant Snake    | 80% chance to inflict Greater or Deadly poison on hit                         |
 | Imp            | —                                                                             |
 | Spiritual Soul | —                                                                             |
 | Scorpion       | 80% chance to inflict Greater or Deadly poison on hit; Poisoning skill 80–100 |
@@ -94,7 +94,7 @@ Spirit Summoners' 8th circle summons (Air Elemental, Earth Elemental, Fire Eleme
 ### Spirit Hues
 
 | Creature        | Hue  |
-| --------------- | ---- |
+|-----------------|------|
 | Daemon          | 2152 |
 | Earth Elemental | 2191 |
 | Fire Elemental  | 2191 |
@@ -161,7 +161,7 @@ This is working as designed. If you want controllable summons, use 5th or 8th ci
 ## Comparison: Spirit Summoner vs. Standard Mage
 
 | Aspect                   | Standard Mage             | Spirit Summoner                |
-| ------------------------ | ------------------------- | ------------------------------ |
+|--------------------------|---------------------------|--------------------------------|
 | 5th Circle Summons       | Random standard creatures | Unique spirit creature pool    |
 | 8th Circle Stats         | Base stats                | +35% at GM Animal Lore         |
 | 8th Circle Duration      | Fixed                     | 6–10 min (Spirit Speak scaled) |
@@ -181,7 +181,7 @@ This is working as designed. If you want controllable summons, use 5th or 8th ci
 ### Core Skills
 
 | Skill                   | Level | Notes                                                                 |
-| ----------------------- | ----- | --------------------------------------------------------------------- |
+|-------------------------|-------|-----------------------------------------------------------------------|
 | Magery                  | 100   | Required for all summon spells                                        |
 | Spirit Speak            | 100   | Must be ≥ Magery; controls duration, healing bonus, and dispel resist |
 | Animal Lore             | 100   | Required for full stat scaling — do not skip this                     |
@@ -202,7 +202,7 @@ This is working as designed. If you want controllable summons, use 5th or 8th ci
 ### PvP
 
 - Dispatch 8th circle summons early; they're durable and dispel-resistant
-- Giant Serpent and Scorpion spirit creatures are useful for persistent poison pressure
+- Giant Snake and Scorpion spirit creatures are useful for persistent poison pressure
 - Blade Spirits and Energy Vortex still provide raw pressure but cannot be directed
 
 ---

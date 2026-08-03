@@ -198,7 +198,7 @@ This list shows which animal and monster drop specific leather.
     |         ![icon](../../assets/mobiles/lizardman.png)<br>Lizardman         |  12   |
     |       ![icon](../../assets/mobiles/lava-lizard.png)<br>Lava Lizard       |  14   |
     | ![icon](../../assets/mobiles/giant-ice-serpent.png)<br>Giant Ice Serpent |  15   |
-    |     ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Serpent     |  15   |
+    |     ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Snake     |  15   |
     |      ![icon](../../assets/mobiles/lava-serpent.png)<br>Lava Serpent      |  15   |
 
 === "Horned"

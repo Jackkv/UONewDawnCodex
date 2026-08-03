@@ -88,7 +88,7 @@ Combine Magery and Spirit Speak to unlock a fundamentally different summoning ex
 **Key Features:**
 
 - Qualification: Spirit Speak ≥ 50 and Spirit Speak ≥ Magery
-- 5th circle spirit creature pool: Polar Bear, Panther, Giant Serpent, Imp, Spiritual Soul, Scorpion, Dire Wolf, Giant Spider
+- 5th circle spirit creature pool: Polar Bear, Panther, Giant Snake, Imp, Spiritual Soul, Scorpion, Dire Wolf, Giant Spider
 - 8th circle summons boosted by +35% stats/skills at GM Animal Lore (scaler: `0.35 × AL/100`)
 - Summon duration scales with Spirit Speak: 6–10 minutes (50–100 SS)
 - Dispel resistance: up to 50% vs players, 80% vs NPC auto-dispel, 99% vs NPC-cast dispel
