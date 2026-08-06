@@ -40,11 +40,11 @@ The Gardening system lets you grow and cross-pollinate a wide variety of decorat
 
 ## Seeds
 
-Seeds come in different types and can be looted from monsters.
+Seeds come in different types and can be looted from creatures.
 
 ### Plain seeds
 
-You can find normal, red, blue, and yellow seeds in monster loot.
+You can find normal, red, blue, and yellow seeds in creatures loot.
 
 If you have two different plants, you can cross‑pollinate them to create a new plant.
 
@@ -203,14 +203,12 @@ This table shows all 17 plant types and their color variants.
 
 Plants grown from Peculiar seeds cannot be cross‑pollinated and do not produce seeds.
 
-This table shows which monsters drop the specific seed required for each plant.
-
-|          Monster           |                                 Peculiar Plant                                 |                                                                    |                                                                      |                                                               |
-|:--------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------:|:--------------------------------------------------------------------:|:-------------------------------------------------------------:|
-|  Terathan Warrior<br>Wisp  |                 ![image](../assets/items/cactus.png)<br>Cactus                 |         ![image](../assets/items/cattails.png)<br>Cattails         |      ![image](../assets/items/poppies-peculiar.png)<br>Poppies       |   ![image](../assets/items/water-lilly.png)<br>Water Lilly    |
-|           Titan            |       ![image](../assets/items/foxglove-flowers.png)<br>Foxglove Flowers       | ![image](../assets/items/hops-plant-east.png)<br>Hops Plant (East) |   ![image](../assets/items/orfluer-flowers.png)<br>Orfluer Flowers   |   ![image](../assets/items/spider-tree.png)<br>Spider Tree    |
-| Mummy<br>Serpentine Dragon |  ![image](../assets/items/cypress-tree-twisted.png)<br>Cypress Tree (Twisted)  |     ![image](../assets/items/hedge-short.png)<br>Hedge (Short)     |      ![image](../assets/items/juniper-bush.png)<br>Juniper Bush      | ![image](../assets/items/snowdrops-peculiar.png)<br>Snowdrops |
-| Juka Mage<br>Plague Beast  | ![image](../assets/items/cypress-tree-straight.png)<br>Cypress Tree (Straight) |      ![image](../assets/items/hedge-tall.png)<br>Hedge (Tall)      | ![image](../assets/items/hops-plant-south.png)<br>Hops Plant (South) |                                                               |
+|                                 Peculiar Plant                                 |                                                                              |                                                                    |                                                                      |
+|:------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|:------------------------------------------------------------------:|:--------------------------------------------------------------------:|
+| ![image](../assets/items/cypress-tree-straight.png)<br>Cypress Tree (Straight) | ![image](../assets/items/cypress-tree-twisted.png)<br>Cypress Tree (Twisted) | ![image](../assets/items/hops-plant-east.png)<br>Hops Plant (East) | ![image](../assets/items/hops-plant-south.png)<br>Hops Plant (South) |
+|            ![image](../assets/items/hedge-tall.png)<br>Hedge (Tall)            |          ![image](../assets/items/hedge-short.png)<br>Hedge (Short)          |     ![image](../assets/items/juniper-bush.png)<br>Juniper Bush     |       ![image](../assets/items/spider-tree.png)<br>Spider Tree       |
+|                 ![image](../assets/items/cactus.png)<br>Cactus                 |      ![image](../assets/items/foxglove-flowers.png)<br>Foxglove Flowers      |         ![image](../assets/items/cattails.png)<br>Cattails         |   ![image](../assets/items/orfluer-flowers.png)<br>Orfluer Flowers   |
+|         ![image](../assets/items/snowdrops-peculiar.png)<br>Snowdrops          |          ![image](../assets/items/poppies-peculiar.png)<br>Poppies           |      ![image](../assets/items/water-lilly.png)<br>Water Lilly      |                                                                      |
 
 ## Plant bowl
 
