@@ -1,4 +1,4 @@
-![Alchemy](../../assets/flags/flag-alchemy.gif){ align=right }
+![Alchemy](../../assets/flags/flag-alchemy.png){ align=right }
 
 # Alchemy
 

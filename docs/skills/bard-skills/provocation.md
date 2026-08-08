@@ -1,4 +1,4 @@
-![Provocation](../../assets/flags/flag-provocation.gif){ align=right }
+![Provocation](../../assets/flags/flag-provocation.png){ align=right }
 
 # Provocation
 

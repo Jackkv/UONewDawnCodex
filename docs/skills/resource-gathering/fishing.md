@@ -1,4 +1,4 @@
-![Fishing](../../assets/flags/flag-fishing.gif){ align=right }
+![Fishing](../../assets/flags/flag-fishing.png){ align=right }
 
 # Fishing
 

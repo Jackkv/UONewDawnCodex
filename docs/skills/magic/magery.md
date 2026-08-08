@@ -1,4 +1,4 @@
-![Magery](../../assets/flags/flag-magery.gif){ align=right }
+![Magery](../../assets/flags/flag-magery.png){ align=right }
 
 # Magery
 

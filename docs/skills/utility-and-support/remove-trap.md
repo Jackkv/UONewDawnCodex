@@ -1,4 +1,4 @@
-![Remove Trap](../../assets/flags/flag-remove-trap.gif){ align=right }
+![Remove Trap](../../assets/flags/flag-remove-trap.png){ align=right }
 
 # Remove Trap
 

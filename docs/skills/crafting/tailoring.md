@@ -1,4 +1,4 @@
-![Tailoring](../../assets/flags/flag-tailoring.gif){ align=right }
+![Tailoring](../../assets/flags/flag-tailoring.png){ align=right }
 
 # Tailoring
 

@@ -1,4 +1,4 @@
-![Hiding](../../assets/flags/flag-hiding.gif){ align=right }
+![Hiding](../../assets/flags/flag-hiding.png){ align=right }
 
 # Hiding
 

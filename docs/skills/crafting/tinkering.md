@@ -1,4 +1,4 @@
-![Tinkering](../../assets/flags/flag-tinkering.gif){ align=right }
+![Tinkering](../../assets/flags/flag-tinkering.png){ align=right }
 
 # Tinkering
 

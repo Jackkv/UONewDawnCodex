@@ -1,4 +1,4 @@
-![Begging](../../assets/flags/flag-begging.gif){ align=right }
+![Begging](../../assets/flags/flag-begging.png){ align=right }
 
 # Begging
 

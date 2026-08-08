@@ -1,4 +1,4 @@
-![Musicianship](../../assets/flags/flag-musicianship.gif){ align=right }
+![Musicianship](../../assets/flags/flag-musicianship.png){ align=right }
 
 # Musicianship
 

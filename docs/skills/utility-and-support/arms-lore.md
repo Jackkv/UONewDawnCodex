@@ -1,4 +1,4 @@
-![Arms Lore](../../assets/flags/flag-arms-lore.gif){ align=right }
+![Arms Lore](../../assets/flags/flag-arms-lore.png){ align=right }
 
 # Arms Lore
 

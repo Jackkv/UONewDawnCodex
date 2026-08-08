@@ -1,4 +1,4 @@
-![Stealing](../../assets/flags/flag-stealing.gif){ align=right }
+![Stealing](../../assets/flags/flag-stealing.png){ align=right }
 
 # Stealing
 

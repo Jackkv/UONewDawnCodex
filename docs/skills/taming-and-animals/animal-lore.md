@@ -1,4 +1,4 @@
-![Animal Lore](../../assets/flags/flag-animal-lore.gif){ align=right }
+![Animal Lore](../../assets/flags/flag-animal-lore.png){ align=right }
 
 # Animal Lore
 

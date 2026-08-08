@@ -1,4 +1,4 @@
-![Fencing](../../assets/flags/flag-fencing.gif){ align=right }
+![Fencing](../../assets/flags/flag-fencing.png){ align=right }
 
 # Fencing
 

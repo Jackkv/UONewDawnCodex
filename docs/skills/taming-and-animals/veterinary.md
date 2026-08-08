@@ -1,4 +1,4 @@
-![Veterinary](../../assets/flags/flag-veterinary.gif){ align=right }
+![Veterinary](../../assets/flags/flag-veterinary.png){ align=right }
 
 # Veterinary
 

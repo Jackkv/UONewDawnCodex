@@ -1,4 +1,4 @@
-![Swordsmanship](../../assets/flags/flag-swordsmanship.gif){ align=right }
+![Swordsmanship](../../assets/flags/flag-swordsmanship.png){ align=right }
 
 # Swordsmanship
 

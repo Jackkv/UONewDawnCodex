@@ -1,4 +1,4 @@
-![Carpentry](../../assets/flags/flag-carpentry.gif){ align=right }
+![Carpentry](../../assets/flags/flag-carpentry.png){ align=right }
 
 # Carpentry
 

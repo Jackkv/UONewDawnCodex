@@ -1,4 +1,4 @@
-![Spirit Speak](../../assets/flags/flag-spirit-speak.gif){ align=right }
+![Spirit Speak](../../assets/flags/flag-spirit-speak.png){ align=right }
 
 # Spirit Speak
 

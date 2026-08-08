@@ -1,4 +1,4 @@
-![Evaluating Intelligence](../../assets/flags/flag-evaluate-intelligence.gif){ align=right }
+![Evaluating Intelligence](../../assets/flags/flag-evaluate-intelligence.png){ align=right }
 
 # Evaluating Intelligence
 

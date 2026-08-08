@@ -1,4 +1,4 @@
-![Mace Fighting](../../assets/flags/flag-mace-fighting.gif){ align=right }
+![Mace Fighting](../../assets/flags/flag-mace-fighting.png){ align=right }
 
 # Mace Fighting
 
