@@ -26,8 +26,6 @@ Tracking can be used on a 10 seconds cooldown.
 
 Repeatedly Track something until reaching 100.
 
-While training this skill you can also gain Intelligence and Dexterity.
-
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
 ## Related skills

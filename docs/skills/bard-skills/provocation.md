@@ -30,8 +30,6 @@ Provocation is a difficulty based skill. Some creatures are harder to provoke th
 
 To be more efficient, you can gain Provocation and Musicianship at the same time.
 
-While training this skill you can also gain Intelligence and Dexterity.
-
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
 ## Related skills

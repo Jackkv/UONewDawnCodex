@@ -107,8 +107,6 @@ Parrying is hard to train because you will only gain when taking damage, it work
 
 Gain is based on base damage before armor reduction, getting hit by multiple monsters increases gain speed.
 
-While training this skill you can also gain Strength and Dexterity.
-
 While training this skill you can also gain Strength (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
 ## Related skills

@@ -22,8 +22,6 @@ Repeatedly use lore on pets until reaching 100.
 
 To be more efficient, you can gain Lore while training Taming.
 
-While training this skill you can also gain Intelligence and Dexterity.
-
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
 ## Related skills

@@ -195,8 +195,6 @@ Consider Mining to fund the training.
 | 42.7 - 94.3 | Lockpick        |
 | 94.3 - 100  | Spyglass        |
 
-While training this skill you can also gain Dexterity and Intelligence.
-
 While training this skill you can also gain Dexterity (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
 ## Related skills
