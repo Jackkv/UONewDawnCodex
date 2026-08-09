@@ -24,7 +24,7 @@ Rift Spawns are enhanced versions of normal monsters that can appear in place of
 
 Defeating one may open a Rift Gate, giving players access to the Rift, which is a shared instance with other players.
 
-Once inside, you have sixty minutes to fight through champion spawns and their bosses. Any monster in the Rift has a small chance to drop Rift Shards, while bosses will always award them as long as you contributed enough damage.
+Once inside, you have sixty minutes to fight through champion spawns and their bosses. Any monster in the Rift has a small chance to award Rift Shards, while bosses will always award them as long as you contributed enough damage.
 
 Each champion spawn progresses through three tiers, and completing all three will summon the boss.
 
