@@ -22,7 +22,7 @@ Browse all available hues on New Dawn. Use the search box to find specific hue I
     image-rendering: crisp-edges;
   }
   #hues-table .robe-img {
-    width: 66px;
+    width: 30px;
     height: 66px;
     cursor: pointer;
     transition: transform 0.2s;
