@@ -151,7 +151,7 @@ The BOD 6-hour time limit applies to your whole account.
 ### BOD Rewards
 
 | Points |                                                                                Rewards                                                                                |
-| :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |   0    |                                                                   Sturdy Dovetail Saw (180) (100%)                                                                    |
 |   50   |                                                                   Sturdy Dovetail Saw (220) (100%)                                                                    |
 |  100   |                                                                Sturdy Lumberjack Axe (250 uses) (100%)                                                                |
@@ -171,7 +171,7 @@ The BOD 6-hour time limit applies to your whole account.
 Consider Lumberjacking to fund the training.
 
 | Skill       | Item            |
-| ----------- | --------------- |
+|-------------|-----------------|
 | 0 - 30      | Train from NPCs |
 | 30 - 47.3   | Medium Crate    |
 | 47.3 - 71.1 | Ballot Box      |

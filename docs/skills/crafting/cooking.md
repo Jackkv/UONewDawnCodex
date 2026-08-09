@@ -85,7 +85,7 @@ The BOD 6-hour time limit applies to your whole account.
 ### BOD Rewards
 
 | Points |                                                   Rewards                                                    |
-| :----: | :----------------------------------------------------------------------------------------------------------: |
+|:------:|:------------------------------------------------------------------------------------------------------------:|
 |   0    |                                         Birthday Cake Ticket (100%)                                          |
 |   25   |                        Sturdy Rolling Pin (180) (80%), Sturdy Rolling Pin (280) (20%)                        |
 |   50   |                                Refined Sugar (83.3%)<br>Pollen Patty (16.6%)                                 |
@@ -102,7 +102,7 @@ Egg bombs require 90+ Cooking to be crafted.
 They can be used during combat to hide and have a 25 second cooldown.
 
 |                      Item                       |     Resources     | Skill |
-| :---------------------------------------------: | :---------------: | :---: |
+|:-----------------------------------------------:|:-----------------:|:-----:|
 | ![icon](../../assets/items/egg.png)<br>Egg Bomb | 1 Eggs<br>3 Flour |  90   |
 
 ## Training
