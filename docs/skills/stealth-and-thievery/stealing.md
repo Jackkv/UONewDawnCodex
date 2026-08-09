@@ -42,10 +42,11 @@ When you steal from another player there are three possible outcomes.
     Being permagray means that your name is still blue but other players can still attack you, this status resets only on death.
 
 2. Partial success, you successfully steal the item but are noticed by a player or NPC, in this case you will get a criminal flag and turn gray.
-   If in town, guards may be called on you. If the player you have stolen from attacks you, and you kill him, you will get a murder count.
-   When the criminal flag wears off you will return blue but permagray.
+   If in town, guards may be called on you.
 
 3. Failure, you fail to steal. You may also turn gray.
+
+If you're attacked while gray or permagray, you may kill the attacker without receiving a murder count
 
 ## Weight requirements
 
