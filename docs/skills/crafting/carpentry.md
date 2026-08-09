@@ -151,30 +151,27 @@ The BOD 6-hour time limit applies to your whole account.
 ### BOD Rewards
 
 | Points |                                                                                Rewards                                                                                |
-|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   0    |                                                                      Sturdy Dovetail Saw (100%)                                                                       |
-|   50   |                                                        Wood Pile (the shard's most sought after reward) (100%)                                                        |
-|  100   |                                                                    Small or Large Log Pile (100%)                                                                     |
-|  150   |                                                                   Small or Large Board Pile (100%)                                                                    |
-|  175   |                                                     Carpenters Crate (deco) (75%)<br>Player Bulletin Board (25%)                                                      |
-|  200   |                                                                      Cart Of Tools (deco) (100%)                                                                      |
-|  300   |                                                                  Empty Hanging Shelf (1 of 4) (100%)                                                                  |
-|  400   |                                                            Empty Writing Desk (75%)<br>Writing Desk (25%)                                                             |
-|  450   |                                                     Bookcases (1 of 4) (80%)<br>Special Bookcases (1 of 2) (20%)                                                      |
-|  500   |                                                    Furniture Dye Tub (5 charges) (80%)<br>Grandfather Clock (20%)                                                     |
-|  525   |                                                  Furniture Dye Tub (5 charges) (66.67%)<br>Runic Saw (oak) (33.33%)                                                   |
-|  550   |                                         Display Cases (1 of 6) (60%)<br>Runic Saw (ash) (30%)<br>Carpenters Apron (+5) (10%)                                          |
+| :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   0    |                                                                   Sturdy Dovetail Saw (180) (100%)                                                                    |
+|   50   |                                                                   Sturdy Dovetail Saw (220) (100%)                                                                    |
+|  100   |                                                                Sturdy Lumberjack Axe (250 uses) (100%)                                                                |
+|  150   |                                                                Sturdy Lumberjack Axe (300 uses) (100%)                                                                |
+|  175   |                                                        HeartwoodOil (15 uses) (75%)<br>Woodwarden's Axe (25%)                                                         |
+|  200   |                                                        HeartwoodOil (25 uses) (60%)<br>Woodwarden's Axe (40%)                                                         |
+|  300   |                                      Empty Hanging Shelf (33.33%)<br>Carpenter's Crate (33.33%)<br>Carpenter's Mask Dye (33.33%)                                      |
+|  400   |                                             Empty Writing Desk (40%)<br>Writing Desk (40%)<br>Cart Of Tools (deco) (20%)                                              |
+|  450   |                                               Bookcases (60%)<br>Special Bookcases (20%)<br>Player Bulletin Board (20%)                                               |
+|  500   |                                 Furniture Dye Tub (5 charges) (66.67%)<br>Grandfather Clock (16.67%)<br>Cart Of Tools (deco) (16.67%)                                 |
+|  525   |                                  Furniture Dye Tub (5 charges) (50%)<br>Runic Saw (oak) (33.33%)<br>Carpenter's Apron (+5) (16.67%)                                   |
+|  550   |                                          Display Cases (1 of 6) (60%)<br>Runic Saw (ash) (30%)<br>Carpenter's Mask Dye (10%)                                          |
 |  600   | House Increases (50% chance for +20 lockdown or +1 secure) (60%)<br>Runic Saw (yew) (30%)<br>House Increases (50% chance for +30 lockdown or 50% for +2 secure) (10%) |
-|  700   |                                                                        Runic Saw (yew) (100%)                                                                         |
-|  800   |                                                                        Runic Saw (yew) (100%)                                                                         |
-|  900   |                                                                        Runic Saw (yew) (100%)                                                                         |
 
 ## Training
 
 Consider Lumberjacking to fund the training.
 
 | Skill       | Item            |
-|-------------|-----------------|
+| ----------- | --------------- |
 | 0 - 30      | Train from NPCs |
 | 30 - 47.3   | Medium Crate    |
 | 47.3 - 71.1 | Ballot Box      |
