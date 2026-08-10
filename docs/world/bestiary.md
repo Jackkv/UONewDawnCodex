@@ -246,6 +246,121 @@
     </table>
     </div>
 
+### Admiral Dread
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Admiral-Dread_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Admiral-Dread_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Admiral-Dread_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Admiral-Dread_Fame"></td>
+        <th>Karma</th>
+        <td id="Admiral-Dread_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Admiral-Dread_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Admiral-Dread_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Admiral-Dread_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Admiral-Dread_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Admiral-Dread_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Admiral-Dread_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Admiral-Dread_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Admiral-Dread_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Admiral-Dread_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Admiral-Dread_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Admiral-Dread_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Admiral-Dread_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Admiral-Dread_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Admiral-Dread_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Admiral-Dread_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Admiral-Dread_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Admiral-Dread_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Admiral-Dread_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Admiral-Dread_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Admiral-Dread_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Admiral-Dread_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Agapite Elemental
 
 ![image](../assets/mobiles/agapite-elemental.png)
@@ -588,6 +703,236 @@
     </table>
     </div>
 
+### Ancient Drowner
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Ancient-Drowner_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Ancient-Drowner_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Ancient-Drowner_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Ancient-Drowner_Fame"></td>
+        <th>Karma</th>
+        <td id="Ancient-Drowner_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Ancient-Drowner_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Ancient-Drowner_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Ancient-Drowner_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Ancient-Drowner_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Ancient-Drowner_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Ancient-Drowner_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Ancient-Drowner_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Ancient-Drowner_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Ancient-Drowner_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Ancient-Drowner_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Ancient-Drowner_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Ancient-Drowner_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Ancient-Drowner_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Ancient-Drowner_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Ancient-Drowner_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Ancient-Drowner_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Ancient-Drowner_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Ancient-Drowner_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Ancient-Drowner_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Ancient-Drowner_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Ancient-Drowner_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Ancient Kraken
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Ancient-Kraken_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Ancient-Kraken_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Ancient-Kraken_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Ancient-Kraken_Fame"></td>
+        <th>Karma</th>
+        <td id="Ancient-Kraken_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Ancient-Kraken_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Ancient-Kraken_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Ancient-Kraken_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Ancient-Kraken_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Ancient-Kraken_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Ancient-Kraken_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Ancient-Kraken_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Ancient-Kraken_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Ancient-Kraken_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Ancient-Kraken_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Ancient-Kraken_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Ancient-Kraken_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Ancient-Kraken_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Ancient-Kraken_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Ancient-Kraken_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Ancient-Kraken_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Ancient-Kraken_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Ancient-Kraken_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Ancient-Kraken_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Ancient-Kraken_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Ancient-Kraken_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Ancient Lich
 
 ![image](../assets/mobiles/ancient-lich.png)
@@ -702,6 +1047,351 @@
     </table>
     </div>
 
+### Ancient Lich Rift
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Ancient-Lich-Rift_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Ancient-Lich-Rift_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Ancient-Lich-Rift_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Ancient-Lich-Rift_Fame"></td>
+        <th>Karma</th>
+        <td id="Ancient-Lich-Rift_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Ancient-Lich-Rift_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Ancient-Lich-Rift_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Ancient-Lich-Rift_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Ancient-Lich-Rift_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Ancient-Lich-Rift_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Ancient-Lich-Rift_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Ancient-Lich-Rift_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Ancient-Lich-Rift_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Ancient-Lich-Rift_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Ancient-Lich-Rift_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Ancient-Lich-Rift_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Ancient-Lich-Rift_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Ancient-Lich-Rift_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Ancient-Lich-Rift_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Ancient-Lich-Rift_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Ancient-Lich-Rift_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Ancient-Lich-Rift_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Ancient-Lich-Rift_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Ancient-Lich-Rift_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Ancient-Lich-Rift_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Ancient-Lich-Rift_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Ancient Pirate Mummy
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Ancient-Pirate-Mummy_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Ancient-Pirate-Mummy_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Ancient-Pirate-Mummy_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Ancient-Pirate-Mummy_Fame"></td>
+        <th>Karma</th>
+        <td id="Ancient-Pirate-Mummy_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Ancient-Pirate-Mummy_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Ancient-Pirate-Mummy_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Ancient-Pirate-Mummy_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Ancient-Pirate-Mummy_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Ancient-Pirate-Mummy_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Ancient-Pirate-Mummy_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Ancient-Pirate-Mummy_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Ancient-Pirate-Mummy_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Ancient-Pirate-Mummy_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Ancient-Pirate-Mummy_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Ancient-Pirate-Mummy_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Ancient-Pirate-Mummy_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Ancient-Pirate-Mummy_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Ancient-Pirate-Mummy_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Ancient-Pirate-Mummy_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Ancient-Pirate-Mummy_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Ancient-Pirate-Mummy_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Ancient-Pirate-Mummy_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Ancient-Pirate-Mummy_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Ancient-Pirate-Mummy_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Ancient-Pirate-Mummy_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Ancient Sea Serpent
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Ancient-Sea-Serpent_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Ancient-Sea-Serpent_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Ancient-Sea-Serpent_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Ancient-Sea-Serpent_Fame"></td>
+        <th>Karma</th>
+        <td id="Ancient-Sea-Serpent_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Ancient-Sea-Serpent_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Ancient-Sea-Serpent_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Ancient-Sea-Serpent_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Ancient-Sea-Serpent_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Ancient-Sea-Serpent_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Ancient-Sea-Serpent_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Ancient-Sea-Serpent_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Ancient-Sea-Serpent_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Ancient-Sea-Serpent_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Ancient-Sea-Serpent_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Ancient-Sea-Serpent_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Ancient-Sea-Serpent_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Ancient-Sea-Serpent_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Ancient-Sea-Serpent_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Ancient-Sea-Serpent_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Ancient-Sea-Serpent_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Ancient-Sea-Serpent_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Ancient-Sea-Serpent_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Ancient-Sea-Serpent_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Ancient-Sea-Serpent_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Ancient-Sea-Serpent_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Ancient Wyrm
 
 ![image](../assets/mobiles/ancient-wyrm.png)
@@ -812,6 +1502,121 @@
         <tr>
         <th>Slayer Drop</th>
         <td id="Ancient-Wyrm_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Arcane Corsair
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Arcane-Corsair_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Arcane-Corsair_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Arcane-Corsair_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Arcane-Corsair_Fame"></td>
+        <th>Karma</th>
+        <td id="Arcane-Corsair_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Arcane-Corsair_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Arcane-Corsair_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Arcane-Corsair_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Arcane-Corsair_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Arcane-Corsair_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Arcane-Corsair_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Arcane-Corsair_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Arcane-Corsair_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Arcane-Corsair_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Arcane-Corsair_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Arcane-Corsair_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Arcane-Corsair_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Arcane-Corsair_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Arcane-Corsair_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Arcane-Corsair_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Arcane-Corsair_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Arcane-Corsair_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Arcane-Corsair_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Arcane-Corsair_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Arcane-Corsair_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Arcane-Corsair_Slayer-Drop"></td>
     </tr>
     </table>
     </div>
@@ -2184,6 +2989,121 @@
     </table>
     </div>
 
+### Bonebound Brigand
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Bonebound-Brigand_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Bonebound-Brigand_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Bonebound-Brigand_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Bonebound-Brigand_Fame"></td>
+        <th>Karma</th>
+        <td id="Bonebound-Brigand_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Bonebound-Brigand_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Bonebound-Brigand_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Bonebound-Brigand_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Bonebound-Brigand_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Bonebound-Brigand_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Bonebound-Brigand_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Bonebound-Brigand_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Bonebound-Brigand_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Bonebound-Brigand_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Bonebound-Brigand_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Bonebound-Brigand_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Bonebound-Brigand_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Bonebound-Brigand_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Bonebound-Brigand_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Bonebound-Brigand_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Bonebound-Brigand_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Bonebound-Brigand_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Bonebound-Brigand_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Bonebound-Brigand_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Bonebound-Brigand_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Bonebound-Brigand_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Brigand
 
 ![image](../assets/mobiles/brigand.png)
@@ -2750,6 +3670,236 @@
         <tr>
         <th>Slayer Drop</th>
         <td id="Bull-Frog_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Captain Dreadstorm
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Captain-Dreadstorm_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Captain-Dreadstorm_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Captain-Dreadstorm_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Captain-Dreadstorm_Fame"></td>
+        <th>Karma</th>
+        <td id="Captain-Dreadstorm_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Captain-Dreadstorm_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Captain-Dreadstorm_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Captain-Dreadstorm_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Captain-Dreadstorm_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Captain-Dreadstorm_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Captain-Dreadstorm_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Captain-Dreadstorm_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Captain-Dreadstorm_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Captain-Dreadstorm_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Captain-Dreadstorm_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Captain-Dreadstorm_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Captain-Dreadstorm_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Captain-Dreadstorm_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Captain-Dreadstorm_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Captain-Dreadstorm_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Captain-Dreadstorm_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Captain-Dreadstorm_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Captain-Dreadstorm_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Captain-Dreadstorm_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Captain-Dreadstorm_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Captain-Dreadstorm_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Captain Grimjaw
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Captain-Grimjaw_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Captain-Grimjaw_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Captain-Grimjaw_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Captain-Grimjaw_Fame"></td>
+        <th>Karma</th>
+        <td id="Captain-Grimjaw_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Captain-Grimjaw_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Captain-Grimjaw_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Captain-Grimjaw_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Captain-Grimjaw_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Captain-Grimjaw_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Captain-Grimjaw_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Captain-Grimjaw_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Captain-Grimjaw_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Captain-Grimjaw_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Captain-Grimjaw_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Captain-Grimjaw_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Captain-Grimjaw_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Captain-Grimjaw_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Captain-Grimjaw_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Captain-Grimjaw_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Captain-Grimjaw_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Captain-Grimjaw_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Captain-Grimjaw_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Captain-Grimjaw_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Captain-Grimjaw_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Captain-Grimjaw_Slayer-Drop"></td>
     </tr>
     </table>
     </div>
@@ -4464,6 +5614,121 @@
     </table>
     </div>
 
+### Devourer of Souls
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Devourer-of-Souls_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Devourer-of-Souls_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Devourer-of-Souls_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Devourer-of-Souls_Fame"></td>
+        <th>Karma</th>
+        <td id="Devourer-of-Souls_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Devourer-of-Souls_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Devourer-of-Souls_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Devourer-of-Souls_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Devourer-of-Souls_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Devourer-of-Souls_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Devourer-of-Souls_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Devourer-of-Souls_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Devourer-of-Souls_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Devourer-of-Souls_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Devourer-of-Souls_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Devourer-of-Souls_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Devourer-of-Souls_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Devourer-of-Souls_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Devourer-of-Souls_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Devourer-of-Souls_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Devourer-of-Souls_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Devourer-of-Souls_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Devourer-of-Souls_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Devourer-of-Souls_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Devourer-of-Souls_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Devourer-of-Souls_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Dire Wolf
 
 ![image](../assets/mobiles/dire-wolf.png)
@@ -4808,7 +6073,8 @@
 
 ### Dracothraxus
 
-![image](../assets/mobiles/dracothraxus.png)
+!!! warning
+    Under construction.
 
 === "Info"
 
@@ -5834,7 +7100,123 @@
 
 ### Enraged Kraken
 
-![image](../assets/mobiles/enraged-kraken.png)
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Enraged-Kraken_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Enraged-Kraken_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Enraged-Kraken_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Enraged-Kraken_Fame"></td>
+        <th>Karma</th>
+        <td id="Enraged-Kraken_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Enraged-Kraken_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Enraged-Kraken_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Enraged-Kraken_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Enraged-Kraken_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Enraged-Kraken_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Enraged-Kraken_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Enraged-Kraken_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Enraged-Kraken_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Enraged-Kraken_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Enraged-Kraken_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Enraged-Kraken_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Enraged-Kraken_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Enraged-Kraken_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Enraged-Kraken_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Enraged-Kraken_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Enraged-Kraken_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Enraged-Kraken_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Enraged-Kraken_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Enraged-Kraken_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Enraged-Kraken_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Enraged-Kraken_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Enraged Kraken
+
+!!! warning
+    Under construction.
 
 === "Info"
 
@@ -6632,7 +8014,8 @@
 
 ### Fire Daemon
 
-![image](../assets/mobiles/fire-daemon.png)
+!!! warning
+    Under construction.
 
 === "Info"
 
@@ -7880,6 +9263,121 @@
         <tr>
         <th>Slayer Drop</th>
         <td id="Gargoyle-Enforcer_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Gargoyle Warlord
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Gargoyle-Warlord_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Gargoyle-Warlord_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Gargoyle-Warlord_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Gargoyle-Warlord_Fame"></td>
+        <th>Karma</th>
+        <td id="Gargoyle-Warlord_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Gargoyle-Warlord_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Gargoyle-Warlord_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Gargoyle-Warlord_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Gargoyle-Warlord_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Gargoyle-Warlord_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Gargoyle-Warlord_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Gargoyle-Warlord_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Gargoyle-Warlord_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Gargoyle-Warlord_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Gargoyle-Warlord_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Gargoyle-Warlord_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Gargoyle-Warlord_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Gargoyle-Warlord_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Gargoyle-Warlord_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Gargoyle-Warlord_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Gargoyle-Warlord_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Gargoyle-Warlord_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Gargoyle-Warlord_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Gargoyle-Warlord_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Gargoyle-Warlord_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Gargoyle-Warlord_Slayer-Drop"></td>
     </tr>
     </table>
     </div>
@@ -12900,6 +14398,121 @@
     </table>
     </div>
 
+### Nightmare Arachnid
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Nightmare-Arachnid_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Nightmare-Arachnid_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Nightmare-Arachnid_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Nightmare-Arachnid_Fame"></td>
+        <th>Karma</th>
+        <td id="Nightmare-Arachnid_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Nightmare-Arachnid_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Nightmare-Arachnid_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Nightmare-Arachnid_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Nightmare-Arachnid_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Nightmare-Arachnid_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Nightmare-Arachnid_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Nightmare-Arachnid_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Nightmare-Arachnid_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Nightmare-Arachnid_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Nightmare-Arachnid_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Nightmare-Arachnid_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Nightmare-Arachnid_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Nightmare-Arachnid_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Nightmare-Arachnid_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Nightmare-Arachnid_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Nightmare-Arachnid_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Nightmare-Arachnid_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Nightmare-Arachnid_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Nightmare-Arachnid_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Nightmare-Arachnid_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Nightmare-Arachnid_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Ogre
 
 ![image](../assets/mobiles/ogre.png)
@@ -14610,6 +16223,121 @@
     </table>
     </div>
 
+### Orc Captain Rift
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Orc-Captain-Rift_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Orc-Captain-Rift_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Orc-Captain-Rift_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Orc-Captain-Rift_Fame"></td>
+        <th>Karma</th>
+        <td id="Orc-Captain-Rift_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Orc-Captain-Rift_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Orc-Captain-Rift_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Orc-Captain-Rift_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Orc-Captain-Rift_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Orc-Captain-Rift_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Orc-Captain-Rift_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Orc-Captain-Rift_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Orc-Captain-Rift_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Orc-Captain-Rift_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Orc-Captain-Rift_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Orc-Captain-Rift_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Orc-Captain-Rift_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Orc-Captain-Rift_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Orc-Captain-Rift_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Orc-Captain-Rift_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Orc-Captain-Rift_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Orc-Captain-Rift_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Orc-Captain-Rift_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Orc-Captain-Rift_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Orc-Captain-Rift_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Orc-Captain-Rift_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Orcish Lord
 
 ![image](../assets/mobiles/orcish-lord.png)
@@ -15180,6 +16908,121 @@
     </table>
     </div>
 
+### Phantom Raider
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Phantom-Raider_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Phantom-Raider_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Phantom-Raider_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Phantom-Raider_Fame"></td>
+        <th>Karma</th>
+        <td id="Phantom-Raider_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Phantom-Raider_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Phantom-Raider_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Phantom-Raider_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Phantom-Raider_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Phantom-Raider_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Phantom-Raider_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Phantom-Raider_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Phantom-Raider_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Phantom-Raider_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Phantom-Raider_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Phantom-Raider_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Phantom-Raider_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Phantom-Raider_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Phantom-Raider_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Phantom-Raider_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Phantom-Raider_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Phantom-Raider_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Phantom-Raider_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Phantom-Raider_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Phantom-Raider_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Phantom-Raider_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Phoenix
 
 ![image](../assets/mobiles/phoenix.png)
@@ -15404,6 +17247,1960 @@
         <tr>
         <th>Slayer Drop</th>
         <td id="Pig_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Bard
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Bard_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Bard_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Bard_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Bard_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Bard_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Bard_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Bard_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Bard_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Bard_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Bard_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Bard_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Bard_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Bard_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Bard_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Bard_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Bard_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Bard_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Bard_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Bard_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Bard_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Bard_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Bard_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Bard_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Bard_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Bard_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Bard_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Bartender
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Bartender_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Bartender_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Bartender_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Bartender_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Bartender_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Bartender_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Bartender_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Bartender_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Bartender_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Bartender_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Bartender_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Bartender_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Bartender_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Bartender_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Bartender_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Bartender_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Bartender_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Bartender_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Bartender_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Bartender_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Bartender_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Bartender_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Bartender_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Bartender_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Bartender_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Bartender_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Bodyguard
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Bodyguard_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Bodyguard_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Bodyguard_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Bodyguard_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Bodyguard_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Bodyguard_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Bodyguard_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Bodyguard_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Bodyguard_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Bodyguard_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Bodyguard_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Bodyguard_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Bodyguard_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Bodyguard_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Bodyguard_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Bodyguard_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Bodyguard_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Bodyguard_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Bodyguard_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Bodyguard_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Bodyguard_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Bodyguard_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Bodyguard_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Bodyguard_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Bodyguard_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Bodyguard_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Cannoneer
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Cannoneer_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Cannoneer_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Cannoneer_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Cannoneer_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Cannoneer_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Cannoneer_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Cannoneer_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Cannoneer_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Cannoneer_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Cannoneer_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Cannoneer_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Cannoneer_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Cannoneer_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Cannoneer_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Cannoneer_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Cannoneer_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Cannoneer_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Cannoneer_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Cannoneer_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Cannoneer_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Cannoneer_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Cannoneer_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Cannoneer_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Cannoneer_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Cannoneer_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Cannoneer_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Captain
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Captain_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Captain_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Captain_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Captain_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Captain_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Captain_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Captain_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Captain_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Captain_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Captain_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Captain_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Captain_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Captain_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Captain_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Captain_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Captain_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Captain_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Captain_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Captain_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Captain_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Captain_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Captain_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Captain_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Captain_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Captain_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Captain_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Cook
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Cook_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Cook_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Cook_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Cook_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Cook_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Cook_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Cook_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Cook_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Cook_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Cook_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Cook_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Cook_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Cook_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Cook_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Cook_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Cook_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Cook_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Cook_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Cook_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Cook_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Cook_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Cook_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Cook_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Cook_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Cook_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Cook_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Deckhand
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Deckhand_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Deckhand_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Deckhand_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Deckhand_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Deckhand_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Deckhand_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Deckhand_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Deckhand_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Deckhand_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Deckhand_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Deckhand_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Deckhand_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Deckhand_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Deckhand_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Deckhand_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Deckhand_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Deckhand_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Deckhand_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Deckhand_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Deckhand_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Deckhand_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Deckhand_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Deckhand_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Deckhand_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Deckhand_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Deckhand_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Lookout
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Lookout_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Lookout_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Lookout_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Lookout_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Lookout_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Lookout_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Lookout_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Lookout_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Lookout_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Lookout_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Lookout_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Lookout_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Lookout_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Lookout_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Lookout_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Lookout_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Lookout_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Lookout_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Lookout_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Lookout_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Lookout_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Lookout_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Lookout_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Lookout_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Lookout_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Lookout_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Mummy
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Mummy_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Mummy_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Mummy_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Mummy_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Mummy_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Mummy_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Mummy_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Mummy_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Mummy_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Mummy_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Mummy_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Mummy_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Mummy_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Mummy_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Mummy_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Mummy_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Mummy_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Mummy_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Mummy_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Mummy_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Mummy_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Mummy_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Mummy_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Mummy_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Mummy_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Mummy_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Navigator
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Navigator_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Navigator_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Navigator_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Navigator_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Navigator_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Navigator_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Navigator_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Navigator_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Navigator_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Navigator_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Navigator_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Navigator_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Navigator_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Navigator_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Navigator_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Navigator_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Navigator_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Navigator_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Navigator_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Navigator_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Navigator_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Navigator_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Navigator_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Navigator_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Navigator_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Navigator_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Quartermaster
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Quartermaster_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Quartermaster_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Quartermaster_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Quartermaster_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Quartermaster_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Quartermaster_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Quartermaster_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Quartermaster_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Quartermaster_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Quartermaster_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Quartermaster_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Quartermaster_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Quartermaster_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Quartermaster_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Quartermaster_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Quartermaster_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Quartermaster_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Quartermaster_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Quartermaster_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Quartermaster_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Quartermaster_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Quartermaster_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Quartermaster_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Quartermaster_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Quartermaster_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Quartermaster_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Sailor
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Sailor_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Sailor_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Sailor_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Sailor_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Sailor_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Sailor_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Sailor_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Sailor_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Sailor_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Sailor_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Sailor_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Sailor_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Sailor_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Sailor_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Sailor_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Sailor_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Sailor_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Sailor_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Sailor_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Sailor_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Sailor_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Sailor_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Sailor_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Sailor_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Sailor_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Sailor_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Skeleton
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Skeleton_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Skeleton_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Skeleton_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Skeleton_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Skeleton_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Skeleton_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Skeleton_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Skeleton_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Skeleton_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Skeleton_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Skeleton_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Skeleton_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Skeleton_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Skeleton_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Skeleton_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Skeleton_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Skeleton_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Skeleton_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Skeleton_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Skeleton_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Skeleton_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Skeleton_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Skeleton_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Skeleton_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Skeleton_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Skeleton_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Wraith
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Wraith_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Wraith_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Wraith_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Wraith_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Wraith_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Wraith_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Wraith_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Wraith_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Wraith_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Wraith_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Wraith_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Wraith_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Wraith_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Wraith_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Wraith_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Wraith_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Wraith_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Wraith_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Wraith_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Wraith_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Wraith_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Wraith_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Wraith_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Wraith_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Wraith_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Wraith_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pirate Zombie
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pirate-Zombie_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pirate-Zombie_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pirate-Zombie_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pirate-Zombie_Fame"></td>
+        <th>Karma</th>
+        <td id="Pirate-Zombie_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pirate-Zombie_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pirate-Zombie_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pirate-Zombie_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pirate-Zombie_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pirate-Zombie_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pirate-Zombie_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pirate-Zombie_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pirate-Zombie_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pirate-Zombie_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pirate-Zombie_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pirate-Zombie_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pirate-Zombie_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pirate-Zombie_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pirate-Zombie_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pirate-Zombie_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pirate-Zombie_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pirate-Zombie_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pirate-Zombie_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pirate-Zombie_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pirate-Zombie_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pirate-Zombie_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pixie
+
+![image](../assets/mobiles/pixie.png)
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pixie_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pixie_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pixie_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pixie_Fame"></td>
+        <th>Karma</th>
+        <td id="Pixie_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pixie_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pixie_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pixie_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pixie_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pixie_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pixie_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pixie_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pixie_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pixie_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pixie_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pixie_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pixie_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pixie_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pixie_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pixie_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pixie_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pixie_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pixie_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pixie_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pixie_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pixie_Slayer-Drop"></td>
     </tr>
     </table>
     </div>
@@ -17346,6 +21143,121 @@
     </table>
     </div>
 
+### Scurvy Surgeon
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Scurvy-Surgeon_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Scurvy-Surgeon_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Scurvy-Surgeon_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Scurvy-Surgeon_Fame"></td>
+        <th>Karma</th>
+        <td id="Scurvy-Surgeon_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Scurvy-Surgeon_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Scurvy-Surgeon_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Scurvy-Surgeon_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Scurvy-Surgeon_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Scurvy-Surgeon_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Scurvy-Surgeon_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Scurvy-Surgeon_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Scurvy-Surgeon_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Scurvy-Surgeon_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Scurvy-Surgeon_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Scurvy-Surgeon_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Scurvy-Surgeon_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Scurvy-Surgeon_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Scurvy-Surgeon_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Scurvy-Surgeon_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Scurvy-Surgeon_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Scurvy-Surgeon_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Scurvy-Surgeon_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Scurvy-Surgeon_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Scurvy-Surgeon_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Scurvy-Surgeon_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Sea Serpent
 
 ![image](../assets/mobiles/sea-serpent.png)
@@ -18596,6 +22508,120 @@
         <tr>
         <th>Slayer Drop</th>
         <td id="Silver-Serpent_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Skeletal Dragon
+
+![image](../assets/mobiles/skeletal-dragon.png)
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Skeletal-Dragon_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Skeletal-Dragon_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Skeletal-Dragon_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Skeletal-Dragon_Fame"></td>
+        <th>Karma</th>
+        <td id="Skeletal-Dragon_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Skeletal-Dragon_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Skeletal-Dragon_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Skeletal-Dragon_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Skeletal-Dragon_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Skeletal-Dragon_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Skeletal-Dragon_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Skeletal-Dragon_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Skeletal-Dragon_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Skeletal-Dragon_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Skeletal-Dragon_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Skeletal-Dragon_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Skeletal-Dragon_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Skeletal-Dragon_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Skeletal-Dragon_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Skeletal-Dragon_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Skeletal-Dragon_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Skeletal-Dragon_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Skeletal-Dragon_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Skeletal-Dragon_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Skeletal-Dragon_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Skeletal-Dragon_Slayer-Drop"></td>
     </tr>
     </table>
     </div>
@@ -21222,6 +25248,121 @@
     </table>
     </div>
 
+### Undead Warlord
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Undead-Warlord_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Undead-Warlord_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Undead-Warlord_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Undead-Warlord_Fame"></td>
+        <th>Karma</th>
+        <td id="Undead-Warlord_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Undead-Warlord_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Undead-Warlord_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Undead-Warlord_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Undead-Warlord_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Undead-Warlord_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Undead-Warlord_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Undead-Warlord_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Undead-Warlord_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Undead-Warlord_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Undead-Warlord_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Undead-Warlord_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Undead-Warlord_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Undead-Warlord_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Undead-Warlord_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Undead-Warlord_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Undead-Warlord_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Undead-Warlord_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Undead-Warlord_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Undead-Warlord_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Undead-Warlord_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Undead-Warlord_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Unicorn
 
 ![image](../assets/mobiles/unicorn.png)
@@ -21450,6 +25591,121 @@
     </table>
     </div>
 
+### Venomweb Privateer
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Venomweb-Privateer_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Venomweb-Privateer_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Venomweb-Privateer_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Venomweb-Privateer_Fame"></td>
+        <th>Karma</th>
+        <td id="Venomweb-Privateer_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Venomweb-Privateer_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Venomweb-Privateer_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Venomweb-Privateer_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Venomweb-Privateer_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Venomweb-Privateer_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Venomweb-Privateer_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Venomweb-Privateer_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Venomweb-Privateer_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Venomweb-Privateer_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Venomweb-Privateer_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Venomweb-Privateer_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Venomweb-Privateer_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Venomweb-Privateer_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Venomweb-Privateer_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Venomweb-Privateer_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Venomweb-Privateer_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Venomweb-Privateer_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Venomweb-Privateer_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Venomweb-Privateer_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Venomweb-Privateer_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Venomweb-Privateer_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Verite Elemental
 
 ![image](../assets/mobiles/verite-elemental.png)
@@ -21560,6 +25816,121 @@
         <tr>
         <th>Slayer Drop</th>
         <td id="Verite-Elemental_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Wailing Banshee
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Wailing-Banshee_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Wailing-Banshee_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Wailing-Banshee_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Wailing-Banshee_Fame"></td>
+        <th>Karma</th>
+        <td id="Wailing-Banshee_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Wailing-Banshee_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Wailing-Banshee_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Wailing-Banshee_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Wailing-Banshee_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Wailing-Banshee_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Wailing-Banshee_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Wailing-Banshee_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Wailing-Banshee_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Wailing-Banshee_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Wailing-Banshee_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Wailing-Banshee_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Wailing-Banshee_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Wailing-Banshee_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Wailing-Banshee_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Wailing-Banshee_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Wailing-Banshee_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Wailing-Banshee_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Wailing-Banshee_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Wailing-Banshee_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Wailing-Banshee_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Wailing-Banshee_Slayer-Drop"></td>
     </tr>
     </table>
     </div>
