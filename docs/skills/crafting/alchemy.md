@@ -90,7 +90,7 @@ Arcane ink can be purchased from the Codex Scholar at the Moonglow scribes (150,
 
 ### Codex fragments
 
-Codex fragments can be obtained from rift encounters.
+Codex fragments can be obtained inside [Codex Rifts](../../custom-systems/codex-rifts.md).
 
 ## Potion kegs
 
