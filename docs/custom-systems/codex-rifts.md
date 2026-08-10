@@ -63,7 +63,7 @@ At any moment, up to 3 of the 8 rift locations are active simultaneously. After 
 
 Each active rift progresses through a series of waves, you must kill all required creatures in a wave to advance to the next. After 3 waves the Rift Master boss spawns.
 
-### Gargoyle Raid
+### Gargoyle Raid · Moonglow
 
 | Wave | Creatures to Kill     |
 |------|-----------------------|
@@ -72,7 +72,7 @@ Each active rift progresses through a series of waves, you must kill all require
 | 3    | 5 Gargoyle Destroyers |
 | Boss | Gargoyle Warlord      |
 
-### Orc Assault
+### Orc Assault · Britain
 
 | Wave | Creatures to Kill               |
 |------|---------------------------------|
@@ -81,7 +81,7 @@ Each active rift progresses through a series of waves, you must kill all require
 | 3    | 8 Orc Captains                  |
 | Boss | Orc Captain (random orc name)   |
 
-### Secret Garden
+### Secret Garden · Minoc
 
 | Wave | Creatures to Kill   |
 |------|---------------------|
@@ -90,7 +90,7 @@ Each active rift progresses through a series of waves, you must kill all require
 | 3    | 10 Dark Wisps       |
 | Boss | Pixie (Rift Master) |
 
-### Undead Siege
+### Undead Siege · Yew
 
 | Wave | Creatures to Kill                      |
 |------|----------------------------------------|
@@ -99,7 +99,7 @@ Each active rift progresses through a series of waves, you must kill all require
 | 3    | 8 Skeletal Mages · 5 Wailing Banshees  |
 | Boss | Ancient Lich                           |
 
-### Skeletal Dragon
+### Skeletal Dragon · Trinsic
 
 | Wave | Creatures to Kill                                  |
 |------|----------------------------------------------------|
@@ -108,7 +108,7 @@ Each active rift progresses through a series of waves, you must kill all require
 | 3    | 5 Bone Magi · 2 Skeletal Mages · 2 Skeletal Liches |
 | Boss | Skeletal Dragon                                    |
 
-### Pirate Raid
+### Pirate Raid · Vesper
 
 | Wave | Creatures to Kill                       |
 |------|-----------------------------------------|
@@ -117,7 +117,7 @@ Each active rift progresses through a series of waves, you must kill all require
 | 3    | 5 Skeletal Mages                        |
 | Boss | Admiral Dread                           |
 
-### Daemon Incursion
+### Daemon Incursion · Jhelom
 
 | Wave | Creatures to Kill     |
 |------|-----------------------|
@@ -126,7 +126,7 @@ Each active rift progresses through a series of waves, you must kill all require
 | 3    | 5 Pit Fiends          |
 | Boss | Devourer of Souls     |
 
-### Undead Warlord Horde
+### Undead Warlord Horde · Skara Brae
 
 | Wave | Creatures to Kill                        |
 |------|------------------------------------------|
