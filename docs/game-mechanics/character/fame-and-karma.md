@@ -35,19 +35,19 @@ Karma doesn't affect visibility at all.
 <div class="cross-table">
     <table>
         <tr>
-        <th></th>
-        <th colspan="5">Fame</th>
+            <th></th>
+            <th colspan="5">Fame</th>
         </tr>
         <tr>
             <th>Karma</th>
-            <td>0 - 1.249</td>
-            <td>1.250 - 2.499</td>
-            <td>2.500 - 4.999</td>
-            <td>5.000 - 9.999</td>
-            <td>10.000+</td>
+            <th>0 - 1.249<br>Level 1</th>
+            <th>1.250 - 2.499<br>Level 2</th>
+            <th>2.500 - 4.999<br>Level 3</th>
+            <th>5.000 - 9.999<br>Level 4</th>
+            <th>10.000+<br>Level 5</th>
         </tr>
         <tr>
-            <td>10.000+</td>
+            <th>10.000+<br>Level 5</th>
             <td>Trustworthy</td>
             <td>Estimable</td>
             <td>Great</td>
@@ -55,7 +55,7 @@ Karma doesn't affect visibility at all.
             <td>Glorious Lord/Lady</td>
         </tr>
         <tr>
-            <td>9.999 - 5.000</td>
+            <th>9.999 - 5.000<br>Level 4</th>
             <td>Honest</td>
             <td>Commendable</td>
             <td>Famed</td>
@@ -63,7 +63,7 @@ Karma doesn't affect visibility at all.
             <td>Illustrious Lord/Lady</td>
         </tr>
         <tr>
-            <td>4.999 - 2.500</td>
+            <th>4.999 - 2.500<br>Level 3</th>
             <td>Good</td>
             <td>Honorable</td>
             <td>Admirable</td>
@@ -71,7 +71,7 @@ Karma doesn't affect visibility at all.
             <td>Noble Lord/Lady</td>
         </tr>
         <tr>
-            <td>2.499 - 1.250</td>
+            <th>2.499 - 1.250<br>Level 2</th>
             <td>Kind</td>
             <td>Respectable</td>
             <td>Proper</td>
@@ -79,7 +79,7 @@ Karma doesn't affect visibility at all.
             <td>Eminent Lord/Lady</td>
         </tr>
         <tr>
-            <td>1.249 - 625</td>
+            <th>1.249 - 625<br>Level 1</th>
             <td>Fair</td>
             <td>Upstanding</td>
             <td>Reputable</td>
@@ -87,7 +87,7 @@ Karma doesn't affect visibility at all.
             <td>Distinguished Lord/Lady</td>
         </tr>
         <tr>
-            <td>624 to -624</td>
+            <th>624 to -624<br>Level 0</th>
             <td>No Title</td>
             <td>Notable</td>
             <td>Prominent</td>
@@ -95,7 +95,7 @@ Karma doesn't affect visibility at all.
             <td>Lord/Lady</td>
         </tr>
         <tr>
-            <td>-625 to -1.249</td>
+            <th>-625 to -1.249<br>Level -1</th>
             <td>Rude</td>
             <td>Disreputable</td>
             <td>Notorious</td>
@@ -103,7 +103,7 @@ Karma doesn't affect visibility at all.
             <td>Dishonored Lord/Lady</td>
         </tr>
         <tr>
-            <td>-1.250 to -2.499</td>
+            <th>-1.250 to -2.499<br>Level -2</th>
             <td>Unsavory</td>
             <td>Dishonorable</td>
             <td>Ignoble</td>
@@ -111,7 +111,7 @@ Karma doesn't affect visibility at all.
             <td>Sinister Lord/Lady</td>
         </tr>
         <tr>
-            <td>-2.500 to -4.999</td>
+            <th>-2.500 to -4.999<br>Level -3</th>
             <td>Scoundrel</td>
             <td>Malicious</td>
             <td>Vile</td>
@@ -119,7 +119,7 @@ Karma doesn't affect visibility at all.
             <td>Dark Lord/Lady</td>
         </tr>
         <tr>
-            <td>-5.000 to -9.999</td>
+            <th>-5.000 to -9.999<br>Level -4</th>
             <td>Despicable</td>
             <td>Dastardly</td>
             <td>Wicked</td>
@@ -127,7 +127,7 @@ Karma doesn't affect visibility at all.
             <td>Evil Lord/Lady</td>
         </tr>
         <tr>
-            <td>-10.000 and below</td>
+            <th>-10.000 and below<br>Level -5</th>
             <td>Outcast</td>
             <td>Wretched</td>
             <td>Nefarious</td>
