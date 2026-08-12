@@ -4020,7 +4020,8 @@
 
 ### Cave Troll
 
-![image](../assets/mobiles/cave-troll.png)
+!!! warning
+    Under construction.
 
 === "Info"
 
@@ -10860,6 +10861,120 @@
         <tr>
         <th>Slayer Drop</th>
         <td id="Great-Hart_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Greater Mongbat
+
+![image](../assets/mobiles/greater-mongbat.png)
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Greater-Mongbat_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Greater-Mongbat_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Greater-Mongbat_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Greater-Mongbat_Fame"></td>
+        <th>Karma</th>
+        <td id="Greater-Mongbat_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Greater-Mongbat_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Greater-Mongbat_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Greater-Mongbat_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Greater-Mongbat_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Greater-Mongbat_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Greater-Mongbat_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Greater-Mongbat_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Greater-Mongbat_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Greater-Mongbat_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Greater-Mongbat_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Greater-Mongbat_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Greater-Mongbat_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Greater-Mongbat_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Greater-Mongbat_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Greater-Mongbat_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Greater-Mongbat_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Greater-Mongbat_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Greater-Mongbat_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Greater-Mongbat_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Greater-Mongbat_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Greater-Mongbat_Slayer-Drop"></td>
     </tr>
     </table>
     </div>
@@ -19205,7 +19320,7 @@
     </table>
     </div>
 
-### Pixie
+### Pixie Rift
 
 ![image](../assets/mobiles/pixie.png)
 
@@ -19215,31 +19330,31 @@
     <table>
     <tr>
         <th>Spawn<br>Locations</th>
-        <td id="Pixie_Spawn-Locations" colspan="3"></td>
+        <td id="Pixie-Rift_Spawn-Locations" colspan="3"></td>
     </tr>
     <tr>
         <th>Base Damage</th>
-        <td id="Pixie_Base-Damage"></td>
+        <td id="Pixie-Rift_Base-Damage"></td>
         <th>Armor Rating</th>
-        <td id="Pixie_Armor-Rating"></td>
+        <td id="Pixie-Rift_Armor-Rating"></td>
     </tr>
     <tr>
         <th>Fame</th>
-        <td id="Pixie_Fame"></td>
+        <td id="Pixie-Rift_Fame"></td>
         <th>Karma</th>
-        <td id="Pixie_Karma"></td>
+        <td id="Pixie-Rift_Karma"></td>
     </tr>
     <tr>
         <th>Super Slayer</th>
-        <td id="Pixie_Super-Slayer"></td>
+        <td id="Pixie-Rift_Super-Slayer"></td>
         <th>Minor Slayer</th>
-        <td id="Pixie_Minor-Slayer"></td>
+        <td id="Pixie-Rift_Minor-Slayer"></td>
     </tr>
     <tr>
         <th>Barding Difficulty</th>
-        <td id="Pixie_Barding-Difficulty"></td>
+        <td id="Pixie-Rift_Barding-Difficulty"></td>
         <th>Taming Difficulty</th>
-        <td id="Pixie_Taming-Difficulty"></td>
+        <td id="Pixie-Rift_Taming-Difficulty"></td>
     </tr>
     </table>
     </div>
@@ -19250,21 +19365,21 @@
     <table>
     <tr>
         <th>Hit Points</th>
-        <td id="Pixie_Hit-Points"></td>
+        <td id="Pixie-Rift_Hit-Points"></td>
         <th>Strength</th>
-        <td id="Pixie_Strength"></td>
+        <td id="Pixie-Rift_Strength"></td>
     </tr>
     <tr>
         <th>Stamina</th>
-        <td id="Pixie_Stamina"></td>
+        <td id="Pixie-Rift_Stamina"></td>
         <th>Dexterity</th>
-        <td id="Pixie_Dexterity"></td>
+        <td id="Pixie-Rift_Dexterity"></td>
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Pixie_Mana"></td>
+        <td id="Pixie-Rift_Mana"></td>
         <th>Intelligence</th>
-        <td id="Pixie_Intelligence"></td>
+        <td id="Pixie-Rift_Intelligence"></td>
     </tr>
     </table>
     </div>
@@ -19275,27 +19390,27 @@
     <table>
     <tr>
         <th>Wrestling</th>
-        <td id="Pixie_Wrestling"></td>
+        <td id="Pixie-Rift_Wrestling"></td>
         <th>Magery</th>
-        <td id="Pixie_Magery"></td>
+        <td id="Pixie-Rift_Magery"></td>
     </tr>
     <tr>
         <th>Tactics</th>
-        <td id="Pixie_Tactics"></td>
+        <td id="Pixie-Rift_Tactics"></td>
         <th>Meditation</th>
-        <td id="Pixie_Meditation"></td>
+        <td id="Pixie-Rift_Meditation"></td>
     </tr>
     <tr>
         <th>Resisting Spells</th>
-        <td id="Pixie_Resisting-Spells"></td>
+        <td id="Pixie-Rift_Resisting-Spells"></td>
         <th>Evaluating Intelligence</th>
-        <td id="Pixie_Evaluating-Intelligence"></td>
+        <td id="Pixie-Rift_Evaluating-Intelligence"></td>
     </tr>
     <tr>
         <th>Anatomy</th>
-        <td id="Pixie_Anatomy"></td>
+        <td id="Pixie-Rift_Anatomy"></td>
         <th>Poisoning</th>
-        <td id="Pixie_Poisoning"></td>
+        <td id="Pixie-Rift_Poisoning"></td>
     </tr>
     </table>
     </div>
@@ -19306,15 +19421,15 @@
     <table>
     <tr>
         <th>Gold</th>
-        <td id="Pixie_Gold"></td>
+        <td id="Pixie-Rift_Gold"></td>
     </tr>
     <tr>
         <th>Treasure Map lvl</th>
-        <td id="Pixie_Treasure-Map-lvl"></td>
+        <td id="Pixie-Rift_Treasure-Map-lvl"></td>
     </tr>
         <tr>
         <th>Slayer Drop</th>
-        <td id="Pixie_Slayer-Drop"></td>
+        <td id="Pixie-Rift_Slayer-Drop"></td>
     </tr>
     </table>
     </div>
