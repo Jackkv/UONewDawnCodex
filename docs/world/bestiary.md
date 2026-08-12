@@ -5045,6 +5045,120 @@
     </table>
     </div>
 
+### Crow
+
+![image](../assets/mobiles/crow.png)
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Crow_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Crow_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Crow_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Crow_Fame"></td>
+        <th>Karma</th>
+        <td id="Crow_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Crow_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Crow_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Crow_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Crow_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Crow_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Crow_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Crow_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Crow_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Crow_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Crow_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Crow_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Crow_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Crow_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Crow_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Crow_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Crow_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Crow_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Crow_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Crow_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Crow_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Crow_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Cyclopean Warrior
 
 ![image](../assets/mobiles/cyclopean-warrior.png)
@@ -13600,6 +13714,120 @@
     </table>
     </div>
 
+### Magpie
+
+![image](../assets/mobiles/magpie.png)
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Magpie_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Magpie_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Magpie_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Magpie_Fame"></td>
+        <th>Karma</th>
+        <td id="Magpie_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Magpie_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Magpie_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Magpie_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Magpie_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Magpie_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Magpie_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Magpie_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Magpie_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Magpie_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Magpie_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Magpie_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Magpie_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Magpie_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Magpie_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Magpie_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Magpie_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Magpie_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Magpie_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Magpie_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Magpie_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Magpie_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Mephitis
 
 ![image](../assets/mobiles/mephitis.png)
@@ -20227,6 +20455,120 @@
         <tr>
         <th>Slayer Drop</th>
         <td id="Ratman-Mage_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Raven
+
+![image](../assets/mobiles/raven.png)
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Raven_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Raven_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Raven_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Raven_Fame"></td>
+        <th>Karma</th>
+        <td id="Raven_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Raven_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Raven_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Raven_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Raven_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Raven_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Raven_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Raven_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Raven_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Raven_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Raven_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Raven_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Raven_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Raven_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Raven_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Raven_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Raven_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Raven_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Raven_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Raven_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Raven_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Raven_Slayer-Drop"></td>
     </tr>
     </table>
     </div>
