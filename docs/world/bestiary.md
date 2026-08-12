@@ -1849,6 +1849,121 @@
     </table>
     </div>
 
+### Ash Reaper
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Ash-Reaper_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Ash-Reaper_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Ash-Reaper_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Ash-Reaper_Fame"></td>
+        <th>Karma</th>
+        <td id="Ash-Reaper_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Ash-Reaper_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Ash-Reaper_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Ash-Reaper_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Ash-Reaper_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Ash-Reaper_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Ash-Reaper_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Ash-Reaper_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Ash-Reaper_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Ash-Reaper_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Ash-Reaper_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Ash-Reaper_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Ash-Reaper_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Ash-Reaper_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Ash-Reaper_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Ash-Reaper_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Ash-Reaper_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Ash-Reaper_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Ash-Reaper_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Ash-Reaper_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Ash-Reaper_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Ash-Reaper_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Balron
 
 ![image](../assets/mobiles/balron.png)
@@ -14513,6 +14628,121 @@
     </table>
     </div>
 
+### Oak Reaper
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Oak-Reaper_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Oak-Reaper_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Oak-Reaper_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Oak-Reaper_Fame"></td>
+        <th>Karma</th>
+        <td id="Oak-Reaper_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Oak-Reaper_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Oak-Reaper_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Oak-Reaper_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Oak-Reaper_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Oak-Reaper_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Oak-Reaper_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Oak-Reaper_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Oak-Reaper_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Oak-Reaper_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Oak-Reaper_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Oak-Reaper_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Oak-Reaper_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Oak-Reaper_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Oak-Reaper_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Oak-Reaper_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Oak-Reaper_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Oak-Reaper_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Oak-Reaper_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Oak-Reaper_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Oak-Reaper_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Oak-Reaper_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Ogre
 
 ![image](../assets/mobiles/ogre.png)
@@ -24906,6 +25136,121 @@
     </table>
     </div>
 
+### Tree Giant
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Tree-Giant_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Tree-Giant_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Tree-Giant_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Tree-Giant_Fame"></td>
+        <th>Karma</th>
+        <td id="Tree-Giant_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Tree-Giant_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Tree-Giant_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Tree-Giant_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Tree-Giant_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Tree-Giant_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Tree-Giant_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Tree-Giant_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Tree-Giant_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Tree-Giant_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Tree-Giant_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Tree-Giant_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Tree-Giant_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Tree-Giant_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Tree-Giant_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Tree-Giant_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Tree-Giant_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Tree-Giant_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Tree-Giant_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Tree-Giant_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Tree-Giant_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Tree-Giant_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
 ### Troll
 
 ![image](../assets/mobiles/troll.png)
@@ -26615,6 +26960,121 @@
         <tr>
         <th>Slayer Drop</th>
         <td id="Wyvern_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Yew Reaper
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Yew-Reaper_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Yew-Reaper_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Yew-Reaper_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Yew-Reaper_Fame"></td>
+        <th>Karma</th>
+        <td id="Yew-Reaper_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Yew-Reaper_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Yew-Reaper_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Yew-Reaper_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Yew-Reaper_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Yew-Reaper_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Yew-Reaper_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Yew-Reaper_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Yew-Reaper_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Yew-Reaper_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Yew-Reaper_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Yew-Reaper_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Yew-Reaper_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Yew-Reaper_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Yew-Reaper_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Yew-Reaper_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Yew-Reaper_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Yew-Reaper_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Yew-Reaper_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Yew-Reaper_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Yew-Reaper_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Yew-Reaper_Slayer-Drop"></td>
     </tr>
     </table>
     </div>
