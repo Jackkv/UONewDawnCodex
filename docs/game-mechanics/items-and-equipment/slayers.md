@@ -253,7 +253,6 @@ This list outlines every slayer and the specific monsters that take increased da
 
         - Dread Spider
         - Frost Spider
-        - Giant Black Widow
         - Giant Spider
         - Mephitis
         - Scorpion
@@ -274,7 +273,6 @@ This list outlines every slayer and the specific monsters that take increased da
 
         - Dread Spider
         - Frost Spider
-        - Giant Black Widow
         - Giant Spider
         - Mephitis
 
