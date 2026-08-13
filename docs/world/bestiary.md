@@ -2104,7 +2104,7 @@
     </tr>
     <tr>
         <th>Super Slayer</th>
-        <td id="Barracoon_Super-Slayer">-</td>
+        <td id="Barracoon_Super-Slayer">Repond</td>
         <th>Minor Slayer</th>
         <td id="Barracoon_Minor-Slayer">-</td>
     </tr>
@@ -3245,7 +3245,7 @@
     </tr>
     <tr>
         <th>Super Slayer</th>
-        <td id="Brigand_Super-Slayer">-</td>
+        <td id="Brigand_Super-Slayer">Repond</td>
         <th>Minor Slayer</th>
         <td id="Brigand_Minor-Slayer">-</td>
     </tr>
@@ -7925,7 +7925,7 @@
     </tr>
     <tr>
         <th>Super Slayer</th>
-        <td id="Executioner_Super-Slayer">-</td>
+        <td id="Executioner_Super-Slayer">Repond</td>
         <th>Minor Slayer</th>
         <td id="Executioner_Minor-Slayer">-</td>
     </tr>
@@ -20830,9 +20830,9 @@
     </tr>
     <tr>
         <th>Super Slayer</th>
-        <td id="Rikktor_Super-Slayer">-</td>
+        <td id="Rikktor_Super-Slayer">Reptilian Death</td>
         <th>Minor Slayer</th>
-        <td id="Rikktor_Minor-Slayer">-</td>
+        <td id="Rikktor_Minor-Slayer">Dragon Slaying</td>
     </tr>
     <tr>
         <th>Barding Difficulty</th>
@@ -21858,9 +21858,9 @@
     </tr>
     <tr>
         <th>Super Slayer</th>
-        <td id="Semidar_Super-Slayer">-</td>
+        <td id="Semidar_Super-Slayer">Exorcism</td>
         <th>Minor Slayer</th>
-        <td id="Semidar_Minor-Slayer">-</td>
+        <td id="Semidar_Minor-Slayer">Daemon Dismissal</td>
     </tr>
     <tr>
         <th>Barding Difficulty</th>
