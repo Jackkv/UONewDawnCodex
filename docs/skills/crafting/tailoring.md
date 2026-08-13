@@ -160,64 +160,77 @@ This list shows which animal and monster drop specific leather.
 
 === "Normal"
 
-    |                               Animal                               | Yield |
-    |:------------------------------------------------------------------:|:-----:|
-    |            ![icon](../../assets/mobiles/cat.png)<br>Cat            |   1   |
-    |        ![icon](../../assets/mobiles/gorilla.png)<br>Gorilla        |   1   |
-    |   ![icon](../../assets/mobiles/snow-leopard.png)<br>Snow Leopard   |   1   |
-    |     ![icon](../../assets/mobiles/polar-bear.png)<br>Polar Bear     |   3   |
-    |         ![icon](../../assets/mobiles/rabbit.png)<br>Rabbit         |   4   |
-    |      ![icon](../../assets/mobiles/grey-wolf.png)<br>Grey Wolf      |   6   |
-    |     ![icon](../../assets/mobiles/white-wolf.png)<br>White Wolf     |   6   |
-    |           ![icon](../../assets/mobiles/goat.png)<br>Goat           |   8   |
-    |           ![icon](../../assets/mobiles/hind.png)<br>Hind           |   8   |
-    |         ![icon](../../assets/mobiles/cougar.png)<br>Cougar         |  10   |
-    |          ![icon](../../assets/mobiles/horse.png)<br>Horse          |  10   |
-    |     ![icon](../../assets/mobiles/pack-horse.png)<br>Pack Horse     |  10   |
-    |        ![icon](../../assets/mobiles/cougar.png)<br>Panther         |  10   |
-    |     ![icon](../../assets/mobiles/black-bear.png)<br>Black Bear     |  12   |
-    |     ![icon](../../assets/mobiles/brown-bear.png)<br>Brown Bear     |  12   |
-    |            ![icon](../../assets/mobiles/cow.png)<br>Cow            |  12   |
-    | ![icon](../../assets/mobiles/llama.png)<br>Llama<br>Rideable Llama |  12   |
-    |      ![icon](../../assets/mobiles/goat.png)<br>Mountain Goat       |  12   |
-    |         ![icon](../../assets/mobiles/walrus.png)<br>Walrus         |  12   |
-    |           ![icon](../../assets/mobiles/bull.png)<br>Bull           |  15   |
-    |     ![icon](../../assets/mobiles/great-hart.png)<br>Great Hart     |  15   |
-    |    ![icon](../../assets/mobiles/brown-bear.png)<br>Grizzly Bear    |  16   |
+|                                Animal                                | Yield |
+|:--------------------------------------------------------------------:|:-----:|
+|     ![icon](../../assets/mobiles/jack-rabbit.png)<br>Jack Rabbit     |   1   |
+|          ![icon](../../assets/mobiles/rabbit.png)<br>Rabbit          |   1   |
+|       ![icon](../../assets/mobiles/bull-frog.png)<br>Bull Frog       |   4   |
+|     ![icon](../../assets/mobiles/timber-wolf.png)<br>Timber Wolf     |   5   |
+|         ![icon](../../assets/mobiles/bogling.png)<br>Bogling         |   6   |
+|       ![icon](../../assets/mobiles/giant-rat.png)<br>Giant Rat       |   6   |
+|         ![icon](../../assets/mobiles/gorilla.png)<br>Gorilla         |   6   |
+| ![icon](../../assets/mobiles/greater-mongbat.png)<br>Greater Mongbat |   6   |
+|       ![icon](../../assets/mobiles/grey-wolf.png)<br>Grey Wolf       |   6   |
+|      ![icon](../../assets/mobiles/white-wolf.png)<br>White Wolf      |   6   |
+|            ![icon](../../assets/mobiles/goat.png)<br>Goat            |   8   |
+|            ![icon](../../assets/mobiles/hind.png)<br>Hind            |   8   |
+|    ![icon](../../assets/mobiles/snow-leopard.png)<br>Snow Leopard    |   8   |
+|          ![icon](../../assets/mobiles/cougar.png)<br>Cougar          |  10   |
+|           ![icon](../../assets/mobiles/horse.png)<br>Horse           |  10   |
+|      ![icon](../../assets/mobiles/pack-horse.png)<br>Pack Horse      |  10   |
+|         ![icon](../../assets/mobiles/panther.png)<br>Panther         |  10   |
+|      ![icon](../../assets/mobiles/black-bear.png)<br>Black Bear      |  12   |
+|      ![icon](../../assets/mobiles/brown-bear.png)<br>Brown Bear      |  12   |
+|             ![icon](../../assets/mobiles/cow.png)<br>Cow             |  12   |
+|           ![icon](../../assets/mobiles/llama.png)<br>Llama           |  12   |
+|   ![icon](../../assets/mobiles/mountain-goat.png)<br>Mountain Goat   |  12   |
+|   ![icon](../../assets/mobiles/ridable-llama.png)<br>Ridable Llama   |  12   |
+|          ![icon](../../assets/mobiles/walrus.png)<br>Walrus          |  12   |
+|            ![icon](../../assets/mobiles/bull.png)<br>Bull            |  15   |
+|      ![icon](../../assets/mobiles/great-hart.png)<br>Great Hart      |  15   |
+|    ![icon](../../assets/mobiles/grizzly-bear.png)<br>Grizzly Bear    |  16   |
+|      ![icon](../../assets/mobiles/polar-bear.png)<br>Polar Bear      |  16   |
 
 === "Spined"
 
     |                                 Monster                                  | Yield |
     |:------------------------------------------------------------------------:|:-----:|
-    |         ![icon](../../assets/mobiles/dire-wolf.png)<br>Dire Wolf         |   6   |
+    |         ![icon](../../assets/mobiles/dire-wolf.png)<br>Dire Wolf         |   7   |
     |               ![icon](../../assets/mobiles/imp.png)<br>Imp               |   6   |
+    |           ![icon](../../assets/mobiles/centaur.png)<br>Centaur           |   8   |
     |            ![icon](../../assets/mobiles/ratman.png)<br>Ratman            |   8   |
+    |     ![icon](../../assets/mobiles/ratman-archer.png)<br>Ratman Archer     |   8   |
+    |       ![icon](../../assets/mobiles/ratman-mage.png)<br>Ratman Mage       |   8   |
     |           ![icon](../../assets/mobiles/hellcat.png)<br>Hellcat           |  10   |
     |         ![icon](../../assets/mobiles/alligator.png)<br>Alligator         |  12   |
     |        ![icon](../../assets/mobiles/giant-toad.png)<br>Giant Toad        |  12   |
     |         ![icon](../../assets/mobiles/lizardman.png)<br>Lizardman         |  12   |
-    |       ![icon](../../assets/mobiles/lava-lizard.png)<br>Lava Lizard       |  14   |
+    |       ![icon](../../assets/mobiles/lava-lizard.png)<br>Lava Lizard       |  12   |
     | ![icon](../../assets/mobiles/giant-ice-serpent.png)<br>Giant Ice Serpent |  15   |
     |       ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Snake       |  15   |
     |      ![icon](../../assets/mobiles/lava-serpent.png)<br>Lava Serpent      |  15   |
 
 === "Horned"
 
-    |                                     Monster                                      | Yield |
-    |:--------------------------------------------------------------------------------:|:-----:|
-    | ![icon](../../assets/mobiles/sea-serpent.png)<br>Sea Serpent<br>Deep Sea Serpent |  10   |
-    |                 ![icon](../../assets/mobiles/drake.png)<br>Drake                 |  20   |
-    |                ![icon](../../assets/mobiles/wyvern.png)<br>Wyvern                |  20   |
+    |                              Monster                              | Yield |
+    |:-----------------------------------------------------------------:|:-----:|
+    | ![icon](../../assets/mobiles/sea-serpent.png)<br>Deep Sea Serpent |  10   |
+    |        ![icon](../../assets/mobiles/ki-rin.png)<br>Ki-rin         |  10   |
+    |       ![icon](../../assets/mobiles/unicorn.png)<br>Unicorn        |  10   |
+    |         ![icon](../../assets/mobiles/drake.png)<br>Drake          |  20   |
+    |        ![icon](../../assets/mobiles/wyvern.png)<br>Wyvern         |  20   |
 
 === "Barbed"
 
-    |                            Monster                             | Yield |
-    |:--------------------------------------------------------------:|:-----:|
-    |    ![icon](../../assets/mobiles/nightmare.png)<br>Nightmare    |  10   |
-    | ![icon](../../assets/mobiles/ancient-wyrm.png)<br>Ancient Wyrm |  20   |
-    |       ![icon](../../assets/mobiles/dragon.png)<br>Dragon       |  20   |
-    |  ![icon](../../assets/mobiles/shadow-wyrm.png)<br>Shadow Wyrm  |  20   |
-    |   ![icon](../../assets/mobiles/white-wyrm.png)<br>White Wyrm   |  20   |
+    |                                 Monster                                  | Yield |
+    |:------------------------------------------------------------------------:|:-----:|
+    |         ![icon](../../assets/mobiles/nightmare.png)<br>Nightmare         |  10   |
+    |            ![icon](../../assets/mobiles/dragon.png)<br>Dragon            |  20   |
+    |       ![icon](../../assets/mobiles/shadow-wyrm.png)<br>Shadow Wyrm       |  20   |
+    |        ![icon](../../assets/mobiles/white-wyrm.png)<br>White Wyrm        |  20   |
+    | ![icon](../../assets/mobiles/serpentine-dragon.png)<br>Serpentine Dragon |  20   |
+    |   ![icon](../../assets/mobiles/skeletal-dragon.png)<br>Skeletal Dragon   |  20   |
+    |      ![icon](../../assets/mobiles/ancient-wyrm.png)<br>Ancient Wyrm      |  40   |
 
 ## Tailor Dye Kit
 
