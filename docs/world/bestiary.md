@@ -13715,6 +13715,121 @@
     </table>
     </div>
 
+### Marble Elemental
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Marble-Elemental_Spawn-Locations" colspan="3">Forests</td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Marble-Elemental_Base-Damage">0</td>
+        <th>Armor Rating</th>
+        <td id="Marble-Elemental_Armor-Rating">-</td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Marble-Elemental_Fame">Level 1 (150)</td>
+        <th>Karma</th>
+        <td id="Marble-Elemental_Karma">Level 0 (0)</td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Marble-Elemental_Super-Slayer">-</td>
+        <th>Minor Slayer</th>
+        <td id="Marble-Elemental_Minor-Slayer">-</td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Marble-Elemental_Barding-Difficulty">6.6</td>
+        <th>Taming Difficulty</th>
+        <td id="Marble-Elemental_Taming-Difficulty">-6.9</td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Marble-Elemental_Hit-Points">-</td>
+        <th>Strength</th>
+        <td id="Marble-Elemental_Strength">10</td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Marble-Elemental_Stamina">25 - 35</td>
+        <th>Dexterity</th>
+        <td id="Marble-Elemental_Dexterity">25 - 35</td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Marble-Elemental_Mana">-</td>
+        <th>Intelligence</th>
+        <td id="Marble-Elemental_Intelligence">10</td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Marble-Elemental_Wrestling">4.2 - 6.4</td>
+        <th>Magery</th>
+        <td id="Marble-Elemental_Magery">-</td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Marble-Elemental_Tactics">4.0 - 6.0</td>
+        <th>Meditation</th>
+        <td id="Marble-Elemental_Meditation">-</td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Marble-Elemental_Resisting-Spells">4.0 - 5.0</td>
+        <th>Evaluating Intelligence</th>
+        <td id="Marble-Elemental_Evaluating-Intelligence">-</td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Marble-Elemental_Anatomy">-</td>
+        <th>Poisoning</th>
+        <td id="Marble-Elemental_Poisoning">-</td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Marble-Elemental_Gold">-</td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Marble-Elemental_Treasure-Map-lvl">-</td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Marble-Elemental_Slayer-Drop">-</td>
+    </tr>
+    </table>
+    </div>
+
 ### Mephitis
 
 ![image](../assets/mobiles/mephitis.png)
@@ -20917,6 +21032,121 @@
     </table>
     </div>
 
+### Sandstone Elemental
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Sandstone-Elemental_Spawn-Locations" colspan="3">Covetous lvl 4</td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Sandstone-Elemental_Base-Damage">8 - 10</td>
+        <th>Armor Rating</th>
+        <td id="Sandstone-Elemental_Armor-Rating">40</td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Sandstone-Elemental_Fame">Level 4 (6000)</td>
+        <th>Karma</th>
+        <td id="Sandstone-Elemental_Karma">Level -4 (-6000)</td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Sandstone-Elemental_Super-Slayer">Silver</td>
+        <th>Minor Slayer</th>
+        <td id="Sandstone-Elemental_Minor-Slayer">-</td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Sandstone-Elemental_Barding-Difficulty">128.8</td>
+        <th>Taming Difficulty</th>
+        <td id="Sandstone-Elemental_Taming-Difficulty">-</td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Sandstone-Elemental_Hit-Points">1200</td>
+        <th>Strength</th>
+        <td id="Sandstone-Elemental_Strength">301 - 350</td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Sandstone-Elemental_Stamina">75</td>
+        <th>Dexterity</th>
+        <td id="Sandstone-Elemental_Dexterity">75</td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Sandstone-Elemental_Mana">0</td>
+        <th>Intelligence</th>
+        <td id="Sandstone-Elemental_Intelligence">151 - 200</td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Sandstone-Elemental_Wrestling">90.1 - 100.0</td>
+        <th>Magery</th>
+        <td id="Sandstone-Elemental_Magery">-</td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Sandstone-Elemental_Tactics">100.0</td>
+        <th>Meditation</th>
+        <td id="Sandstone-Elemental_Meditation">-</td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Sandstone-Elemental_Resisting-Spells">250.0</td>
+        <th>Evaluating Intelligence</th>
+        <td id="Sandstone-Elemental_Evaluating-Intelligence">-</td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Sandstone-Elemental_Anatomy">-</td>
+        <th>Poisoning</th>
+        <td id="Sandstone-Elemental_Poisoning">120.0</td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Sandstone-Elemental_Gold">804 - 1300</td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Sandstone-Elemental_Treasure-Map-lvl">5</td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Sandstone-Elemental_Slayer-Drop">-</td>
+    </tr>
+    </table>
+    </div>
+
 ### Savage
 
 ![image](../assets/mobiles/savage.png)
@@ -23764,6 +23994,121 @@
         <tr>
         <th>Slayer Drop</th>
         <td id="Spectre_Slayer-Drop">-</td>
+    </tr>
+    </table>
+    </div>
+
+### Stone Elemental
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Stone-Elemental_Spawn-Locations" colspan="3">Covetous lvl 3, Covetous lvl 4, Deceit lvl 1, Deceit lvl 3, Graveyards</td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Stone-Elemental_Base-Damage">7 - 11</td>
+        <th>Armor Rating</th>
+        <td id="Stone-Elemental_Armor-Rating">28</td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Stone-Elemental_Fame">Level 3 (4000)</td>
+        <th>Karma</th>
+        <td id="Stone-Elemental_Karma">Level -3 (-4000)</td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Stone-Elemental_Super-Slayer">Silver</td>
+        <th>Minor Slayer</th>
+        <td id="Stone-Elemental_Minor-Slayer">-</td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Stone-Elemental_Barding-Difficulty">67.8</td>
+        <th>Taming Difficulty</th>
+        <td id="Stone-Elemental_Taming-Difficulty">-</td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Stone-Elemental_Hit-Points">46 - 60</td>
+        <th>Strength</th>
+        <td id="Stone-Elemental_Strength">76 - 100</td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Stone-Elemental_Stamina">76 - 95</td>
+        <th>Dexterity</th>
+        <td id="Stone-Elemental_Dexterity">76 - 95</td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Stone-Elemental_Mana">36 - 60</td>
+        <th>Intelligence</th>
+        <td id="Stone-Elemental_Intelligence">36 - 60</td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Stone-Elemental_Wrestling">45.1 - 55.0</td>
+        <th>Magery</th>
+        <td id="Stone-Elemental_Magery">55.1 - 70.0</td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Stone-Elemental_Tactics">45.1 - 60.0</td>
+        <th>Meditation</th>
+        <td id="Stone-Elemental_Meditation">-</td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Stone-Elemental_Resisting-Spells">55.1 - 70.0</td>
+        <th>Evaluating Intelligence</th>
+        <td id="Stone-Elemental_Evaluating-Intelligence">55.1 - 70.0</td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Stone-Elemental_Anatomy">-</td>
+        <th>Poisoning</th>
+        <td id="Stone-Elemental_Poisoning">-</td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Stone-Elemental_Gold">30 - 75</td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Stone-Elemental_Treasure-Map-lvl">-</td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Stone-Elemental_Slayer-Drop">-</td>
     </tr>
     </table>
     </div>
