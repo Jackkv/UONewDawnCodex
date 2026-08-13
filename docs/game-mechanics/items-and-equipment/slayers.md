@@ -7,7 +7,7 @@ Slayers are magical bonuses on weapons and instruments that boost their power ag
 
 ## Slayer Groups at a Glance
 
-| Group         | Super Slayer    | Sub-Slayers                                                                                            | Opposition Group | Drops From                                                                                                                                                                                                                                                                                                                    |
+| Group         | Super Slayer    | Minor-Slayers                                                                                            | Opposition Group | Drops From                                                                                                                                                                                                                                                                                                                    |
 |---------------|-----------------|--------------------------------------------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Humanoid**  | Repond          | Ogre Trashing, Orc Slaying, Troll Slaughter                                                            | Undead           | Ancient Lich, Bone Knight, Bone Mage, Lich, Lich Lord, Mummy, Skeletal Mage                                                                                                                                                                                                                                                   |
 | **Undead**    | Silver          | _(none)_                                                                                               | Humanoid         | Arctic Ogre Lord, Cave Troll, Evil Mage Lord, Executioner, Mountain Troll, Pirate Bartender, Pirate Captain, Titan                                                                                                                                                                                                            |
@@ -37,11 +37,14 @@ This list outlines every slayer and the specific monsters that take increased da
     ???+ note "Click to collapse"
 
         - Arctic Ogre Lord
+        - Barracoon
+        - Brigand
         - Cave Troll
         - Cyclopean Warrior
         - Ettin
         - Evil Mage
         - Evil Mage Lord
+        - Executioner
         - Frost Troll
         - Mountain Troll
         - Ogre
@@ -103,6 +106,7 @@ This list outlines every slayer and the specific monsters that take increased da
         - Lich
         - Lich Lord
         - Mummy
+        - Neira
         - Rotting Corpse
         - Shade
         - Skeletal Knight
@@ -213,6 +217,7 @@ This list outlines every slayer and the specific monsters that take increased da
         - Gargoyle Enforcer
         - Ice Fiend
         - Imp
+        - Semidar
         - Stone Gargoyle
         - Summoned Daemon
 
@@ -226,6 +231,7 @@ This list outlines every slayer and the specific monsters that take increased da
         - Daemon
         - Ice Fiend
         - Imp
+        - Semidar
         - Summoned Daemon
 
 === "Gargoyle's Foe"
@@ -310,6 +316,7 @@ This list outlines every slayer and the specific monsters that take increased da
         - Ophidian Shaman
         - Ophidian Warrior
         - Ophidian Zealot
+        - Rikktor
         - Sea Serpent
         - Serpentine Dragon
         - Shadow Wyrm
@@ -325,6 +332,7 @@ This list outlines every slayer and the specific monsters that take increased da
         - Ancient Wyrm
         - Dragon
         - Drake
+        - Rikktor
         - Serpentine Dragon
         - Shadow Wyrm
         - White Wyrm
