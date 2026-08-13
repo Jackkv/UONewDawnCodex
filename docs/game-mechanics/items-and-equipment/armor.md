@@ -95,7 +95,7 @@ Looted Bone armor can't be repaired.
 
 This table shows the Armor Rating for each shield type.
 
-Visit the [Parrying](../../skills/combat/parrying.md) page for more information.
+For more information visit the [Parrying](../../skills/combat/parrying.md) page.
 
 === "Normal"
 

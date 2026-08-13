@@ -128,7 +128,9 @@ You can gain additional bond slots by completing the [Animal Bonding Quest](../.
 
 At 80 Animal Taming you will able to accept the quest at the Moonglow Zoo located at these coordinates (4540, 1367).
 
-To complete the quest you will need to find and tame various rare animals, for more information you can go [here](../../custom-systems/animal-bonding-quest.md).
+To complete the quest you will need to find and tame various rare animals.
+
+For more information visit the [Animal Bonding Quest](../../custom-systems/animal-bonding-quest.md) page.
 
 ### Pet retrieval
 

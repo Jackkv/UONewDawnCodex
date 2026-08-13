@@ -10,7 +10,7 @@ Pirate maps are dropped by Ancient Sea Serpents or found in Strongboxes dropped 
 
 While Fishing, you can only pull up two Ancient Sea Serpents a day for each account, after that limit you get a rare decoration item instead.
 
-Visit the [Fishing](../skills/resource-gathering/fishing.md) page for more information.
+For more information visit the [Fishing](../skills/resource-gathering/fishing.md) page.
 
 ### Restoring the Map
 
