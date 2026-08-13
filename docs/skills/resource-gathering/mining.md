@@ -46,7 +46,7 @@ This effect can stack with the Gargoyle pickaxe.
 
 ## Gargoyle pickaxe
 
-The Gargoyle pickaxe is a Blacksmith BOD reward.
+The Gargoyle pickaxe is a [Blacksmith BOD](../crafting/blacksmithy.md#bulk-order-deeds) reward.
 
 When used, it can boost the ore vein by one level.
 
@@ -60,7 +60,7 @@ Gargoyles and Stone Gargoyles can also drop a Gargoyle pickaxe.
 
 ## Mining gloves
 
-Mining gloves are a Blacksmith BOD reward.
+Mining gloves are a [Blacksmith BOD](../crafting/blacksmithy.md#bulk-order-deeds) reward.
 
 Leather Mining Gloves add 1.0 points of mining.
 
