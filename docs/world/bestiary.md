@@ -16,119 +16,62 @@
 
 # Bestiary
 
-![image]()
-
-=== "Info"
-
-    <div class="mob-info">
-    <table>
-    <tr>
-        <th>Spawn<br>Locations</th>
-        <td id="Name_Spawn-Locations" colspan="3"></td>
-    </tr>
-    <tr>
-        <th>Base Damage</th>
-        <td id="Name_Base-Damage"></td>
-        <th>Armor Rating</th>
-        <td id="Name_Armor-Rating"></td>
-    </tr>
-    <tr>
-        <th>Fame</th>
-        <td id="Name_Fame"></td>
-        <th>Karma</th>
-        <td id="Name_Karma"></td>
-    </tr>
-    <tr>
-        <th>Super Slayer</th>
-        <td id="Name_Super-Slayer"></td>
-        <th>Minor Slayer</th>
-        <td id="Name_Minor-Slayer"></td>
-    </tr>
-    <tr>
-        <th>Barding Difficulty</th>
-        <td id="Name_Barding-Difficulty"></td>
-        <th>Taming Difficulty</th>
-        <td id="Name_Taming-Difficulty"></td>
-    </tr>
-    </table>
-    </div>
-
-=== "Attributes"
-
-    <div class="mob-info">
-    <table>
-    <tr>
-        <th>Hit Points</th>
-        <td id="Name_Hit-Points"></td>
-        <th>Strength</th>
-        <td id="Name_Strength"></td>
-    </tr>
-    <tr>
-        <th>Stamina</th>
-        <td id="Name_Stamina"></td>
-        <th>Dexterity</th>
-        <td id="Name_Dexterity"></td>
-    </tr>
-    <tr>
-        <th>Mana</th>
-        <td id="Name_Mana"></td>
-        <th>Intelligence</th>
-        <td id="Name_Intelligence"></td>
-    </tr>
-    </table>
-    </div>
-
-=== "Skills"
-
-    <div class="mob-info">
-    <table>
-    <tr>
-        <th>Wrestling</th>
-        <td id="Name_Wrestling"></td>
-        <th>Magery</th>
-        <td id="Name_Magery"></td>
-    </tr>
-    <tr>
-        <th>Tactics</th>
-        <td id="Name_Tactics"></td>
-        <th>Meditation</th>
-        <td id="Name_Meditation"></td>
-    </tr>
-    <tr>
-        <th>Resisting Spells</th>
-        <td id="Name_Resisting-Spells"></td>
-        <th>Evaluating Intelligence</th>
-        <td id="Name_Evaluating-Intelligence"></td>
-    </tr>
-    <tr>
-        <th>Anatomy</th>
-        <td id="Name_Anatomy"></td>
-        <th>Poisoning</th>
-        <td id="Name_Poisoning"></td>
-    </tr>
-    </table>
-    </div>
-
-=== "Loot"
-
-    <div class="mob-info">
-    <table>
-    <tr>
-        <th>Gold</th>
-        <td id="Name_Gold"></td>
-    </tr>
-    <tr>
-        <th>Treasure Map lvl</th>
-        <td id="Name_Treasure-Map-lvl"></td>
-    </tr>
-        <tr>
-        <th>Slayer Drop</th>
-        <td id="Name_Slayer-Drop"></td>
-    </tr>
-    </table>
-    </div>
-
 ## Bestiary index
+
+=== "Melee"
+
+    |                       Melee                       |                                                 |                                           |                                                         |                                         |
+    |:-------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------:|:-------------------------------------------------------:|:---------------------------------------:|
+    |      [Agapite Elemental](#agapite-elemental)      |      [Arctic Ogre Lord](#arctic-ogre-lord)      |          [Barracoon](#barracoon)          |                 [Bog Thing](#bog-thing)                 |           [Bogling](#bogling)           |
+    |            [Bone Knight](#bone-knight)            |               [Brigand](#brigand)               |   [Bronze Elemental](#bronze-elemental)   |                   [Centaur](#centaur)                   |      [Chaos Daemon](#chaos-daemon)      |
+    |       [Copper Elemental](#copper-elemental)       |               [Corpser](#corpser)               |  [Cyclopean Warrior](#cyclopean-warrior)  |          [Deep Sea Serpent](#deep-sea-serpent)          |             [Drake](#drake)             |
+    |  [Dull Copper Elemental](#dull-copper-elemental)  |       [Earth Elemental](#earth-elemental)       |  [Enslaved Gargoyle](#enslaved-gargoyle)  |                     [Ettin](#ettin)                     |       [Executioner](#executioner)       |
+    |             [Frost Ooze](#frost-ooze)             |          [Frost Spider](#frost-spider)          |        [Frost Troll](#frost-troll)        |               [Gazer Larva](#gazer-larva)               |             [Ghoul](#ghoul)             |
+    |           [Giant Spider](#giant-spider)           |      [Golden Elemental](#golden-elemental)      |              [Harpy](#harpy)              |              [Headless One](#headless-one)              |        [Hell Hound](#hell-hound)        |
+    |                 [Kraken](#kraken)                 |             [Lizardman](#lizardman)             |           [Mephitis](#mephitis)           |                   [Mongbat](#mongbat)                   |    [Mountain Troll](#mountain-troll)    |
+    |                  [Mummy](#mummy)                  |                  [Ogre](#ogre)                  |          [Ogre Lord](#ogre-lord)          |          [Ophidian Avenger](#ophidian-avenger)          | [Ophidian Enforcer](#ophidian-enforcer) |
+    | [Ophidian Knight-Errant](#ophidian-knight-errant) |      [Ophidian Warrior](#ophidian-warrior)      |                [Orc](#orc)                |                [Orc Bomber](#orc-bomber)                |         [Orc Brute](#orc-brute)         |
+    |            [Orc Captain](#orc-captain)            |           [Orcish Lord](#orcish-lord)           |       [Plague Beast](#plague-beast)       |                    [Ratman](#ratman)                    |     [Ratman Archer](#ratman-archer)     |
+    |                [Rikktor](#rikktor)                |        [Rotting Corpse](#rotting-corpse)        |             [Savage](#savage)             |              [Savage Rider](#savage-rider)              |          [Scorpion](#scorpion)          |
+    |            [Sea Serpent](#sea-serpent)            | [Shadow Iron Elemental](#shadow-iron-elemental) |    [Skeletal Knight](#skeletal-knight)    |                  [Skeleton](#skeleton)                  |             [Slime](#slime)             |
+    |         [Snow Elemental](#snow-elemental)         |        [Stone Gargoyle](#stone-gargoyle)        |        [Stone Harpy](#stone-harpy)        | [Tentacles Of The Harrower](#tentacles-of-the-harrower) |    [Terathan Drone](#terathan-drone)    |
+    |       [Terathan Warrior](#terathan-warrior)       |                 [Troll](#troll)                 | [Valorite Elemental](#valorite-elemental) |          [Verite Elemental](#verite-elemental)          |            [Wyvern](#wyvern)            |
+    |                 [Zombie](#zombie)                 |                                                 |                                           |                                                         |                                         |
+
+=== "Magic"
+
+    |                   Magic                   |                                           |                                         |                                                       |                                           |
+    |:-----------------------------------------:|:-----------------------------------------:|:---------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------:|
+    |     [Acid Elemental](#acid-elemental)     |      [Air Elemental](#air-elemental)      |      [Ancient Lich](#ancient-lich)      |             [Ancient Wyrm](#ancient-wyrm)             |      [Arcane Daemon](#arcane-daemon)      |
+    |             [Balron](#balron)             |    [Blood Elemental](#blood-elemental)    |             [Bogle](#bogle)             |                [Bone Mage](#bone-mage)                |             [Daemon](#daemon)             |
+    |          [Dark Wisp](#dark-wisp)          |             [Dragon](#dragon)             |      [Dread Spider](#dread-spider)      |                   [Efreet](#efreet)                   |        [Elder Gazer](#elder-gazer)        |
+    |   [Ethereal Warrior](#ethereal-warrior)   |          [Evil Mage](#evil-mage)          |    [Evil Mage Lord](#evil-mage-lord)    |           [Fire Elemental](#fire-elemental)           |      [Fire Gargoyle](#fire-gargoyle)      |
+    |           [Gargoyle](#gargoyle)           | [Gargoyle Destroyer](#gargoyle-destroyer) | [Gargoyle Enforcer](#gargoyle-enforcer) |                    [Gazer](#gazer)                    |    [Greater Mongbat](#greater-mongbat)    |
+    |      [Ice Elemental](#ice-elemental)      |          [Ice Fiend](#ice-fiend)          |               [Imp](#imp)               |                [Leviathan](#leviathan)                |               [Lich](#lich)               |
+    |          [Lich Lord](#lich-lord)          |          [Lord Oaks](#lord-oaks)          |             [Neira](#neira)             | [Ophidian Apprentice Mage](#ophidian-apprentice-mage) |  [Ophidian Justicar](#ophidian-justicar)  |
+    | [Ophidian Matriarch](#ophidian-matriarch) |    [Ophidian Shaman](#ophidian-shaman)    |   [Ophidian Zealot](#ophidian-zealot)   |              [Orcish Mage](#orcish-mage)              |              [Pixie](#pixie)              |
+    |   [Poison Elemental](#poison-elemental)   |        [Ratman Mage](#ratman-mage)        |     [Savage Shaman](#savage-shaman)     |                  [Semidar](#semidar)                  |  [Serpentine Dragon](#serpentine-dragon)  |
+    |              [Shade](#shade)              |        [Shadow Wisp](#shadow-wisp)        |       [Shadow Wyrm](#shadow-wyrm)       |                  [Silvani](#silvani)                  |    [Skeletal Dragon](#skeletal-dragon)    |
+    |      [Skeletal Mage](#skeletal-mage)      |            [Spectre](#spectre)            |          [Succubus](#succubus)          |         [Terathan Avenger](#terathan-avenger)         | [Terathan Matriarch](#terathan-matriarch) |
+    |       [The Harrower](#the-harrower)       |  [The True Harrower](#the-true-harrower)  |             [Titan](#titan)             |          [Water Elemental](#water-elemental)          |         [White Wyrm](#white-wyrm)         |
+    |               [Wisp](#wisp)               |             [Wraith](#wraith)             |                                         |                                                       |                                           |
+
+=== "Animals"
+
+    |             Animals             |                                   |                                     |                                         |                               |
+    |:-------------------------------:|:---------------------------------:|:-----------------------------------:|:---------------------------------------:|:-----------------------------:|
+    |     [Alligator](#alligator)     |     [Black Bear](#black-bear)     |            [Boar](#boar)            |        [Brown Bear](#brown-bear)        |         [Bull](#bull)         |
+    |     [Bull Frog](#bull-frog)     |            [Cat](#cat)            |         [Chicken](#chicken)         |            [Cougar](#cougar)            |          [Cow](#cow)          |
+    |         [Crane](#crane)         |           [Crow](#crow)           |       [Dire Wolf](#dire-wolf)       |               [Dog](#dog)               |      [Dolphin](#dolphin)      |
+    |         [Eagle](#eagle)         |  [Forest Ostard](#forest-ostard)  | [Frenzied Ostard](#frenzied-ostard) | [Giant Ice Serpent](#giant-ice-serpent) |    [Giant Rat](#giant-rat)    |
+    |   [Giant Snake](#giant-snake)   |     [Giant Toad](#giant-toad)     |            [Goat](#goat)            |           [Gorilla](#gorilla)           |   [Great Hart](#great-hart)   |
+    |     [Grey Wolf](#grey-wolf)     |   [Grizzly Bear](#grizzly-bear)   |        [Hell Cat](#hell-cat)        |              [Hind](#hind)              |        [Horse](#horse)        |
+    |     [Ice Snake](#ice-snake)     |    [Jack Rabbit](#jack-rabbit)    |          [Ki-rin](#ki-rin)          |       [Lava Lizard](#lava-lizard)       | [Lava Serpent](#lava-serpent) |
+    |    [Lava Snake](#lava-snake)    |          [Llama](#llama)          |          [Magpie](#magpie)          |     [Mountain Goat](#mountain-goat)     |    [Nightmare](#nightmare)    |
+    |    [Pack Horse](#pack-horse)    |     [Pack Llama](#pack-llama)     |         [Panther](#panther)         |               [Pig](#pig)               |   [Polar Bear](#polar-bear)   |
+    |        [Rabbit](#rabbit)        |            [Rat](#rat)            |           [Raven](#raven)           |     [Ridable Llama](#ridable-llama)     |    [Sewer Rat](#sewer-rat)    |
+    |         [Sheep](#sheep)         | [Silver Serpent](#silver-serpent) |           [Snake](#snake)           |      [Snow Leopard](#snow-leopard)      |  [Timber Wolf](#timber-wolf)  |
+    | [Tropical Bird](#tropical-bird) |        [Unicorn](#unicorn)        |          [Walrus](#walrus)          |        [White Wolf](#white-wolf)        |                               |
 
 ## Bestiary list
 
