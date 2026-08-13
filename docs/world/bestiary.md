@@ -646,7 +646,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Alligator_Mana">0</td>
+        <td id="Alligator_Mana">-</td>
         <th>Intelligence</th>
         <td id="Alligator_Intelligence">11 - 20</td>
     </tr>
@@ -2249,7 +2249,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Black-Bear_Mana">0</td>
+        <td id="Black-Bear_Mana">-</td>
         <th>Intelligence</th>
         <td id="Black-Bear_Intelligence">11 - 14</td>
     </tr>
@@ -2477,7 +2477,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Boar_Mana">0</td>
+        <td id="Boar_Mana">-</td>
         <th>Intelligence</th>
         <td id="Boar_Intelligence">5</td>
     </tr>
@@ -2591,7 +2591,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Bog-Thing_Mana">0</td>
+        <td id="Bog-Thing_Mana">-</td>
         <th>Intelligence</th>
         <td id="Bog-Thing_Intelligence">36 - 50</td>
     </tr>
@@ -3504,7 +3504,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Brown-Bear_Mana">0</td>
+        <td id="Brown-Bear_Mana">-</td>
         <th>Intelligence</th>
         <td id="Brown-Bear_Intelligence">23 - 47</td>
     </tr>
@@ -3618,7 +3618,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Bull_Mana">0</td>
+        <td id="Bull_Mana">-</td>
         <th>Intelligence</th>
         <td id="Bull_Intelligence">47 - 75</td>
     </tr>
@@ -3732,7 +3732,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Bull-Frog_Mana">0</td>
+        <td id="Bull-Frog_Mana">-</td>
         <th>Intelligence</th>
         <td id="Bull-Frog_Intelligence">11 - 20</td>
     </tr>
@@ -4076,7 +4076,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Cat_Mana">0</td>
+        <td id="Cat_Mana">-</td>
         <th>Intelligence</th>
         <td id="Cat_Intelligence">5</td>
     </tr>
@@ -4533,7 +4533,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Chicken_Mana">0</td>
+        <td id="Chicken_Mana">-</td>
         <th>Intelligence</th>
         <td id="Chicken_Intelligence">5</td>
     </tr>
@@ -4761,7 +4761,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Corpser_Mana">0</td>
+        <td id="Corpser_Mana">-</td>
         <th>Intelligence</th>
         <td id="Corpser_Intelligence">26 - 40</td>
     </tr>
@@ -4875,7 +4875,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Cougar_Mana">0</td>
+        <td id="Cougar_Mana">-</td>
         <th>Intelligence</th>
         <td id="Cougar_Intelligence">26 - 50</td>
     </tr>
@@ -4989,7 +4989,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Cow_Mana">0</td>
+        <td id="Cow_Mana">-</td>
         <th>Intelligence</th>
         <td id="Cow_Intelligence">5</td>
     </tr>
@@ -5103,7 +5103,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Crane_Mana">0</td>
+        <td id="Crane_Mana">-</td>
         <th>Intelligence</th>
         <td id="Crane_Intelligence">11 - 15</td>
     </tr>
@@ -5331,7 +5331,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Cyclopean-Warrior_Mana">0</td>
+        <td id="Cyclopean-Warrior_Mana">-</td>
         <th>Intelligence</th>
         <td id="Cyclopean-Warrior_Intelligence">31 - 55</td>
     </tr>
@@ -5902,7 +5902,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Dire-Wolf_Mana">0</td>
+        <td id="Dire-Wolf_Mana">-</td>
         <th>Intelligence</th>
         <td id="Dire-Wolf_Intelligence">36 - 60</td>
     </tr>
@@ -6016,7 +6016,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Dog_Mana">0</td>
+        <td id="Dog_Mana">-</td>
         <th>Intelligence</th>
         <td id="Dog_Intelligence">29 - 37</td>
     </tr>
@@ -6815,7 +6815,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Eagle_Mana">0</td>
+        <td id="Eagle_Mana">-</td>
         <th>Intelligence</th>
         <td id="Eagle_Intelligence">8 - 20</td>
     </tr>
@@ -8413,7 +8413,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Forest-Ostard_Mana">0</td>
+        <td id="Forest-Ostard_Mana">-</td>
         <th>Intelligence</th>
         <td id="Forest-Ostard_Intelligence">6 - 10</td>
     </tr>
@@ -8527,7 +8527,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Frenzied-Ostard_Mana">0</td>
+        <td id="Frenzied-Ostard_Mana">-</td>
         <th>Intelligence</th>
         <td id="Frenzied-Ostard_Intelligence">6 - 10</td>
     </tr>
@@ -8755,7 +8755,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Frost-Spider_Mana">0</td>
+        <td id="Frost-Spider_Mana">-</td>
         <th>Intelligence</th>
         <td id="Frost-Spider_Intelligence">36 - 60</td>
     </tr>
@@ -9668,7 +9668,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Ghoul_Mana">0</td>
+        <td id="Ghoul_Mana">-</td>
         <th>Intelligence</th>
         <td id="Ghoul_Intelligence">36 - 60</td>
     </tr>
@@ -9782,7 +9782,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Giant-Ice-Serpent_Mana">0</td>
+        <td id="Giant-Ice-Serpent_Mana">-</td>
         <th>Intelligence</th>
         <td id="Giant-Ice-Serpent_Intelligence">66 - 85</td>
     </tr>
@@ -9896,7 +9896,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Giant-Rat_Mana">0</td>
+        <td id="Giant-Rat_Mana">-</td>
         <th>Intelligence</th>
         <td id="Giant-Rat_Intelligence">16 - 30</td>
     </tr>
@@ -10010,7 +10010,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Giant-Snake_Mana">0</td>
+        <td id="Giant-Snake_Mana">-</td>
         <th>Intelligence</th>
         <td id="Giant-Snake_Intelligence">66 - 85</td>
     </tr>
@@ -10124,7 +10124,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Giant-Spider_Mana">0</td>
+        <td id="Giant-Spider_Mana">-</td>
         <th>Intelligence</th>
         <td id="Giant-Spider_Intelligence">36 - 60</td>
     </tr>
@@ -10238,7 +10238,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Giant-Toad_Mana">0</td>
+        <td id="Giant-Toad_Mana">-</td>
         <th>Intelligence</th>
         <td id="Giant-Toad_Intelligence">11 - 20</td>
     </tr>
@@ -10352,7 +10352,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Goat_Mana">0</td>
+        <td id="Goat_Mana">-</td>
         <th>Intelligence</th>
         <td id="Goat_Intelligence">5</td>
     </tr>
@@ -10580,7 +10580,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Gorilla_Mana">0</td>
+        <td id="Gorilla_Mana">-</td>
         <th>Intelligence</th>
         <td id="Gorilla_Intelligence">36 - 60</td>
     </tr>
@@ -10694,7 +10694,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Great-Hart_Mana">0</td>
+        <td id="Great-Hart_Mana">-</td>
         <th>Intelligence</th>
         <td id="Great-Hart_Intelligence">27 - 57</td>
     </tr>
@@ -10922,7 +10922,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Grey-Wolf_Mana">0</td>
+        <td id="Grey-Wolf_Mana">-</td>
         <th>Intelligence</th>
         <td id="Grey-Wolf_Intelligence">31 - 55</td>
     </tr>
@@ -11036,7 +11036,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Grizzly-Bear_Mana">0</td>
+        <td id="Grizzly-Bear_Mana">-</td>
         <th>Intelligence</th>
         <td id="Grizzly-Bear_Intelligence">16 - 40</td>
     </tr>
@@ -11606,7 +11606,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Hind_Mana">0</td>
+        <td id="Hind_Mana">-</td>
         <th>Intelligence</th>
         <td id="Hind_Intelligence">17 - 47</td>
     </tr>
@@ -11720,7 +11720,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Horse_Mana">0</td>
+        <td id="Horse_Mana">-</td>
         <th>Intelligence</th>
         <td id="Horse_Intelligence">6 - 10</td>
     </tr>
@@ -12062,7 +12062,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Ice-Snake_Mana">0</td>
+        <td id="Ice-Snake_Mana">-</td>
         <th>Intelligence</th>
         <td id="Ice-Snake_Intelligence">26 - 30</td>
     </tr>
@@ -12290,7 +12290,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Jack-Rabbit_Mana">0</td>
+        <td id="Jack-Rabbit_Mana">-</td>
         <th>Intelligence</th>
         <td id="Jack-Rabbit_Intelligence">5</td>
     </tr>
@@ -12518,7 +12518,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Kraken_Mana">0</td>
+        <td id="Kraken_Mana">-</td>
         <th>Intelligence</th>
         <td id="Kraken_Intelligence">26 - 40</td>
     </tr>
@@ -12632,7 +12632,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Lava-Lizard_Mana">0</td>
+        <td id="Lava-Lizard_Mana">-</td>
         <th>Intelligence</th>
         <td id="Lava-Lizard_Intelligence">11 - 20</td>
     </tr>
@@ -12746,7 +12746,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Lava-Serpent_Mana">0</td>
+        <td id="Lava-Serpent_Mana">-</td>
         <th>Intelligence</th>
         <td id="Lava-Serpent_Intelligence">66 - 85</td>
     </tr>
@@ -12860,7 +12860,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Lava-Snake_Mana">0</td>
+        <td id="Lava-Snake_Mana">-</td>
         <th>Intelligence</th>
         <td id="Lava-Snake_Intelligence">6 - 10</td>
     </tr>
@@ -13430,7 +13430,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Llama_Mana">0</td>
+        <td id="Llama_Mana">-</td>
         <th>Intelligence</th>
         <td id="Llama_Intelligence">16 - 30</td>
     </tr>
@@ -14001,7 +14001,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Mongbat_Mana">0</td>
+        <td id="Mongbat_Mana">-</td>
         <th>Intelligence</th>
         <td id="Mongbat_Intelligence">6 - 14</td>
     </tr>
@@ -14115,7 +14115,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Mountain-Goat_Mana">0</td>
+        <td id="Mountain-Goat_Mana">-</td>
         <th>Intelligence</th>
         <td id="Mountain-Goat_Intelligence">16 - 30</td>
     </tr>
@@ -14915,7 +14915,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Ogre_Mana">0</td>
+        <td id="Ogre_Mana">-</td>
         <th>Intelligence</th>
         <td id="Ogre_Intelligence">46 - 70</td>
     </tr>
@@ -15257,7 +15257,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Ophidian-Avenger_Mana">0</td>
+        <td id="Ophidian-Avenger_Mana">-</td>
         <th>Intelligence</th>
         <td id="Ophidian-Avenger_Intelligence">46 - 70</td>
     </tr>
@@ -15371,7 +15371,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Ophidian-Enforcer_Mana">0</td>
+        <td id="Ophidian-Enforcer_Mana">-</td>
         <th>Intelligence</th>
         <td id="Ophidian-Enforcer_Intelligence">64 - 160</td>
     </tr>
@@ -15599,7 +15599,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Ophidian-Knight-Errant_Mana">0</td>
+        <td id="Ophidian-Knight-Errant_Mana">-</td>
         <th>Intelligence</th>
         <td id="Ophidian-Knight-Errant_Intelligence">46 - 70</td>
     </tr>
@@ -15941,7 +15941,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Ophidian-Warrior_Mana">0</td>
+        <td id="Ophidian-Warrior_Mana">-</td>
         <th>Intelligence</th>
         <td id="Ophidian-Warrior_Intelligence">64 - 160</td>
     </tr>
@@ -16968,7 +16968,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Pack-Horse_Mana">0</td>
+        <td id="Pack-Horse_Mana">-</td>
         <th>Intelligence</th>
         <td id="Pack-Horse_Intelligence">6 - 10</td>
     </tr>
@@ -17082,7 +17082,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Pack-Llama_Mana">0</td>
+        <td id="Pack-Llama_Mana">-</td>
         <th>Intelligence</th>
         <td id="Pack-Llama_Intelligence">16 - 30</td>
     </tr>
@@ -17196,7 +17196,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Panther_Mana">0</td>
+        <td id="Panther_Mana">-</td>
         <th>Intelligence</th>
         <td id="Panther_Intelligence">26 - 50</td>
     </tr>
@@ -17539,7 +17539,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Pig_Mana">0</td>
+        <td id="Pig_Mana">-</td>
         <th>Intelligence</th>
         <td id="Pig_Intelligence">5</td>
     </tr>
@@ -19949,7 +19949,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Polar-Bear_Mana">0</td>
+        <td id="Polar-Bear_Mana">-</td>
         <th>Intelligence</th>
         <td id="Polar-Bear_Intelligence">26 - 50</td>
     </tr>
@@ -20063,7 +20063,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Rabbit_Mana">0</td>
+        <td id="Rabbit_Mana">-</td>
         <th>Intelligence</th>
         <td id="Rabbit_Intelligence">6 - 14</td>
     </tr>
@@ -20177,7 +20177,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Rat_Mana">0</td>
+        <td id="Rat_Mana">-</td>
         <th>Intelligence</th>
         <td id="Rat_Intelligence">5</td>
     </tr>
@@ -20747,7 +20747,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Ridable-Llama_Mana">0</td>
+        <td id="Ridable-Llama_Mana">-</td>
         <th>Intelligence</th>
         <td id="Ridable-Llama_Intelligence">16 - 30</td>
     </tr>
@@ -20975,7 +20975,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Rotting-Corpse_Mana">0</td>
+        <td id="Rotting-Corpse_Mana">-</td>
         <th>Intelligence</th>
         <td id="Rotting-Corpse_Intelligence">151 - 200</td>
     </tr>
@@ -21090,7 +21090,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Sandstone-Elemental_Mana">0</td>
+        <td id="Sandstone-Elemental_Mana">-</td>
         <th>Intelligence</th>
         <td id="Sandstone-Elemental_Intelligence">151 - 200</td>
     </tr>
@@ -21546,7 +21546,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Scorpion_Mana">0</td>
+        <td id="Scorpion_Mana">-</td>
         <th>Intelligence</th>
         <td id="Scorpion_Intelligence">16 - 30</td>
     </tr>
@@ -22117,7 +22117,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Sewer-Rat_Mana">0</td>
+        <td id="Sewer-Rat_Mana">-</td>
         <th>Intelligence</th>
         <td id="Sewer-Rat_Intelligence">6 - 10</td>
     </tr>
@@ -22687,7 +22687,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Sheep_Mana">0</td>
+        <td id="Sheep_Mana">-</td>
         <th>Intelligence</th>
         <td id="Sheep_Intelligence">5</td>
     </tr>
@@ -23599,7 +23599,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Snake_Mana">0</td>
+        <td id="Snake_Mana">-</td>
         <th>Intelligence</th>
         <td id="Snake_Intelligence">6 - 10</td>
     </tr>
@@ -23827,7 +23827,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Snow-Leopard_Mana">0</td>
+        <td id="Snow-Leopard_Mana">-</td>
         <th>Intelligence</th>
         <td id="Snow-Leopard_Intelligence">26 - 50</td>
     </tr>
@@ -24284,7 +24284,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Stone-Harpy_Mana">0</td>
+        <td id="Stone-Harpy_Mana">-</td>
         <th>Intelligence</th>
         <td id="Stone-Harpy_Intelligence">51 - 75</td>
     </tr>
@@ -24740,7 +24740,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Terathan-Drone_Mana">0</td>
+        <td id="Terathan-Drone_Mana">-</td>
         <th>Intelligence</th>
         <td id="Terathan-Drone_Intelligence">21 - 45</td>
     </tr>
@@ -24968,7 +24968,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Terathan-Warrior_Mana">0</td>
+        <td id="Terathan-Warrior_Mana">-</td>
         <th>Intelligence</th>
         <td id="Terathan-Warrior_Intelligence">41 - 65</td>
     </tr>
@@ -25310,7 +25310,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Timber-Wolf_Mana">0</td>
+        <td id="Timber-Wolf_Mana">-</td>
         <th>Intelligence</th>
         <td id="Timber-Wolf_Intelligence">11 - 25</td>
     </tr>
@@ -26568,7 +26568,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="Walrus_Mana">0</td>
+        <td id="Walrus_Mana">-</td>
         <th>Intelligence</th>
         <td id="Walrus_Intelligence">16 - 20</td>
     </tr>
@@ -26796,7 +26796,7 @@
     </tr>
     <tr>
         <th>Mana</th>
-        <td id="White-Wolf_Mana">0</td>
+        <td id="White-Wolf_Mana">-</td>
         <th>Intelligence</th>
         <td id="White-Wolf_Intelligence">31 - 55</td>
     </tr>
