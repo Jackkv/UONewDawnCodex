@@ -140,6 +140,75 @@ These are all of the furniture, containers, instruments etc. you can craft.
     |  ![icon](../../assets/items/water-trough-east.png)<br>Water Trough (east)  |       150 Boards or Logs        |   no    |          94.7 Carpentry          |
     | ![icon](../../assets/items/water-trough-south.png)<br>Water Trough (south) |       150 Boards or Logs        |   no    |          94.7 Carpentry          |
 
+## Masonry
+
+To learn Masonry, you will need the Masonry book and the four missing pages.
+
+The Masonry book can be purchased from the Stone Crafter NPC in Occlo (3675, 2544).
+
+The missing pages can be looted from Stone, Sandstone and Marble Elementals, which can spawn when using a [Gargoyle Pickaxe](../resource-gathering/mining.md#gargoyle-pickaxe).
+
+Once learned, Masonry allows you to use the Mallet and Chisel tool, available from the Stone Crafter NPC.
+
+### Materials
+
+Most items crafted with Masonry retain the color of the stone used.
+
+#### Types of stone
+
+Stones can be gathered with [Mining](../resource-gathering/mining.md#types-of-stone), but the ability must be learned first.
+
+The book Mining for Quality Stone is available from the Stone Crafter NPC.
+
+You can choose to mine for stone and ore by single clicking your mining tool.
+
+|                                 Stone                                  |                Hue                |
+|:----------------------------------------------------------------------:|:---------------------------------:|
+|             ![icon](../../assets/items/stone.png)<br>Stone             |                 -                 |
+| ![icon](../../assets/items/dull-copper-stone.png)<br>Dull Copper Stone | [2419](../../hues/hue.md?id=2419) |
+|      ![icon](../../assets/items/shadow-stone.png)<br>Shadow Stone      | [2406](../../hues/hue.md?id=2406) |
+|      ![icon](../../assets/items/copper-stone.png)<br>Copper Stone      | [2413](../../hues/hue.md?id=2413) |
+|      ![icon](../../assets/items/bronze-stone.png)<br>Bronze Stone      | [2418](../../hues/hue.md?id=2418) |
+|      ![icon](../../assets/items/golden-stone.png)<br>Golden Stone      | [2213](../../hues/hue.md?id=2213) |
+|     ![icon](../../assets/items/agapite-stone.png)<br>Agapite Stone     | [2425](../../hues/hue.md?id=2425) |
+|      ![icon](../../assets/items/verite-stone.png)<br>Verite Stone      | [2207](../../hues/hue.md?id=2207) |
+|    ![icon](../../assets/items/valorite-stone.png)<br>Valorite Stone    | [2219](../../hues/hue.md?id=2219) |
+
+#### Stone blocks
+
+Stone Blocks can be looted from Stone, Sandstone and Marble Elementals, which can spawn when using a [Gargoyle Pickaxe](../resource-gathering/mining.md#gargoyle-pickaxe).
+
+|                            Stone Block                             |
+|:------------------------------------------------------------------:|
+|     ![icon](../../assets/items/stone-block.png)<br>Stone Block     |
+| ![icon](../../assets/items/sandstone-block.png)<br>Sandstone Block |
+|    ![icon](../../assets/items/marble-block.png)<br>Marble Block    |
+
+### Masonry crafting
+
+=== "Decorations"
+
+    |    Item    |          Resources           | Retain Color | Skill |
+    |:----------:|:----------------------------:|:------------:|:-----:|
+    |    Vase    |           1 Stones           |     yes      | 52.5  |
+    | Large Vase |           3 Stones           |     yes      | 52.5  |
+    |  Fountain  | 100 Stones<br>4 Stone Blocks |      no      | 75.0  |
+
+=== "Furniture"
+
+    |              Item              |           Resources            | Retain Color | Skill |
+    |:------------------------------:|:------------------------------:|:------------:|:-----:|
+    |          Stone Chair           |   4 Stones<br>1 Stone Blocks   |     yes      | 55.0  |
+    |          Stone Bench           |   6 Stones<br>1 Stone Blocks   |     yes      | 65.0  |
+    |   Medium Stone Table (east)    |   6 Stones<br>2 Stone Blocks   |     yes      | 65.0  |
+    |   Medium Stone Table (south)   |   6 Stones<br>2 Stone Blocks   |     yes      | 65.0  |
+    | Medium Sandstone Table (east)  | 6 Stones<br>2 Sandstone Blocks |     yes      | 65.0  |
+    | Medium Sandstone Table (south) | 6 Stones<br>2 Sandstone Blocks |     yes      | 65.0  |
+    | Medium Sandstone Table (east)  | 6 Stones<br>2 Sandstone Blocks |     yes      | 65.0  |
+    | Medium Sandstone Table (south) | 6 Stones<br>2 Sandstone Blocks |     yes      | 65.0  |
+    |   Medium Marble Table (east)   |  9 Stones<br>3 Marble Blocks   |     yes      | 75.0  |
+    |  Medium Marble Table (south)   |  9 Stones<br>3 Marble Blocks   |     yes      | 75.0  |
+
 ## Bulk order deeds
 
 A minimum skill of 70.1 (real) is required to get a BOD.
@@ -189,3 +258,4 @@ While training this skill you can also gain Strength (primary) and Dexterity (se
 - [Tinkering](../crafting/tinkering.md)
 - [Musicianship](../bard-skills/musicianship.md)
 - [Magery](../magic/magery.md)
+- [Mining](../resource-gathering/mining.md)
