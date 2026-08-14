@@ -24,6 +24,40 @@ Starting items if you choose this skill in character creation: Pickaxe.
 |  95   |      ![icon](../../assets/items/verite-ingots.png)<br>Verite      | 2.8%  |
 |  99   |    ![icon](../../assets/items/valorite-ingots.png)<br>Valorite    | 1.4%  |
 
+## Types of stone
+
+Mining for stone must be learned first.
+
+The book Mining for Quality Stone is available from the Stone Crafter NPC in Occlo (3675, 2544).
+
+You can choose to mine for stone and ore by single clicking your mining tool.
+
+Stones are used in [Masonry](../crafting/carpentry.md#masonry) crafting.
+
+|                                 Stone                                  |                Hue                |
+|:----------------------------------------------------------------------:|:---------------------------------:|
+|             ![icon](../../assets/items/stone.png)<br>Stone             |                 -                 |
+| ![icon](../../assets/items/dull-copper-stone.png)<br>Dull Copper Stone | [2419](../../hues/hue.md?id=2419) |
+|      ![icon](../../assets/items/shadow-stone.png)<br>Shadow Stone      | [2406](../../hues/hue.md?id=2406) |
+|      ![icon](../../assets/items/copper-stone.png)<br>Copper Stone      | [2413](../../hues/hue.md?id=2413) |
+|      ![icon](../../assets/items/bronze-stone.png)<br>Bronze Stone      | [2418](../../hues/hue.md?id=2418) |
+|      ![icon](../../assets/items/golden-stone.png)<br>Golden Stone      | [2213](../../hues/hue.md?id=2213) |
+|     ![icon](../../assets/items/agapite-stone.png)<br>Agapite Stone     | [2425](../../hues/hue.md?id=2425) |
+|      ![icon](../../assets/items/verite-stone.png)<br>Verite Stone      | [2207](../../hues/hue.md?id=2207) |
+|    ![icon](../../assets/items/valorite-stone.png)<br>Valorite Stone    | [2219](../../hues/hue.md?id=2219) |
+
+## Stone blocks
+
+Stone Blocks can be looted from Stone, Sandstone and Marble Elementals, which can spawn when using a [Gargoyle Pickaxe](#gargoyle-pickaxe).
+
+Stone Blocks are used in [Masonry](../crafting/carpentry.md#masonry) crafting.
+
+|                            Stone Block                             |
+|:------------------------------------------------------------------:|
+|     ![icon](../../assets/items/stone-block.png)<br>Stone Block     |
+| ![icon](../../assets/items/sandstone-block.png)<br>Sandstone Block |
+|    ![icon](../../assets/items/marble-block.png)<br>Marble Block    |
+
 ## Gathering
 
 To be able to gather, you need to be on foot.
@@ -55,6 +89,8 @@ This effect can stack with the Prospector Tool.
 So for example an Agapite vein can be raised to Verite using a Prospector Tool and then raise to Valorite with the Gargoyle pickaxe.
 
 When using the Gargoyle pickaxe there is a chance of spawning an Ore Elemental of the same color of the ore you are mining.
+
+There is also a chance of spawning Stone, Sandstone and Marble Elementals, which can drop Masonry pages, and Stone blocks of their respective type.
 
 Gargoyles and Stone Gargoyles can also drop a Gargoyle pickaxe.
 
