@@ -41,6 +41,28 @@ So if you have 50 Lumberjacking you will get +3 on your damage, if you have 99.9
 
 Lumberjacking is often paired with Swordsmanship.
 
+## Heartwood Oil
+
+Heartwood Oil is a [Carpentry BOD](../crafting/carpentry.md#bulk-order-deeds) reward.
+
+When used, it can boost the wood type by one level.
+
+So for example a Normal tree can be raised to Oak.
+
+This effect can stack with the Woodwarden Axe.
+
+## Woodwarden Axe
+
+The Woodwarden Axe is a [Carpentry BOD](../crafting/carpentry.md#bulk-order-deeds) reward.
+
+When used, it can boost the wood type by one level.
+
+This effect can stack with the Heartwood Oil.
+
+So for example a Normal tree can be raised to Oak using Heartwood Oil and then raise to Ash with the Woodwarden Axe.
+
+When using the Woodwarden Axe there is a chance of spawning a Reaper of the same color of the wood you are chopping.
+
 ## Training
 
 Train from Carpenter NPCs to reach around 50.
