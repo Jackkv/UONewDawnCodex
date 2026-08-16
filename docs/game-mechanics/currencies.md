@@ -85,3 +85,52 @@ At the end of each match, every participant receives War Tokens based on their i
 War Tokens also have a daily cap, limiting how many can be earned each day.
 
 For more information visit the [Battlegrounds](../custom-systems/battlegrounds.md) page.
+
+### War Tokens Shop
+
+=== "Wearables"
+
+    |                                           Wearables                                           |              Hue               |
+    |:---------------------------------------------------------------------------------------------:|:------------------------------:|
+    |  ![icon](../assets/items/shroud-of-the-fallen-standard.png)<br>Shroud of the Fallen Standard  | [1560](../hues/hue.md?id=1560) |
+    | ![icon](../assets/items/shroud-of-the-drowned-standard.png)<br>Shroud of the Drowned Standard | [1569](../hues/hue.md?id=1569) |
+    |     ![icon](../assets/items/shroud-of-the-gilded-siege.png)<br>Shroud of the Gilded Siege     | [1562](../hues/hue.md?id=1562) |
+    |    ![icon](../assets/items/hood-of-the-fallen-standard.png)<br>Hood of the Fallen Standard    | [1560](../hues/hue.md?id=1560) |
+    |   ![icon](../assets/items/hood-of-the-drowned-standard.png)<br>Hood of the Drowned Standard   | [1569](../hues/hue.md?id=1569) |
+    |       ![icon](../assets/items/hood-of-the-gilded-siege.png)<br>Hood of the Gilded Siege       | [1562](../hues/hue.md?id=1562) |
+    |    ![icon](../assets/items/robe-of-the-fallen-standard.png)<br>Robe of the Fallen Standard    | [1560](../hues/hue.md?id=1560) |
+    |   ![icon](../assets/items/robe-of-the-drowned-standard.png)<br>Robe of the Drowned Standard   | [1569](../hues/hue.md?id=1569) |
+    |       ![icon](../assets/items/robe-of-the-gilded-siege.png)<br>Robe of the Gilded Siege       | [1562](../hues/hue.md?id=1562) |
+
+=== "Mounts"
+
+    |                                         Mounts                                          |              Hue               |
+    |:---------------------------------------------------------------------------------------:|:------------------------------:|
+    | ![icon](../assets/items/ethereal-battlefront-ostard.png)<br>Ethereal Battlefront Ostard | [1674](../hues/hue.md?id=1674) |
+
+=== "Lanterns"
+
+    |                                     Lanterns                                      |              Hue               |
+    |:---------------------------------------------------------------------------------:|:------------------------------:|
+    |  ![icon](../assets/items/fallen-standard-lantern.png)<br>Fallen Standard Lantern  | [1560](../hues/hue.md?id=1560) |
+    |     ![icon](../assets/items/gilded-siege-lantern.png)<br>Gilded Siege Lantern     | [1562](../hues/hue.md?id=1562) |
+    | ![icon](../assets/items/drowned-standard-lantern.png)<br>Drowned Standard Lantern | [1569](../hues/hue.md?id=1569) |
+
+=== "Decorations"
+
+    |                                   Decorations                                   |
+    |:-------------------------------------------------------------------------------:|
+    |    ![icon](../assets/items/large-keg-of-weapons.png)<br>Large Keg of Weapons    |
+    |    ![icon](../assets/items/small-keg-of-weapons.png)<br>Small Keg of Weapons    |
+    | ![icon](../assets/items/mounted-archery-display.png)<br>Mounted Archery Display |
+    |  ![icon](../assets/items/mounted-helmet-display.png)<br>Mounted Helmet Display  |
+    |   ![icon](../assets/items/mounted-sword-display.png)<br>Mounted Sword Display   |
+    |  ![icon](../assets/items/mounted-shield-display.png)<br>Mounted Shield Display  |
+    |           ![icon](../assets/items/lion-painting.png)<br>Lion Painting           |
+
+=== "Misc"
+
+    |                                  Misc                                   |              Hue               |
+    |:-----------------------------------------------------------------------:|:------------------------------:|
+    | ![icon](../assets/items/battle-drum-usable.png)<br>Battle Drum (usable) |               -                |
+    | ![icon](../assets/items/battle-horn-usable.png)<br>Battle Horn (usable) | [1126](../hues/hue.md?id=1126) |
