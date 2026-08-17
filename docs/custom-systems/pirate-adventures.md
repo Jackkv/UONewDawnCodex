@@ -26,7 +26,7 @@ Once restored, the map is ready to be activated and is consumed on use.
 
 ## The instance
 
-Double click the restored map and choose the difficulty. A colored gate appears at your location, and you have one minute for you and your party to enter.
+Double‑click the restored map and choose the difficulty. A colored gate appears at your location, and you have one minute for you and your party to enter.
 
 You will have 60 or 90 minutes to complete the instance, depending on the type of instance.
 

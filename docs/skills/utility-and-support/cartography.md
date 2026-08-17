@@ -16,7 +16,7 @@ Use the skill on a blank map to choose its scale. Higher skill allows larger sca
 
 ## Decoding treasure maps
 
-Double click the map you want to decode, if you can decode it, you will receive a map with a pin marking the treasure location within 30 tiles.
+Double‑click the map you want to decode, if you can decode it, you will receive a map with a pin marking the treasure location within 30 tiles.
 
 ## Deciphering clues
 

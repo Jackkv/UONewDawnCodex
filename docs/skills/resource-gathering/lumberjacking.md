@@ -25,7 +25,7 @@ To be able to gather, you need to equip an axe in your hand and be on foot.
 
 You can purchase an axe from blacksmith or weaponsmith vendors.
 
-Double click the axe and then the tree until it's depleted.
+Double‑click the axe and then the tree until it's depleted.
 
 Specific trees will always yield the same type of wood.
 

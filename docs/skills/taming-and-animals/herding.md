@@ -10,7 +10,7 @@ Starting items if you choose this skill in character creation: Shepherds Crook.
 
 ## How it works
 
-Double click your Shepherd's Crook then click on the animal you want to herd, If successful, you will be able to target the location\player where you want the animal to move to.
+Double‑click your Shepherd's Crook then click on the animal you want to herd, If successful, you will be able to target the location\player where you want the animal to move to.
 
 ## Training
 

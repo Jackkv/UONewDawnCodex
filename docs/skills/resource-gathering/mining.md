@@ -30,7 +30,7 @@ Mining for stone must be learned first.
 
 The book Mining for Quality Stone is available from the Stone Crafter NPC in Occlo (3675, 2544).
 
-You can choose to mine for stone and ore by single clicking your mining tool.
+You can choose to mine for stone and ore by single-clicking your mining tool.
 
 Stones are used in [Masonry](../crafting/carpentry.md#masonry) crafting.
 
@@ -62,7 +62,7 @@ Stone Blocks are used in [Masonry](../crafting/carpentry.md#masonry) crafting.
 
 To be able to gather, you need to be on foot.
 
-Double click the pickaxe or shovel and then the vein until it's depleted.
+double‑click the pickaxe or shovel and then the vein until it's depleted.
 
 You can purchase a pickaxe or shovel from mining vendors.
 
@@ -108,7 +108,7 @@ They can be used to help training.
 
 ## Ore to ingot
 
-You can combine different ore piles together by double clicking them.
+You can combine different ore piles together by double‑clicking them.
 
 For example you could turn Large Piles into Small Piles to better manage weight and smelting.
 
@@ -121,7 +121,7 @@ For example you could turn Large Piles into Small Piles to better manage weight 
 
 ## Smelting
 
-To smelt double click the ore and then a forge, if successful you will get an ingot, if not, you will lose the ore.
+To smelt double‑click the ore and then a forge, if successful you will get an ingot, if not, you will lose the ore.
 
 This table shows the smelt chance based on mining level.
 

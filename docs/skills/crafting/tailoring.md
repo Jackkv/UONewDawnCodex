@@ -125,7 +125,7 @@ To craft a repair deed you will need a blank scroll, use your tool, click repair
 
 ## Making cloth
 
-You can gather Cotton and Flax from plants by double clicking them, you can also gather Wool by using a dagger on a sheep.
+You can gather Cotton and Flax from plants by double‑clicking them, you can also gather Wool by using a dagger on a sheep.
 
 After gathering the resources, you can use them on a Spinning Wheel to get Spools of Thread and Balls of Yarn to then use on a Loom and get Bolts of Cloth.
 

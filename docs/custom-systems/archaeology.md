@@ -31,7 +31,7 @@ Clues randomly drop from monsters.
 
 They come in five types, the only difference between them is the deciphering skill required
 
-Double click a clue in your backpack to attempt to decipher it. Failure doesn't consume the clue, try again when your skill improves.
+Double‑click a clue in your backpack to attempt to decipher it. Failure doesn't consume the clue, try again when your skill improves.
 
 Once decoded, opening the clue will reveal the coordinates
 

@@ -10,7 +10,7 @@ Starting items if you choose this skill in character creation: Bedroll, Kindling
 
 ## Fire
 
-To make a fire double click a pile of Kindling, if successful, you will get a message "The camp is now secure".
+To make a fire double‑click a pile of Kindling, if successful, you will get a message "The camp is now secure".
 
 ## Kindling
 
@@ -18,7 +18,7 @@ Kindling can be gathered by using a knife on a tree, or bought from a Provisione
 
 ## Bedroll
 
-Bedrolls can be bought from a Provisioner vendor, once your camp is secure, double click the bedroll to securely log out.
+Bedrolls can be bought from a Provisioner vendor, once your camp is secure, double‑click the bedroll to securely log out.
 
 ## Stat gain
 

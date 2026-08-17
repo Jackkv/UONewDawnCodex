@@ -89,7 +89,7 @@ This table shows the Armor Rating for each shield type.
 
 ## Shield Bash
 
-Double click on your shield to activate the Shield Bash ability.
+Double‑click on your shield to activate the Shield Bash ability.
 
 If active when you get hit, you will be able to absorb Fire Breath damage.
 

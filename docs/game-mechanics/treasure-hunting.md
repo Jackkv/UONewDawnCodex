@@ -91,7 +91,7 @@ The reward chest from [Pirate Adventures](../custom-systems/pirate-adventures.md
 
 ## Map Levels
 
-Single clicking the map will show its description, which indicates the map level.
+Single-clicking the map will show its description, which indicates the map level.
 
 |  Level  |         Map Description         |
 |:-------:|:-------------------------------:|
@@ -123,7 +123,7 @@ Once decoded, the map description will show the location number.
 
 ## Treasure locations
 
-Single clicking a decoded map will show the location number.
+single-clicking a decoded map will show the location number.
 
 This table shows the coordinates for every existing treasure spot.
 
@@ -219,7 +219,7 @@ For higher level maps, this can be used to your advantage, loot one gold piece a
 
 You will need to stand one tile next the coordinates and have a shovel with you.
 
-To dig up the chest, use the shovel and target the map, or single click the map and choose the "Dig For Treasure" option.
+To dig up the chest, use the shovel and target the map, or single-click the map and choose the "Dig For Treasure" option.
 
 ### Unlocking the chest
 
@@ -246,7 +246,7 @@ You can also use the spell Remove Trap or Telekinesis from 8 tiles away to avoid
 
 This table shows an approximation of what you can expect to find inside a treasure chest.
 
-When you are done looting, you can single click the chest and select "Remove Chest" to make it de-spawn.
+When you are done looting, you can single-click the chest and select "Remove Chest" to make it de-spawn.
 
 | Map level |                            Treasure loot                             |
 |:---------:|:--------------------------------------------------------------------:|

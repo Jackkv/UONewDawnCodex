@@ -98,7 +98,7 @@ Potion kegs can be crafted by a Carpenter.
 
 To fill a Potion keg, drag a filled potion into it.. all the crafted potions of the same type will automatically be put into the keg until it's full.
 
-To use the Potion keg, have an empty bottle and double click the keg, the empty potion will be filled.
+To use the Potion keg, have an empty bottle and double‑click the keg, the empty potion will be filled.
 
 ## Explosion potions bonus
 

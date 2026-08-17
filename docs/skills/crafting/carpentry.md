@@ -160,7 +160,7 @@ Stones can be gathered with [Mining](../resource-gathering/mining.md#types-of-st
 
 The book Mining for Quality Stone is available from the Stone Crafter NPC.
 
-You can choose to mine for stone and ore by single clicking your mining tool.
+You can choose to mine for stone and ore by single-clicking your mining tool.
 
 |                                 Stone                                  |                Hue                |
 |:----------------------------------------------------------------------:|:---------------------------------:|

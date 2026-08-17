@@ -80,7 +80,7 @@ To be able to fish, you need to equip a fishing pole in your hand and be on foot
 
 You can purchase a fishing pole from fisher vendors.
 
-Double click the pole and then the water.
+Double‑click the pole and then the water.
 
 ## Catch and release
 
@@ -129,7 +129,7 @@ You can use the Bottle of Extracted Ink on a Dye Tub to make a single use of pur
 
 You can loot a Message in a bottle from Sea Serpents and Deep Sea Serpents.
 
-Double click the bottle to reveal the Waterstained SOS, use the map to find the coordinates and fish up the treasure chest.
+double‑click the bottle to reveal the Waterstained SOS, use the map to find the coordinates and fish up the treasure chest.
 
 While trying to fish up the chest, you will also pull up random items such as bones, pillows, paintings and shells.
 
