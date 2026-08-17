@@ -90,7 +90,7 @@ Provocation is extremely powerful on almost any template, and pairing it with a 
 - Anatomy
 - Swordsmanship
 - Tactics
-- Parrying/Magery/Hiding
+- Parrying / Magery / Hiding
 
 That last slot is your seventh skill, and it's mostly down to personal taste. Use it to support whatever play style suits you.
 
@@ -129,7 +129,7 @@ Once you've saved enough gold to train Magery, the Summoner is a strong next ste
 - Meditation
 - Spirit Speak
 - Animal Lore
-- Resisting spells/Evaluating Intelligence/Hiding
+- Resisting spells / Evaluating Intelligence / Hiding
 
 Again, that 7th slot really comes down to your own playstyle.
 

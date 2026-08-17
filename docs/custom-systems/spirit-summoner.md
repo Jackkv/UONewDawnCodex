@@ -21,7 +21,7 @@ Often paired with:
 
 - Musicianship
 - Provocation
-- Resisting spells/Evaluating Intelligence/Hiding
+- Resisting spells / Evaluating Intelligence / Hiding
 
 ## Requirements
 
