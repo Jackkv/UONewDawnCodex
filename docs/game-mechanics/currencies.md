@@ -30,6 +30,67 @@ Each champion spawn progresses through three tiers, and completing all three wil
 
 For more information visit the [Codex Rift](../custom-systems/codex-rifts.md) page.
 
+### Rift Shards Shop
+
+=== "Mask Dyes"
+
+    |                          Mask Dyes                          |              Hue               |
+    |:-----------------------------------------------------------:|:------------------------------:|
+    | ![icon](../assets/items/gold-mask-dye.png)<br>Gold Mask Dye | [2843](../hues/hue.md?id=2843) |
+
+=== "Runebook Dyes"
+
+    |                                   Runebook Dyes                                   |              Hue               |                            Preview                            |
+    |:---------------------------------------------------------------------------------:|:------------------------------:|:-------------------------------------------------------------:|
+    | ![icon](../assets/items/purple-haze-runebook-dye.png)<br>Purple Haze Runebook Dye | [2350](../hues/hue.md?id=2350) | ![icon](../assets/items/purple-haze-runebook-dye-preview.png) |
+
+=== "Dragon Dyes"
+
+    |                                         Dragon Dyes                                         |              Hue               |                      On Red Preview                       |                      On Grey Preview                      |
+    |:-------------------------------------------------------------------------------------------:|:------------------------------:|:---------------------------------------------------------:|:---------------------------------------------------------:|
+    | ![icon](../assets/items/rich-purple-dragon-dye.png)<br>Rich Purple Dragon Dye<br>(Red Only) | [2374](../hues/hue.md?id=2374) | ![icon](../assets/mobiles/rich-purple-dragon-dye-red.png) |                             -                             |
+    |              ![icon](../assets/items/topaz-dragon-dye.png)<br>Topaz Dragon Dye              | [2376](../hues/hue.md?id=2376) |    ![icon](../assets/mobiles/topaz-dragon-dye-red.png)    |   ![icon](../assets/mobiles/topaz-dragon-dye-grey.png)    |
+    |          ![icon](../assets/items/tear-drop-dragon-dye.png)<br>Tear Drop Dragon Dye          | [2381](../hues/hue.md?id=2381) |  ![icon](../assets/mobiles/tear-drop-dragon-dye-red.png)  | ![icon](../assets/mobiles/tear-drop-dragon-dye-grey.png)  |
+    |         ![icon](../assets/items/dark-green-dragon-dye.png)<br>Dark Green Dragon Dye         | [2756](../hues/hue.md?id=2756) | ![icon](../assets/mobiles/dark-green-dragon-dye-red.png)  | ![icon](../assets/mobiles/dark-green-dragon-dye-grey.png) |
+
+=== "Ethereal Mounts"
+
+    |                          Ethereal Mounts                          |              Hue               |                         Preview                         |                                                         |
+    |:-----------------------------------------------------------------:|:------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
+    |  ![icon](../assets/items/bloodrift-steed.png)<br>Bloodrift Steed  | [1579](../hues/hue.md?id=1579) | ![icon](../assets/items/bloodrift-steed-preview-1.png)  | ![icon](../assets/items/bloodrift-steed-preview-2.png)  |
+    | ![icon](../assets/items/riftshadow-steed.png)<br>Riftshadow Steed |             18575              | ![icon](../assets/items/riftshadow-steed-preview-1.png) | ![icon](../assets/items/riftshadow-steed-preview-2.png) |
+
+=== "Lanterns"
+
+    |                                     Lanterns                                      |              Hue               |
+    |:---------------------------------------------------------------------------------:|:------------------------------:|
+    | ![icon](../assets/items/waning-moon-rift-lantern.png)<br>Waning Moon Rift Lantern | [2834](../hues/hue.md?id=2834) |
+    | ![icon](../assets/items/waxing-moon-rift-lantern.png)<br>Waxing Moon Rift Lantern | [2833](../hues/hue.md?id=2833) |
+    |   ![icon](../assets/items/moonlight-rift-lantern.png)<br>Moonlight Rift Lantern   | [2832](../hues/hue.md?id=2832) |
+    |   ![icon](../assets/items/starlight-rift-lantern.png)<br>Starlight Rift Lantern   | [2835](../hues/hue.md?id=2835) |
+    |        ![icon](../assets/items/bloodrift-lantern.png)<br>Bloodrift Lantern        | [1579](../hues/hue.md?id=1579) |
+
+=== "Footwear"
+
+    |                                Footwear                                 |              Hue               |
+    |:-----------------------------------------------------------------------:|:------------------------------:|
+    | ![icon](../assets/items/waning-moon-sandals.png)<br>Waning Moon Sandals | [2834](../hues/hue.md?id=2834) |
+    | ![icon](../assets/items/waxing-moon-sandals.png)<br>Waxing Moon Sandals | [2833](../hues/hue.md?id=2833) |
+    |   ![icon](../assets/items/moonlight-sandals.png)<br>Moonlight Sandals   | [2832](../hues/hue.md?id=2832) |
+    |   ![icon](../assets/items/starlight-sandals.png)<br>Starlight Sandals   | [2835](../hues/hue.md?id=2835) |
+    |   ![icon](../assets/items/bloodrift-sandals.png)<br>Bloodrift Sandals   | [1579](../hues/hue.md?id=1579) |
+
+=== "Miscellaneous"
+
+    |                                        Miscellaneous                                         |
+    |:--------------------------------------------------------------------------------------------:|
+    | ![icon](../assets/items/globe-of-sosaria.png)<br>Globe of Sosaria<br>(Animated & Random Hue) |
+    |           ![icon](../assets/items/gargoyle-candelabra.png)<br>Gargoyle Candelabra            |
+    |       ![icon](../assets/items/assorted-arcane-bottles.png)<br>Assorted Arcane Bottles        |
+    |             ![icon](../assets/items/alchemy-shelf-kit.png)<br>Alchemy Shelf Kit              |
+    |      ![icon](../assets/items/arcane-bottles-and-cloth.png)<br>Arcane Bottles and Cloth       |
+    |           ![icon](../assets/items/rift-pixie-painting.png)<br>Rift Pixie Painting            |
+
 ## Doubloons
 
 ![image](../assets/screenshots/dawn-doubloons-npc.png){ .center-img }
@@ -46,6 +107,61 @@ Defeating the boss will award Doubloons.
 
 For more information visit the [Pirate Adventures](../custom-systems/pirate-adventures.md) page.
 
+### Doubloons shop
+
+=== "Paintings"
+
+    |                                           Paintings                                           |
+    |:---------------------------------------------------------------------------------------------:|
+    |            ![icon](../assets/items/sunken-sun-painting.png)<br>Sunken Sun Painting            |
+    |       ![icon](../assets/items/dead-mans-grin-painting.png)<br>Dead Man's Grin Painting        |
+    | ![icon](../assets/items/lady-of-the-high-seas-painting.png)<br>Lady of the High Seas Painting |
+
+=== "Ship Stains"
+
+    |                    Ship Stains                     |              Hue               |                       Preview<br>(click to enlarge)                        |
+    |:--------------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------:|
+    |    ![icon](../assets/items/bucket.png)<br>Base     | [1684](../hues/hue.md?id=1684) |    ![icon](../assets/items/boat-stain-base.png){ .on-glb width="100" }     |
+    |  ![icon](../assets/items/bucket.png)<br>Dark Blue  | [1464](../hues/hue.md?id=1464) |  ![icon](../assets/items/boat-stain-dark-blue.png){ .on-glb width="100" }  |
+    |  ![icon](../assets/items/bucket.png)<br>Dark Red   | [1465](../hues/hue.md?id=1465) |  ![icon](../assets/items/boat-stain-dark-red.png){ .on-glb width="100" }   |
+    | ![icon](../assets/items/bucket.png)<br>Dark Green  | [1466](../hues/hue.md?id=1466) | ![icon](../assets/items/boat-stain-dark-green.png){ .on-glb width="100" }  |
+    | ![icon](../assets/items/bucket.png)<br>Dark Purple | [1467](../hues/hue.md?id=1467) | ![icon](../assets/items/boat-stain-dark-purple.png){ .on-glb width="100" } |
+    |  ![icon](../assets/items/bucket.png)<br>Dark Gray  | [1682](../hues/hue.md?id=1682) |  ![icon](../assets/items/boat-stain-dark-gray.png){ .on-glb width="100" }  |
+
+=== "Wildlife"
+
+    |                         Wildlife                          |
+    |:---------------------------------------------------------:|
+    |       ![icon](../assets/items/parrot.png)<br>Parrot       |
+    | ![icon](../assets/items/parrot-perch.png)<br>Parrot Perch |
+
+=== "Ethereal Mounts"
+
+    |                            Ethereal Mounts                            |              Hue               |                          Preview                          |                                                           |
+    |:---------------------------------------------------------------------:|:------------------------------:|:---------------------------------------------------------:|:---------------------------------------------------------:|
+    | ![icon](../assets/items/dreadmane-stallion.png)<br>Dreadmane Stallion | [2724](../hues/hue.md?id=2724) | ![icon](../assets/items/dreadmane-stallion-preview-1.png) | ![icon](../assets/items/dreadmane-stallion-preview-2.png) |
+
+=== "Miscellaneous"
+
+    |                               Miscellaneous                               |
+    |:-------------------------------------------------------------------------:|
+    |         ![icon](../assets/items/pirate-cargo.png)<br>Pirate Cargo         |
+    |        ![icon](../assets/items/pirate-cannon.png)<br>Pirate Cannon        |
+    |     ![icon](../assets/items/pirate-sea-chart.png)<br>Pirate Sea Chart     |
+    |  ![icon](../assets/items/pirate-flag-swords.png)<br>Pirate Flag (Swords)  |
+    |   ![icon](../assets/items/pirate-flag-bones.png)<br>Pirate Flag (Bones)   |
+    |        ![icon](../assets/items/pirate-banner.png)<br>Pirate Banner        |
+    | ![icon](../assets/items/pirate-shelf-usable.png)<br>Pirate Shelf (usable) |
+
+=== "Footwear"
+
+    |                                Footwear                                 |              Hue               |
+    |:-----------------------------------------------------------------------:|:------------------------------:|
+    | ![icon](../assets/items/bloody-rock-sandals.png)<br>Bloody Rock Sandals | [2326](../hues/hue.md?id=2326) |
+    |  ![icon](../assets/items/evil-green-sandals.png)<br>Evil Green Sandals  | [2384](../hues/hue.md?id=2384) |
+    |   ![icon](../assets/items/cool-blue-sandals.png)<br>Cool Blue Sandals   | [2352](../hues/hue.md?id=2352) |
+    | ![icon](../assets/items/purple-haze-sandals.png)<br>Purple Haze Sandals | [2350](../hues/hue.md?id=2350) |
+
 ## Champion Tokens
 
 ![image](../assets/screenshots/dawn-champion-npc.png){ .center-img }
@@ -57,6 +173,48 @@ Champion altars can be found inside specific dungeons, and approaching one has a
 Once the altar is active, the first wave of monsters begins. Each champion spawn progresses through four tiers, and clearing all four will summon the champion boss.
 
 Defeating the boss will award Champion Tokens.
+
+### Champion Tokens Shop
+
+=== "Mask Dyes"
+
+    |                                 Mask Dyes                                 |              Hue               |
+    |:-------------------------------------------------------------------------:|:------------------------------:|
+    |   ![icon](../assets/items/blood-red-mask-dye.png)<br>Blood Red Mask Dye   | [2740](../hues/hue.md?id=2740) |
+    |     ![icon](../assets/items/inferno-mask-dye.png)<br>Inferno Mask Dye     | [2087](../hues/hue.md?id=2087) |
+    | ![icon](../assets/items/purple-haze-mask-dye.png)<br>Purple Haze Mask Dye | [2350](../hues/hue.md?id=2350) |
+    |  ![icon](../assets/items/burnt-tangerine-dye.png)<br>Burnt Tangerine Dye  | [2365](../hues/hue.md?id=2365) |
+
+=== "Runebook Dyes"
+
+    |                                       Runebook Dyes                                       |              Hue               |                              Preview                              |
+    |:-----------------------------------------------------------------------------------------:|:------------------------------:|:-----------------------------------------------------------------:|
+    |       ![icon](../assets/items/blood-red-runebook-dye.png)<br>Blood Red Runebook Dye       | [2740](../hues/hue.md?id=2740) |    ![icon](../assets/items/blood-red-runebook-dye-preview.png)    |
+    |       ![icon](../assets/items/starlight-runebook-dye.png)<br>Starlight Runebook Dye       | [2835](../hues/hue.md?id=2835) |    ![icon](../assets/items/starlight-runebook-dye-preview.png)    |
+    |         ![icon](../assets/items/inferno-runebook-dye.png)<br>Inferno Runebook Dye         | [2087](../hues/hue.md?id=2087) |     ![icon](../assets/items/inferno-runebook-dye-preview.png)     |
+    | ![icon](../assets/items/burnt-tangerine-runebook-dye.png)<br>Burnt Tangerine Runebook Dye | [2365](../hues/hue.md?id=2365) | ![icon](../assets/items/burnt-tangerine-runebook-dye-preview.png) |
+
+=== "Dragon Dyes"
+
+    |                                      Dragon Dyes                                      |              Hue               |                        On Red Preview                         |                        On Grey Preview                         |
+    |:-------------------------------------------------------------------------------------:|:------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------------:|
+    |       ![icon](../assets/items/blood-red-dragon-dye.png)<br>Blood Red Dragon Dye       | [2366](../hues/hue.md?id=2366) |    ![icon](../assets/mobiles/blood-red-dragon-dye-red.png)    |    ![icon](../assets/mobiles/blood-red-dragon-dye-grey.png)    |
+    |         ![icon](../assets/items/inferno-dragon-dye.png)<br>Inferno Dragon Dye         | [2087](../hues/hue.md?id=2087) |     ![icon](../assets/mobiles/inferno-dragon-dye-red.png)     |     ![icon](../assets/mobiles/inferno-dragon-dye-grey.png)     |
+    |     ![icon](../assets/items/purple-haze-dragon-dye.png)<br>Purple Haze Dragon Dye     | [2350](../hues/hue.md?id=2350) |   ![icon](../assets/mobiles/purple-haze-dragon-dye-red.png)   |   ![icon](../assets/mobiles/purple-haze-dragon-dye-grey.png)   |
+    |         ![icon](../assets/items/hot-red-dragon-dye.png)<br>Hot Red Dragon Dye         | [2380](../hues/hue.md?id=2380) |     ![icon](../assets/mobiles/hot-red-dragon-dye-red.png)     |     ![icon](../assets/mobiles/hot-red-dragon-dye-grey.png)     |
+    | ![icon](../assets/items/burnt-tangerine-dragon-dye.png)<br>Burnt Tangerine Dragon Dye | [2365](../hues/hue.md?id=2365) | ![icon](../assets/mobiles/burnt-tangerine-dragon-dye-red.png) | ![icon](../assets/mobiles/burnt-tangerine-dragon-dye-grey.png) |
+
+=== "Ethereal Mounts"
+
+    |     Ethereal Mounts      | Preview |     |
+    |:------------------------:|:-------:|:---:|
+    | Ethereal of the Champion |         |     |
+
+=== "Miscellaneous"
+
+    |                    Miscellaneous                     |
+    |:----------------------------------------------------:|
+    | ![icon](../assets/items//evil-idol.png)<br>Evil Idol |
 
 ## Harrower Tokens
 
@@ -71,6 +229,38 @@ Once the skulls are gathered, they must be placed on their altar on Temple Islan
 Doing so opens a gate that reveals the Harrower's location deep within a dungeon, allowing players to enter and face the final encounter.
 
 Defeating the Harrower will award the tokens.
+
+### Harrower Tokens Shop
+
+=== "Mask Dyes"
+
+    |     Mask Dyes      | Hue |
+    |:------------------:|:---:|
+    | Dark Iron Mask Dye |     |
+
+=== "Runebook Dyes"
+
+    |     Runebook Dyes      | Hue | Preview |
+    |:----------------------:|:---:|:-------:|
+    | Dark Iron Runebook Dye |     |         |
+
+=== "Dragon Dyes"
+
+    |     Dragon Dyes      | Hue | On Red Preview | On Grey Preview |
+    |:--------------------:|:---:|:--------------:|:---------------:|
+    | Dark Iron Dragon Dye |     |                |                 |
+
+=== "Ethereal Mounts"
+
+    |                               Ethereal Mounts                               |              Hue               |                           Preview                            |                                                              |
+    |:---------------------------------------------------------------------------:|:------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------:|
+    | ![icon](../assets/items/steed-of-the-harrower.png)<br>Steed of the Harrower | [2396](../hues/hue.md?id=2396) | ![icon](../assets/items/steed-of-the-harrower-preview-1.png) | ![icon](../assets/items/steed-of-the-harrower-preview-2.png) |
+
+=== "Miscellaneous"
+
+    |                                       Miscellaneous                                        |
+    |:------------------------------------------------------------------------------------------:|
+    | ![icon](../assets/items/tentacles-of-the-harrower-statue.png)<br>Tentacles of the Harrower |
 
 ## War Tokens
 
@@ -102,11 +292,11 @@ For more information visit the [Battlegrounds](../custom-systems/battlegrounds.m
     |   ![icon](../assets/items/robe-of-the-drowned-standard.png)<br>Robe of the Drowned Standard   | [1569](../hues/hue.md?id=1569) |
     |       ![icon](../assets/items/robe-of-the-gilded-siege.png)<br>Robe of the Gilded Siege       | [1562](../hues/hue.md?id=1562) |
 
-=== "Mounts"
+=== "Ethereal Mounts"
 
-    |                                         Mounts                                          |              Hue               |
-    |:---------------------------------------------------------------------------------------:|:------------------------------:|
-    | ![icon](../assets/items/ethereal-battlefront-ostard.png)<br>Ethereal Battlefront Ostard | [1674](../hues/hue.md?id=1674) |
+    |                                     Ethereal Mounts                                     |              Hue               |                          Preview                          |                                                           |
+    |:---------------------------------------------------------------------------------------:|:------------------------------:|:---------------------------------------------------------:|:---------------------------------------------------------:|
+    | ![icon](../assets/items/ethereal-battlefront-ostard.png)<br>Ethereal Battlefront Ostard | [1674](../hues/hue.md?id=1674) | ![icon](../assets/items/battlefront-ostard-preview-1.png) | ![icon](../assets/items/battlefront-ostard-preview-2.png) |
 
 === "Lanterns"
 
@@ -128,7 +318,7 @@ For more information visit the [Battlegrounds](../custom-systems/battlegrounds.m
     |  ![icon](../assets/items/mounted-shield-display.png)<br>Mounted Shield Display  |
     |           ![icon](../assets/items/lion-painting.png)<br>Lion Painting           |
 
-=== "Misc"
+=== "Miscellaneous"
 
     |                                  Misc                                   |              Hue               |
     |:-----------------------------------------------------------------------:|:------------------------------:|
