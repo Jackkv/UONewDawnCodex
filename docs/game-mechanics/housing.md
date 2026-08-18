@@ -4,7 +4,7 @@ You can have 1 house per account (total 3 houses).
 
 Some houses are tied to a specific biome, for example a sandstone house can only be placed on sand.
 
-Houses will collapse after 2 weeks of being "unused" if the owner, co-owner or a friend use a door or double‑click the sign the timer will reset.
+Houses will collapse after 30 days of being "unused" if the owner, co-owner or a friend use a door or double‑click the sign the timer will reset.
 
 ## Tools
 

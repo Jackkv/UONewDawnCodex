@@ -20,7 +20,7 @@ Here are some quick things that'll help right away. You'll pick up plenty more a
 - Dungeons have a 50% skill boost gain, except for crafting skills.
 - Recall charges inside a runebook don't require magery.
 - You can't recall in or out of dungeons, instead, there are exit gates spread around.
-- Instead of Dex penalty when wearing armor, you instead lose stamina when taking damage, based on the armor you're wearing.
+- Instead of Dex penalty when wearing armor, you instead lose stamina when taking melee damage, based on the armor you're wearing.
 - When you set a skill pointing down it will decrease at the same time as you gain on a skill pointing up, you don't have to wait to be at skill cap to lower a skill.
 
 ## The Young Player Program

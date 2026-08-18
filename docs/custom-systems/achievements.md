@@ -1,6 +1,6 @@
 # Achievement System
 
-Track your accomplishments and earn rewards through New Dawn's comprehensive Achievement system. Complete challenges, reach milestones, and unlock exclusive titles.
+Track your accomplishments through New Dawn's comprehensive Achievement system. Complete challenges, reach milestones, and unlock exclusive titles.
 
 ## Overview
 

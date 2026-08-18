@@ -36,7 +36,7 @@ The damage calculation is:
 
 `(Base Spell Damage - 50% [if Resisted]) + Eval Intelligence Damage Modifier`
 
-- First, the resist chance is applied, if you resist the spell, the base damage is reduced by 50%.
+- First, the resist chance is applied, if you resist the spell, the base damage is reduced by 50% (33% in PvP).
 
 - Next, the Eval Int modifier is applied, if the attacker has no Evaluating Intelligence, it reduces the damage by an additional 50%.
 

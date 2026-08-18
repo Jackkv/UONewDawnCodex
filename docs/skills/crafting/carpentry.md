@@ -188,26 +188,26 @@ Stone Blocks can be looted from Stone, Sandstone and Marble Elementals, which ca
 
 === "Decorations"
 
-    |    Item    |          Resources           | Retain Color | Skill |
-    |:----------:|:----------------------------:|:------------:|:-----:|
-    |    Vase    |           1 Stones           |     yes      | 52.5  |
-    | Large Vase |           3 Stones           |     yes      | 52.5  |
-    |  Fountain  | 100 Stones<br>4 Stone Blocks |      no      | 75.0  |
+    |    Item    |          Resources           | Retains Color | Skill |
+    |:----------:|:----------------------------:|:-------------:|:-----:|
+    |    Vase    |           1 Stones           |      yes      | 52.5  |
+    | Large Vase |           3 Stones           |      yes      | 52.5  |
+    |  Fountain  | 100 Stones<br>4 Stone Blocks |      no       | 75.0  |
 
 === "Furniture"
 
-    |              Item              |           Resources            | Retain Color | Skill |
-    |:------------------------------:|:------------------------------:|:------------:|:-----:|
-    |          Stone Chair           |   4 Stones<br>1 Stone Blocks   |     yes      | 55.0  |
-    |          Stone Bench           |   6 Stones<br>1 Stone Blocks   |     yes      | 65.0  |
-    |   Medium Stone Table (east)    |   6 Stones<br>2 Stone Blocks   |     yes      | 65.0  |
-    |   Medium Stone Table (south)   |   6 Stones<br>2 Stone Blocks   |     yes      | 65.0  |
-    | Medium Sandstone Table (east)  | 6 Stones<br>2 Sandstone Blocks |     yes      | 65.0  |
-    | Medium Sandstone Table (south) | 6 Stones<br>2 Sandstone Blocks |     yes      | 65.0  |
-    | Medium Sandstone Table (east)  | 6 Stones<br>2 Sandstone Blocks |     yes      | 65.0  |
-    | Medium Sandstone Table (south) | 6 Stones<br>2 Sandstone Blocks |     yes      | 65.0  |
-    |   Medium Marble Table (east)   |  9 Stones<br>3 Marble Blocks   |     yes      | 75.0  |
-    |  Medium Marble Table (south)   |  9 Stones<br>3 Marble Blocks   |     yes      | 75.0  |
+    |              Item              |           Resources            | Retains Color | Skill |
+    |:------------------------------:|:------------------------------:|:-------------:|:-----:|
+    |          Stone Chair           |   4 Stones<br>1 Stone Blocks   |      yes      | 55.0  |
+    |          Stone Bench           |   6 Stones<br>1 Stone Blocks   |      yes      | 65.0  |
+    |   Medium Stone Table (east)    |   6 Stones<br>2 Stone Blocks   |      yes      | 65.0  |
+    |   Medium Stone Table (south)   |   6 Stones<br>2 Stone Blocks   |      yes      | 65.0  |
+    | Medium Sandstone Table (east)  | 6 Stones<br>2 Sandstone Blocks |      yes      | 65.0  |
+    | Medium Sandstone Table (south) | 6 Stones<br>2 Sandstone Blocks |      yes      | 65.0  |
+    | Medium Sandstone Table (east)  | 6 Stones<br>2 Sandstone Blocks |      yes      | 65.0  |
+    | Medium Sandstone Table (south) | 6 Stones<br>2 Sandstone Blocks |      yes      | 65.0  |
+    |   Medium Marble Table (east)   |  9 Stones<br>3 Marble Blocks   |      yes      | 75.0  |
+    |  Medium Marble Table (south)   |  9 Stones<br>3 Marble Blocks   |      yes      | 75.0  |
 
 ## Bulk order deeds
 

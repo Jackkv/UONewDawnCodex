@@ -238,7 +238,7 @@ The Tailor Dye Kit is used with [Dungeon Dye](../../custom-systems/dungeon-dyes.
 
 To purchase one, you must first join the Tailor guild. You can join by using the command `[NPC name] join` and paying a fee of 5.000 gold to a Grandmaster Tailor NPC.
 
-Once you're a member, you can obtain the Tailor Dye Kit by giving 10.000 gold to a Grandmaster Tailor NPC.
+Once you're a member and a GM Tailor, you can obtain the Tailor Dye Kit by giving 10.000 gold to a Grandmaster Tailor NPC.
 
 ## Tailoring kits
 

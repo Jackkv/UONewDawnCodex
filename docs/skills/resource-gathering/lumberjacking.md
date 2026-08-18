@@ -61,7 +61,7 @@ This effect can stack with the Heartwood Oil.
 
 So for example a Normal tree can be raised to Oak using Heartwood Oil and then raise to Ash with the Woodwarden Axe.
 
-When using the Woodwarden Axe there is a chance of spawning a Reaper of the same color of the wood you are chopping.
+When using the Woodwarden Axe there is a chance of spawning a Reaper of the same color of the wood you are chopping and a rare Tree Giant.
 
 ## Training
 
