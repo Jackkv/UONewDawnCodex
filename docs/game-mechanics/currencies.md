@@ -206,9 +206,9 @@ Defeating the boss will award Champion Tokens.
 
 === "Ethereal Mounts"
 
-    |     Ethereal Mounts      | Preview |     |
-    |:------------------------:|:-------:|:---:|
-    | Ethereal of the Champion |         |     |
+    |                                  Ethereal Mounts                                  |                               Preview                               |                                                                     |
+    |:---------------------------------------------------------------------------------:|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
+    | ![icon](../assets/items/ethereal-of-the-champion.png)<br>Ethereal of the Champion | ![icon](../assets/items/ethereal-of-the-champion-preview-1.png)<br> | ![icon](../assets/items/ethereal-of-the-champion-preview-2.png)<br> |
 
 === "Miscellaneous"
 
