@@ -63,6 +63,8 @@ Each instance rewards 10 Doubloons and a player can earn a maximum of 5.
 
 There is also a chance of a bonus Doubloon being rewarded sometimes.
 
+Doubloons can be exchanged for rewards, for more information visit the [Doubloons Shop](../game-mechanics/currencies.md#doubloons-shop) page.
+
 ### Reward chest
 
 The final reward chest always contains:
@@ -199,7 +201,7 @@ An ancient tomb where cursed undead pirates guard plundered riches. Features a u
 | Ancient Sea Serpent | Sea creature         |
 | Ancient Kraken      | Large sea creature   |
 
-## Related Systems
+## Related pages
 
-- [Currencies](../game-mechanics/currencies.md) - Pirate doubloons and rewards
-- [Achievements](achievements.md) - Pirate-related achievements
+- [Fishing](../skills/resource-gathering/fishing.md)
+- [Doubloons Shop](../game-mechanics/currencies.md#doubloons-shop)

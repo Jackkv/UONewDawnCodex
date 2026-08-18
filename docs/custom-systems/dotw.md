@@ -37,11 +37,13 @@ Thresholds can be tuned by admins at runtime.
 
 Higher chance that creatures drop slayer-typed weapons or instruments.
 
-| Tier                        | Label       | Effect                                                                        |
-|-----------------------------|-------------|-------------------------------------------------------------------------------|
-| Tier 1 - Slayer Weapons     | 0 kills     | Creatures have a chance to drop slayer-typed weapons.                         |
-| Tier 2 - Slayer Instruments | 2,500 kills | Creatures may also drop slayer-typed instruments.                             |
+| Tier                        | Label       | Effect                                                                    |
+|-----------------------------|-------------|---------------------------------------------------------------------------|
+| Tier 1 - Slayer Weapons     | 0 kills     | Creatures have a chance to drop slayer-typed weapons.                     |
+| Tier 2 - Slayer Instruments | 2,500 kills | Creatures may also drop slayer-typed instruments.                         |
 | Tier 3 - Hunter's Surge     | 5,000 kills | Both slayer weapon and instrument drop chances are rolled twice per kill. |
+
+To learn more about Slayers, visit the [Slayers](../game-mechanics/items-and-equipment/slayers.md) page.
 
 ### Gold Rush
 
@@ -90,6 +92,8 @@ Rift shards, rift spawns, and rift gates have a higher chance to appear.
 | Tier 2 - Open Gates   | 2,500 kills | Rift gate spawn min/max chances are widened.                                           |
 | Tier 3 - Convergence  | 5,000 kills | Per-kill bonus shard chance is active, and rift-spawn conversion chance is multiplied. |
 
+For more information visit the [Codex Rifts](codex-rifts.md) page.
+
 ### Scholar's Week
 
 Skill gains are enhanced inside the dungeon. The bonus builds up across tiers.
@@ -107,7 +111,8 @@ Skill gains are enhanced inside the dungeon. The bonus builds up across tiers.
 
 Once enough enemies within an active dungeon are slain (typically 4,000 – 5,000 kills depending on the dungeon), the mighty dragon Dracothraxus is summoned to that dungeon. Adventurers must work together to defeat the terrible wyrm if they want to loot his massive hoard of gold.
 
-## Related Systems
+## Related pages
 
-- [Achievements](achievements.md) - Track your monsters slayed and dungeons explored
-- [Currencies](../game-mechanics/currencies.md) - Gain rift and champion currencies
+- [Slayers](../game-mechanics/items-and-equipment/slayers.md)
+- [Dungeon Dyes](../custom-systems/dungeon-dyes.md)
+- [Codex Rifts](codex-rifts.md)

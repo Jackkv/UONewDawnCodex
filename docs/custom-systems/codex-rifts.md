@@ -42,7 +42,7 @@ You have sixty minutes at your disposal, after which you will be teleported out 
 
 ## Rift Shards
 
-Rift Shards are a currency earned inside the Rift, they can be exchanged for rewards at the [Dawn Event Center](../game-mechanics/currencies.md#dawn-event-center).
+Rift Shards are a currency earned inside the Rift, they can be exchanged for [rewards](../game-mechanics/currencies.md#rift-shards-shop) at the [Dawn Event Center](../game-mechanics/currencies.md#dawn-event-center).
 
 Any monster in the Rift has a small chance to award Rift Shards, while bosses will always award them as long as you contributed enough damage.
 
@@ -135,7 +135,7 @@ Each active rift progresses through a series of waves, you must kill all require
 | 3    | 5 Rotting Corpses · 3 Skeletal Liches    |
 | Boss | Undead Warlord                           |
 
-## Related Systems
+## Related pages
 
-- [Currencies](../game-mechanics/currencies.md)
-- [Achievements](achievements.md)
+- [Rift Shards Shop](../game-mechanics/currencies.md#rift-shards-shop)
+- [Dungeon of the Week](dotw.md)

@@ -115,7 +115,7 @@ Points are awarded to individual players throughout the match. Team victory is d
 
 ## War Tokens
 
-War Tokens are the currency earned through CTF matches. They can be exchanged for rewards at the [Dawn Event Center](../game-mechanics/currencies.md#dawn-event-center).
+War Tokens are the currency earned through CTF matches. They can be exchanged for [rewards](../game-mechanics/currencies.md#war-tokens-shop) at the [Dawn Event Center](../game-mechanics/currencies.md#dawn-event-center).
 
 At the end of a game, tokens are awarded based on your individual points for that match:
 
@@ -124,3 +124,7 @@ At the end of a game, tokens are awarded based on your individual points for tha
 - There is a daily cap of 150 War Tokens per player - once hit, stats still record but no further tokens are awarded until the next day (Central Time)
 
 Check your balance at any time with the `[profile` command.
+
+## Related pages
+
+- [War Tokens Shop](../game-mechanics/currencies.md#war-tokens-shop)

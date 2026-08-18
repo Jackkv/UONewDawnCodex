@@ -130,7 +130,9 @@ With lower skill, typical find rates will be closer to 10 – 40%.
 |    ![icon](../assets/items/tarnished-silver-utensils.png)<br>Tarnished Silver Utensils    |                  Britain                   |
 |               ![icon](../assets/items/tattered-cloth.png)<br>Tattered Cloth               | Britain, Moonglow, New Minoc, Trinsic, Yew |
 
-## Related Systems
+## Related pages
 
-- [Achievements](achievements.md) - Track your archaeological discoveries
-- [Currencies](../game-mechanics/currencies.md) - Potential future archaeology currency
+- [Inscription](../skills/magic/inscription.md)
+- [Cartography](../skills/utility-and-support/cartography.md)
+- [Mining](../skills/resource-gathering/mining.md)
+- [Item Identification](../skills/utility-and-support/item-identification.md)

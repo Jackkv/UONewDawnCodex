@@ -274,7 +274,7 @@ At the end of each match, every participant receives War Tokens based on their i
 
 War Tokens also have a daily cap, limiting how many can be earned each day.
 
-For more information visit the [Battlegrounds](../custom-systems/battlegrounds.md) page.
+For more information visit the [Battlegrounds](../custom-systems/index.md#battlegrounds) page.
 
 ### War Tokens Shop
 

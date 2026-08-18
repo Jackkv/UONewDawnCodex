@@ -82,6 +82,7 @@ The Tailoring Guidebook describes each material:
 
 > The heart of a glacier - an icy fragment that never melts, perpetually radiating cold. Shavings from the core are perfect for creating Glacial Blue Dye.
 
-## Related Pages
+## Related pages
 
-- [Hues](../hues/index.md) - Browse all available hues
+- [Hues](../hues/index.md)
+- [Dungeon of the Week](dotw.md)

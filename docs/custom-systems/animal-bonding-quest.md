@@ -46,3 +46,7 @@ Most Tamers use Tracking to help find these pets.
 |     ![icon](../assets/mobiles/blissful-bovine.png)<br>Blissful Bovine     |  ![icon](../assets/mobiles/ferocious-bear.png)<br>Ferocious Bear  | ![icon](../assets/mobiles/frosty-leopard.png)<br>Frosty Leopard |
 |      ![icon](../assets/mobiles/nightfall-wolf.png)<br>Nightfall Wolf      |   ![icon](../assets/mobiles/graceful-hind.png)<br>Graceful Hind   |  ![icon](../assets/mobiles/woodland-wolf.png)<br>Woodland Wolf  |
 |          ![icon](../assets/mobiles/dread-wolf.png)<br>Dread Wolf          |     ![icon](../assets/mobiles/noble-horse.png)<br>Noble Horse     |   ![icon](../assets/mobiles/ivory-walrus.png)<br>Ivory Walrus   |
+
+## Related pages
+
+- [Animal Taming](../skills/taming-and-animals/animal-taming.md)

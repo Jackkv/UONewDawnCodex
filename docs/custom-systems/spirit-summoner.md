@@ -102,3 +102,10 @@ At GM Spirit Speak:
 Animal Lore makes your summons stronger.
 
 At GM, your summons receive a 35% stat boost.
+
+## Related pages
+
+- [Spirit Speak](../skills/magic/spirit-speak.md)
+- [Animal Lore](../skills/taming-and-animals/animal-lore.md)
+- [Magery](../skills/magic/magery.md)
+- [Meditation](../skills/magic/meditation.md)
