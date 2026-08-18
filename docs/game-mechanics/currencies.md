@@ -30,7 +30,7 @@ Each champion spawn progresses through three tiers, and completing all three wil
 
 For more information visit the [Codex Rift](../custom-systems/codex-rifts.md) page.
 
-### Rift Shards Shop
+### Rift Shards Store
 
 === "Mask Dyes"
 
@@ -107,7 +107,7 @@ Defeating the boss will award Doubloons.
 
 For more information visit the [Pirate Adventures](../custom-systems/pirate-adventures.md) page.
 
-### Doubloons shop
+### Doubloons Store
 
 === "Paintings"
 
@@ -174,7 +174,7 @@ Once the altar is active, the first wave of monsters begins. Each champion spawn
 
 Defeating the boss will award Champion Tokens.
 
-### Champion Tokens Shop
+### Champion Tokens Store
 
 === "Mask Dyes"
 
@@ -230,7 +230,7 @@ Doing so opens a gate that reveals the Harrower's location deep within a dungeon
 
 Defeating the Harrower will award the tokens.
 
-### Harrower Tokens Shop
+### Harrower Tokens Store
 
 === "Mask Dyes"
 
@@ -276,7 +276,7 @@ War Tokens also have a daily cap, limiting how many can be earned each day.
 
 For more information visit the [Battlegrounds](../custom-systems/index.md#battlegrounds) page.
 
-### War Tokens Shop
+### War Tokens Store
 
 === "Wearables"
 

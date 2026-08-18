@@ -63,7 +63,7 @@ Each instance rewards 10 Doubloons and a player can earn a maximum of 5.
 
 There is also a chance of a bonus Doubloon being rewarded sometimes.
 
-Doubloons can be exchanged for rewards, for more information visit the [Doubloons Shop](../game-mechanics/currencies.md#doubloons-shop) page.
+Doubloons can be exchanged for rewards, for more information visit the [Doubloons Store](../game-mechanics/currencies.md#doubloons-store) page.
 
 ### Reward chest
 
@@ -204,4 +204,4 @@ An ancient tomb where cursed undead pirates guard plundered riches. Features a u
 ## Related pages
 
 - [Fishing](../skills/resource-gathering/fishing.md)
-- [Doubloons Shop](../game-mechanics/currencies.md#doubloons-shop)
+- [Doubloons Store](../game-mechanics/currencies.md#doubloons-store)
