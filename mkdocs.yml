@@ -92,10 +92,6 @@ not_in_nav: |
   patches/patch-*.md
   patches/login-patch-*.md
   hues/hue.md
-  custom-systems/conquest-of-virtues.md
-  game-mechanics/gardening.md
-  world/bestiary.md
-  getting-started/whats-different.md
 
 # Page tree
 nav:
@@ -107,6 +103,7 @@ nav:
           - On Windows: getting-started/on-windows.md
           - On Linux: getting-started/on-linux.md
       - New Player Guide: getting-started/new-player-guide.md
+      - What's Different: getting-started/whats-different.md
       - Trainers: getting-started/trainers.md
     - World:
       - New Dawn: world/new-dawn.md
@@ -148,7 +145,7 @@ nav:
         - Rikktor: world/champions/rikktor.md
         - Semidar: world/champions/semidar.md
         - The Harrower: world/champions/the-harrower.md
-      # - Bestiary: world/bestiary.md
+      - Bestiary: world/bestiary.md
     - Game Mechanics:
       - Items & Equipment:
         - Magical properties: game-mechanics/items-and-equipment/magical-properties.md
@@ -161,6 +158,7 @@ nav:
         - Fame & Karma: game-mechanics/character/fame-and-karma.md
         - Virtues: game-mechanics/character/virtues.md
         - Stats: game-mechanics/character/stats.md
+      - Treasure Hunting: game-mechanics/treasure-hunting.md
       - Murder System: game-mechanics/murder-system.md
       - Currencies: game-mechanics/currencies.md
       - Gardening: game-mechanics/gardening.md
@@ -228,11 +226,8 @@ nav:
     - custom-systems/index.md
     - Achievements: custom-systems/achievements.md
     - Animal Bonding Quest: custom-systems/animal-bonding-quest.md
+    - Beekeeping: custom-systems/beekeeping.md
     - Archaeology: custom-systems/archaeology.md
-    - Battlegrounds:
-      - custom-systems/battlegrounds.md
-      - Capture the Flag: custom-systems/capture-the-flag.md
-      - Conquest: custom-systems/conquest.md
     - Codex Rifts: custom-systems/codex-rifts.md    
     - Dungeon Dyes: custom-systems/dungeon-dyes.md
     - Dungeon of the Week: custom-systems/dotw.md
@@ -240,8 +235,13 @@ nav:
     - Ship Holds: custom-systems/ship-holds.md
     - Spirit Summoner: custom-systems/spirit-summoner.md
     - Young Player Program: custom-systems/young-program.md
+    - Battlegrounds:
+      - Capture the Flag: custom-systems/capture-the-flag.md
+      - Conquest: custom-systems/conquest.md
 ### Hues ###
   - Hues: hues/index.md
+### Game Portal ###
+  - Game Portal: https://portal.uonewdawn.com/
 ### Community & Resources ###
   - Community & Resources:
     - community/index.md
