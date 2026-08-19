@@ -1,7 +1,5 @@
 # Capture the Flag
 
-![CTF](../assets/ctf.png)
-
 Capture the Flag (CTF) is New Dawn's team-based PvP mode. Two teams of pirates race to steal the enemy flag and bring it back to their base, while defending their own flag from being taken.
 
 ## Sign up
