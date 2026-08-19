@@ -105,3 +105,13 @@ On New Dawn, ships aren't simply ways to fish or get to an island. Here, they ar
 Single-click your ship hold to enter a little private area where you can store items and safely log out.
 
 For more information visit the [Ship Holds](ship-holds.md) page.
+
+## [Beekeeping](beekeeping.md)
+
+The Beekeeping system fits naturally alongside [Gardening](../game-mechanics/gardening.md).
+
+You'll produce Honey to fill orders and earn Apiary Marks, which can be exchanged for various rewards.
+
+You can also refine Wax and craft a range of candles, adding a touch of craftsmanship to your apiary work.
+
+For more information visit the [Beekeeping](beekeeping.md) page.
