@@ -324,3 +324,31 @@ For more information visit the [Battlegrounds](../custom-systems/index.md#battle
     |:-----------------------------------------------------------------------:|:------------------------------:|
     | ![icon](../assets/items/battle-drum-usable.png)<br>Battle Drum (usable) |               -                |
     | ![icon](../assets/items/battle-horn-usable.png)<br>Battle Horn (usable) | [1126](../hues/hue.md?id=1126) |
+
+## Apiary Marks
+
+Apiary Marks are a currency awarded for completing Honey Orders, which are part of the Beekeeping system.
+
+For more information visit the [Beekeeping](../custom-systems/beekeeping.md) page.
+
+### Apiary Marks Store
+
+=== "Clothing"
+
+    |                               Clothing                               |              Hue               |
+    |:--------------------------------------------------------------------:|:------------------------------:|
+    |   ![icon](../assets/items/beekeepers-mask.png)<br>Beekeeper's Mask   | [2996](../hues/hue.md?id=2996) |
+    | ![icon](../assets/items/beekeepers-jacket.png)<br>Beekeeper's Jacket | [2996](../hues/hue.md?id=2996) |
+    |  ![icon](../assets/items/beekeepers-pants.png)<br>Beekeeper's Pants  | [2996](../hues/hue.md?id=2996) |
+    | ![icon](../assets/items/beekeepers-gloves.png)<br>Beekeeper's Gloves | [2996](../hues/hue.md?id=2996) |
+    |  ![icon](../assets/items/beekeepers-boots.png)<br>Beekeeper's Boots  | [2996](../hues/hue.md?id=2996) |
+
+=== "Decorations"
+
+    |                                 Decorations                                 |
+    |:---------------------------------------------------------------------------:|
+    | ![icon](../assets/items/decorative-honey-pots.png)<br>Decorative Honey Pots |
+    |       ![icon](../assets/items/glass-honey-jar.png)<br>Glass Honey Jar       |
+    |      ![icon](../assets/items/pure-raw-beeswax.png)<br>Pure Raw Beeswax      |
+    |      ![icon](../assets/items/beekeepers-sign.png)<br>Beekeeper's Sign       |
+    
