@@ -127,8 +127,6 @@ single-clicking a decoded map will show the location number.
 
 This table shows the coordinates for every existing treasure spot.
 
-Only the player that has decoded the map will be able to dig up the treasure.
-
 ??? note "Click to expand: Map locations"
 
     | Number | Coordinates | Number | Coordinates | Number | Coordinates |
