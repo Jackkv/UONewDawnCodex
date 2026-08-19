@@ -234,21 +234,21 @@ Defeating the Harrower will award the tokens.
 
 === "Mask Dyes"
 
-    |     Mask Dyes      | Hue |
-    |:------------------:|:---:|
-    | Dark Iron Mask Dye |     |
+    |                               Mask Dyes                               |              Hue               |
+    |:---------------------------------------------------------------------:|:------------------------------:|
+    | ![icon](../assets/items/dark-iron-mask-dye.png)<br>Dark Iron Mask Dye | [2396](../hues/hue.md?id=2396) |
 
 === "Runebook Dyes"
 
-    |     Runebook Dyes      | Hue | Preview |
-    |:----------------------:|:---:|:-------:|
-    | Dark Iron Runebook Dye |     |         |
+    |                                 Runebook Dyes                                 |              Hue               |                             Preview                             |
+    |:-----------------------------------------------------------------------------:|:------------------------------:|:---------------------------------------------------------------:|
+    | ![icon](../assets/items/dark-iron-runebook-dye.png)<br>Dark Iron Runebook Dye | [2396](../hues/hue.md?id=2396) | ![icon](../assets/items/dark-iron-runebook-dye-preview.png)<br> |
 
 === "Dragon Dyes"
 
-    |     Dragon Dyes      | Hue | On Red Preview | On Grey Preview |
-    |:--------------------:|:---:|:--------------:|:---------------:|
-    | Dark Iron Dragon Dye |     |                |                 |
+    |                                Dragon Dyes                                |              Hue               |                     On Red Preview                      | On Grey Preview |
+    |:-------------------------------------------------------------------------:|:------------------------------:|:-------------------------------------------------------:|:---------------:|
+    | ![icon](../assets/items/dark-iron-dragon-dye.png)<br>Dark Iron Dragon Dye | [2396](../hues/hue.md?id=2396) | ![icon](../assets/mobiles/dark-iron-dragon-dye-red.png) |        -        |
 
 === "Ethereal Mounts"
 
