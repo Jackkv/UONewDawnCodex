@@ -2,6 +2,8 @@
 
 You can have 1 house per account (total 3 houses).
 
+You can clear all courtyard marked runes for 500k, single-click your house sign and go to options.
+
 Some houses are tied to a specific biome, for example a sandstone house can only be placed on sand.
 
 Houses will collapse after 30 days of being "unused" if the owner, co-owner or a friend use a door or double‑click the sign the timer will reset.
