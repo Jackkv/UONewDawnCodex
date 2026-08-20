@@ -27,6 +27,7 @@ New Dawn builds on the classic Ultima Online foundation while introducing meanin
 - You can't recall in or out of dungeons, instead, there are exit gates spread around.
 - Spellbooks can only be crafted.
 - Runebooks can be blessed using [Codex fragments](../custom-systems/codex-rifts.md#codex-fragments) and [Codex Bindings](../skills/crafting/alchemy.md#codex-binding).
+- To avoid unattended gathering, all resource gathering activities will trigger the AFK captcha gump.
 - Instead of Dex penalty when wearing armor, you instead lose stamina when taking melee damage, based on the armor you're wearing.
 
 ## Custom Systems
@@ -41,6 +42,10 @@ For an in-depth overview of systems not listed on this page, visit the [Custom S
 - Long-term kills equal or over 5, won't decay anymore.
 
 For more information visit the [Murder System](../game-mechanics/murder-system.md) page.
+
+## Smuggler
+
+You can buy
 
 ## Spells
 
