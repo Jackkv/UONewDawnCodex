@@ -14,6 +14,8 @@
 }
 </style>
 
+Pit Fiend
+
 # Bestiary
 
 ## Bestiary index
@@ -19375,6 +19377,121 @@
         <tr>
         <th>Slayer Drop</th>
         <td id="Pirate-Zombie_Slayer-Drop"></td>
+    </tr>
+    </table>
+    </div>
+
+### Pit Fiend
+
+!!! warning
+    Under construction.
+
+=== "Info"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Spawn<br>Locations</th>
+        <td id="Pit-Fiend_Spawn-Locations" colspan="3"></td>
+    </tr>
+    <tr>
+        <th>Base Damage</th>
+        <td id="Pit-Fiend_Base-Damage"></td>
+        <th>Armor Rating</th>
+        <td id="Pit-Fiend_Armor-Rating"></td>
+    </tr>
+    <tr>
+        <th>Fame</th>
+        <td id="Pit-Fiend_Fame"></td>
+        <th>Karma</th>
+        <td id="Pit-Fiend_Karma"></td>
+    </tr>
+    <tr>
+        <th>Super Slayer</th>
+        <td id="Pit-Fiend_Super-Slayer"></td>
+        <th>Minor Slayer</th>
+        <td id="Pit-Fiend_Minor-Slayer"></td>
+    </tr>
+    <tr>
+        <th>Barding Difficulty</th>
+        <td id="Pit-Fiend_Barding-Difficulty"></td>
+        <th>Taming Difficulty</th>
+        <td id="Pit-Fiend_Taming-Difficulty"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Attributes"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Hit Points</th>
+        <td id="Pit-Fiend_Hit-Points"></td>
+        <th>Strength</th>
+        <td id="Pit-Fiend_Strength"></td>
+    </tr>
+    <tr>
+        <th>Stamina</th>
+        <td id="Pit-Fiend_Stamina"></td>
+        <th>Dexterity</th>
+        <td id="Pit-Fiend_Dexterity"></td>
+    </tr>
+    <tr>
+        <th>Mana</th>
+        <td id="Pit-Fiend_Mana"></td>
+        <th>Intelligence</th>
+        <td id="Pit-Fiend_Intelligence"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Skills"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Wrestling</th>
+        <td id="Pit-Fiend_Wrestling"></td>
+        <th>Magery</th>
+        <td id="Pit-Fiend_Magery"></td>
+    </tr>
+    <tr>
+        <th>Tactics</th>
+        <td id="Pit-Fiend_Tactics"></td>
+        <th>Meditation</th>
+        <td id="Pit-Fiend_Meditation"></td>
+    </tr>
+    <tr>
+        <th>Resisting Spells</th>
+        <td id="Pit-Fiend_Resisting-Spells"></td>
+        <th>Evaluating Intelligence</th>
+        <td id="Pit-Fiend_Evaluating-Intelligence"></td>
+    </tr>
+    <tr>
+        <th>Anatomy</th>
+        <td id="Pit-Fiend_Anatomy"></td>
+        <th>Poisoning</th>
+        <td id="Pit-Fiend_Poisoning"></td>
+    </tr>
+    </table>
+    </div>
+
+=== "Loot"
+
+    <div class="mob-info">
+    <table>
+    <tr>
+        <th>Gold</th>
+        <td id="Pit-Fiend_Gold"></td>
+    </tr>
+    <tr>
+        <th>Treasure Map lvl</th>
+        <td id="Pit-Fiend_Treasure-Map-lvl"></td>
+    </tr>
+        <tr>
+        <th>Slayer Drop</th>
+        <td id="Pit-Fiend_Slayer-Drop"></td>
     </tr>
     </table>
     </div>
