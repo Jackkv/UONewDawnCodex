@@ -40,6 +40,8 @@ You will find 8 Champion areas and one guarded zone with a bank, stable and some
 
 You have sixty minutes at your disposal, after which you will be teleported out to the Dawn Event Center.
 
+The timer is displayed on the rift map gump.
+
 ## Rift Shards
 
 Rift Shards are a currency earned inside the Rift, they can be exchanged for [rewards](../game-mechanics/currencies.md#rift-shards-store) at the [Dawn Event Center](../game-mechanics/currencies.md#dawn-event-center).
