@@ -153,6 +153,8 @@ Honey is used in [Cooking](../skills/crafting/cooking.md) and [Honey Orders](#ho
 
 Beeswax straight from the hive is full of impurities and difficult to work with. The process of cleaning it is called rendering.
 
+Wax is used to [craft candles](#wax-crafting-list).
+
 ### Step 1: Scrape the Hive
 
 Once a hive reaches the Producing stage, use the Harvest button on the control panel. A hive tool is required - each scrape uses a charge.
