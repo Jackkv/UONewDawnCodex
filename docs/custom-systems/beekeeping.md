@@ -83,6 +83,8 @@ Bees need both water and flowers within their foraging range. The control panel 
   
 Place filled water barrels or tubs near the hive. Each one counts as a source while it holds water; hives gradually drain them. Note that too much water can breed bacteria, making the hive more susceptible to disease.
 
+Water barrels can be crafted with [Carpentry](../skills/crafting/carpentry.md#__tabbed_1_6).
+
 ### Flowers
 
 Flowers are used for food, building, and almost every hive function. An overabundance of flowers brings more parasites and insects with them.
