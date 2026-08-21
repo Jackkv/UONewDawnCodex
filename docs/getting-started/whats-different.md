@@ -19,7 +19,7 @@ New Dawn builds on the classic Ultima Online foundation while introducing meanin
 ## Miscellaneous
 
 - Horses can be tamed regardless of skill.
-- All players start with one bond slot. Bonded pets can recall with you. Tamer can acquire more slots with the [Animal Bonding Quest](../custom-systems/animal-bonding-quest.md).
+- All players start with one bond slot. Bonded pets can recall with you. Tamers can acquire more slots with the [Animal Bonding Quest](../custom-systems/animal-bonding-quest.md).
 - There's no light filter, so the world looks (and feels) properly dark at night. Don't worry, you will get used to it in no time, you can buy Nightsight potions or use the Night Sight spell, they will last a long time.
 - Dungeons have a 50% skill boost gain, except for crafting skills.
 - When you set a skill pointing down it will decrease at the same time as you gain on a skill pointing up, you don't have to wait to be at skill cap to lower a skill.
