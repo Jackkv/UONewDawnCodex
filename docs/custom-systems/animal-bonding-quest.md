@@ -62,3 +62,4 @@ These pets drop mask materials when killed, which are used in tailoring to [Craf
 ## Related pages
 
 - [Animal Taming](../skills/taming-and-animals/animal-taming.md)
+- [Tailoring](../skills/crafting/tailoring.md)

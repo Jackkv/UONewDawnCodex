@@ -237,5 +237,6 @@ The hue of colored candles is random.
 
 - [Taste Identification](../skills/utility-and-support/taste-identification.md)
 - [Item Identification](../skills/utility-and-support/item-identification.md)
+- [Gardening](../game-mechanics/gardening.md)
 - [Cooking](../skills/crafting/cooking.md)
 - [Apiary Marks Store](../game-mechanics/currencies.md#apiary-marks-store)
