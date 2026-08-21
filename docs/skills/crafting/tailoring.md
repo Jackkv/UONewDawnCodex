@@ -18,32 +18,34 @@ These are all the clothes and armor you can craft.
 
 === "Hats"
 
-    |                               Item                               | Resources | Skill |
-    |:----------------------------------------------------------------:|:---------:|:-----:|
-    |       ![icon](../../assets/items/skullcap.png)<br>Skullcap       |  2 Cloth  |  0.0  |
-    |        ![icon](../../assets/items/bandana.png)<br>Bandana        |  2 Cloth  |  0.0  |
-    |     ![icon](../../assets/items/floppy-hat.png)<br>Floppy Hat     | 11 Cloth  |  6.2  |
-    |            ![icon](../../assets/items/cap.png)<br>Cap            | 11 Cloth  |  6.2  |
-    |  ![icon](../../assets/items/wide-brim-hat.png)<br>Wide-Brim Hat  | 12 Cloth  |  6.2  |
-    |      ![icon](../../assets/items/straw-hat.png)<br>Straw Hat      | 10 Cloth  |  6.2  |
-    | ![icon](../../assets/items/tall-straw-hat.png)<br>Tall Straw Hat | 12 Cloth  |  6.7  |
-    |     ![icon](../../assets/items/wizard-hat.png)<br>Wizard Hat     | 15 Cloth  |  7.2  |
-    |         ![icon](../../assets/items/bonnet.png)<br>Bonnet         | 11 Cloth  |  6.2  |
-    |  ![icon](../../assets/items/feathered-hat.png)<br>Feathered Hat  | 12 Cloth  |  6.2  |
-    |     ![icon](../../assets/items/tricorne-hat.png)<br>Tricorne     | 12 Cloth  |  6.2  |
-    |     ![icon](../../assets/items/jester-hat.png)<br>Jester Hat     | 15 Cloth  |  7.2  |
+    |                                   Item                                   |                     Resources                      | Skill |
+    |:------------------------------------------------------------------------:|:--------------------------------------------------:|:-----:|
+    |           ![icon](../../assets/items/skullcap.png)<br>Skullcap           |                      2 Cloth                       |  0.0  |
+    |            ![icon](../../assets/items/bandana.png)<br>Bandana            |                      2 Cloth                       |  0.0  |
+    |         ![icon](../../assets/items/floppy-hat.png)<br>Floppy Hat         |                      11 Cloth                      |  6.2  |
+    |                ![icon](../../assets/items/cap.png)<br>Cap                |                      11 Cloth                      |  6.2  |
+    |      ![icon](../../assets/items/wide-brim-hat.png)<br>Wide-Brim Hat      |                      12 Cloth                      |  6.2  |
+    |          ![icon](../../assets/items/straw-hat.png)<br>Straw Hat          |                      10 Cloth                      |  6.2  |
+    |     ![icon](../../assets/items/tall-straw-hat.png)<br>Tall Straw Hat     |                      12 Cloth                      |  6.7  |
+    |         ![icon](../../assets/items/wizard-hat.png)<br>Wizard Hat         |                      15 Cloth                      |  7.2  |
+    |             ![icon](../../assets/items/bonnet.png)<br>Bonnet             |                      11 Cloth                      |  6.2  |
+    |      ![icon](../../assets/items/feathered-hat.png)<br>Feathered Hat      |                      12 Cloth                      |  6.2  |
+    |         ![icon](../../assets/items/tricorne-hat.png)<br>Tricorne         |                      12 Cloth                      |  6.2  |
+    |         ![icon](../../assets/items/jester-hat.png)<br>Jester Hat         |                      15 Cloth                      |  7.2  |
+    |          ![icon](../../assets/items/bear-mask.png)<br>Bear Mask          |         6 Leather or Hides<br>1 Bear Head          | 80.0  |
+    |          ![icon](../../assets/items/deer-mask.png)<br>Deer Mask          |         6 Leather or Hides<br>1 Deer Head          | 80.0  |
+    | ![icon](../../assets/items/horned-tribal-mask.png)<br>Horned Tribal Mask | 6 Leather or Hides<br>3 Tribal Dyes<br>2 Goat Horn | 80.0  |
+    |        ![icon](../../assets/items/tribal-mask.png)<br>Tribal Mask        |        6 Leather or Hides<br>4 Tribal Dyes         | 80.0  |
 
 === "Bone Armor"
 
-    |                              Item                              |             Resources             | Skill |
-    |:--------------------------------------------------------------:|:---------------------------------:|:-----:|
-    |     ![icon](../../assets/items/bear-mask.png)<br>Bear Mask     | 6 Leather or Hides<br>1 Bear Head | 80.0  |
-    |     ![icon](../../assets/items/deer-mask.png)<br>Deer Mask     | 6 Leather or Hides<br>1 Deer Head | 80.0  |
-    |   ![icon](../../assets/items/bone-helmet.png)<br>Bone Helmet   |   4 Leather or Hides<br>2 Bones   | 85.0  |
-    |   ![icon](../../assets/items/bone-gloves.png)<br>Bone Gloves   |   6 Leather or Hides<br>2 Bones   | 89.0  |
-    |     ![icon](../../assets/items/bone-arms.png)<br>Bone Arms     |   8 Leather or Hides<br>4 Bones   | 92.0  |
-    | ![icon](../../assets/items/bone-leggings.png)<br>Bone Leggings |  10 Leather or Hides<br>6 Bones   | 95.0  |
-    |    ![icon](../../assets/items/bone-armor.png)<br>Bone Armor    |  12 Leather or Hides<br>10 Bones  | 96.0  |
+    |                              Item                              |            Resources            | Skill |
+    |:--------------------------------------------------------------:|:-------------------------------:|:-----:|
+    |   ![icon](../../assets/items/bone-helmet.png)<br>Bone Helmet   |  4 Leather or Hides<br>2 Bones  | 85.0  |
+    |   ![icon](../../assets/items/bone-gloves.png)<br>Bone Gloves   |  6 Leather or Hides<br>2 Bones  | 89.0  |
+    |     ![icon](../../assets/items/bone-arms.png)<br>Bone Arms     |  8 Leather or Hides<br>4 Bones  | 92.0  |
+    | ![icon](../../assets/items/bone-leggings.png)<br>Bone Leggings | 10 Leather or Hides<br>6 Bones  | 95.0  |
+    |    ![icon](../../assets/items/bone-armor.png)<br>Bone Armor    | 12 Leather or Hides<br>10 Bones | 96.0  |
 
 === "Shirts"
 
@@ -118,6 +120,21 @@ These are all the clothes and armor you can craft.
     |      ![icon](../../assets/items/studded-bustier.png)<br>Studded Bustier      | 8 Leather or Hides  | 82.9  |
     | ![icon](../../assets/items/female-leather-armor.png)<br>Female Leather Armor | 8 Leather or Hides  | 62.2  |
     |    ![icon](../../assets/items/studded-armor.png)<br>Female Studded Armor     | 10 Leather or Hides | 87.1  |
+
+### Mask materials
+
+In the Hats section you'll find all the craftable Masks.
+
+The Bear Head, Deer Head, and Goat Horns can be dropped from [Bonding Quest Pets](../../custom-systems/animal-bonding-quest.md).
+
+Tribal Dyes are obtained from Savages.
+
+|                              Creature                              |                         Material                         |
+|:------------------------------------------------------------------:|:--------------------------------------------------------:|
+| ![icon](../../assets/mobiles/ferocious-bear.png)<br>Ferocious Bear |  ![icon](../../assets/items/bear-head.png)<br>Bear Head  |
+|  ![icon](../../assets/mobiles/majestic-stag.png)<br>Majestic Stag  |  ![icon](../../assets/items/deer-head.png)<br>Deer Head  |
+|    ![icon](../../assets/mobiles/horned-goat.png)<br>Horned Goat    |  ![icon](../../assets/items/goat-horn.png)<br>Goat Horn  |
+|         ![icon](../../assets/mobiles/savage.png)<br>Savage         | ![icon](../../assets/items/tribal-dye.png)<br>Tribal Dye |
 
 ## Repair deed
 

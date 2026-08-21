@@ -30,6 +30,8 @@ Every time a pet spawns, it has a chance of being a rare.
 
 Since the spawn is shared, you will need to clear the area to force new pets to spawn.
 
+Most spawners aren't tied to a single creature type, so clearing just one kind of pet doesn't guarantee that the same type will respawn. It's always better to clear the entire area.
+
 Most Tamers use Tracking to help find these pets.
 
 |                                 Page one                                  |                             Page two                              |                           Page three                            |
@@ -46,6 +48,16 @@ Most Tamers use Tracking to help find these pets.
 |     ![icon](../assets/mobiles/blissful-bovine.png)<br>Blissful Bovine     |  ![icon](../assets/mobiles/ferocious-bear.png)<br>Ferocious Bear  | ![icon](../assets/mobiles/frosty-leopard.png)<br>Frosty Leopard |
 |      ![icon](../assets/mobiles/nightfall-wolf.png)<br>Nightfall Wolf      |   ![icon](../assets/mobiles/graceful-hind.png)<br>Graceful Hind   |  ![icon](../assets/mobiles/woodland-wolf.png)<br>Woodland Wolf  |
 |          ![icon](../assets/mobiles/dread-wolf.png)<br>Dread Wolf          |     ![icon](../assets/mobiles/noble-horse.png)<br>Noble Horse     |   ![icon](../assets/mobiles/ivory-walrus.png)<br>Ivory Walrus   |
+
+## Mask materials
+
+These pets drop mask materials when killed, which are used in tailoring to [Craft Masks](../skills/crafting/tailoring.md#__tabbed_1_1).
+
+|                               Pet                               |                      Material                       |
+|:---------------------------------------------------------------:|:---------------------------------------------------:|
+| ![icon](../assets/mobiles/ferocious-bear.png)<br>Ferocious Bear | ![icon](../assets/items/bear-head.png)<br>Bear Head |
+|  ![icon](../assets/mobiles/majestic-stag.png)<br>Majestic Stag  | ![icon](../assets/items/deer-head.png)<br>Deer Head |
+|    ![icon](../assets/mobiles/horned-goat.png)<br>Horned Goat    | ![icon](../assets/items/goat-horn.png)<br>Goat Horn |
 
 ## Related pages
 
