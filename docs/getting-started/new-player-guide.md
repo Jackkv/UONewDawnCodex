@@ -16,12 +16,18 @@ Here are some quick things that'll help right away. You'll pick up plenty more a
 
 - Horses can be tamed regardless of skill.
 - All players start with one bond slot. Feed the pet you want to bond, after the message "You begin bonding with your pet." appears, stable the pet for 24 hours and then feed it again to bond it. Bonded pets can recall with you.
+- You can resurrect your dead pet at any stable. Single‑click the Veterinarian NPC and select "Resurrect Pet."
 - There's no light filter, so the world looks (and feels) properly dark at night. Don't worry, you will get used to it in no time, you can buy Nightsight potions or use the Night Sight spell, they will last a long time.
 - Dungeons have a 50% skill boost gain, except for crafting skills.
+- When you set a skill pointing down it will decrease at the same time as you gain on a skill pointing up, you don't have to wait to be at skill cap to lower a skill.
 - Recall charges inside a runebook don't require magery.
 - You can't recall in or out of dungeons, instead, there are exit gates spread around.
+- Spellbooks can only be crafted.
+- Runebooks can be blessed using [Codex fragments](../custom-systems/codex-rifts.md#codex-fragments) and [Codex Bindings](../skills/crafting/alchemy.md#codex-binding).
+- To avoid unattended gathering, all resource gathering activities will trigger the AFK captcha gump.
 - Instead of Dex penalty when wearing armor, you instead lose stamina when taking melee damage, based on the armor you're wearing.
-- When you set a skill pointing down it will decrease at the same time as you gain on a skill pointing up, you don't have to wait to be at skill cap to lower a skill.
+
+For more information visit the [What's Different](whats-different.md) page.
 
 ## The Young Player Program
 
