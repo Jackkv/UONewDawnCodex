@@ -45,7 +45,20 @@ For more information visit the [Murder System](../game-mechanics/murder-system.m
 
 ## Smuggler
 
-You can buy
+You can find the Smuggler NPC in New Minoc at coordinates 2348, 200, under the stairs leading to the smuggling tunnel.
+
+Another Smuggler can be found near the Vesper Inn at coordinates 2824, 980.
+
+You can only buy from them during nighttime in‑game.
+
+The Smuggler has unlimited restock, but their prices are slightly higher.
+
+- 500 Reagents for 2.500 gold - 5 gold each instead of 3
+- 500 Arrows for 3.000 gold - 6 gold each instead of 5
+- 500 Bolts for 2.500 gold - 5 each same as regular vendor
+- 250 Bandages for 1.750 gold - 7 gold each instead of 5
+- 500 Blank Scrolls for 2.500 gold - 5 gold each instead of 3
+- 50 Empty Bottles for 350 gold - 7 gold each instead of 5
 
 ## Spells
 
