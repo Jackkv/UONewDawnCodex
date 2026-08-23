@@ -196,13 +196,13 @@ Defeating the boss will award Champion Tokens.
 
 === "Dragon Dyes"
 
-    |                                      Dragon Dyes                                      |              Hue               |                        On Red Preview                         |                        On Grey Preview                         |
-    |:-------------------------------------------------------------------------------------:|:------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------------:|
-    |       ![icon](../assets/items/blood-red-dragon-dye.png)<br>Blood Red Dragon Dye       | [2366](../hues/hue.md?id=2366) |    ![icon](../assets/mobiles/blood-red-dragon-dye-red.png)    |    ![icon](../assets/mobiles/blood-red-dragon-dye-grey.png)    |
-    |         ![icon](../assets/items/inferno-dragon-dye.png)<br>Inferno Dragon Dye         | [2087](../hues/hue.md?id=2087) |     ![icon](../assets/mobiles/inferno-dragon-dye-red.png)     |     ![icon](../assets/mobiles/inferno-dragon-dye-grey.png)     |
-    |     ![icon](../assets/items/purple-haze-dragon-dye.png)<br>Purple Haze Dragon Dye     | [2350](../hues/hue.md?id=2350) |   ![icon](../assets/mobiles/purple-haze-dragon-dye-red.png)   |   ![icon](../assets/mobiles/purple-haze-dragon-dye-grey.png)   |
-    |         ![icon](../assets/items/hot-red-dragon-dye.png)<br>Hot Red Dragon Dye         | [2380](../hues/hue.md?id=2380) |     ![icon](../assets/mobiles/hot-red-dragon-dye-red.png)     |     ![icon](../assets/mobiles/hot-red-dragon-dye-grey.png)     |
-    | ![icon](../assets/items/burnt-tangerine-dragon-dye.png)<br>Burnt Tangerine Dragon Dye | [2365](../hues/hue.md?id=2365) | ![icon](../assets/mobiles/burnt-tangerine-dragon-dye-red.png) | ![icon](../assets/mobiles/burnt-tangerine-dragon-dye-grey.png) |
+    |                                         Dragon Dyes                                          |              Hue               |                        On Red Preview                         |                        On Grey Preview                         |
+    |:--------------------------------------------------------------------------------------------:|:------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------------:|
+    |   ![icon](../assets/items/blood-red-dragon-dye.png)<br>Blood Red Dragon Dye<br>(Red Only)    | [2366](../hues/hue.md?id=2366) |    ![icon](../assets/mobiles/blood-red-dragon-dye-red.png)    |                               -                                |
+    |     ![icon](../assets/items/inferno-dragon-dye.png)<br>Inferno Dragon Dye<br>(Grey Only)     | [2087](../hues/hue.md?id=2087) |                               -                               |     ![icon](../assets/mobiles/inferno-dragon-dye-grey.png)     |
+    | ![icon](../assets/items/purple-haze-dragon-dye.png)<br>Purple Haze Dragon Dye<br>(Grey Only) | [2350](../hues/hue.md?id=2350) |                               -                               |   ![icon](../assets/mobiles/purple-haze-dragon-dye-grey.png)   |
+    |            ![icon](../assets/items/hot-red-dragon-dye.png)<br>Hot Red Dragon Dye             | [2380](../hues/hue.md?id=2380) |     ![icon](../assets/mobiles/hot-red-dragon-dye-red.png)     |     ![icon](../assets/mobiles/hot-red-dragon-dye-grey.png)     |
+    |    ![icon](../assets/items/burnt-tangerine-dragon-dye.png)<br>Burnt Tangerine Dragon Dye     | [2365](../hues/hue.md?id=2365) | ![icon](../assets/mobiles/burnt-tangerine-dragon-dye-red.png) | ![icon](../assets/mobiles/burnt-tangerine-dragon-dye-grey.png) |
 
 === "Ethereal Mounts"
 
