@@ -120,7 +120,7 @@ To craft a repair deed you will need a blank scroll, use your tool, click repair
 
 Runic Hammers are obtained through BOD rewards, the enchantments only apply to weapons.
 
-Any Weapon has a chance to be exceptional, adding +4 damage on top of its other effects.
+Any weapon has a chance to be exceptional, adding +4 damage on top of its other effects.
 
 |   Hammer    |                Prefixes/Suffixes                 |                       Effect                        |
 |:-----------:|:------------------------------------------------:|:---------------------------------------------------:|
