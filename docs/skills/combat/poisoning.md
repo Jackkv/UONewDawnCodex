@@ -1,4 +1,4 @@
-![Poisoning](../../assets/flags/flag-poisoning.gif){ align=right }
+![Poisoning](../../assets/flags/flag-poisoning.png){ align=right }
 
 # Poisoning
 
@@ -35,6 +35,14 @@ Every hits consumes one use, no matter if the poison is applied or not.
 | Greater Poison | 14   |
 | Deadly Poison  | 12   |
 
+## Poison spell
+
+When you attempt to cast poison on a mob, it will now consider your poison skill.
+
+At GM poisoning, you have a 50% chance to apply poison even if they're immune.
+
+It scales down from 50% (ie: at 55 poisoning, you have a 27.5% chance)
+
 ## Training
 
 Poisoning can be trained from Thief NPCs.
@@ -45,8 +53,6 @@ Poisoning can be trained from Thief NPCs.
 | 30 - 60  | Poison          |
 | 60 - 97  | Greater poison  |
 | 97 - 100 | Deadly poison   |
-
-While training this skill you can also gain Intelligence and Dexterity.
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

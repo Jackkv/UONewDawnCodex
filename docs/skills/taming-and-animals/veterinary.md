@@ -1,4 +1,4 @@
-![Veterinary](../../assets/flags/flag-veterinary.gif){ align=right }
+![Veterinary](../../assets/flags/flag-veterinary.png){ align=right }
 
 # Veterinary
 
@@ -17,8 +17,6 @@ Starting items if you choose this skill in character creation: Scissors, Bandage
 Train from Animal trainer NPCs to reach around 50.
 
 Have two horses fight each other while healing them with bandages until reaching 100.
-
-While training this skill you can also gain Intelligence and Dexterity.
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

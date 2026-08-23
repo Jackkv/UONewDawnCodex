@@ -1,4 +1,4 @@
-![Fishing](../../assets/flags/flag-fishing.gif){ align=right }
+![Fishing](../../assets/flags/flag-fishing.png){ align=right }
 
 # Fishing
 
@@ -26,7 +26,8 @@ This table shows what can be fished up.
     |  80   |                                                                ![icon](../../assets/items/truly-rare-fish.png)<br>Truly Rare Fish<br>+5 STR when eaten                                                                 |
     |  80   |                                                     ![icon](../../assets/items/highly-peculiar-fish.png)<br>Highly Peculiar Fish<br>Restores 10 stamina when eaten                                                     |
     |  90   |                                                           ![icon](../../assets/items/fish-1.png)<br>Big Fish<br>Shows weight, angler name and time of catch                                                            |
-    |  90   |                                                         ![icon](../../assets/mobiles/sea-serpent.png)<br>Sea Serpents, Deep Sea Serpents<br>Drop details below                                                         |
+    |  90   |                                                                  ![icon](../../assets/mobiles/sea-serpent.png)<br>Sea Serpents<br>Drop details below                                                                   |
+    |  90   |                                                             ![icon](../../assets/mobiles/deep-sea-serpent.png)<br>Deep Sea Serpents<br>Drop details below                                                              |
     |  100  |                                                         ![icon](../../assets/mobiles/ancient-sea-serpent.png)<br>Ancient Sea Serpents<br>They drop Pirate maps                                                         |
 
 === "Rare fishes"
@@ -79,7 +80,7 @@ To be able to fish, you need to equip a fishing pole in your hand and be on foot
 
 You can purchase a fishing pole from fisher vendors.
 
-Double click the pole and then the water.
+Double‑click the pole and then the water.
 
 ## Catch and release
 
@@ -128,7 +129,7 @@ You can use the Bottle of Extracted Ink on a Dye Tub to make a single use of pur
 
 You can loot a Message in a bottle from Sea Serpents and Deep Sea Serpents.
 
-Double click the bottle to reveal the Waterstained SOS, use the map to find the coordinates and fish up the treasure chest.
+double‑click the bottle to reveal the Waterstained SOS, use the map to find the coordinates and fish up the treasure chest.
 
 While trying to fish up the chest, you will also pull up random items such as bones, pillows, paintings and shells.
 
@@ -146,7 +147,7 @@ Pirate maps are dropped by Ancient Sea Serpents or found in Strongboxes dropped 
 
 You can only pull up two Ancient Sea Serpents a day for each account, after that limit you get a rare decoration item instead.
 
-For more information about Pirate maps go [here](../../custom-systems/pirate-adventures.md).
+For more information visit the [Pirate Adventures](../../custom-systems/pirate-adventures.md) page.
 
 ### Fishing rares
 
@@ -162,8 +163,6 @@ Train from Fisher NPCs to reach around 50.
 Repeatedly fish until reaching 100, while fishing on land monster can't spawn and the gains are the same as fishing in deep sea.
 
 Consider keeping the fish to also train cooking.
-
-While training this skill you can also gain Dexterity and Strength.
 
 While training this skill you can also gain Dexterity (primary) and Strength (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

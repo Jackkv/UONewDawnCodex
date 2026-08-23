@@ -1,43 +1,53 @@
 # Despise
 
-A beginner to mid-level dungeon filled with ogres, ettins, and lizardmen.
+## Dungeon Dye
 
-## Overview
+Monsters inside a dungeon have a rare chance to drop a [Dungeon Dye Material](../../custom-systems/dungeon-dyes.md), each dungeon has its own dye.
 
-Despise is an excellent dungeon for newer adventurers ready to move beyond basic hunting. Home to the Baracoon champion spawnIt features humanoid creatures and offers good experience.
+| Dye Material | Dye Name   | Hue                               |
+|--------------|------------|-----------------------------------|
+| Thorny Vine  | Envy Green | [2163](../../hues/hue.md?id=2163) |
 
-## Levels
+## Entrance
 
-### Level 1
+![image](../../assets/screenshots/despise-entrance.png)
 
-- **Creatures:** Lizardmen, ratmen, brigands
-- **Difficulty:** Easy
+Coordinates 1298, 1081.
 
-### Level 2
+## Level 1
 
-- **Creatures:** Ettins, earth elementals, trolls
-- **Difficulty:** Medium
+![image](../../assets/screenshots/despise-lvl-1.png)
 
-### Level 3
+|                           Mobs                           |                                                                  |                                                                |                                                              |
+|:--------------------------------------------------------:|:----------------------------------------------------------------:|:--------------------------------------------------------------:|:------------------------------------------------------------:|
+| ![icon](../../assets/mobiles/lizardman.png)<br>Lizardman |       ![icon](../../assets/mobiles/brigand.png)<br>Brigand       | ![icon](../../assets/mobiles/giant-spider.png)<br>Giant Spider | ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Snake |
+|    ![icon](../../assets/mobiles/ratman.png)<br>Ratman    | ![icon](../../assets/mobiles/ratman-archer.png)<br>Ratman Archer |  ![icon](../../assets/mobiles/ratman-mage.png)<br>Ratman Mage  |                                                              |
 
-- **Creatures:** Ogre lords, titans, cyclops, acid elementals, ettins, trolls
-- **Difficulty:** Hard
+## Level 2
 
-## Notable Features
+![image](../../assets/screenshots/despise-lvl-2.png)
 
-- Great for skill training
-- Popular for new players
-- Barracoon the Piper champion spawn
-- Ogre lord island
+Level 2 is the actual entrance. Going up takes you to Level 1, and going down takes you to Level 3.
 
-## Tips
+## Level 3
 
-!!! tip "Despise Strategy"
-    - Don't be intimidated to explore deeper levels
-    - Learn where the teleport sparkles lead
-    - Champion altar located on ogre lord island
-    - Good gold farm from ogre lords and titans
+![image](../../assets/screenshots/despise-lvl-3.png)
 
----
+|                       Mobs                       |                                                  |                                                                      |                                                                |                                                  |
+|:------------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------:|:------------------------------------------------:|
+| ![icon](../../assets/mobiles/ettin.png)<br>Ettin | ![icon](../../assets/mobiles/troll.png)<br>Troll | ![icon](../../assets/mobiles/earth-elemental.png)<br>Earth Elemental | ![icon](../../assets/mobiles/giant-spider.png)<br>Giant Spider | ![icon](../../assets/mobiles/slime.png)<br>Slime |
 
-**Turn the resentment of Despise to your gain!**
+## Level 4
+
+![image](../../assets/screenshots/despise-lvl-4.png)
+
+|                        Mobs                        |                                                                  |                                                              |                                                  |                                                                    |
+|:--------------------------------------------------:|:----------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------------------------:|
+|  ![icon](../../assets/mobiles/ettin.png)<br>Ettin  |          ![icon](../../assets/mobiles/ogre.png)<br>Ogre          |   ![icon](../../assets/mobiles/ogre-lord.png)<br>Ogre Lord   | ![icon](../../assets/mobiles/troll.png)<br>Troll | ![icon](../../assets/mobiles/acid-elemental.png)<br>Acid Elemental |
+| ![icon](../../assets/mobiles/ratman.png)<br>Ratman | ![icon](../../assets/mobiles/ratman-archer.png)<br>Ratman Archer | ![icon](../../assets/mobiles/ratman-mage.png)<br>Ratman Mage | ![icon](../../assets/mobiles/slime.png)<br>Slime |                                                                    |
+
+### Barracoon
+
+![image](../../assets/mobiles/barracoon.png)
+
+Despise is the home of the [Barracoon](../champions/barracoon.md) champion.

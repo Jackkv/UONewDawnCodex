@@ -1,4 +1,4 @@
-![Musicianship](../../assets/flags/flag-musicianship.gif){ align=right }
+![Musicianship](../../assets/flags/flag-musicianship.png){ align=right }
 
 # Musicianship
 
@@ -19,8 +19,6 @@ Train from Bard NPCs to reach around 50.
 Musicianship doesn't have any difficulty checks, keep playing instruments until you reach 100.
 
 To be more efficient, you can gain Musicianship while training other barding skills.
-
-While training this skill you can also gain Dexterity and Intelligence.
 
 While training this skill you can also gain Dexterity (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

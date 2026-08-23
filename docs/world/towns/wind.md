@@ -5,6 +5,8 @@ hide:
 
 # Wind - The Sealed Sanctum
 
+![image](../../assets/screenshots/wind-banner.png){ .right-img }
+
 As war's dark tide approached Britannia's shores, the reclusive mages of Wind took drastic steps to protect their isolated sanctuary. Already wary of outsiders, Wind's elders invoked powerful magics to seal off access to their mountainous domain.
 
 Behind newly fortified walls and illusory veils, Wind's residents carried on their scholarly pursuits undisturbed by the chaos engulfing surrounding lands. Supplies were rationed and rituals focused on maintaining the etheric barriers securing their community against invasion.

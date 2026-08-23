@@ -1,4 +1,4 @@
-![Tailoring](../../assets/flags/flag-tailoring.gif){ align=right }
+![Tailoring](../../assets/flags/flag-tailoring.png){ align=right }
 
 # Tailoring
 
@@ -18,32 +18,34 @@ These are all the clothes and armor you can craft.
 
 === "Hats"
 
-    |                               Item                               | Resources | Skill |
-    |:----------------------------------------------------------------:|:---------:|:-----:|
-    |       ![icon](../../assets/items/skullcap.png)<br>Skullcap       |  2 Cloth  |  0.0  |
-    |        ![icon](../../assets/items/bandana.png)<br>Bandana        |  2 Cloth  |  0.0  |
-    |     ![icon](../../assets/items/floppy-hat.png)<br>Floppy Hat     | 11 Cloth  |  6.2  |
-    |            ![icon](../../assets/items/cap.png)<br>Cap            | 11 Cloth  |  6.2  |
-    |  ![icon](../../assets/items/wide-brim-hat.png)<br>Wide-Brim Hat  | 12 Cloth  |  6.2  |
-    |      ![icon](../../assets/items/straw-hat.png)<br>Straw Hat      | 10 Cloth  |  6.2  |
-    | ![icon](../../assets/items/tall-straw-hat.png)<br>Tall Straw Hat | 12 Cloth  |  6.7  |
-    |     ![icon](../../assets/items/wizard-hat.png)<br>Wizard Hat     | 15 Cloth  |  7.2  |
-    |         ![icon](../../assets/items/bonnet.png)<br>Bonnet         | 11 Cloth  |  6.2  |
-    |  ![icon](../../assets/items/feathered-hat.png)<br>Feathered Hat  | 12 Cloth  |  6.2  |
-    |     ![icon](../../assets/items/tricorne-hat.png)<br>Tricorne     | 12 Cloth  |  6.2  |
-    |     ![icon](../../assets/items/jester-hat.png)<br>Jester Hat     | 15 Cloth  |  7.2  |
+    |                                   Item                                   |                     Resources                      | Skill |
+    |:------------------------------------------------------------------------:|:--------------------------------------------------:|:-----:|
+    |           ![icon](../../assets/items/skullcap.png)<br>Skullcap           |                      2 Cloth                       |  0.0  |
+    |            ![icon](../../assets/items/bandana.png)<br>Bandana            |                      2 Cloth                       |  0.0  |
+    |         ![icon](../../assets/items/floppy-hat.png)<br>Floppy Hat         |                      11 Cloth                      |  6.2  |
+    |                ![icon](../../assets/items/cap.png)<br>Cap                |                      11 Cloth                      |  6.2  |
+    |      ![icon](../../assets/items/wide-brim-hat.png)<br>Wide-Brim Hat      |                      12 Cloth                      |  6.2  |
+    |          ![icon](../../assets/items/straw-hat.png)<br>Straw Hat          |                      10 Cloth                      |  6.2  |
+    |     ![icon](../../assets/items/tall-straw-hat.png)<br>Tall Straw Hat     |                      12 Cloth                      |  6.7  |
+    |         ![icon](../../assets/items/wizard-hat.png)<br>Wizard Hat         |                      15 Cloth                      |  7.2  |
+    |             ![icon](../../assets/items/bonnet.png)<br>Bonnet             |                      11 Cloth                      |  6.2  |
+    |      ![icon](../../assets/items/feathered-hat.png)<br>Feathered Hat      |                      12 Cloth                      |  6.2  |
+    |         ![icon](../../assets/items/tricorne-hat.png)<br>Tricorne         |                      12 Cloth                      |  6.2  |
+    |         ![icon](../../assets/items/jester-hat.png)<br>Jester Hat         |                      15 Cloth                      |  7.2  |
+    |          ![icon](../../assets/items/bear-mask.png)<br>Bear Mask          |         6 Leather or Hides<br>1 Bear Head          | 80.0  |
+    |          ![icon](../../assets/items/deer-mask.png)<br>Deer Mask          |         6 Leather or Hides<br>1 Deer Head          | 80.0  |
+    | ![icon](../../assets/items/horned-tribal-mask.png)<br>Horned Tribal Mask | 6 Leather or Hides<br>3 Tribal Dyes<br>2 Goat Horn | 80.0  |
+    |        ![icon](../../assets/items/tribal-mask.png)<br>Tribal Mask        |        6 Leather or Hides<br>4 Tribal Dyes         | 80.0  |
 
 === "Bone Armor"
 
-    |                              Item                              |             Resources             | Skill |
-    |:--------------------------------------------------------------:|:---------------------------------:|:-----:|
-    |     ![icon](../../assets/items/bear-mask.png)<br>Bear Mask     | 6 Leather or Hides<br>1 Bear Head | 80.0  |
-    |     ![icon](../../assets/items/deer-mask.png)<br>Deer Mask     | 6 Leather or Hides<br>1 Deer Head | 80.0  |
-    |   ![icon](../../assets/items/bone-helmet.png)<br>Bone Helmet   |   4 Leather or Hides<br>2 Bones   | 85.0  |
-    |   ![icon](../../assets/items/bone-gloves.png)<br>Bone Gloves   |   6 Leather or Hides<br>2 Bones   | 89.0  |
-    |     ![icon](../../assets/items/bone-arms.png)<br>Bone Arms     |   8 Leather or Hides<br>4 Bones   | 92.0  |
-    | ![icon](../../assets/items/bone-leggings.png)<br>Bone Leggings |  10 Leather or Hides<br>6 Bones   | 95.0  |
-    |    ![icon](../../assets/items/bone-armor.png)<br>Bone Armor    |  12 Leather or Hides<br>10 Bones  | 96.0  |
+    |                              Item                              |            Resources            | Skill |
+    |:--------------------------------------------------------------:|:-------------------------------:|:-----:|
+    |   ![icon](../../assets/items/bone-helmet.png)<br>Bone Helmet   |  4 Leather or Hides<br>2 Bones  | 85.0  |
+    |   ![icon](../../assets/items/bone-gloves.png)<br>Bone Gloves   |  6 Leather or Hides<br>2 Bones  | 89.0  |
+    |     ![icon](../../assets/items/bone-arms.png)<br>Bone Arms     |  8 Leather or Hides<br>4 Bones  | 92.0  |
+    | ![icon](../../assets/items/bone-leggings.png)<br>Bone Leggings | 10 Leather or Hides<br>6 Bones  | 95.0  |
+    |    ![icon](../../assets/items/bone-armor.png)<br>Bone Armor    | 12 Leather or Hides<br>10 Bones | 96.0  |
 
 === "Shirts"
 
@@ -119,13 +121,28 @@ These are all the clothes and armor you can craft.
     | ![icon](../../assets/items/female-leather-armor.png)<br>Female Leather Armor | 8 Leather or Hides  | 62.2  |
     |    ![icon](../../assets/items/studded-armor.png)<br>Female Studded Armor     | 10 Leather or Hides | 87.1  |
 
+### Mask materials
+
+In the Hats section you'll find all the craftable Masks.
+
+The Bear Head, Deer Head, and Goat Horns can be dropped from [Bonding Quest Pets](../../custom-systems/animal-bonding-quest.md).
+
+Tribal Dyes are obtained from Savages.
+
+|                              Creature                              |                         Material                         |
+|:------------------------------------------------------------------:|:--------------------------------------------------------:|
+| ![icon](../../assets/mobiles/ferocious-bear.png)<br>Ferocious Bear |  ![icon](../../assets/items/bear-head.png)<br>Bear Head  |
+|  ![icon](../../assets/mobiles/majestic-stag.png)<br>Majestic Stag  |  ![icon](../../assets/items/deer-head.png)<br>Deer Head  |
+|    ![icon](../../assets/mobiles/horned-goat.png)<br>Horned Goat    |  ![icon](../../assets/items/goat-horn.png)<br>Goat Horn  |
+|         ![icon](../../assets/mobiles/savage.png)<br>Savage         | ![icon](../../assets/items/tribal-dye.png)<br>Tribal Dye |
+
 ## Repair deed
 
 To craft a repair deed you will need a blank scroll, use your tool, click repair and target the scroll.
 
 ## Making cloth
 
-You can gather Cotton and Flax from plants by double clicking them, you can also gather Wool by using a dagger on a sheep.
+You can gather Cotton and Flax from plants by double‑clicking them, you can also gather Wool by using a dagger on a sheep.
 
 After gathering the resources, you can use them on a Spinning Wheel to get Spools of Thread and Balls of Yarn to then use on a Loom and get Bolts of Cloth.
 
@@ -160,64 +177,89 @@ This list shows which animal and monster drop specific leather.
 
 === "Normal"
 
-    |                               Animal                               | Yield |
-    |:------------------------------------------------------------------:|:-----:|
-    |            ![icon](../../assets/mobiles/cat.png)<br>Cat            |   1   |
-    |        ![icon](../../assets/mobiles/gorilla.png)<br>Gorilla        |   1   |
-    |   ![icon](../../assets/mobiles/snow-leopard.png)<br>Snow Leopard   |   1   |
-    |     ![icon](../../assets/mobiles/polar-bear.png)<br>Polar Bear     |   3   |
-    |         ![icon](../../assets/mobiles/rabbit.png)<br>Rabbit         |   4   |
-    |      ![icon](../../assets/mobiles/grey-wolf.png)<br>Grey Wolf      |   6   |
-    |     ![icon](../../assets/mobiles/white-wolf.png)<br>White Wolf     |   6   |
-    |           ![icon](../../assets/mobiles/goat.png)<br>Goat           |   8   |
-    |           ![icon](../../assets/mobiles/hind.png)<br>Hind           |   8   |
-    |         ![icon](../../assets/mobiles/cougar.png)<br>Cougar         |  10   |
-    |          ![icon](../../assets/mobiles/horse.png)<br>Horse          |  10   |
-    |     ![icon](../../assets/mobiles/pack-horse.png)<br>Pack Horse     |  10   |
-    |        ![icon](../../assets/mobiles/cougar.png)<br>Panther         |  10   |
-    |     ![icon](../../assets/mobiles/black-bear.png)<br>Black Bear     |  12   |
-    |     ![icon](../../assets/mobiles/brown-bear.png)<br>Brown Bear     |  12   |
-    |            ![icon](../../assets/mobiles/cow.png)<br>Cow            |  12   |
-    | ![icon](../../assets/mobiles/llama.png)<br>Llama<br>Rideable Llama |  12   |
-    |      ![icon](../../assets/mobiles/goat.png)<br>Mountain Goat       |  12   |
-    |         ![icon](../../assets/mobiles/walrus.png)<br>Walrus         |  12   |
-    |           ![icon](../../assets/mobiles/bull.png)<br>Bull           |  15   |
-    |     ![icon](../../assets/mobiles/great-hart.png)<br>Great Hart     |  15   |
-    |    ![icon](../../assets/mobiles/brown-bear.png)<br>Grizzly Bear    |  16   |
+|                                Animal                                | Yield |
+|:--------------------------------------------------------------------:|:-----:|
+|     ![icon](../../assets/mobiles/jack-rabbit.png)<br>Jack Rabbit     |   1   |
+|          ![icon](../../assets/mobiles/rabbit.png)<br>Rabbit          |   1   |
+|       ![icon](../../assets/mobiles/bull-frog.png)<br>Bull Frog       |   4   |
+|     ![icon](../../assets/mobiles/timber-wolf.png)<br>Timber Wolf     |   5   |
+|         ![icon](../../assets/mobiles/bogling.png)<br>Bogling         |   6   |
+|       ![icon](../../assets/mobiles/giant-rat.png)<br>Giant Rat       |   6   |
+|         ![icon](../../assets/mobiles/gorilla.png)<br>Gorilla         |   6   |
+| ![icon](../../assets/mobiles/greater-mongbat.png)<br>Greater Mongbat |   6   |
+|       ![icon](../../assets/mobiles/grey-wolf.png)<br>Grey Wolf       |   6   |
+|      ![icon](../../assets/mobiles/white-wolf.png)<br>White Wolf      |   6   |
+|            ![icon](../../assets/mobiles/goat.png)<br>Goat            |   8   |
+|            ![icon](../../assets/mobiles/hind.png)<br>Hind            |   8   |
+|    ![icon](../../assets/mobiles/snow-leopard.png)<br>Snow Leopard    |   8   |
+|          ![icon](../../assets/mobiles/cougar.png)<br>Cougar          |  10   |
+|           ![icon](../../assets/mobiles/horse.png)<br>Horse           |  10   |
+|      ![icon](../../assets/mobiles/pack-horse.png)<br>Pack Horse      |  10   |
+|         ![icon](../../assets/mobiles/panther.png)<br>Panther         |  10   |
+|      ![icon](../../assets/mobiles/black-bear.png)<br>Black Bear      |  12   |
+|      ![icon](../../assets/mobiles/brown-bear.png)<br>Brown Bear      |  12   |
+|             ![icon](../../assets/mobiles/cow.png)<br>Cow             |  12   |
+|           ![icon](../../assets/mobiles/llama.png)<br>Llama           |  12   |
+|   ![icon](../../assets/mobiles/mountain-goat.png)<br>Mountain Goat   |  12   |
+|   ![icon](../../assets/mobiles/ridable-llama.png)<br>Ridable Llama   |  12   |
+|          ![icon](../../assets/mobiles/walrus.png)<br>Walrus          |  12   |
+|            ![icon](../../assets/mobiles/bull.png)<br>Bull            |  15   |
+|      ![icon](../../assets/mobiles/great-hart.png)<br>Great Hart      |  15   |
+|    ![icon](../../assets/mobiles/grizzly-bear.png)<br>Grizzly Bear    |  16   |
+|      ![icon](../../assets/mobiles/polar-bear.png)<br>Polar Bear      |  16   |
 
 === "Spined"
 
     |                                 Monster                                  | Yield |
     |:------------------------------------------------------------------------:|:-----:|
-    |         ![icon](../../assets/mobiles/dire-wolf.png)<br>Dire Wolf         |   6   |
+    |         ![icon](../../assets/mobiles/dire-wolf.png)<br>Dire Wolf         |   7   |
     |               ![icon](../../assets/mobiles/imp.png)<br>Imp               |   6   |
+    |           ![icon](../../assets/mobiles/centaur.png)<br>Centaur           |   8   |
     |            ![icon](../../assets/mobiles/ratman.png)<br>Ratman            |   8   |
+    |     ![icon](../../assets/mobiles/ratman-archer.png)<br>Ratman Archer     |   8   |
+    |       ![icon](../../assets/mobiles/ratman-mage.png)<br>Ratman Mage       |   8   |
     |           ![icon](../../assets/mobiles/hellcat.png)<br>Hellcat           |  10   |
     |         ![icon](../../assets/mobiles/alligator.png)<br>Alligator         |  12   |
     |        ![icon](../../assets/mobiles/giant-toad.png)<br>Giant Toad        |  12   |
     |         ![icon](../../assets/mobiles/lizardman.png)<br>Lizardman         |  12   |
-    |       ![icon](../../assets/mobiles/lava-lizard.png)<br>Lava Lizard       |  14   |
+    |       ![icon](../../assets/mobiles/lava-lizard.png)<br>Lava Lizard       |  12   |
     | ![icon](../../assets/mobiles/giant-ice-serpent.png)<br>Giant Ice Serpent |  15   |
-    |     ![icon](../../assets/mobiles/giant-serpent.png)<br>Giant Serpent     |  15   |
+    |       ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Snake       |  15   |
     |      ![icon](../../assets/mobiles/lava-serpent.png)<br>Lava Serpent      |  15   |
 
 === "Horned"
 
-    |                                     Monster                                      | Yield |
-    |:--------------------------------------------------------------------------------:|:-----:|
-    | ![icon](../../assets/mobiles/sea-serpent.png)<br>Sea Serpent<br>Deep Sea Serpent |  10   |
-    |                 ![icon](../../assets/mobiles/drake.png)<br>Drake                 |  20   |
-    |                ![icon](../../assets/mobiles/wyvern.png)<br>Wyvern                |  20   |
+    |                              Monster                              | Yield |
+    |:-----------------------------------------------------------------:|:-----:|
+    | ![icon](../../assets/mobiles/sea-serpent.png)<br>Deep Sea Serpent |  10   |
+    |        ![icon](../../assets/mobiles/ki-rin.png)<br>Ki-rin         |  10   |
+    |       ![icon](../../assets/mobiles/unicorn.png)<br>Unicorn        |  10   |
+    |         ![icon](../../assets/mobiles/drake.png)<br>Drake          |  20   |
+    |        ![icon](../../assets/mobiles/wyvern.png)<br>Wyvern         |  20   |
 
 === "Barbed"
 
-    |                            Monster                             | Yield |
-    |:--------------------------------------------------------------:|:-----:|
-    |    ![icon](../../assets/mobiles/nightmare.png)<br>Nightmare    |  10   |
-    | ![icon](../../assets/mobiles/ancient-wyrm.png)<br>Ancient Wyrm |  20   |
-    |       ![icon](../../assets/mobiles/dragon.png)<br>Dragon       |  20   |
-    |  ![icon](../../assets/mobiles/shadow-wyrm.png)<br>Shadow Wyrm  |  20   |
-    |   ![icon](../../assets/mobiles/white-wyrm.png)<br>White Wyrm   |  20   |
+    |                                 Monster                                  | Yield |
+    |:------------------------------------------------------------------------:|:-----:|
+    |         ![icon](../../assets/mobiles/nightmare.png)<br>Nightmare         |  10   |
+    |            ![icon](../../assets/mobiles/dragon.png)<br>Dragon            |  20   |
+    |       ![icon](../../assets/mobiles/shadow-wyrm.png)<br>Shadow Wyrm       |  20   |
+    |        ![icon](../../assets/mobiles/white-wyrm.png)<br>White Wyrm        |  20   |
+    | ![icon](../../assets/mobiles/serpentine-dragon.png)<br>Serpentine Dragon |  20   |
+    |   ![icon](../../assets/mobiles/skeletal-dragon.png)<br>Skeletal Dragon   |  20   |
+    |      ![icon](../../assets/mobiles/ancient-wyrm.png)<br>Ancient Wyrm      |  40   |
+
+## Tailor Dye Kit
+
+The Tailor Dye Kit is used with [Dungeon Dye](../../custom-systems/dungeon-dyes.md) materials to craft dyes.
+
+To purchase one, you must first join the Tailor guild. You can join by using the command `[NPC name] join` and paying a fee of 5.000 gold to a Grandmaster Tailor NPC.
+
+Once you're a member and a GM Tailor, you can obtain the Tailor Dye Kit by giving 10.000 gold to a Grandmaster Tailor NPC.
+
+## Tailoring kits
+
+Tailoring kits are obtained through BOD rewards ([650 points](#tailoring-deco)), they can be used to check the durability of an item.
 
 ## Bulk order deeds
 
@@ -230,7 +272,7 @@ The BOD 6-hour time limit applies to your whole account.
 ### Cloth BOD Rewards
 
 | Points |                Rewards                |
-| :----: | :-----------------------------------: |
+|:------:|:-------------------------------------:|
 |   0    |         Cloth (Tier 5) (100%)         |
 |   50   |         Cloth (Tier 4) (100%)         |
 |  100   |         Cloth (Tier 3) (100%)         |
@@ -240,7 +282,7 @@ The BOD 6-hour time limit applies to your whole account.
 #### BOD Cloth Hues by Tier
 
 | Cloth Tier |     Available Hues     |
-| :--------: | :--------------------: |
+|:----------:|:----------------------:|
 |   Tier 5   | 1155, 1758, 2013, 2004 |
 |   Tier 4   | 1104, 1160, 2016, 1126 |
 |   Tier 3   | 2133, 2146, 1140, 1173 |
@@ -253,28 +295,28 @@ Available sandal hues: 1243, 1321, 1207, 1352, 1534, 1416, 1505, 1621
 
 ### BOD Rewards
 
-| Points |                                 Rewards                                 |
-| :----: | :---------------------------------------------------------------------: |
-|  300   |                   Stretched Hide (random of 4) (100%)                   |
-|  350   |                      Ore Mask Dye (Tier 3) (100%)                       |
-|  400   |                      Tapestry (random of 4) (100%)                      |
+| Points |                                    Rewards                                     |
+|:------:|:------------------------------------------------------------------------------:|
+|  300   |                      Stretched Hide (random of 4) (100%)                       |
+|  350   |                          Ore Mask Dye (Tier 3) (100%)                          |
+|  400   |                         Tapestry (random of 4) (100%)                          |
 |  450   | Bear Rug, Tapestry (random of 4), Ore Mask Dye (Tier 3), Stretched Hide (100%) |
-|  500   |                  Tailoring Shelf (random of 4) (100%)                   |
-|  550   |      Clothing Bless Deed (CBD) (80%)<br>Sandals (mask dyes) (20%)       |
-|  600   |         Ore Mask Dye (Tier 2) (80%)<br>Mask Dye (type 2) (20%)          |
-|  650   |                    Tailoring Deco (see note) (100%)                     |
-|  700   |         Ore Mask Dye (Tier 1) (80%)<br>Mask Dye (type 1) (20%)          |
-|  750   |                   Master Tailoring Apron (+5) (100%)                    |
-|  800   |                Grandmaster Tailoring Apron (+10) (100%)                 |
+|  500   |                      Tailoring Shelf (random of 4) (100%)                      |
+|  550   |          Clothing Bless Deed (CBD) (80%)<br>Sandals (mask dyes) (20%)          |
+|  600   |             Ore Mask Dye (Tier 2) (80%)<br>Mask Dye (type 2) (20%)             |
+|  650   |                        Tailoring Deco (see note) (100%)                        |
+|  700   |             Ore Mask Dye (Tier 1) (80%)<br>Mask Dye (type 1) (20%)             |
+|  750   |                       Master Tailoring Apron (+5) (100%)                       |
+|  800   |                    Grandmaster Tailoring Apron (+10) (100%)                    |
 
 #### Tailoring Deco
 
-You have a 50% chance to roll 1 of 4 hanging clothes. The other 50% will roll 1 of 2 tailoring kids.
+You have a 50% chance to roll 1 of 4 hanging clothes. The other 50% will roll 1 of 2 tailoring kits.
 
 #### Ore Mask Dyes
 
 | Tier |  Ore Type   | Hue ID |
-| :--: | :---------: | -----: |
+|:----:|:-----------:|-------:|
 |  1   | Shadow Iron |   2406 |
 |  1   |    Gold     |   2413 |
 |  1   |  Valorite   |   2219 |
@@ -293,7 +335,7 @@ Available regular mask dye hues: 1109, 1157, 1321, 1243, 1416, 1207, 1505
 Consider cutting what you craft to recoup some of the materials.
 
 | Skill       | Item            |
-| ----------- | --------------- |
+|-------------|-----------------|
 | 0 - 30      | Train from NPCs |
 | 30.0 - 49.8 | Fancy Shirt     |
 | 49.8 - 52.0 | Skirt           |

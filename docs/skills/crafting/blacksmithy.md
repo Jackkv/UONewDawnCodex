@@ -1,4 +1,4 @@
-![Blacksmithy](../../assets/flags/flag-blacksmithy.gif){ align=right }
+![Blacksmithy](../../assets/flags/flag-blacksmithy.png){ align=right }
 
 # Blacksmithy
 
@@ -116,6 +116,23 @@ These are all the weapons and armor you can craft.
 
 To craft a repair deed you will need a blank scroll, use your tool, click repair and target the scroll.
 
+## Runic hammers
+
+Runic Hammers are obtained through BOD rewards, the enchantments only apply to weapons.
+
+Any weapon has a chance to be exceptional, adding +4 damage on top of its other effects.
+
+|   Hammer    |                Prefixes/Suffixes                 |                       Effect                        |
+|:-----------:|:------------------------------------------------:|:---------------------------------------------------:|
+| Dull Copper |                 Durable Accurate                 |        +10 to item Health<br>+5.0 to Tactics        |
+|   Shadow    |                 Durable of Ruin                  |           +10 to item Health<br>+1 damage           |
+|   Copper    |     Fortified Surpassingly Accurate of Ruin      | +40 to item Health<br>+10.0 to Tactics<br>+1 damage |
+|   Bronze    |     Fortified Surpassingly Accurate of Might     | +40 to item Health<br>+10.0 to Tactics<br>+3 damage |
+|    Gold     |    Indestructible Eminently Accurate of Force    | +50 to item Health<br>+15.0 to Tactics<br>+5 damage |
+|   Agapite   |    Indestructible Eminently Accurate of Power    | +50 to item Health<br>+15.0 to Tactics<br>+7 damage |
+|   Verite    |   Indestructible Exceedingly Accurate of Power   | +50 to item Health<br>+20.0 to Tactics<br>+7 damage |
+|  Valorite   | Indestructible Supremely Accurate of Vanquishing | +50 to item Health<br>+25.0 to Tactics<br>+9 damage |
+
 ## Bulk order deeds
 
 A minimum skill of 70.1 (real) is required to get a BOD.
@@ -141,12 +158,12 @@ The BOD 6-hour time limit applies to your whole account.
 |  650   |                      Random Blacksmith Case (1 of 4) (100%)                       |
 |  675   |                               Colored Anvil (100%)                                |
 |  700   |                                        TBD                                        |
-|  750   |                            Ancient Hammer (+5) (100%)                             |
-|  850   |                            Ancient Hammer (+10) (100%)                            |
+|  750   |                            Ancient Hammer (+2) (100%)                             |
+|  850   |                            Ancient Hammer (+5) (100%)                             |
 |  950   |                            Runic Hammer (Gold) (100%)                             |
-|  1000  |                            Ancient Hammer (+15) (100%)                            |
+|  1000  |                            Ancient Hammer (+8) (100%)                             |
 |  1050  |                           Runic Hammer (Agapite) (100%)                           |
-|  1100  |                            Ancient Hammer (+20) (100%)                            |
+|  1100  |                            Ancient Hammer (+10) (100%)                            |
 |  1150  |                           Runic Hammer (Verite) (100%)                            |
 |  1200  |                          Runic Hammer (Valorite) (100%)                           |
 
@@ -162,8 +179,6 @@ Training Blacksmithy can be really expensive, consider Mining to fund the traini
 | 70 - 86    | Short spear      |
 | 86 - 94.5  | Platemail gorget |
 | 94.5 - 100 | Platemail gloves |
-
-While training this skill you can also gain Strength and Dexterity.
 
 While training this skill you can also gain Strength (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

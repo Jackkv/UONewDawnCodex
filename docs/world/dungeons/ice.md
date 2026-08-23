@@ -1,44 +1,41 @@
 # Ice
 
-A frozen dungeon featuring frigid enemies and treasure hunter's rewards.
+## Dungeon Dye
 
-## Overview
+Monsters inside a dungeon have a rare chance to drop a [Dungeon Dye Material](../../custom-systems/dungeon-dyes.md), each dungeon has its own dye.
 
-Ice is a popular dungeon located far to the west of New Minoc, known for its frozen innhabitants. It challenges the most skilled adventurers.
+| Dye Material   | Dye Name     | Hue                               |
+|----------------|--------------|-----------------------------------|
+| Glacial Shards | Glacial Blue | [2579](../../hues/hue.md?id=2579) |
 
-## Levels
+## Entrance
 
-### Level 1
+![image](../../assets/screenshots/ice-entrance.png)
 
-- **Creatures:** Arctic ogre lords, white wyrm, snow elementals, ice elementals, giant ice serpents, ratmen, frost trolls
-- **Difficulty:** Hard
+Coordinates 1998, 81.
 
-### Level 2
+## Level 1
 
-- **Creatures:** Ratmen, ratmen mages, ratmen archers
-- **Difficulty:** Very hard
+![image](../../assets/screenshots/ice-lvl-1.png)
 
-### Level 3
+|                                Mobs                                |                                                                    |                                                                          |                                                              |                                                                  |
+|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------------:|:------------------------------------------------------------:|:----------------------------------------------------------------:|
+|     ![icon](../../assets/mobiles/white-wyrm.png)<br>White Wyrm     | ![icon](../../assets/mobiles/acid-elemental.png)<br>Acid Elemental |  ![icon](../../assets/mobiles/arctic-ogre-lord.png)<br>Arctic Ogre Lord  | ![icon](../../assets/mobiles/frost-troll.png)<br>Frost Troll | ![icon](../../assets/mobiles/ice-elemental.png)<br>Ice Elemental |
+| ![icon](../../assets/mobiles/snow-elemental.png)<br>Snow Elemental |   ![icon](../../assets/mobiles/frost-spider.png)<br>Frost Spider   | ![icon](../../assets/mobiles/giant-ice-serpent.png)<br>Giant Ice Serpent |  ![icon](../../assets/mobiles/frost-ooze.png)<br>Frost Ooze  |     ![icon](../../assets/mobiles/ice-snake.png)<br>Ice Snake     |
+|         ![icon](../../assets/mobiles/ratman.png)<br>Ratman         |  ![icon](../../assets/mobiles/ratman-archer.png)<br>Ratman Archer  |       ![icon](../../assets/mobiles/ratman-mage.png)<br>Ratman Mage       |                                                              |                                                                  |
 
-- **Creatures:** Ice fiends, evil mage lords
-- **Difficulty:** Very hard
+## Level 2
 
-## Notable Features
+![image](../../assets/screenshots/ice-lvl-2.png)
 
-- Located in the far north of Britannia 
-- Good gold farming
-- Mix of creature types
-- Relatively small
-- Treasure chest spawns
+|                        Mobs                        |                                                                  |                                                              |
+|:--------------------------------------------------:|:----------------------------------------------------------------:|:------------------------------------------------------------:|
+| ![icon](../../assets/mobiles/ratman.png)<br>Ratman | ![icon](../../assets/mobiles/ratman-archer.png)<br>Ratman Archer | ![icon](../../assets/mobiles/ratman-mage.png)<br>Ratman Mage |
 
-## Tips
+## Level 3
 
-!!! tip "Ice Strategy"
-    - Excellent for bard farming
-    - Glacial staff rare drop from giant ice serpents
-    - Only white wyrm spawn
-    - Watch for PKs
+![image](../../assets/screenshots/ice-lvl-3.png)
 
----
-
-**Thaw the frigid foes of Ice!**
+|                           Mobs                           |                                                          |                                                                    |
+|:--------------------------------------------------------:|:--------------------------------------------------------:|:------------------------------------------------------------------:|
+| ![icon](../../assets/mobiles/ice-fiend.png)<br>Ice Fiend | ![icon](../../assets/mobiles/evil-mage.png)<br>Evil Mage | ![icon](../../assets/mobiles/evil-mage-lord.png)<br>Evil Mage Lord |

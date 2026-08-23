@@ -1,4 +1,4 @@
-![Meditation](../../assets/flags/flag-meditation.gif){ align=right }
+![Meditation](../../assets/flags/flag-meditation.png){ align=right }
 
 # Meditation
 
@@ -21,8 +21,6 @@ Train from Mage NPCs to reach around 50.
 In order to gain skill points you need to regenerate mana, you can consume mana by either casting spells or by equipping and un-quipping a magical wizard hat. You can gain points with passive regen or you can try to use Meditation when your are not at full mana.
 
 When training Magery you will also naturally gain Meditation too.
-
-While training this skill you can also gain Intelligence and Dexterity.
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

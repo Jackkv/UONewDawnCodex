@@ -1,4 +1,4 @@
-![Resisting Spells](../../assets/flags/flag-resisting-spells.gif){ align=right }
+![Resisting Spells](../../assets/flags/flag-resisting-spells.png){ align=right }
 
 # Resisting Spells
 
@@ -36,7 +36,7 @@ The damage calculation is:
 
 `(Base Spell Damage - 50% [if Resisted]) + Eval Intelligence Damage Modifier`
 
-- First, the resist chance is applied, if you resist the spell, the base damage is reduced by 50%.
+- First, the resist chance is applied, if you resist the spell, the base damage is reduced by 50% (33% in PvP).
 
 - Next, the Eval Int modifier is applied, if the attacker has no Evaluating Intelligence, it reduces the damage by an additional 50%.
 
@@ -65,8 +65,6 @@ You can train Resisting Spells, Magery, Meditation and Healing at the same time.
 | 55 - 60  | Lighting         |
 | 60 - 82  | Energy Bolt      |
 | 82 - 100 | Flamestrike      |
-
-While training this skill you can also gain Intelligence and Dexterity.
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

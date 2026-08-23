@@ -1,4 +1,4 @@
-![Fencing](../../assets/flags/flag-fencing.gif){ align=right }
+![Fencing](../../assets/flags/flag-fencing.png){ align=right }
 
 # Fencing
 
@@ -53,8 +53,6 @@ To gain you will need to repeatedly attack a target.
 To be more efficient have two characters fight using Healing and Anatomy on each other, this way you can train Healing, Anatomy and Tactics at the same time.
 
 Have the target equip high amor rating and a weapon they have 0 skill with, hit them until you reach 81, then switch the target weapon with one they are GM with and continue until 100.
-
-While training this skill you can also gain Dexterity and Strength.
 
 While training this skill you can also gain Dexterity (primary) and Strength (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

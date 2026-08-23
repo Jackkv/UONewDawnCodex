@@ -1,4 +1,4 @@
-![Item Identification](../../assets/flags/flag-item-identification.gif){ align=right }
+![Item Identification](../../assets/flags/flag-item-identification.png){ align=right }
 
 # Item Identification
 

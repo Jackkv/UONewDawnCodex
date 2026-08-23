@@ -1,4 +1,4 @@
-![Begging](../../assets/flags/flag-begging.gif){ align=right }
+![Begging](../../assets/flags/flag-begging.png){ align=right }
 
 # Begging
 
@@ -11,6 +11,8 @@ Begging negatively affects your karma.
 Starting items if you choose this skill in character creation: Gnarled Staff.
 
 ## Training
+
+Train from Begging child NPCs (3714, 2509) to reach around 50.
 
 Repeatedly beg NPCs until reaching 100.
 

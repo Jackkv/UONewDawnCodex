@@ -1,4 +1,4 @@
-![Inscription](../../assets/flags/flag-inscription.gif){ align=right }
+![Inscription](../../assets/flags/flag-inscription.png){ align=right }
 
 # Inscription
 
@@ -103,8 +103,6 @@ Inscription i'snt just for scrolls, you can copy books too. Just target the comp
 | 30 - 50  | Copy books      |
 | 50 - 75  | Invisibility    |
 | 75 - 100 | Gate Travel     |
-
-While training this skill you can also gain Intelligence and Dexterity.
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

@@ -1,4 +1,4 @@
-![Parrying](../../assets/flags/flag-parrying.gif){ align=right }
+![Parrying](../../assets/flags/flag-parrying.png){ align=right }
 
 # Parrying
 
@@ -89,7 +89,7 @@ This table shows the Armor Rating for each shield type.
 
 ## Shield Bash
 
-Double click on your shield to activate the Shield Bash ability.
+Double‑click on your shield to activate the Shield Bash ability.
 
 If active when you get hit, you will be able to absorb Fire Breath damage.
 
@@ -106,8 +106,6 @@ If active when you get hit by a melee attack, you will stun the opponent.
 Parrying is hard to train because you will only gain when taking damage, it works best if trained while having a low combat skill as you get hit more often.
 
 Gain is based on base damage before armor reduction, getting hit by multiple monsters increases gain speed.
-
-While training this skill you can also gain Strength and Dexterity.
 
 While training this skill you can also gain Strength (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

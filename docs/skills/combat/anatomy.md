@@ -1,4 +1,4 @@
-![Anatomy](../../assets/flags/flag-anatomy.gif){ align=right }
+![Anatomy](../../assets/flags/flag-anatomy.png){ align=right }
 
 # Anatomy
 
@@ -23,8 +23,6 @@ Train from Healer NPCs to reach around 50.
 Anatomy can be used on a 1 second cooldown, it doesn't have any difficulty checks.
 
 You can train by using it on players, monsters, and animals until you reach 100.
-
-While training this skill you can also gain Strength and Intelligence.
 
 While training this skill you can also gain Strength (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

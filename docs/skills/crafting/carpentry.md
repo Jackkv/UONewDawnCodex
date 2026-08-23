@@ -1,4 +1,4 @@
-![Carpentry](../../assets/flags/flag-carpentry.gif){ align=right }
+![Carpentry](../../assets/flags/flag-carpentry.png){ align=right }
 
 # Carpentry
 
@@ -28,24 +28,26 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Furniture"
 
-    |                                   Item                                   |            Resources             | Dyeable |              Skill               |
-    |:------------------------------------------------------------------------:|:--------------------------------:|:-------:|:--------------------------------:|
-    |         ![icon](../../assets/items/foot-stool.png)<br>Foot Stool         |         9 Boards or Logs         |   yes   |          11.0 Carpentry          |
-    |              ![icon](../../assets/items/stool.png)<br>Stool              |         9 Boards or Logs         |   yes   |          11.0 Carpentry          |
-    |        ![icon](../../assets/items/straw-chair.png)<br>Straw Chair        |        13 Boards or Logs         |   yes   |          21.0 Carpentry          |
-    |       ![icon](../../assets/items/wooden-chair.png)<br>Wooden Chair       |        13 Boards or Logs         |   yes   |          21.0 Carpentry          |
-    |    ![icon](../../assets/items/vesper-chair.png)<br>Vesper Style Chair    |        15 Boards or Logs         |   yes   |          42.1 Carpentry          |
-    |   ![icon](../../assets/items/trinsic-chair.png)<br>Trinsic Style Chair   |        15 Boards or Logs         |   yes   |          42.1 Carpentry          |
-    |       ![icon](../../assets/items/wooden-bench.png)<br>Wooden Bench       |        17 Boards or Logs         |   yes   |          52.6 Carpentry          |
-    |      ![icon](../../assets/items/wooden-throne.png)<br>Wooden Throne      |        17 Boards or Logs         |   yes   |          52.6 Carpentry          |
-    | ![icon](../../assets/items/magincia-throne.png)<br>Magincia Style Throne |        19 Boards or Logs         |   yes   |          73.6 Carpentry          |
-    |        ![icon](../../assets/items/small-table.png)<br>Small Table        |        17 Boards or Logs         |   yes   |          42.1 Carpentry          |
-    |      ![icon](../../assets/items/writing-table.png)<br>Writing Table      |        17 Boards or Logs         |   yes   |          63.1 Carpentry          |
-    |        ![icon](../../assets/items/large-table.png)<br>Large Table        |        23 Boards or Logs         |   yes   |          63.1 Carpentry          |
-    |     ![icon](../../assets/items/yew-wood-table.png)<br>Yew-Wood Table     |        27 Boards or Logs         |   yes   |          84.2 Carpentry          |
-    |            ![icon](../../assets/items/counter.png)<br>Counter            |        22 Boards or Logs         |   no    |          84.2 Carpentry          |
-    |    ![icon](../../assets/items/counter-purple.png)<br>Counter (Purple)    | 22 Oak Boards or Logs<br>5 Cloth |   no    | 88.6 Carpentry<br>84.2 Tailoring |
-    |     ![icon](../../assets/items/counter-green.png)<br>Counter (Green)     | 22 Oak Boards or Logs<br>5 Cloth |   no    | 88.6 Carpentry<br>84.2 Tailoring |
+    |                                        Item                                        |            Resources             | Dyeable |              Skill               |
+    |:----------------------------------------------------------------------------------:|:--------------------------------:|:-------:|:--------------------------------:|
+    |              ![icon](../../assets/items/foot-stool.png)<br>Foot Stool              |         9 Boards or Logs         |   yes   |          11.0 Carpentry          |
+    |                   ![icon](../../assets/items/stool.png)<br>Stool                   |         9 Boards or Logs         |   yes   |          11.0 Carpentry          |
+    |             ![icon](../../assets/items/straw-chair.png)<br>Straw Chair             |        13 Boards or Logs         |   yes   |          21.0 Carpentry          |
+    |            ![icon](../../assets/items/wooden-chair.png)<br>Wooden Chair            |        13 Boards or Logs         |   yes   |          21.0 Carpentry          |
+    |         ![icon](../../assets/items/vesper-chair.png)<br>Vesper Style Chair         |        15 Boards or Logs         |   yes   |          42.1 Carpentry          |
+    |        ![icon](../../assets/items/trinsic-chair.png)<br>Trinsic Style Chair        |        15 Boards or Logs         |   yes   |          42.1 Carpentry          |
+    |            ![icon](../../assets/items/wooden-bench.png)<br>Wooden Bench            |        17 Boards or Logs         |   yes   |          52.6 Carpentry          |
+    |           ![icon](../../assets/items/wooden-throne.png)<br>Wooden Throne           |        17 Boards or Logs         |   yes   |          52.6 Carpentry          |
+    |      ![icon](../../assets/items/magincia-throne.png)<br>Magincia Style Throne      |        19 Boards or Logs         |   yes   |          73.6 Carpentry          |
+    |             ![icon](../../assets/items/small-table.png)<br>Small Table             |        17 Boards or Logs         |   yes   |          42.1 Carpentry          |
+    |           ![icon](../../assets/items/writing-table.png)<br>Writing Table           |        17 Boards or Logs         |   yes   |          63.1 Carpentry          |
+    |             ![icon](../../assets/items/large-table.png)<br>Large Table             |        23 Boards or Logs         |   yes   |          63.1 Carpentry          |
+    |          ![icon](../../assets/items/yew-wood-table.png)<br>Yew-Wood Table          |        27 Boards or Logs         |   yes   |          84.2 Carpentry          |
+    |                 ![icon](../../assets/items/counter.png)<br>Counter                 |      22 Oak Boards or Logs       |   no    |          84.2 Carpentry          |
+    |        ![icon](../../assets/items/counter-top-only.png)<br>Counter Top Only        |      22 Oak Boards or Logs       |   no    |          84.2 Carpentry          |
+    |         ![icon](../../assets/items/counter-purple.png)<br>Counter (Purple)         | 22 Oak Boards or Logs<br>5 Cloth |   no    | 88.6 Carpentry<br>84.2 Tailoring |
+    |          ![icon](../../assets/items/counter-green.png)<br>Counter (Green)          | 22 Oak Boards or Logs<br>5 Cloth |   no    | 88.6 Carpentry<br>84.2 Tailoring |
+    | ![icon](../../assets/items/counter-top-only-green.png)<br>Counter Top Only (Green) | 22 Oak Boards or Logs<br>5 Cloth |   no    | 88.6 Carpentry<br>84.2 Tailoring |
 
 === "Containers"
 
@@ -84,17 +86,19 @@ These are all of the furniture, containers, instruments etc. you can craft.
 
 === "Misc. Add-Ons"
 
-    |                                 Item                                  |            Resources            | Dyeable |              Skill               |
-    |:---------------------------------------------------------------------:|:-------------------------------:|:-------:|:--------------------------------:|
-    | ![icon](../../assets/items/small-bed-south.png)<br>Small Bed (south)  | 100 Boards or Logs<br>100 Cloth |   no    | 94.7 Carpentry<br>75.0 Tailoring |
-    |  ![icon](../../assets/items/small-bed-east.png)<br>Small Bed (east)   | 100 Boards or Logs<br>100 Cloth |   no    | 94.7 Carpentry<br>75.0 Tailoring |
-    | ![icon](../../assets/items/large-bed-south.png)<br>Large Bed (south)  | 150 Boards or Logs<br>150 Cloth |   no    | 94.7 Carpentry<br>75.0 Tailoring |
-    |  ![icon](../../assets/items/large-bed-east.png)<br>Large Bed  (east)  | 150 Boards or Logs<br>150 Cloth |   no    | 94.7 Carpentry<br>75.0 Tailoring |
-    | ![icon](../../assets/items/dartboard-south.png)<br>Dart Board (south) |        5 Boards or Logs         |   no    |          15.7 Carpentry          |
-    |  ![icon](../../assets/items/dartboard-east.png)<br>Dart Board (east)  |        5 Boards or Logs         |   no    |          15.7 Carpentry          |
-    |       ![icon](../../assets/items/ballot-box.png)<br>Ballot Box        |        10 Boards or Logs        |   no    |          47.3 Carpentry          |
-    |        ![icon](../../assets/items/pentagram.png)<br>Pentagram         | 100 Boards or Logs<br>40 Ingots |   no    |  100.0 Carpentry<br>75.0 Magery  |
-    |         ![icon](../../assets/items/abattoir.png)<br>Abattoir          | 100 Boards or Logs<br>40 Ingots |   no    |  100.0 Carpentry<br>50.0 Magery  |
+    |                                    Item                                    |             Resources             | Dyeable |              Skill               |
+    |:--------------------------------------------------------------------------:|:---------------------------------:|:-------:|:--------------------------------:|
+    |    ![icon](../../assets/items/small-bed-south.png)<br>Small Bed (south)    |  100 Boards or Logs<br>100 Cloth  |   no    | 94.7 Carpentry<br>75.0 Tailoring |
+    |     ![icon](../../assets/items/small-bed-east.png)<br>Small Bed (east)     |  100 Boards or Logs<br>100 Cloth  |   no    | 94.7 Carpentry<br>75.0 Tailoring |
+    |    ![icon](../../assets/items/large-bed-south.png)<br>Large Bed (south)    |  150 Boards or Logs<br>150 Cloth  |   no    | 94.7 Carpentry<br>75.0 Tailoring |
+    |    ![icon](../../assets/items/large-bed-east.png)<br>Large Bed  (east)     |  150 Boards or Logs<br>150 Cloth  |   no    | 94.7 Carpentry<br>75.0 Tailoring |
+    |   ![icon](../../assets/items/dartboard-south.png)<br>Dart Board (south)    |         5 Boards or Logs          |   no    |          15.7 Carpentry          |
+    |    ![icon](../../assets/items/dartboard-east.png)<br>Dart Board (east)     |         5 Boards or Logs          |   no    |          15.7 Carpentry          |
+    |          ![icon](../../assets/items/ballot-box.png)<br>Ballot Box          |         10 Boards or Logs         |   no    |          47.3 Carpentry          |
+    |           ![icon](../../assets/items/pentagram.png)<br>Pentagram           |  100 Boards or Logs<br>40 Ingots  |   no    |  100.0 Carpentry<br>75.0 Magery  |
+    |            ![icon](../../assets/items/abattoir.png)<br>Abattoir            |  100 Boards or Logs<br>40 Ingots  |   no    |  100.0 Carpentry<br>50.0 Magery  |
+    |        ![icon](../../assets/items/water-barrel.png)<br>Water Barrel        | 5 Barrel Staves<br>2 Barrel Hoops |   no    |          57.8 Carpentry          |
+    | ![icon](../../assets/items/water-barrel-short.png)<br>Water Barrel (short) | 3 Barrel Staves<br>1 Barrel Hoops |   no    |          57.8 Carpentry          |
 
 === "Blacksmithing"
 
@@ -136,6 +140,82 @@ These are all of the furniture, containers, instruments etc. you can craft.
     |  ![icon](../../assets/items/water-trough-east.png)<br>Water Trough (east)  |       150 Boards or Logs        |   no    |          94.7 Carpentry          |
     | ![icon](../../assets/items/water-trough-south.png)<br>Water Trough (south) |       150 Boards or Logs        |   no    |          94.7 Carpentry          |
 
+## Runic saws
+
+Runic Saws are obtained through BOD rewards, the enchantments only apply to weapons.
+
+!!! warning
+    Section under construction.
+
+## Masonry
+
+To learn Masonry, you will need the Masonry book and the four missing pages.
+
+The Masonry book can be purchased from the Stone Crafter NPC in Occlo (3675, 2544).
+
+The missing pages can be looted from Stone, Sandstone and Marble Elementals, which can spawn when using a [Gargoyle Pickaxe](../resource-gathering/mining.md#gargoyle-pickaxe).
+
+Once learned, Masonry allows you to use the Mallet and Chisel tool, available from the Stone Crafter NPC.
+
+### Materials
+
+Most items crafted with Masonry retain the color of the stone used.
+
+#### Types of stone
+
+Stones can be gathered with [Mining](../resource-gathering/mining.md#types-of-stone), but the ability must be learned first.
+
+The book Mining for Quality Stone is available from the Stone Crafter NPC.
+
+You can choose to mine for stone and ore by single-clicking your mining tool.
+
+|                                 Stone                                  |                Hue                |
+|:----------------------------------------------------------------------:|:---------------------------------:|
+|             ![icon](../../assets/items/stone.png)<br>Stone             |                 -                 |
+| ![icon](../../assets/items/dull-copper-stone.png)<br>Dull Copper Stone | [2419](../../hues/hue.md?id=2419) |
+|      ![icon](../../assets/items/shadow-stone.png)<br>Shadow Stone      | [2406](../../hues/hue.md?id=2406) |
+|      ![icon](../../assets/items/copper-stone.png)<br>Copper Stone      | [2413](../../hues/hue.md?id=2413) |
+|      ![icon](../../assets/items/bronze-stone.png)<br>Bronze Stone      | [2418](../../hues/hue.md?id=2418) |
+|      ![icon](../../assets/items/golden-stone.png)<br>Golden Stone      | [2213](../../hues/hue.md?id=2213) |
+|     ![icon](../../assets/items/agapite-stone.png)<br>Agapite Stone     | [2425](../../hues/hue.md?id=2425) |
+|      ![icon](../../assets/items/verite-stone.png)<br>Verite Stone      | [2207](../../hues/hue.md?id=2207) |
+|    ![icon](../../assets/items/valorite-stone.png)<br>Valorite Stone    | [2219](../../hues/hue.md?id=2219) |
+
+#### Stone blocks
+
+Stone Blocks can be looted from Stone, Sandstone and Marble Elementals, which can spawn when using a [Gargoyle Pickaxe](../resource-gathering/mining.md#gargoyle-pickaxe).
+
+|                            Stone Block                             |
+|:------------------------------------------------------------------:|
+|     ![icon](../../assets/items/stone-block.png)<br>Stone Block     |
+| ![icon](../../assets/items/sandstone-block.png)<br>Sandstone Block |
+|    ![icon](../../assets/items/marble-block.png)<br>Marble Block    |
+
+### Masonry crafting
+
+=== "Decorations"
+
+    |    Item    |          Resources           | Retains Color | Skill |
+    |:----------:|:----------------------------:|:-------------:|:-----:|
+    |    Vase    |           1 Stones           |      yes      | 52.5  |
+    | Large Vase |           3 Stones           |      yes      | 52.5  |
+    |  Fountain  | 100 Stones<br>4 Stone Blocks |      no       | 75.0  |
+
+=== "Furniture"
+
+    |              Item              |           Resources            | Retains Color | Skill |
+    |:------------------------------:|:------------------------------:|:-------------:|:-----:|
+    |          Stone Chair           |   4 Stones<br>1 Stone Blocks   |      yes      | 55.0  |
+    |          Stone Bench           |   6 Stones<br>1 Stone Blocks   |      yes      | 65.0  |
+    |   Medium Stone Table (east)    |   6 Stones<br>2 Stone Blocks   |      yes      | 65.0  |
+    |   Medium Stone Table (south)   |   6 Stones<br>2 Stone Blocks   |      yes      | 65.0  |
+    | Medium Sandstone Table (east)  | 6 Stones<br>2 Sandstone Blocks |      yes      | 65.0  |
+    | Medium Sandstone Table (south) | 6 Stones<br>2 Sandstone Blocks |      yes      | 65.0  |
+    | Medium Sandstone Table (east)  | 6 Stones<br>2 Sandstone Blocks |      yes      | 65.0  |
+    | Medium Sandstone Table (south) | 6 Stones<br>2 Sandstone Blocks |      yes      | 65.0  |
+    |   Medium Marble Table (east)   |  9 Stones<br>3 Marble Blocks   |      yes      | 75.0  |
+    |  Medium Marble Table (south)   |  9 Stones<br>3 Marble Blocks   |      yes      | 75.0  |
+
 ## Bulk order deeds
 
 A minimum skill of 70.1 (real) is required to get a BOD.
@@ -147,7 +227,7 @@ The BOD 6-hour time limit applies to your whole account.
 ### BOD Rewards
 
 | Points |                                                                                Rewards                                                                                |
-| :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |   0    |                                                                   Sturdy Dovetail Saw (180) (100%)                                                                    |
 |   50   |                                                                   Sturdy Dovetail Saw (220) (100%)                                                                    |
 |  100   |                                                                Sturdy Lumberjack Axe (250 uses) (100%)                                                                |
@@ -167,15 +247,13 @@ The BOD 6-hour time limit applies to your whole account.
 Consider Lumberjacking to fund the training.
 
 | Skill       | Item            |
-| ----------- | --------------- |
+|-------------|-----------------|
 | 0 - 30      | Train from NPCs |
 | 30 - 47.3   | Medium Crate    |
 | 47.3 - 71.1 | Ballot Box      |
 | 71.1 - 75   | Fishing Pole    |
 | 75 - 87     | Quarter Staff   |
 | 87 - 100    | Gnarled Staff   |
-
-While training this skill you can also gain Strength and Dexterity.
 
 While training this skill you can also gain Strength (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
@@ -187,3 +265,4 @@ While training this skill you can also gain Strength (primary) and Dexterity (se
 - [Tinkering](../crafting/tinkering.md)
 - [Musicianship](../bard-skills/musicianship.md)
 - [Magery](../magic/magery.md)
+- [Mining](../resource-gathering/mining.md)

@@ -1,4 +1,4 @@
-![Alchemy](../../assets/flags/flag-alchemy.gif){ align=right }
+![Alchemy](../../assets/flags/flag-alchemy.png){ align=right }
 
 # Alchemy
 
@@ -90,7 +90,7 @@ Arcane ink can be purchased from the Codex Scholar at the Moonglow scribes (150,
 
 ### Codex fragments
 
-Codex fragments can be obtained from rift encounters.
+Codex fragments can be obtained inside [Codex Rifts](../../custom-systems/codex-rifts.md).
 
 ## Potion kegs
 
@@ -98,7 +98,7 @@ Potion kegs can be crafted by a Carpenter.
 
 To fill a Potion keg, drag a filled potion into it.. all the crafted potions of the same type will automatically be put into the keg until it's full.
 
-To use the Potion keg, have an empty bottle and double click the keg, the empty potion will be filled.
+To use the Potion keg, have an empty bottle and double‑click the keg, the empty potion will be filled.
 
 ## Explosion potions bonus
 
@@ -114,8 +114,6 @@ Alchemy is often trained alongside Poisoning.
 | 30 - 60  | Poison          |
 | 60 - 97  | Greater Poison  |
 | 97 - 100 | Deadly Poison   |
-
-While training this skill you can also gain Intelligence and Dexterity.
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

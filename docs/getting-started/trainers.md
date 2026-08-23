@@ -5,13 +5,6 @@ hide:
 
 # Ocllo Skill Trainers
 
-> **Town:** Ocllo  
-> **Last Updated:** 2026-03-14  
-> **Coverage:** 48 / 49 skills placed
-
-!!! note "Trainer Coverage"
-    48 of 49 skill trainers have been located (98%).
-
 | Skill                   | Coordinates | Notes                                              |
 |-------------------------|-------------|----------------------------------------------------|
 | Alchemy                 | 3627, 2543  | Sorcerer's Guild near south gate                   |
@@ -20,7 +13,7 @@ hide:
 | Item Identification     | 3605, 2507  | Radiant Reality & Gems west side of town           |
 | Arms Lore               | 3646, 2468  | Blacksmith & Armory north side next to graveyard   |
 | Parrying                | 3646, 2468  | Steelcraft Armory north side next to graveyard     |
-| Begging                 | -           | -                                                  |
+| Begging                 | 3714, 2509  | Occlo main entrance                                |
 | Blacksmithy             | 3646, 2468  | Hammer & Steel Smithy north side next to graveyard |
 | Bowcraft/Fletching      | 3710, 2525  | The Bowyer's Mark southeast of Bank, near butcher  |
 | Peacemaking             | 3686, 2477  | First Academy of Music north of the Bank           |

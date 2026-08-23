@@ -1,39 +1,35 @@
 # Wrong
 
-A treacherous dungeon featuring depraved beings and dangerous murderers.
+## Dungeon Dye
 
-## Overview
+Monsters inside a dungeon have a rare chance to drop a [Dungeon Dye Material](../../custom-systems/dungeon-dyes.md), each dungeon has its own dye.
 
-Wrong is a vile dungeon located to the west of New Minoc, known as a den of murderers and their monster companions. Its simple layout is suited to less experienced adventurers.
+| Dye Material   | Dye Name      | Hue                               |
+|----------------|---------------|-----------------------------------|
+| Ironweight Ore | Judgment Blue | [2154](../../hues/hue.md?id=2154) |
 
-## Levels
+## Entrance
 
-### Level 1
+![image](../../assets/screenshots/wrong-entrance.png)
 
-- **Creatures:** Lizardmen, trolls, brigands
-- **Difficulty:** Easy
+Coordinates 2042, 217.
 
-### Level 2
+## Level 1
 
-- **Creatures:** Executioners, ettins, brigands
-- **Difficulty:** Hard
+![image](../../assets/screenshots/wrong-lvl-1.png)
 
-## Notable Features
+|                       Mobs                       |                                                  |                                                  |                                                          |                                                      |
+|:------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------:|:----------------------------------------------------:|
+| ![icon](../../assets/mobiles/ettin.png)<br>Ettin | ![icon](../../assets/mobiles/harpy.png)<br>Harpy | ![icon](../../assets/mobiles/troll.png)<br>Troll | ![icon](../../assets/mobiles/lizardman.png)<br>Lizardman | ![icon](../../assets/mobiles/brigand.png)<br>Brigand |
 
-- West of New Minoc
-- Evil executioners
-- Features humanoids of various types
-- Relatively small
-- Dangerous traps
+## Level 2
 
-## Tips
+![image](../../assets/screenshots/wrong-lvl-2.png)
 
-!!! tip "Wrong Strategy"
-    - Excellent for summoner farming
-    - Executioners deal extremely high melee damage
-    - Be wary of traps, especially in the executioners room
-    - Look out for hidden doors 
+|                       Mobs                       |                                                  |                                                      |                                                              |
+|:------------------------------------------------:|:------------------------------------------------:|:----------------------------------------------------:|:------------------------------------------------------------:|
+| ![icon](../../assets/mobiles/ettin.png)<br>Ettin | ![icon](../../assets/mobiles/troll.png)<br>Troll | ![icon](../../assets/mobiles/brigand.png)<br>Brigand | ![icon](../../assets/mobiles/executioner.png)<br>Executioner |
 
----
+## Level 3
 
-**Purify those lost souls who chose Wrong!**
+![image](../../assets/screenshots/wrong-lvl-3.png)

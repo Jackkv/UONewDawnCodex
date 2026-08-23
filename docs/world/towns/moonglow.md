@@ -5,6 +5,8 @@ hide:
 
 # Moonglow: The Transformation of the Lycaeum
 
+![image](../../assets/screenshots/moonglow-banner.png){ .right-img }
+
 In the aftermath of the grueling conflict against the Shadowlords, Moonglow found itself in a precarious state of recovery when unsettling rumors began to circulate. Whispers of an imminent gargoyle invasion reached the city, sending waves of concern through its weary inhabitants. As the gravity of the situation unfolded, a crucial decision had to be made.
 
 Amidst the chaos, a division arose among the mages of Moonglow. While some choose to seek refuge in the safety of Wind, a steadfast group remained behind, their loyalty anchored to their beloved city. Determined to protect what remained of their home, they guided the remaining citizens toward the formidable walls of the Lycaeum, a revered institution of knowledge.

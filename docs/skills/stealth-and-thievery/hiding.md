@@ -1,4 +1,4 @@
-![Hiding](../../assets/flags/flag-hiding.gif){ align=right }
+![Hiding](../../assets/flags/flag-hiding.png){ align=right }
 
 # Hiding
 
@@ -51,8 +51,6 @@ After the base chance is calculated, is then also reduced based on the distance 
 Train from Thief NPCs to reach around 50.
 
 Repeatedly Hide until reaching 100.
-
-While training this skill you can also gain Dexterity and Intelligence.
 
 While training this skill you can also gain Dexterity (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

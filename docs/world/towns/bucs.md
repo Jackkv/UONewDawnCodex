@@ -5,6 +5,8 @@ hide:
 
 # The Infamous Alliance: Pirates and Gargoyles in Buccaneer's Den
 
+![image](../../assets/screenshots/bucs-banner.png){ .right-img }
+
 Situated on a remote island off the coast of Britannia, Buccaneer's Den stands as a testament to an era of lawlessness and chaos. This notorious haven for pirates and criminals emerged as a result of a dark alliance forged during the tumultuous days of the gargoyles' invasion.
 
 In the early stages of the conflict, the pirates of Buccaneer's Den found themselves enticed by the gargoyles' offer of unrestricted access to their formidable fleet of ships. Eager to bolster their own maritime power and exploit the vulnerability of island towns, the pirates eagerly accepted the alliance. In return for the use of the gargoyles' vessels, the pirates were promised a share of the spoils looted from the besieged towns.

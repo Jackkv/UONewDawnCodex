@@ -1,4 +1,4 @@
-![Evaluating Intelligence](../../assets/flags/flag-evaluate-intelligence.gif){ align=right }
+![Evaluating Intelligence](../../assets/flags/flag-evaluate-intelligence.png){ align=right }
 
 # Evaluating Intelligence
 
@@ -34,8 +34,6 @@ Train from Mage NPCs to reach around 50.
 Evaluating Intelligence can be used on a 1 second cooldown, it doesn't have difficulty checks.
 
 You can train by using it on players, monsters, and animals until you reach 100. You also gain by casting any spell.
-
-While training this skill you can also gain Intelligence and Dexterity.
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

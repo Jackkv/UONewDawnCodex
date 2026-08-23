@@ -1,4 +1,4 @@
-![Detecting Hidden](../../assets/flags/flag-detecting-hidden.gif){ align=right }
+![Detecting Hidden](../../assets/flags/flag-detecting-hidden.png){ align=right }
 
 # Detecting Hidden
 
@@ -45,8 +45,6 @@ Repeatedly use the skill on yourself until reaching 100.
 For faster gains, when at 50, you can reveal multiple trapped containers around you instead.
 
 Each time a container is revealed, it counts as a use of the skill, revealing multiple containers counts as multiple skill uses at once.
-
-While training this skill you can also gain Intelligence and Dexterity.
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

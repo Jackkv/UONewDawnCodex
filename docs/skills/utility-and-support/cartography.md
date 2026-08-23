@@ -1,4 +1,4 @@
-![Cartography](../../assets/flags/flag-cartography.gif){ align=right }
+![Cartography](../../assets/flags/flag-cartography.png){ align=right }
 
 # Cartography
 
@@ -16,7 +16,7 @@ Use the skill on a blank map to choose its scale. Higher skill allows larger sca
 
 ## Decoding treasure maps
 
-Double click the map you want to decode, if you can decode it, you will receive a map with a pin marking the treasure location within 30 tiles.
+Double‑click the map you want to decode, if you can decode it, you will receive a map with a pin marking the treasure location within 30 tiles.
 
 ## Deciphering clues
 
@@ -24,7 +24,7 @@ Double click the map you want to decode, if you can decode it, you will receive 
 
 It also gives you +10% artifact chance at 100.
 
-For more information about Archaeology go [here](../../custom-systems/archaeology.md).
+For more information visit the [Archaeology](../../custom-systems/archaeology.md) page
 
 ## Training
 

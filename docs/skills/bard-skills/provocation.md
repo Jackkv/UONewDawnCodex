@@ -1,4 +1,4 @@
-![Provocation](../../assets/flags/flag-provocation.gif){ align=right }
+![Provocation](../../assets/flags/flag-provocation.png){ align=right }
 
 # Provocation
 
@@ -29,8 +29,6 @@ Train from Bard NPCs to reach around 50.
 Provocation is a difficulty based skill. Some creatures are harder to provoke than others, depending on their barding difficulty.
 
 To be more efficient, you can gain Provocation and Musicianship at the same time.
-
-While training this skill you can also gain Intelligence and Dexterity.
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

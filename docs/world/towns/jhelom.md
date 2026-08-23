@@ -5,6 +5,8 @@ hide:
 
 # Jhelom: The Citadel of Valor, Embraced by Nature's Veil
 
+![image](../../assets/screenshots/jhelom-banner.png){ .right-img }
+
 Deep within the Valorian Isles, lies the renowned town of Jhelom. A testament to bravery and martial prowess, Jhelom has long been a sanctuary for warriors, scholars of valor, and those in search of respite. Enclosed by a formidable wooden wall, the town stands as a bastion of strength, its defenses warding off the encroaching perils of the world.
 
 In the face of the relentless gargoyle invasion, Jhelom distinguished itself as one of the three cities in Britannia to withstand the relentless storm that raged for a grueling 25 years. The key to its resilience lay in the valiant efforts of its defenders and the protective embrace of its imposing wooden fortifications.

@@ -1,4 +1,4 @@
-![Healing](../../assets/flags/flag-healing.gif){ align=right }
+![Healing](../../assets/flags/flag-healing.png){ align=right }
 
 # Healing
 
@@ -69,8 +69,6 @@ Healing or curing others is faster than healing yourself, to be more efficient c
 | 30 - 60  | Heal damage                                                                                                |
 | 60 - 80  | Cure poison                                                                                                |
 | 80 - 100 | Resurrect :material-information-outline:{ title="Resurrecting is slower than curing someone else poison" } |
-
-While training this skill you can also gain Intelligence and Dexterity.
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

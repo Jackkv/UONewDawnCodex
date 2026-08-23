@@ -3,19 +3,19 @@
 Slayers are magical bonuses on weapons and instruments that boost their power against specific enemy types. Weapons deal extra damage, while instruments gain higher success rates for bard abilities.
 
 !!! tip
-    Slayer weapons deal double damage against their target creature type. Each slayer belongs to a **group** — the **super slayer** covers the whole group, while **sub-slayers** target a narrower subset within it.
+    Slayer weapons deal double damage against their target creature type. Each slayer belongs to a **group** — the **super slayer** covers the whole group, while **minor slayers** target a narrower subset within it.
 
 ## Slayer Groups at a Glance
 
-| Group         | Super Slayer    | Sub-Slayers                                                                                            | Opposition Group | Drops From                                                                                                                                                                                                                                                                                                                             |
-|---------------|-----------------|--------------------------------------------------------------------------------------------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Humanoid**  | Repond          | Ogre Trashing, Orc Slaying, Troll Slaughter                                                            | Undead           | Bone Knight, Lich, Lich Lord, Ancient Lich, Bone Magi, Mummy, Skeletal Mage                                                                                                                                                                                                                                                            |
-| **Undead**    | Silver          | _(none)_                                                                                               | Humanoid         | Arctic OgreLord, Cave Troll, Mountain Troll, Evil Mage Lord, Titan, Pirate Bartender, Pirate Captain, Executioner                                                                                                                                                                                                                      |
-| **Elemental** | Elemental Ban   | Blood Drinking, Earth Shatter, Elemental Health, Flame Dousing, Summer Wind, Vacuum, Water Dissipation | Abyss            | Balron, Daemon, Fire Gargoyle, Gargoyle, Ice Fiend, Imp, Semidar, Stone Gargoyle, Succubus                                                                                                                                                                                                                                             |
-| **Abyss**     | Exorcism        | Daemon Dismissal, Gargoyles Foe, Balron Damnation                                                      | Elemental, Fey   | Agapite Elemental, Air Elemental, Blood Elemental, Bronze Elemental, Copper Elemental, Crystal Elemental, Dull Copper Elemental, Earth Elemental, Efreet, Fire Elemental, Golden Elemental, Ice Elemental, Kaze Kemono, Poison Elemental, Shadow Iron Elemental, Snow Elemental, Valorite Elemental, Verite Elemental, Water Elemental |
-| **Arachnid**  | Arachnid Doom   | Scorpions Bane, Spiders Death, Terathan                                                                | Reptilian        | Ancient Wyrm, Greater Dragon, Dragon, Ophidian Matriarch, Shadow Wyrm, Deep Sea Serpent, Drake, Ice Serpent, Wyvern, Silver Serpent, Sea Serpent, Ophidian Archmage, Ophidian Knight, Ophidian Mage, Ophidian Warrior, Serpentine Dragon, White Wyrm                                                                                   |
-| **Reptilian** | Reptilian Death | Dragon Slaying, Lizardman Slaughter, Ophidian, Snakes Bane                                             | Arachnid         | Terathan Avenger, Terathan Matriarch, Dread Spider, Mephitis, Terathan Warrior                                                                                                                                                                                                                                                         |
-| **Fey**       | Fey             | _(none)_                                                                                               | Abyss            | Balron, Daemon, Fire Gargoyle, Gargoyle, Ice Fiend, Imp, Semidar, Stone Gargoyle, Succubus                                                                                                                                                                                                                                             |
+| Group         | Super Slayer    | Minor-Slayers                                                                                            | Opposition Group | Drops From                                                                                                                                                                                                                                                                                                                    |
+|---------------|-----------------|--------------------------------------------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Humanoid**  | Repond          | Ogre Trashing, Orc Slaying, Troll Slaughter                                                            | Undead           | Ancient Lich, Bone Knight, Bone Mage, Lich, Lich Lord, Mummy, Skeletal Mage                                                                                                                                                                                                                                                   |
+| **Undead**    | Silver          | _(none)_                                                                                               | Humanoid         | Arctic Ogre Lord, Cave Troll, Evil Mage Lord, Executioner, Mountain Troll, Pirate Bartender, Pirate Captain, Titan                                                                                                                                                                                                            |
+| **Elemental** | Elemental Ban   | Blood Drinking, Earth Shatter, Elemental Health, Flame Dousing, Summer Wind, Vacuum, Water Dissipation | Abyss            | Balron, Daemon, Fire Gargoyle, Gargoyle, Ice Fiend, Imp, Semidar, Stone Gargoyle, Succubus                                                                                                                                                                                                                                    |
+| **Abyss**     | Exorcism        | Daemon Dismissal, Gargoyles Foe, Balron Damnation                                                      | Elemental, Fey   | Agapite Elemental, Air Elemental, Blood Elemental, Bronze Elemental, Copper Elemental, Dull Copper Elemental, Earth Elemental, Efreet, Fire Elemental, Golden Elemental, Ice Elemental, Poison Elemental, Shadow Iron Elemental, Snow Elemental, Valorite Elemental, Verite Elemental, Water Elemental                        |
+| **Arachnid**  | Arachnid Doom   | Scorpions Bane, Spiders Death, Terathan                                                                | Reptilian        | Ancient Wyrm, Deep Sea Serpent, Dragon, Drake, Ice Serpent, Ophidian Apprentice Mage, Ophidian Avenger, Ophidian Enforcer, Ophidian Justicar, Ophidian Knight-Errant, Ophidian Matriarch, Ophidian Shaman, Ophidian Warrior, Ophidian Zealot, Sea Serpent, Serpentine Dragon, Shadow Wyrm, Silver Serpent, White Wyrm, Wyvern |
+| **Reptilian** | Reptilian Death | Dragon Slaying, Lizardman Slaughter, Ophidian, Snakes Bane                                             | Arachnid         | Dread Spider, Mephitis, Terathan Avenger, Terathan Matriarch, Terathan Warrior                                                                                                                                                                                                                                                |
+| **Fey**       | Fey             | _(none)_                                                                                               | Abyss            | Balron, Daemon, Fire Gargoyle, Gargoyle, Ice Fiend, Imp, Semidar, Stone Gargoyle, Succubus                                                                                                                                                                                                                                    |
 
 ## The Two Slayer Tiers
 
@@ -37,11 +37,14 @@ This list outlines every slayer and the specific monsters that take increased da
     ???+ note "Click to collapse"
 
         - Arctic Ogre Lord
+        - Barracoon
+        - Brigand
         - Cave Troll
         - Cyclopean Warrior
         - Ettin
         - Evil Mage
         - Evil Mage Lord
+        - Executioner
         - Frost Troll
         - Mountain Troll
         - Ogre
@@ -86,6 +89,7 @@ This list outlines every slayer and the specific monsters that take increased da
 
         - Cave Troll
         - Frost Troll
+        - Mountain Troll
         - Troll
 
 ### Undead
@@ -94,12 +98,15 @@ This list outlines every slayer and the specific monsters that take increased da
 
     ???+ note "Click to collapse"
 
+        - Ancient Lich
+        - Bogle
         - Bone Knight
         - Bone Mage
         - Ghoul
         - Lich
         - Lich Lord
         - Mummy
+        - Neira
         - Rotting Corpse
         - Shade
         - Skeletal Knight
@@ -199,14 +206,18 @@ This list outlines every slayer and the specific monsters that take increased da
 
     ???+ note "Click to collapse"
 
+        - Arcane Daemon
         - Balron
+        - Chaos Daemon
         - Daemon
+        - Enslaved Gargoyle
         - Fire Gargoyle
         - Gargoyle
         - Gargoyle Destroyer
         - Gargoyle Enforcer
         - Ice Fiend
         - Imp
+        - Semidar
         - Stone Gargoyle
         - Summoned Daemon
 
@@ -214,16 +225,20 @@ This list outlines every slayer and the specific monsters that take increased da
 
     ???+ note "Click to collapse"
 
+        - Arcane Daemon
         - Balron
+        - Chaos Daemon
         - Daemon
         - Ice Fiend
         - Imp
+        - Semidar
         - Summoned Daemon
 
 === "Gargoyle's Foe"
 
     ???+ note "Click to collapse"
 
+        - Enslaved Gargoyle
         - Fire Gargoyle
         - Gargoyle
         - Gargoyle Destroyer
@@ -244,7 +259,6 @@ This list outlines every slayer and the specific monsters that take increased da
 
         - Dread Spider
         - Frost Spider
-        - Giant Black Widow
         - Giant Spider
         - Mephitis
         - Scorpion
@@ -265,7 +279,6 @@ This list outlines every slayer and the specific monsters that take increased da
 
         - Dread Spider
         - Frost Spider
-        - Giant Black Widow
         - Giant Spider
         - Mephitis
 
@@ -289,7 +302,7 @@ This list outlines every slayer and the specific monsters that take increased da
         - Dragon
         - Drake
         - Giant Ice Serpent
-        - Giant Serpent
+        - Giant Snake
         - Ice Snake
         - Lava Serpent
         - Lava Snake
@@ -303,6 +316,7 @@ This list outlines every slayer and the specific monsters that take increased da
         - Ophidian Shaman
         - Ophidian Warrior
         - Ophidian Zealot
+        - Rikktor
         - Sea Serpent
         - Serpentine Dragon
         - Shadow Wyrm
@@ -318,6 +332,7 @@ This list outlines every slayer and the specific monsters that take increased da
         - Ancient Wyrm
         - Dragon
         - Drake
+        - Rikktor
         - Serpentine Dragon
         - Shadow Wyrm
         - White Wyrm
@@ -349,7 +364,7 @@ This list outlines every slayer and the specific monsters that take increased da
 
         - Deep Sea Serpent
         - Giant Ice Serpent
-        - Giant Serpent
+        - Giant Snake
         - Ice Snake
         - Lava Serpent
         - Lava Snake

@@ -5,6 +5,8 @@ hide:
 
 # Trinsic: Honor Reforged
 
+![image](../../assets/screenshots/trinsic-banner.png){ .right-img }
+
 Before the war, Trinsic stood as one of Britannia's proudest cities, its battlements guarding a jewel of civilization along the southern coast. The town was built on honor, and its people lived by that virtue in everything they did.
 
 When the invasion came, Trinsic refused to break. Its walls held against wave after wave of attackers through sheer discipline and strength of will. Paladins fought alongside common folk, shield to shield, determined to prevail or die trying. For a time, it seemed the city might actually survive the war intact.

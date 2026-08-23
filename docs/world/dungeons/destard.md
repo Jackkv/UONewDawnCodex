@@ -1,44 +1,48 @@
 # Destard
 
-A dungeon featuring majestic and fearsom dragons and wyrms.
+## Dungeon Dye
 
-## Overview
+Monsters inside a dungeon have a rare chance to drop a [Dungeon Dye Material](../../custom-systems/dungeon-dyes.md), each dungeon has its own dye.
 
-Destard is a legendary dungeon near Skara Brae, known as the home of dragons. Home to the Rikktor champion spawn. It is a popular location for the bravest of adventurers.
+| Dye Material      | Dye Name           | Hue                               |
+|-------------------|--------------------|-----------------------------------|
+| Dragon Blood Opal | Dragon's Scale Red | [2139](../../hues/hue.md?id=2139) |
 
-## Levels
+## Entrance
 
-### Level 1
+![image](../../assets/screenshots/destard-entrance.png)
 
-- **Creatures:** Dragons, drakes, wyverns, giant serpents, water elementals
-- **Difficulty:** Hard
+Coordinates 1176, 2637.
 
-### Level 2
+## Level 1
 
-- **Creatures:** Shadow wyrms, drakes, wyverns, daemons, evil mages
-- **Difficulty:** Very hard
+![image](../../assets/screenshots/destard-lvl-1.png)
 
-### Level 3
+|                                 Mobs                                 |                                                              |                                                    |
+|:--------------------------------------------------------------------:|:------------------------------------------------------------:|:--------------------------------------------------:|
+|          ![icon](../../assets/mobiles/dragon.png)<br>Dragon          |       ![icon](../../assets/mobiles/drake.png)<br>Drake       | ![icon](../../assets/mobiles/wyvern.png)<br>Wyvern |
+| ![icon](../../assets/mobiles/water-elemental.png)<br>Water Elemental | ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Snake |                                                    |
 
-- **Creatures:** Ancient wyrm, wyverns, giant serpents, fire elemental
-- **Difficulty:** Very hard
+### Rikktor
 
-## Notable Features
+![image](../../assets/mobiles/rikktor.png)
 
-- Near Skara Brae (convenient)
-- Good gold per hour
-- Home of dragons
-- Rikktor champion spawn
-- Treasure chest spawns
+Destard is the home of the [Rikktor](../champions/rikktor.md) champion.
 
-## Tips
+## Level 2
 
-!!! tip "Destard Strategy"
-    - Excellent for bard farming
-    - Good gold from dragons
-    - Careful of firebreaths
-    - Popular farming and PK spot
+![image](../../assets/screenshots/destard-lvl-2.png)
 
----
+|                        Mobs                        |                                                              |
+|:--------------------------------------------------:|:------------------------------------------------------------:|
+| ![icon](../../assets/mobiles/daemon.png)<br>Daemon | ![icon](../../assets/mobiles/shadow-wyrm.png)<br>Shadow Wyrm |
+|  ![icon](../../assets/mobiles/drake.png)<br>Drake  |   ![icon](../../assets/mobiles/evil-mage.png)<br>Evil Mage   |
 
-**Beware Destard: here there be dragons!**
+## Level 3
+
+![image](../../assets/screenshots/destard-lvl-3.png)
+
+|                                Mobs                                |                                                              |
+|:------------------------------------------------------------------:|:------------------------------------------------------------:|
+|   ![icon](../../assets/mobiles/ancient-wyrm.png)<br>Ancient Wyrm   |      ![icon](../../assets/mobiles/wyvern.png)<br>Wyvern      |
+| ![icon](../../assets/mobiles/fire-elemental.png)<br>Fire Elemental | ![icon](../../assets/mobiles/giant-snake.png)<br>Giant Snake |

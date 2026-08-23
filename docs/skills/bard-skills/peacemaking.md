@@ -1,4 +1,4 @@
-![Peacemaking](../../assets/flags/flag-peacemaking.gif){ align=right }
+![Peacemaking](../../assets/flags/flag-peacemaking.png){ align=right }
 
 # Peacemaking
 
@@ -17,8 +17,6 @@ Train from Bard NPCs to reach around 50.
 Peacemaking can be used on a 10 seconds cooldown, it doesn't have any difficulty checks. Just use it until you reach 100.
 
 To be more efficient, you can gain Peacemaking and Musicianship at the same time.
-
-While training this skill you can also gain Intelligence and Dexterity.
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

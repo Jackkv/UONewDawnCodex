@@ -2,140 +2,116 @@
 
 New Dawn builds upon the classic Ultima Online foundation with unique systems that create fresh gameplay experiences while maintaining the spirit of the original game. These custom features distinguish New Dawn from other UO servers and provide new challenges for veterans and newcomers alike.
 
-## Overview
+## [Achievement System](achievements.md)
 
-While New Dawn preserves the core UO experience players know and love, it introduces several custom systems designed to enhance gameplay, encourage exploration, and create new opportunities for adventure and progression. These systems have been carefully balanced and refined through dozens of patches based on player feedback.
+Track your accomplishments through New Dawn's comprehensive Achievement system. Complete challenges, reach milestones, and unlock exclusive titles.
 
-## Custom Content
-### [Codex Rifts](codex-rifts.md)
+For more information visit the [Achievements](achievements.md) page.
 
-Hunt colored, buffed rift spawns across Britannia — kill one and a gate may tear open at its corpse. Players within 16 tiles step through into an instanced Felucca battlefield where 4 waves of creatures stand between them and a powerful Rift Master boss.
+## [Spirit Summoner](spirit-summoner.md)
 
-**Key Features:**
+The Spirit Summoner is a unique mage archetype that combines Magery with Spirit Speak.
 
-- Rift spawn gate chance: 1%–50% based on creature fame; gate closes after 45 seconds
-- 8 rift locations (Yew, Moonglow, Britain, Jhelom, Vesper, Minoc, Trinsic, Skara Brae), 3 active at a time
-- Four waves per rift culminating in a unique Rift Master boss
-- 60-minute player time limit; Recall, Mark, Gate, and Teleport blocked inside
-- Rift Shards from boss (up to 5, scaled by damage) and random mob drops
+Spirit Speak passively enhances your Magery summons, making them last longer and harder to dispel.
 
-### [Pirate Adventures](pirate-adventures.md)
+Animal Lore boosts your summons, increasing their stats.
 
-Restore deteriorating pirate maps found in Ship's Strongboxes, then activate them to open a gate to one of four instanced pirate encounters. Clear the pirates, defeat the boss, and claim the locked reward chest for gold, magic items, and doubloons.
+For more information visit the [Spirit Summoner](spirit-summoner.md) page.
 
-**Key Features:**
+## [Codex Rifts](codex-rifts.md)
 
-- Four distinct instances: Hideaway, Lighthouse, Treasure Cave, and Tomb
-- Unique bosses: Captain Dreadstorm, Ancient Drowner, Captain Grimjaw, Ancient Pirate Mummy
-- Maps must be restored with a Bottle of Vinegar (90 Cartography required)
-- Locked reward chest with key awarded to the map activator
-- Spend doubloons at the Buccaneer's Bazaar (Captain Marrow)
+Rift Spawns are enhanced versions of normal monsters that can appear in place of regular creatures.
+
+Defeating one may open a Rift Gate, giving players access to the Rift, which is a shared instance with other players.
+
+Once inside, you have sixty minutes to fight through champion spawns and their bosses. Any monster in the Rift has a small chance to award Rift Shards, while bosses will always award them as long as you contributed enough damage.
+
+Each champion spawn progresses through three tiers, and completing all three will summon the boss.
+
+Monsters can also drop Codex fragments, used to craft [Codex Bindings](../skills/crafting/alchemy.md#codex-binding), which are then used to bless Runebooks.
+
+Rift Shards can be exchanged for rewards.
+
+For more information visit the [Codex Rifts](codex-rifts.md) page.
+
+## [Pirate Adventures](pirate-adventures.md)
+
+To begin a Pirate Adventure, players must first obtain a pirate map, which can drop from Ancient Sea Serpents or appear inside Strongboxes recovered from Enraged Krakens.
+
+Once a map is found, it must be cleaned with a Bottle of Vinegar by a Cartographer before it becomes usable.
+
+After the map is restored, double‑clicking it will open a gate that leads directly into the adventure instance. Inside, players have sixty minutes to clear the map and defeat its boss.
+
+Defeating the boss will award Doubloons.
+
+Doubloons can be exchanged for rewards.
+
+For more information visit the [Pirate Adventures](pirate-adventures.md) page.
+
+## [Archaeology System](archaeology.md)
+
+Uncover lost artifacts and treasures from Britannia's forgotten past through the Archaeology system.
+
+Decode clues that drop throughout the world, locate dig sites hidden in the coordinates embedded in the clue text, and excavate using three specialized tools to reveal what lies beneath.
+
+For more information visit the [Archaeology](archaeology.md) page.
+
+## [Dungeon of the Week](dotw.md)
+
+Each week four random dungeons have a special bonus applied to them.
+
+More slayers, gold, dungeon dyes, monster statues, higher chance of rift spawns and more.
+
+For more information visit the [Dungeon of the Week](dotw.md) page
+
+## [Dungeon Dyes](dungeon-dyes.md)
+
+Every dungeon in Britannia leaves its mark on those who spend enough time within its depths.
+
+Monsters slain inside a dungeon have a rare chance to drop a Dungeon Dye Material.
+
+Collect enough material, load it into a Tailor Dye Kit, and you can craft a dye bottle that permanently colors clothing in that dungeon signature hue.
+
+For more information visit the [Dungeon Dyes](dungeon-dyes.md) page.
+
+## Battlegrounds
 
 ### [Capture the Flag](capture-the-flag.md)
 
-Engage in classic team-based PvP battles in this 10v10 structured combat system. Coordinate with your team to capture the enemy flag while defending your own in intense 20-minute matches.
+Two teams of pirates race to steal the enemy flag and bring it back to their base, while defending their own flag from being taken.
 
-**Key Features:**
+At the end of each match, every participant receives War Tokens based on their individual points, with the winning team earning a small bonus.
 
-- Teams of 3v3 up to 10v10 battle
-- Two unique maps
-- Earn war tokens to spend in a unique rewards shop
-- Player initiated games 
-- Individual stat tracking
-- Point-based scoring system
+War Tokens can be exchanged for rewards.
 
-### [Archaeology System](archaeology.md)
+For more information visit the [Capture the Flag](capture-the-flag.md) page.
 
-Decode clues dropped by monsters to reveal dig site coordinates, then excavate in three tool stages across active ruins in Britain and Moonglow. Higher skills improve both success rates and your chance of finding something valuable.
+### [Conquest](conquest.md)
 
-**Key Features:**
+Take control of key positions across a contested battleground, hold them against the enemy, and bleed their tickets dry before yours run out.
 
-- Five clue types: map fragments, expedition notes, journal pages, book pages, digging permits
-- Decoded using Cartography (map fragments) or Inscription (all others) — requires 70+ skill
-- Three-stage excavation: Shovel (Mining 80+) → Pick Hammer (Mining 90+) → Brush (Item ID 80+)
-- Find chance scales with Mining, Cartography, Item ID, and hidden clue quality (max 75%)
-- Active dig regions: Britain and Moonglow (Minoc, Trinsic, Yew planned)
+Conquest is an objective-based team PvP mode inspired by such game modes as Battlefield's Conquest mode or WoW's Arathi Basin.
 
-### [Dungeon Dyes](dungeon-dyes.md)
+At the end of each match, every participant receives War Tokens based on their individual points, with the winning team earning a small bonus.
 
-Kill monsters deep inside Britannia's dungeons to collect rare materials, each unique to its dungeon. Load 250 materials into a Tailor's Dye Kit, add an empty bottle, and craft a permanent clothing dye in that dungeon's signature color.
+War Tokens can be exchanged for rewards.
 
-**Key Features:**
+For more information visit the [Conquest](conquest.md) page.
 
-- Nine dungeons, nine unique dyes: Covetous to Ice
-- Materials drop from any non-controlled creature killed in the matching dungeon
-- 250 materials + 1 empty bottle per dye crafted from the kit's context menu
-- Dye applies permanently to clothing in your backpack; bottle is consumed
-- Tailor's Dye Kit is blessed and tracks all nine material types independently
-
-### [Dungeon of the Week](dotw.md)
-
-Venture into one of four active dungeons across Britannia enhanced with special bonuses. Each week four out of five possible dungeon bonuses will be applied to four random dungeons. Take advantage while you can.
-
-**Key Features:**
-
-- **Boon of the Slayer** — Higher chance creatures drop slayer weapons or instruments
-- **Gold Rush** — Creatures drop more gold and loot this week
-- **Collector's Week** — Creatures have a rare chance to drop statue and dye material
-- **Rift Surge** — Rift shards, rift spawns, and rift gates have a higher chance to drop
-- **Scholar's Week** — Skill gains are enhanced this week
-- Kill enough activated mobs and the mighty dragon Dracothraxus will appear 
-
-### [Spirit Summoner](spirit-summoner.md)
-
-Combine Magery and Spirit Speak to unlock a fundamentally different summoning experience. Spirit Summoners draw from a unique pool of 5th circle spirit creatures, receive dramatically enhanced 8th circle summons, and gain dispel resistance and bonus healing that scale with Spirit Speak — while Animal Lore multiplies the raw power of every summon.
-
-**Key Features:**
-
-- Qualification: Spirit Speak ≥ 50 and Spirit Speak ≥ Magery
-- 5th circle spirit creature pool: Polar Bear, Panther, Giant Serpent, Imp, Spiritual Soul, Scorpion, Dire Wolf, Giant Spider
-- 8th circle summons boosted by +35% stats/skills at GM Animal Lore (scaler: `0.35 × AL/100`)
-- Summon duration scales with Spirit Speak: 6–10 minutes (50–100 SS)
-- Dispel resistance: up to 50% vs players, 80% vs NPC auto-dispel, 99% vs NPC-cast dispel
-- Bonus healing on spirit summons: up to +50% at GM Spirit Speak
-
-### [Ship Holds](ship-holds.md)
+## [Ship Holds](ship-holds.md)
 
 On New Dawn, ships aren't simply ways to fish or get to an island. Here, they are your _home away from home_.
 
-**Key Features:**
+Single-click your ship hold to enter a little private area where you can store items and safely log out.
 
-- Each ship is assigned a hold when placed, accessible via single-click while anchored
-- Holds have a max weight and item count, viewable from the ship model inside the hold
-- Decorate your hold using the ship model decorator tool
-- Items in your ship's hold do not decay
-- Use your bunk bed to initiate a quick 30-second logout
-- Anyone who can board your ship can access and loot your hold — keep valuables in a house or bank
+For more information visit the [Ship Holds](ship-holds.md) page.
 
-### [Achievement System](achievements.md)
+## [Beekeeping](beekeeping.md)
 
-Track your accomplishments and earn rewards through a comprehensive achievement system covering various gameplay aspects from combat to exploration to crafting.
+The Beekeeping system fits naturally alongside [Gardening](../game-mechanics/gardening.md).
 
-**Key Features:**
+You'll produce Honey to fill orders and earn Apiary Marks, which can be exchanged for various rewards.
 
-- Point-based progression
-- Multiple achievement categories
-- Exclusive titles
-- Long-term goals and milestones
+You can also refine Wax and craft a range of candles, adding a touch of craftsmanship to your apiary work.
 
-## Integration with Classic Systems
-
-These custom systems are designed to complement, not replace, the classic Ultima Online experience. They provide additional content and goals while maintaining compatibility with traditional gameplay styles. Whether you're a PvM enthusiast, PvP fighter, crafter, or explorer, New Dawn's custom systems offer something new to discover.
-
-## Continuous Development
-
-### Coming Soon
-
-#### [Conquest of the Virtues](conquest-of-virtues.md)
-
-Order and Chaos guilds battle over four ruined locations across Britannia in automated 60-minute ticket-based PvP matches. Control more capture points than the enemy to drain their tickets — first faction to zero loses.
-
-**Key Features:**
-
-- Four ruins, each with 3–5 capture points and independent 4-hour rotation timers
-- 400 tickets per faction; deaths and capture point pressure drain tickets
-- Physical flags that rise as capture progresses
-- Auto-respawn system with full heal and debuff clear
-- Live scoreboard with per-player Kill/Death/Capture stats
-
-New Dawn's custom systems are regularly updated and refined based on player feedback and testing. Check the [patch notes](../patches/index.md) for the latest changes and improvements to these systems.
+For more information visit the [Beekeeping](beekeeping.md) page.

@@ -1,4 +1,4 @@
-![Taste Identification](../../assets/flags/flag-taste-identification.gif){ align=right }
+![Taste Identification](../../assets/flags/flag-taste-identification.png){ align=right }
 
 # Taste Identification
 
@@ -13,8 +13,6 @@ You can also identify the quality of Honey and the type of Beeswax.
 Taste Identification can be used on a 1 second cooldown, it doesn't have any difficulty checks.
 
 Repeatedly Taste ID the same potion until reaching 100.
-
-While training this skill you can also gain Intelligence and Dexterity.
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

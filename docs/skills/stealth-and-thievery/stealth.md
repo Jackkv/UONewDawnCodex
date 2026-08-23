@@ -1,4 +1,4 @@
-![Stealth](../../assets/flags/flag-stealth.gif){ align=right }
+![Stealth](../../assets/flags/flag-stealth.png){ align=right }
 
 # Stealth
 
@@ -58,8 +58,6 @@ Stealth can be used on a 10 seconds cooldown, wear the right amount of armor rat
 | 78 - 82  | 12      |
 | 82 - 90  | 13      |
 | 90 - 100 | 14      |
-
-While training this skill you can also gain Dexterity and Intelligence.
 
 While training this skill you can also gain Dexterity (primary) and Intelligence (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 
