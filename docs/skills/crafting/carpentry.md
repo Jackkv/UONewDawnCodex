@@ -140,6 +140,13 @@ These are all of the furniture, containers, instruments etc. you can craft.
     |  ![icon](../../assets/items/water-trough-east.png)<br>Water Trough (east)  |       150 Boards or Logs        |   no    |          94.7 Carpentry          |
     | ![icon](../../assets/items/water-trough-south.png)<br>Water Trough (south) |       150 Boards or Logs        |   no    |          94.7 Carpentry          |
 
+## Runic saws
+
+Runic Saws are obtained through BOD rewards, the enchantments only apply to weapons.
+
+!!! warning
+    Section under construction.
+
 ## Masonry
 
 To learn Masonry, you will need the Masonry book and the four missing pages.
