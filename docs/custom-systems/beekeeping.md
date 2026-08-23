@@ -172,6 +172,14 @@ With the slumgum removed, the rendered wax can be poured into ingots or moulds, 
 !!! Tip
     Rendering takes time over the heat. Make sure you have a steady fire and don't wander too far from the pot.
 
+### Wax types
+
+Currently all wax types are treated the same whenever wax is required, and slumgum is simply a byproduct with no current use.
+
+|                           Wax type                            |                                                         |                                                           |                                                               |                                                           |                     Slumgum                     |
+|:-------------------------------------------------------------:|:-------------------------------------------------------:|:---------------------------------------------------------:|:-------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------:|
+| ![icon](../assets/items/common-beeswax.png)<br>Common Beeswax | ![icon](../assets/items/raw-beeswax.png)<br>Raw Beeswax | ![icon](../assets/items/fine-beeswax.png)<br>Fine Beeswax | ![icon](../assets/items/virgin-beeswax.png)<br>Virgin Beeswax | ![icon](../assets/items/pure-beeswax.png)<br>Pure Beeswax | ![icon](../assets/items/slumgum.png)<br>Slumgum |
+
 ## Honey orders
 
 To get a Honey Order, single‑click the Beekeeper NPC in Occlo at coordinates 3694, 2544
