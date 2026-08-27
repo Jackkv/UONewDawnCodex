@@ -89,7 +89,9 @@ This table shows the Armor Rating for each shield type.
 
 ## Shield Bash
 
-Double‑click on your shield to activate the Shield Bash ability.
+Shield Bash requires at least 80 Parrying and 80 Anatomy.
+
+Double‑click on your shield to activate the ability.
 
 If active when you get hit, you will be able to absorb Fire Breath damage.
 
@@ -114,3 +116,4 @@ While training this skill you can also gain Strength (primary) and Dexterity (se
 - [Swordsmanship](swordsmanship.md)
 - [Mace Fighting](mace-fighting.md)
 - [Fencing](fencing.md)
+- [Anatomy](anatomy.md)
