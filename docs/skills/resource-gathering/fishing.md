@@ -43,6 +43,7 @@ This table shows what can be fished up.
     |             ![icon](../../assets/items/blue-tang.png)<br>Blue Tang             |
     | ![icon](../../assets/items/blue-spotted-stingray.png)<br>Blue-Spotted Stingray |
     |   ![icon](../../assets/items/blue-yellow.chromis.png)<br>Blue/Yellow Chromis   |
+    |           ![icon](../../assets/items/brook-trout.png)<br>Brook Trout           |
     |      ![icon](../../assets/items/cherub-angelfish.png)<br>Cherub Angelfish      |
     |     ![icon](../../assets/items/clown-triggerfish.png)<br>Clown Triggerfish     |
     |             ![icon](../../assets/items/clownfish.png)<br>Clownfish             |
@@ -50,6 +51,8 @@ This table shows what can be fished up.
     |            ![icon](../../assets/items/cuttlefish.png)<br>Cuttlefish            |
     |     ![icon](../../assets/items/emperor-angelfish.png)<br>Emperor Angelfish     |
     |          ![icon](../../assets/items/fiddler-crab.png)<br>Fiddler Crab          |
+    |         ![icon](../../assets/items/green-catfish.png)<br>Green Catfish         |
+    |               ![icon](../../assets/items/haddock.png)<br>Haddock               |
     |        ![icon](../../assets/items/horseshoe-crab.png)<br>Horseshoe Crab        |
     |             ![icon](../../assets/items/jellyfish.png)<br>Jellyfish             |
     |      ![icon](../../assets/items/leafy-sea-dragon.png)<br>Leafy Sea Dragon      |
@@ -58,10 +61,13 @@ This table shows what can be fished up.
     |  ![icon](../../assets/items/orange-butterflyfish.png)<br>Orange Butterflyfish  |
     |     ![icon](../../assets/items/orange-damselfish.png)<br>Orange Damselfish     |
     |        ![icon](../../assets/items/orange-percula.png)<br>Orange Percula        |
+    |                  ![icon](../../assets/items/pike.png)<br>Pike                  |
     |             ![icon](../../assets/items/pipe-fish.png)<br>Pipe Fish             |
     |            ![icon](../../assets/items/pufferfish.png)<br>Pufferfish            |
     |          ![icon](../../assets/items/red-lionfish.png)<br>Red Lionfish          |
+    |             ![icon](../../assets/items/red-snook.png)<br>Red Snook             |
     |              ![icon](../../assets/items/seahorse.png)<br>Seahorse              |
+    |                  ![icon](../../assets/items/shad.png)<br>Shad                  |
     |           ![icon](../../assets/items/spider-crab.png)<br>Spider Crab           |
     |         ![icon](../../assets/items/spiny-lobster.png)<br>Spiny Lobster         |
     |       ![icon](../../assets/items/spotted-grouper.png)<br>Spotted Grouper       |

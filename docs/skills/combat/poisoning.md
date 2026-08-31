@@ -51,8 +51,7 @@ Poisoning can be trained from Thief NPCs.
 |----------|-----------------|
 | 0 - 30   | Train from NPCs |
 | 30 - 60  | Poison          |
-| 60 - 97  | Greater poison  |
-| 97 - 100 | Deadly poison   |
+| 60 - 100 | Greater poison  |
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
 

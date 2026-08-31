@@ -8,9 +8,9 @@ Each champion rewards a different skull, all six are required to summon [The Har
 
 ## Location
 
-![image](../../assets/screenshots/mephitis-location.png)
+![image](../../assets/screenshots/blighted-grove-lvl-1.png)
 
-The Mephitis altar can be found near New Minoc at these coordinates 2455, 485
+The Mephitis altar can be found on the first level of the [Blighted Grove](../dungeons/blighted-grove.md) dungeon.
 
 ## Activation
 

@@ -94,7 +94,7 @@ These are all of the furniture, containers, instruments etc. you can craft.
     |    ![icon](../../assets/items/large-bed-east.png)<br>Large Bed  (east)     |  150 Boards or Logs<br>150 Cloth  |   no    | 94.7 Carpentry<br>75.0 Tailoring |
     |   ![icon](../../assets/items/dartboard-south.png)<br>Dart Board (south)    |         5 Boards or Logs          |   no    |          15.7 Carpentry          |
     |    ![icon](../../assets/items/dartboard-east.png)<br>Dart Board (east)     |         5 Boards or Logs          |   no    |          15.7 Carpentry          |
-    |          ![icon](../../assets/items/ballot-box.png)<br>Ballot Box          |         10 Boards or Logs         |   no    |          47.3 Carpentry          |
+    |          ![icon](../../assets/items/ballot-box.png)<br>Ballot Box          |         5 Boards or Logs          |   no    |          47.3 Carpentry          |
     |           ![icon](../../assets/items/pentagram.png)<br>Pentagram           |  100 Boards or Logs<br>40 Ingots  |   no    |  100.0 Carpentry<br>75.0 Magery  |
     |            ![icon](../../assets/items/abattoir.png)<br>Abattoir            |  100 Boards or Logs<br>40 Ingots  |   no    |  100.0 Carpentry<br>50.0 Magery  |
     |        ![icon](../../assets/items/water-barrel.png)<br>Water Barrel        | 5 Barrel Staves<br>2 Barrel Hoops |   no    |          57.8 Carpentry          |

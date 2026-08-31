@@ -10,4 +10,10 @@ Coordinates 588, 1639.
 
 ![image](../../assets/screenshots/blighted-grove-lvl-1.png)
 
-The dungeon itself has no monsters. Instead, it features a champion altar that can activate a random champion spawn.
+The dungeon itself has no monsters.
+
+### Mephitis
+
+![image](../../assets/mobiles/mephitis.png)
+
+Blighted Grove is the home of the [Mephitis](../champions/mephitis.md) champion.
