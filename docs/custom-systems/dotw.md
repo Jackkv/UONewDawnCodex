@@ -86,11 +86,11 @@ This table shows which monsters drop their statue during Collector's Week.
 
 Rift shards, rift spawns, and rift gates have a higher chance to appear.
 
-| Tier                  | Kills       | Effect                                                                                 |
-|-----------------------|-------------|----------------------------------------------------------------------------------------|
-| Tier 1 - Shard Bounty | 0 kills     | Rift Monster kills grant 2 bonus Rift Shards.                                          |
-| Tier 2 - Open Gates   | 2,500 kills | Rift gate spawn min/max chances are widened.                                           |
-| Tier 3 - Convergence  | 5,000 kills | Per-kill bonus shard chance is active, and rift-spawn conversion chance is multiplied. |
+| Tier                  | Kills       | Effect                                                                                                      |
+|-----------------------|-------------|-------------------------------------------------------------------------------------------------------------|
+| Tier 1 - Shard Bounty | 0 kills     | Rift Monster kills grant one Rift Shard.                                                                    |
+| Tier 2 - Open Gates   | 2,500 kills | Rift gate spawn min/max chances are widened.                                                                |
+| Tier 3 - Convergence  | 5,000 kills | Normal monster kills have a chance of granting a rift shard.<br>Rift-spawn conversion chance is multiplied. |
 
 For more information visit the [Codex Rifts](codex-rifts.md) page.
 
