@@ -52,6 +52,7 @@ This table shows what can be fished up.
     |     ![icon](../../assets/items/emperor-angelfish.png)<br>Emperor Angelfish     |
     |          ![icon](../../assets/items/fiddler-crab.png)<br>Fiddler Crab          |
     |         ![icon](../../assets/items/green-catfish.png)<br>Green Catfish         |
+    |               ![icon](../../assets/items/haddock.png)<br>Haddock               |
     |        ![icon](../../assets/items/horseshoe-crab.png)<br>Horseshoe Crab        |
     |             ![icon](../../assets/items/jellyfish.png)<br>Jellyfish             |
     |      ![icon](../../assets/items/leafy-sea-dragon.png)<br>Leafy Sea Dragon      |
@@ -64,6 +65,7 @@ This table shows what can be fished up.
     |             ![icon](../../assets/items/pipe-fish.png)<br>Pipe Fish             |
     |            ![icon](../../assets/items/pufferfish.png)<br>Pufferfish            |
     |          ![icon](../../assets/items/red-lionfish.png)<br>Red Lionfish          |
+    |             ![icon](../../assets/items/red-snook.png)<br>Red Snook             |
     |              ![icon](../../assets/items/seahorse.png)<br>Seahorse              |
     |                  ![icon](../../assets/items/shad.png)<br>Shad                  |
     |           ![icon](../../assets/items/spider-crab.png)<br>Spider Crab           |
