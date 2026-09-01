@@ -87,6 +87,8 @@ For more information visit the [Codex Rifts](codex-rifts.md) page.
 
 Skill gains are enhanced inside the dungeon. The bonus builds up across tiers.
 
+Scholar's Week provides bonus gains to every skill, even crafting ones.
+
 | Tier                | Kills       | Effect                                             |
 |---------------------|-------------|----------------------------------------------------|
 | Tier 1 - Apprentice | 0 kills     | Skill gains are boosted by the base amount of 25%. |
