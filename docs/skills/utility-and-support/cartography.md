@@ -18,13 +18,26 @@ Use the skill on a blank map to choose its scale. Higher skill allows larger sca
 
 Double‑click the map you want to decode, if you can decode it, you will receive a map with a pin marking the treasure location within 30 tiles.
 
+This table shows the skill level required to attempt decoding.
+
+| Map Level |  Map Description  | Skill Level |
+|-----------|-------------------|-------------|
+|  Level 1  |   Plainly Drawn   |      0      |
+|  Level 2  |  Expertly Drawn   |     60      |
+|  Level 3  |   Adeptly Drawn   |     73      |
+|  Level 4  |  Cleverly Drawn   |     91      |
+|  Level 5  |  Deviously Drawn  |     99      |
+|  Level 6  | Ingeniously Drawn |    99.2     |
+
+For more information visit the [Treasure Hunting](../../game-mechanics/treasure-hunting.md) page.
+
 ## Deciphering clues
 
 70+ Cartography is required for deciphering map fragments, double-click it in your backpack to attempt to interpret it, failure doesn't consume the clue.
 
 It also gives you +10% artifact chance at 100.
 
-For more information visit the [Archaeology](../../custom-systems/archaeology.md) page
+For more information visit the [Archaeology](../../custom-systems/archaeology.md) page.
 
 ## Training
 
