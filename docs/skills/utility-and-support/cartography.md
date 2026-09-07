@@ -30,12 +30,12 @@ For more information visit the [Archaeology](../../custom-systems/archaeology.md
 
 Train from Mapmaker NPCs to reach around 50.
 
-| Skill      | Draw                               |
-|------------|------------------------------------|
-| 20 - 52    | Local Maps                         |
-| 52 - 65    | City Maps                          |
-| 65 - 67    | Sea Charts                         |
-| 67 - 99.5  | World Maps                         |
-| 99.5 - 100 | Level 2 - 4 Tattered Treasure Maps |
+| Skill      | Draw                   |
+|------------|------------------------|
+| 20 - 52    | Local Maps             |
+| 52 - 65    | City Maps              |
+| 65 - 67    | Sea Charts             |
+| 67 - 99.5  | World Maps             |
+| 99.5 - 100 | Level 4+ Treasure Maps |
 
 While training this skill you can also gain Intelligence (primary) and Dexterity (secondary). Visit the [stats](../../game-mechanics/character/stats.md) page to learn more.
